@@ -2,9 +2,9 @@
 layout:     post
 title:      "Praying Mantis"
 subtitle:   "Raw Nature"
-author:     "Sanothsh Krishnamoorthy"
+author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-20/1.jpg"
-tags:       ["Wildlife", "Macro Photography"]
+tags:       ["Wildlife Destinations", "Monsoon Destinations"]
 comments:   true
 ---
 
@@ -21,7 +21,6 @@ However, mantises do predate on their own kind. They are very opportunistic hunt
 A couple of weeks back, I witnessed  one such instance of an opportunistic hunting by a mantis. With numerous little mantises, there was a flurry of activity all around the flowering plants and they seemed to have hatched very recently. These little mantises were positioning themselves on the leaves in their typical ambush predator  style. At times I saw more than five little ones on the same leaf.  I wonder how they manage to communicate with each other and not get in each other's way. As the young ones were busy trying to hone up their hunting skills, there was an old guy ( do not know if it was a male or a female )who was on the prowl. This older one started edging close to one of the little ones. I had no idea what his intentions were. I thought it might just pass by or at the least, the little one might scamper away quickly. But things transpired to be quite different. The adult mantis immediately thrust at the young one and caught hold of it with its powerful forearms. And in an instant he bit off its head and started feeding on it. The young one was no match for the much bigger mantis.
 
 <img src="{{ site.baseurl}}/img/2015-06-20/2.jpg" alt="A large Praying mantis feeding on a smaller one">
-
 <img src="{{ site.baseurl}}/img/2015-06-20/3.jpg" alt="A large Praying mantis feeding on a smaller one">
 
 Having finished  the meal and was not done yet. After a short while, I saw him go after another mantis, slightly larger one this time.
