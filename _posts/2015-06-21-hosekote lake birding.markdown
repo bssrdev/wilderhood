@@ -36,7 +36,7 @@ After a bit more walking into the lake, we saw a huge flock of Little Stints set
 
 3. Fishes
 
-There were muddy bunts in the lake, separating water from one areas to the other, just like mini-dams. We noticed that the water was continuously disturbed like someone is shaking from inside. They were fish, in plenty. A lot of fishes were swimming through the water, pushing the muddy little walls, making ways and swimming to the other side of the lake. 
+There were muddy bunts in the lake, separating water from one areas to the other, just like mini-dams. We noticed that the water was continuously disturbed like someone is shaking from inside. They were fish, in plenty. A multitude of fishes were swimming through the water, pushing the muddy little walls, making ways and swimming to the other side of the lake. 
 
 <img src="{{ site.baseurl}}/img/2015-06-21/9.jpg" alt="Swimming through narrow water creeks">
 
