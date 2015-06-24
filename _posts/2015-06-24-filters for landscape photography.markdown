@@ -6,6 +6,7 @@ author:     "Shivakumar L Narayan"
 tags:       ["Landscape Photography"]
 comments:   true
 disable-header-img : true
+---
 
 <p>Ever wondered how all those waterfalls images have those smooth silky flow captured in them? Had trouble in capturing a good dynamic range image during a sunrise or a sunset? Wanted to cut down on the jazzy reflections off water and rocks when shooting seascapes or waterscapes? Always fantasized on rich colors in landscape images?</p>
 
