@@ -3,9 +3,9 @@ layout:     post
 title:      "Filters for Landscape photography"
 subtitle:   "A brief insight"
 author:     "Shivakumar L Narayan"
-tags:       ["Landscape Photography"]
+tags:       ["Tips and Tricks"]
 comments:   true
-disable-header-img : true
+header-img: "img/2015-04-18/img5.jpg"
 ---
 
 <p>Ever wondered how all those waterfalls images have those smooth silky flow captured in them? Had trouble in capturing a good dynamic range image during a sunrise or a sunset? Wanted to cut down on the jazzy reflections off water and rocks when shooting seascapes or waterscapes? Always fantasized on rich colors in landscape images?</p>
@@ -22,7 +22,7 @@ disable-header-img : true
 
 <p>We will detail some of the most commonly used filters in Landscape photography.</p>
 
-<p>Polarizer:</p>
+<h4>Polarizer:</h4>
 
 <p>This one is the most commonly used and one of my favorite pieces of glass that I take along for all landscape shoots. Polarizer is a filter which can be used to cut down on the reflections that come out of water or wet-rock surfaces. When shooting a seascape or a scene involving waterfall with rocks around – a Polarizer will come in very handy in cutting down those glaring highlights of the water. It serves the purpose as 1stop Neutral Density filter when required. Another main advantage of a Polarizer is GETTING RICH  and saturated colors of the scene. Polarizer basically gets hooked on to the front element of your lens and it comes in variety of thread sizes depending on the lens used. Rotating the polarizer front element will bring in the effect of cutting down reflection and increasing the saturation of the image and continuing to rotate will bring it back to the original state.</p>
 
@@ -31,7 +31,7 @@ disable-header-img : true
 <img src="{{ site.baseurl}}/img/2015-06-24/1.jpg" alt="">
 
 
-<p>Neutral Density Filter:</p>
+<h4>Neutral Density Filter:</h4>
 
 <p>Or sometimes even called as ND Filters are basically Square or Rectangular pieces of glass which comes rated in handy for cutting down the amount of light reaching the sensor of the camera. This helps us with handling high afternoon light or to increase the shutter duration for shooting seascapes and waterfalls. The ND filters comes in variety of ratings like 1-stop, 2-stop, 3-stop etc. These filters can also be stacked together for further reduction in the amount of light capture. Use of ND filters when shooting waterfalls can help you in getting in very lengthy shutter speeds, which will give you a smooth silky feel to the water.</p>
 
@@ -43,7 +43,7 @@ There is also a circular ND Filter available from SinghRay which is called a Var
 
 <img src="{{ site.baseurl}}/img/2015-06-24/2.jpg" alt="">
 
-<p>Graduated Neutral Density Filter:</p>
+<h4>Graduated Neutral Density Filter:</h4>
 
 <p>Or sometimes even called, as Graduated ND Filter or ND Grad Filters are also rectangular pieces of glass and is a modified version of the ND Filter. Instead of the entire filter cutting down the amount of light – only one half of the filter cuts down the light. The opacity tapers from top half to about mid level of the filter. ND Grad filters come in very handy when capturing images having both sky and land in the frame. The difference in the light intensity between the sky and the ground tends to reduce the overall contrast in the image and many times also reduces the details in the highlight or the sky region. ND Grad filter used appropriately can help us reduce the difference in the levels and there by increase the dynamic range of an image. ND Grads also comes in a variety of ratings like 1-stop, 2-stop, 3-stop etc. These filters too can be clubbed together for further reduction in the amount of light captured.</p>
 
@@ -57,7 +57,7 @@ There is also a circular ND Filter available from SinghRay which is called a Var
 
 <img src="{{ site.baseurl}}/img/2015-06-24/4.jpg" alt="">
 
-<p>Additional Info:</p>
+<h4>Additional Info:</h4>
 
 <p>Having said about the filters, there are two ways of using these filters (especially the ND Filter and ND Grad Filters).
 – Hold them in hand in front of the lens – which will actually give you a flexibility of using the filters and gives best results.
@@ -68,10 +68,12 @@ Filters can also be used in combination for better and creative results and is k
 
 <p>Below is a set of some of manufacturers links, which will give you the complete catalogue of filters available for various specific applications.</p>
 
-<p>•	SinghRay – http://www.singh-ray.com/
-•	Lee – http://www.leefilters.com/
-•	Cokin – http://www.cokin.com/
-•	Hoya – http://www.hoyafilter.com/
-•	B&W – http://www.schneideroptics.com/filters/bw.htm</p>
+<ul>
+	<li><a href="http://www.leefilters.com">Lee</a></li>
+	<li><a href="http://www.singh-ray.com">SinghRay</li>
+	<li><a href="http://www.cokin.com">Cokin</a></li>
+	<li><a href="http://www.hoyafilter.com">Hoya</a></li>
+	<li><a href="http://www.schneideroptics.com/filters/bw.htm">B&W</a></li>
+</ul>
 
-<p>I hope the above write-up helped you in getting an insight into the world of filters for Landscape photography.</p>
+<p><em>I hope the above write-up helped you in getting an insight into the world of filters for Landscape photography.</em></p>
