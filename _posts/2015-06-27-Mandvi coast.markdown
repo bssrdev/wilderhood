@@ -6,8 +6,8 @@ author:     "Vinodh Ve"
 header-img :"img/2015-06-27/2.jpg"
 tags:       ["Wildlfie Photography, "Birding Destinations, "Greater Runn of Kutch"]
 comments:   true
-
 ---
+
 <p>During my recent visit to Greater Rann of Kutch, Gujarat, we spent a day in the Mandvi coast to observe and photograph waders near the sea shore.</p>
 
 <p>We saw various species of birds, but the two highlights of the day were Oystercatchers and Crab Plovers.</p>
