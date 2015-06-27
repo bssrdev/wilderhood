@@ -3,8 +3,8 @@ layout:     post
 title:      "A day in Mandvi coast"
 subtitle:   "Birds and Dolphins"
 author:     "Vinodh Ve"
-header-img :"img/2015-06-27/2.jpg"
-tags:       ["Wildlfie Photography, "Birding Destinations, "Greater Runn of Kutch"]
+header-img: "img/2015-06-27/2.jpg"
+tags:		["Wildlife Destinations", "Birding Destinations"]
 comments:   true
 ---
 
