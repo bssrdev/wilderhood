@@ -8,7 +8,7 @@ tags:		["Wildlife Destinations", "Monsoon Destinations"]
 comments:   true
 ---
 
-<p>About two years back, I grabbed the opportunity of visiting Amboli.  Amboli is a truly fantastic, serene, laid back little hill station nestled in the Sahyadri hills. Being a part of the Northern Western Ghats, it is quite expectedly, rich in Biodiversity.</p>
+<p>About two years back, I grabbed the opportunity of visiting <a href="http://www.wilderhood.com/destination/Amboli">Amboli</a>.  Amboli is a truly fantastic, serene, laid back little hill station nestled in the Sahyadri hills. Being a part of the Northern Western Ghats, it is quite expectedly, rich in Biodiversity.</p>
 
 <p>While we were there, I came across a number of shed exoskeletons of Cicadas. They seemed to be everywhere, as though it was their molting season. Many of the Cicada nymphs appeared to have emerged from their underground abode to shed their skin and enter into adult life. The dream of wanting to witness one such event kept crossing my mind.  I knew it would be a tough one to spot, but I never realized I would see one that very day!</p>
 
