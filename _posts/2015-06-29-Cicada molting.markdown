@@ -12,9 +12,9 @@ comments:   true
 
 <p>While we were there, I came across a number of shed exoskeletons of Cicadas. They seemed to be everywhere, as though it was their molting season. Many of the Cicada nymphs appeared to have emerged from their underground abode to shed their skin and enter into adult life. The dream of wanting to witness one such event kept crossing my mind.  I knew it would be a tough one to spot, but I never realized I would see one that very day!</p>
 
-<p>Late in the evening, I noticed a Cicada nymph settled down on a small plant very close to my cottage. It was still for a while, so I suspected that it could be up to something,. May be getting ready for a molt. Hence, I waited there, but there was still no movement. Temporarily giving up on my dream, I left it at peace.</p>
+<p>Late in the evening, I noticed a Cicada nymph settled down on a small plant very close to my cottage. It was still for a while, so I suspected that it could be up to something. May be getting ready for a molt. Hence, I waited there, but there was still no movement. Temporarily giving up on my dream, I left it at peace.</p>
 
-<p>An hour or so later, I came back and saw that the Cicada had started molting. It’s old outer covering had split open and the cicada had started to emerge with its brand new coat. I was expecting the Cicada to completely come out of its old shell very quickly. But, I was wrong, it process took a considerable amount of time.</p>
+<p>An hour or so later, I came back and saw that the Cicada had started molting. It’s old outer covering had split open and the cicada had started to emerge with its brand new coat. I was expecting the Cicada to come out of its old shell very quickly. But, I was wrong, the process took a considerable amount of time.</p>
 
 <img src="{{ site.baseurl}}/img/2015-06-29/1.jpg" alt="Cicada, Amboli">
 
