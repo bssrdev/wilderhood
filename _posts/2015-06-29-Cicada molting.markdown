@@ -16,21 +16,21 @@ comments:   true
 
 <p>An hour or so later, I came back and saw that the Cicada had started molting. It’s old outer covering had split open and the cicada had started to emerge with its brand new coat. I was expecting the Cicada to completely come out of its old shell very quickly. But, I was wrong, it process took a considerable amount of time.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/1.jpg" alt="Oyster catchers, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-29/1.jpg" alt="Cicada, Amboli">
 
 <p>The Cicada was completely still for a while. Nothing happened, but it was slowly trying to push itself out, inch by inch.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/1.jpg" alt="Oyster catchers, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-29/2.jpg" alt="Cicada, Amboli">
 
 <p>Slowly, the legs came out but still seemed very fragile to be able to balance the weight of the insect. The cicada started flexing its legs to enable blood flow to them. Gradually  they seemed to harden, gaining in strength. All this while, the Cicada stayed there in an upside-down position. The wing parts called as wing buds had also emerged. It was completely folded and required a very good supply of blood to flow through their veins in order to open up and be ready for flight.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/1.jpg" alt="Oyster catchers, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-29/3.jpg" alt="Cicada, Amboli">
 
 <p>The brand new outer covering was bluish green in colour. I read that the colour would become darker as the outer skin thickens and eventually the Cicada would regain its original colour.</p>
 
 <p>The legs had hardened enough to be able to support its body weight and the Cicada grasped on to the shed exoskeleton and got into its upright position. It sat there in this position for a considerable amount of time to allow the rest of the body to strengthen.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/1.jpg" alt="Oyster catchers, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-29/4.jpg" alt="Cicada, Amboli">
 
 <p>Once it had gathered enough energy, it was now ready to fly away with its brand new look. The whole process was indeed a very slow and strenuous one, taking a lot of energy from the little insect. Albeit, it was a successful one and I was very happy to have been able to witness it.</p>
 
