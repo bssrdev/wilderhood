@@ -3,7 +3,7 @@ layout: blog_by_author
 author_name: Jagadeesh Rampam
 permalink: authors/Jagadeesh Rampam/
 web: http://wilderhood.com
-email: contact@wilderhood.com
+email: jagadeesh@wilderhood.com
 bio: "My bio"
 avatar: jagadeesh.jpg
 twitter: wilderhood
