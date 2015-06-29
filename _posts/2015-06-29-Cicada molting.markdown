@@ -2,7 +2,7 @@
 layout:     post
 title:      "Molting Cicada"
 subtitle:   ""
-author:     "Santhosh krishnamoorthy"
+author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-29/2.jpg"
 tags:		["Wildlife Destinations", "Monsoon Destinations"]
 comments:   true
