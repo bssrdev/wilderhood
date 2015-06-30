@@ -20,7 +20,7 @@ comments:   true
 
 <img src="{{ site.baseurl}}/img/Gir/IMG_1718.jpg" alt="Lion King Raju, Gir National Park">
 
-<p>It was an amazing experience to watch a Lion in the wild for the first time, and at such a close distance</p>
+<p>It was an amazing experience to watch a Lion in the wild for the first time, and at such a close distance.</p>
 
 <p> There were obvious signs of lazyness, yawning and relaxing. But when we looked close, his left eye was badly injured.</p>
 
@@ -32,7 +32,7 @@ comments:   true
 
 <img src="{{ site.baseurl}}/img/Gir/IMG_1822.jpg" alt="Lion King Raju, Gir National Park">
 
-<p>Here are the other three mail lions from the same pride who fought with him</p>
+<p>Here are the other three male lions from the same pride who fought with him</p>
 
 <img src="{{ site.baseurl}}/img/Gir/MG_2530.jpg" alt="Gir National Park, Gujarat">
 <img src="{{ site.baseurl}}/img/Gir/MG_2500.jpg" alt="Gir National Park, Gujarat">
