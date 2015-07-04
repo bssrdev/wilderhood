@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Monsoon Magic at Bandipur"
-subtitle:   ""
-author:     "Prasad Natrajan"
+subtitle:   "Monsoon Magic at Bandipur"
+author:     "Prasad Natarajan"
 header-img: "img/2015-07-03/4.jpg"
-tags:		["Wildlife Destinations", "Mammal Destinations"]
+tags:		["Wildlife Destinations", "Mammal Destinations", "Tiger Destinations"]
 comments:   true
 ---
 
