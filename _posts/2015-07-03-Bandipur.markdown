@@ -3,7 +3,7 @@ layout:     post
 title:      "Monsoon Magic at Bandipur"
 subtitle:   ""
 author:     "Prasad Natrajan"
-header-img: "img/Bandipur/img/2015-07-03/4.jpg"
+header-img: "img/2015-07-03/4.jpg"
 tags:		["Wildlife Destinations", "Mammal Destinations"]
 comments:   true
 ---
@@ -16,11 +16,19 @@ comments:   true
 
 <p>As soon as we reached the reserve, we were greeted with several Bonnet Macaques, it is great to watch them immersed in their daily activities. Feeding such wild animals is not a good practice, though the warning message always specifies this guideline, most of the tourists end up feeding them. Bonnet Macaques are also great subjects to photograph and soft back light adds an appealing outlook to them.</p>
 
+<img src="{{ site.baseurl}}/img/2015-07-03/7.jpg" alt="Bonet Macaque,Bandipur National Park">
+
 <p>Sparrows can be found in plenty at the canteen area, building their nests and picking leftovers. Sparrows evoke nostalgia if you have grown up in Bangalore, they certainly remind me of my childhood when I used to feed them from the balcony of my house.</p>
+
+<img src="{{ site.baseurl}}/img/2015-07-03/8.jpg" alt="Common Sparrow, Bandipur National Park">
 
 <p>Another primate to be seen there was, the Hanuman Langur. A female Hanuman Langur with her young one is a such a treat to watch.</p>  
 
+<img src="{{ site.baseurl}}/img/2015-07-03/9.jpg" alt="Hanuman Langur, Bandipur National Park">
+
 <p>The rain gods showered their blessings on all of us, the beauty of the place increased double fold due to the peafowl . These calm, dramatic and peaceful moments reminded me of  great poet Kalidasa's words;</p> 
+
+<img src="{{ site.baseurl}}/img/2015-07-03/10.jpg" alt="Pea fowl, Bandipur National Park">
 
 <p>“ Bright as a heap of flashing gems, there shines
 Before thee on the ant-hill, Indra's bow;
