@@ -60,6 +60,10 @@ function displayAds()
 		}
 		$(fragment).append(createElementWithString("<hr style='padding-top:25px'/>"));
 	}
+	else
+	{
+		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED</div><hr/>"));
+	}
 	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
 		var data = randomizedAdList[ii];
