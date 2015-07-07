@@ -4,9 +4,6 @@ adList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"})
 adList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
 
 var sponsoredList = [];
-sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
-sponsoredList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
-sponsoredList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
 
 function getBaseURL() {
    return location.protocol + "//" + location.hostname + 
@@ -41,7 +38,6 @@ function createElementWithDataObj(data, compiledTemplate)
 function displayAds()
 {
 	return;
-
 	var $adHolderDiv = $("#seoHolder");
 	if(!$adHolderDiv.length)
 		return;
@@ -54,13 +50,16 @@ function displayAds()
 	var randomizedAdList = shuffleArray(adList).slice(0, 3);
 
 	var fragment = document.createDocumentFragment();
-	$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>SPONSORED</div><hr/>"));
-	for(var ii=0; ii<randomizedSponsoredList.length; ++ii)
+	if(randomizedSponsoredList.length > 0)
 	{
-		var data = randomizedSponsoredList[ii];
-		fragment.appendChild(createElementWithDataObj(data, compiledTemplate));
+		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>SPONSORED</div><hr/>"));
+		for(var ii=0; ii<randomizedSponsoredList.length; ++ii)
+		{
+			var data = randomizedSponsoredList[ii];
+			fragment.appendChild(createElementWithDataObj(data, compiledTemplate));
+		}
+		$(fragment).append(createElementWithString("<hr style='padding-top:25px'/>"));
 	}
-	$(fragment).append(createElementWithString("<hr style='padding-top:25px'/>"));
 	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
 		var data = randomizedAdList[ii];
