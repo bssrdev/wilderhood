@@ -38,11 +38,11 @@ comments:   true
 <img src="{{ site.baseurl}}/img/2015-07-07/3.jpg" alt="Bower bird, Papa New Guinea">
 <p>Bower Bird at work.</p>
 
-<p>And then the unexpected happened. Without a warning he sprung at the hollow of the hide. I was taken aback, literally. I just sat still with shock. I did not want to scare the bird away. He was hardly a few inches from my face, probably analyzing the threat levels I posed. In those few seconds, I took a good look at him. Pallid, olive-brown in colour, he was devoid of any extraordinary plumage. This is the land of exuberant, colourful birds, yet he stood out. Looks did not matter, for his Bower did the trick. He was legendary at his work!</p>
+<p>And then the unexpected happened. Without a warning he sprung at the hollow of the hide. I was taken aback, literally. I just sat still with shock. I did not want to scare the bird away. He was hardly a few inches from my face, probably analyzing the threat levels I posed. In those few seconds, I took a good look at him. Pallid, olive-brown in colour, he was devoid of any extraordinary plumage. This is the land of exuberant, colourful birds, yet he stood out. Looks did not matter, for his bower did the trick. He was legendary at his work!</p>
 
-<p>Back at the Bower, he would patiently examine his setup for any glitches. He might have spent months to build what he thought was a perfect bower but the expectations of the females are sky high!  All that is needed for the female to reject the male and his Bower are a few misplaced straws or badly co-ordinated colours. Life is not easy for him. Sounds familiar? It is the story of our lives too :)</p>
+<p>Back at the bower, he would patiently examine his setup for any glitches. He might have spent months to build what he thought was a perfect bower but the expectations of the females are sky high!  All that is needed for the female to reject the male and his bower are a few misplaced straws or badly co-ordinated colours. Life is not easy for him. Sounds familiar? It is the story of our lives too :)</p>
 
-<p>A minute later he was gone. Brilliant mimics that the Bowerbirds are, I could hear him close by, imitating the display sounds of the Superb Bird of Paradise. I could only wish for him to return but he would not.</p>
+<p>A minute later, he was gone. Brilliant mimics that the Bower birds are, I could hear him close by, imitating the display sounds of the Superb Bird of Paradise. I could only wish for him to return but he would not.</p>
 
 <p>The Parotia had given me a slip that day (whether I saw him or not is another story for another day) and we decided to go and look for other Bowers in the vicinity. We found 3 more Bowers of varying size and assortment of ingredients with which the nests were decorated.</p>
 
