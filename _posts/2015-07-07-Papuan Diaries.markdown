@@ -55,11 +55,11 @@ comments:   true
 
 <p>We came across a site where the Bowerbird had dismantled his entire bower and was preparing to build it afresh. The straws were scattered all around. The moss around the central column was still present. He had probably gone looking for some construction material and he could be back anytime. But it was post noon, and the afternoon showers had begun. We had to leave.</p>
 
-<p>The following morning when we returned to the first Bower, we found a new entry into his garden. A  330ml Coke tin! How they manage to find and carry all these to the nests, I wonder!</p>
+<p>The following morning when we returned to the first bower, we found a new entry into his garden. A  330ml Coke tin! How they manage to find and carry all these to the nests, I wonder!</p>
 
 <img src="{{ site.baseurl}}/img/2015-07-07/7.jpg" alt="Bower bird, Papa New Guinea">
 
-<p>And for a perspective of the size of the Bower, here is Zeth who is around 5.6 ft.</p>
+<p>And for a perspective of the size of the bower, here is Zeth who is around 5.6 ft.</p>
 
 <img src="{{ site.baseurl}}/img/2015-07-07/8.jpg" alt="Bower bird, Papa New Guinea">
 
