@@ -9,8 +9,6 @@ comments:   true
 ---
 
 
-
-
 <p>I catapulted from my sleeping bag fearing I had overslept. 2AM, the watch read and it was the third time I had woken up that night with the same fear.</p>
 
 <p>"Tomorrow morning, get ready by 5.30. It takes about 45mins to reach the spot. And once in the hide, from one wall you can watch the Western Parotia dance and from the other, the Bowerbird readying its house for a party. You might have a tough time choosing whom to photograph!" Zeth had portrayed the previous evening. After all, this was the day I had been dreaming about for several years, but a day which I had not expected to arrive this early. And when the moment was just a few hours away, the last thing I wanted was to sleep through it.</p>
@@ -55,7 +53,7 @@ comments:   true
 
 <p>We came across a site where the Bowerbird had dismantled his entire bower and was preparing to build it afresh. The straws were scattered all around. The moss around the central column was still present. He had probably gone looking for some construction material and he could be back anytime. But it was post noon, and the afternoon showers had begun. We had to leave.</p>
 
-<p>The following morning when we returned to the first bower, we found a new entry into his garden. A  330ml Coke tin! How they manage to find and carry all these to the nests, I wonder!</p>
+<p>The following morning when we returned to the first bower, we found a new entry into his garden. A 330ml Coke tin! How they manage to find and carry all these to the nests, I wonder!</p>
 
 <img src="{{ site.baseurl}}/img/2015-07-07/7.jpg" alt="Bower bird, Papa New Guinea">
 
@@ -65,11 +63,7 @@ comments:   true
 
 <p>It was the display of the Parotia that I came here to witness, but for now it was the Bowerbird that had completely bowled me over.</p>
 
+<iframe width="690" height="460" src="https://www.youtube.com/embed/rvrAhWKjHuk?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <p>PS: Thanks Radha Rangarajan for helping me put my thoughts into words :)</p>
-
- 
-
-
-
-
 
