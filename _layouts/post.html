@@ -3,6 +3,14 @@ layout: default
 ---
 <!-- {{ page | debug}} -->
 
+<!-- Create adkeywords listing -->
+<script>
+var seoKeywords = [];
+{% for keyword in page.seo %}
+	seoKeywords.push("{{ keyword }}");
+{% endfor %}
+</script>
+
 <!-- Create Tags listing -->
 {% if page.tags.size > 0 %}
     {% capture tags_content %}Posted with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
