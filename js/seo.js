@@ -11,6 +11,9 @@ adList.push({link: "MICROLAND EXPEDITION - MACRO PHOTOGRAPHY TOUR", image: "Toeh
 adList.push({link: "Gir - The Lions Last Lair", image: "BirdWing/Trip/Gir/Gir.jpg", text: "THE LIONS LAST LAIR", keywords: ["Gir"]});
 
 var sponsoredList = [];
+/*sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
+sponsoredList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
+sponsoredList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});*/
 
 function toTitleCase(str)
 {
