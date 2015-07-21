@@ -3,7 +3,7 @@ layout:     post
 title:      "Landscape Photography "
 subtitle:   "Some common myths and some uncommon realities"
 author:     "Sriharsha Ganjam"
-tags:       ["Tips and Tricks"]
+tags:       ["Tips and Tricks", "Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-18/img1.jpg"
 ---
