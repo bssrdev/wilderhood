@@ -18,17 +18,10 @@ comments:   true
 
 
 <img src="{{ site.baseurl}}/img/2015-07-22/1.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/2.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/3.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/4.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/5.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/6.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/7.jpg" alt="Tal Chhapar">
-
 <img src="{{ site.baseurl}}/img/2015-07-22/8.jpg" alt="Tal Chhapar">
