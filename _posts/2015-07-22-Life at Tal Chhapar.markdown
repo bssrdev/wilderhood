@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Life at Tal Chhapar"
-subtitle:   "Tawny Eagle atacking Desert Fox"
+subtitle:   "Tawny Eagle attacking Desert Fox"
 author:     "Bharath Hegde"
 header-img: "img/2015-07-22/4.jpg"
 tags:		["Raptors","Tal Chappar", "Birding Destinations", "Wildlife Destinations"]
