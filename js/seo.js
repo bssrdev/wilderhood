@@ -1,14 +1,17 @@
-var numAdsToDisplay = 3;
+var numAdsToDisplay = 6;
 
 var adList = [];
 var urlPrefix = "http://www.wilderhood.com/trip/";
 var imgURLPrefix = "http://az741737.vo.msecnd.net/wilderhood-public/medium/";
-adList.push({link: "Jewels of the Rainforest - Amboli", image: "BirdWing/Trip/Amboli/Banner.jpg", text: "Jewels of Rainforest", keywords: ["Amboli"]});
-adList.push({link: "Rainforest Rendezvous - Photography Tour of Goa", image: "Darter/Trip/Goa/Goa.jpg", text: "RAINFOREST RENDEZVOUS", keywords: ["Goa"]});
-adList.push({link: "Herping and Macro Photography Workshop - AMBOLI", image: "BikeNHike/Trip/Amboli/BikeNHike_Amboli_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY", keywords: ["Amboli"]});
-adList.push({link: "Explore Wayanad", image: "MysticWild/Trip/Wayanad/1.jpg", text: "EXPLORE WAYANAD", keywords: ["Wayanad"]});
-adList.push({link: "MICROLAND EXPEDITION - MACRO PHOTOGRAPHY TOUR", image: "Toehold/Trip/Coorg/Coorg.jpg", text: "MICROLAND EXPEDITION", keywords: ["Coorg"]});
-adList.push({link: "Gir - The Lions Last Lair", image: "BirdWing/Trip/Gir/Gir.jpg", text: "THE LIONS LAST LAIR", keywords: ["Gir"]});
+adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AGUMBE", image: "BikeNHike/Trip/Agumbe/BikeNHike_Agumbe_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP", keywords: ["Agumbe", "Reptiles", "Monsoon Destinations"]});
+adList.push({link: "GOA - IN RAINS", image: "BirdWing/Trip/Goa/Goa.jpg", text: "GOA - IN RAINS", keywords: ["Chorla Ghats", "Monsoon Destinations", "Reptiles"]});
+adList.push({link: "Explore Wayanad", image: "MysticWild/Trip/Wayanad/1.jpg", text: "EXPLORE WAYANAD", keywords: ["Wayanad", "Monsoon Destinations", "Reptiles"]});
+adList.push({link: "BHANDHAVGARH PHOTO TOUR", image: "MysticWild/Trip/Bandhavgarh/1.jpg", text: "BHANDHAVGARH PHOTO TOUR", keywords: ["Bandhavgarh", "Tiger Destinations", "Mammal Destinations", "Wildlife Destinations"]});
+adList.push({link: "RAINFOREST RENDEZVOUS - PHOTOGRAPHY TOUR OF GOA", image: "Darter/Trip/Goa/Goa.jpg", text: "RAINFOREST RENDEZVOUS - PHOTOGRAPHY TOUR OF GOA", keywords: ["Chorla Ghats", "Monsoon Destinations", "Reptiles"]});
+adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", image: "BikeNHike/Trip/Coorg/BikeNHike_Coorg_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", keywords: ["Coorg", "Monsoon Destinations", "Reptiles"]});
+adList.push({link: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", image: "Darter/Trip/Ladakh/Ladakh.jpg", text: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations"]});
+adList.push({link: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", image: "Darter/Trip/Lahaul/Spiti.jpg", text: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", keywords: ["Lahaul and Spiti", "Travel Destinations"]});
+adList.push({link: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", image: "Darter/Trip/Cambodia/Cambodia.jpg", text: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", keywords: ["Cambodia", "Travel Destinations", "Landscape Destinations"]});
 
 var sponsoredList = [];
 /*sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
@@ -105,7 +108,7 @@ function filterListByKeywords(dataList, keywordsList)
 
 function displayAds()
 {
-	return;
+
 	preprocess(sponsoredList);
 	preprocess(adList);
 
@@ -135,7 +138,7 @@ function displayAds()
 	}
 	else
 	{
-		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED</div><hr/>"));
+		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED TRIPS</div><hr/>"));
 	}
 	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
