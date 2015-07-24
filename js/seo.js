@@ -3,6 +3,7 @@ var numAdsToDisplay = 6;
 var adList = [];
 var urlPrefix = "http://www.wilderhood.com/trip/";
 var imgURLPrefix = "http://az741737.vo.msecnd.net/wilderhood-public/medium/";
+//Add another key for restricting the ad to be displayed only in those months --> months:["Jan", "Feb"]
 adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AGUMBE", image: "BikeNHike/Trip/Agumbe/BikeNHike_Agumbe_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP", keywords: ["Agumbe", "Reptiles", "Monsoon Destinations"]});
 adList.push({link: "GOA - IN RAINS", image: "BirdWing/Trip/Goa/Goa.jpg", text: "GOA - IN RAINS", keywords: ["Chorla Ghats", "Monsoon Destinations", "Reptiles"]});
 adList.push({link: "Explore Wayanad", image: "MysticWild/Trip/Wayanad/1.jpg", text: "EXPLORE WAYANAD", keywords: ["Wayanad", "Monsoon Destinations", "Reptiles"]});
@@ -23,12 +24,24 @@ function toTitleCase(str)
     return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 }
 
+function toLowerCaseList(list)
+{
+	if(!list)
+		return;
+
+	for(var ii=0; ii < list.length; ++ii)
+	{
+		list[ii] = list[ii].toLowerCase();
+	}
+}
+
 function preprocess(dataList)
 {
 	for(var ii=0; ii<dataList.length; ++ii)
 	{
 		var data = dataList[ii];
 		data.text = toTitleCase(data.text);
+		toLowerCaseList(data.keywords);
 	}
 }
 
@@ -65,41 +78,142 @@ function createElementWithDataObj(data, compiledTemplate, localImage)
 	return createElementWithString(renderedTemplate);
 }
 
-function filterListByKeywords(dataList, keywordsList)
+function filterListByMonths(dataList, currentDate)
 {
-	for(var jj=0; jj < keywordsList.length; ++jj)
-	{
-		keywordsList[jj] = keywordsList[jj].toLowerCase();
-	}
+	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+	currentMonth = monthNames[currentDate.getMonth()];
 
-	var filteredDataList = [];
-	var excludedDataList = [];
-
+	var retList = [];
 	for(var ii=0; ii<dataList.length; ++ii)
 	{
 		var data = dataList[ii];
-		var found = false;
-		for(var kk=0; (kk < data.keywords.length) && !found; ++kk)
+		var monthsList = data["months"];
+		//considered for all months if entry is not present
+		//or considered for the months if an entry is present
+		if(!monthsList || (monthsList.indexOf(currentMonth) > -1))
+			retList.push(data);
+	}
+	return retList;
+}
+
+function isKeywordInDataEntry(data, keyword)
+{
+	if(!data.keywords)
+		return false;
+	return data.keywords.indexOf(keyword) > -1;
+}
+
+function filterListByKeywords(dataList, keywordsList)
+{
+	toLowerCaseList(keywordsList);
+	
+	//using reverse keyword position in keywordsList as priority
+	//if there are two keywords at indices 0, 1 (in a list of length 3)
+	//for same data entry, then priority will be (3-0)+(3-1)=5
+	var priorityList = [];	//each element is an object with data and priority keys
+	
+	function pushPriorityDataIntoPriorityList(iData, priority, priorityList)
+	{
+		var iDataLink = iData.link;
+
+		//check if data is already present
+		for(var ii=0; ii<priorityList.length; ++ii)
 		{
-			var keyword = data.keywords[kk].toLowerCase();
-			for(var jj=0; jj < keywordsList.length; ++jj)
+			var dataObj = priorityList[ii];
+			if(dataObj.data.link == iDataLink)
 			{
-				if(keyword == keywordsList[jj])
+				dataObj.priority += priority;
+				return;
+			}
+		}
+
+		//not found
+		priorityList.push({data: iData, priority: priority});
+	}
+
+	//sort the priority list based on the priority index in each list entry
+	//with randoming entries in same priority zone
+	function getPriorityListSorted(priorityList)
+	{
+		var samePriorityLists = [];		//its a list of list --> priority as the key to list of data entries for that priority
+		var lowestPriorityIndex = Number.POSITIVE_INFINITY;
+		var highestPriorityIndex = Number.NEGATIVE_INFINITY;
+
+		//update lowestPriorityIndex, highestPriorityIndex and samePriorityLists
+		for(var ii=0; ii<priorityList.length; ++ii)
+		{
+			var dataObj = priorityList[ii];
+			var priority = dataObj.priority;
+			if(lowestPriorityIndex > priority)	lowestPriorityIndex = priority;
+			if(highestPriorityIndex < priority)	highestPriorityIndex = priority;
+			
+			if(!samePriorityLists[priority])	samePriorityLists[priority] = [];
+			samePriorityLists[priority].push(dataObj.data);
+		}
+
+		var retList = [];
+		//shuffle same priority lists and update final list
+		for(var ii=highestPriorityIndex; ii >= lowestPriorityIndex; --ii)
+		{
+			var priorityList = samePriorityLists[ii];
+			if(!priorityList)
+				continue;	//Might not be present as priorities might not be sequential
+
+			retList = retList.concat(shuffleArray(priorityList));
+		}
+		
+		return retList;
+	}
+
+	function getExcludedListFromPriorityList(totalList, priorityList)
+	{
+		var excludedList = [];
+		for(var jj=0; jj<totalList.length; ++jj)
+		{
+			var found = false;
+			var totalListData = totalList[jj];
+			var totalListDataLink = totalListData.link;
+
+			for(var ii=0; ii<priorityList.length; ++ii)
+			{
+				if(priorityList[ii].data.link == totalListDataLink)
 				{
 					found = true;
 					break;
 				}
 			}
+
+			if(!found)
+				excludedList.push(totalListData);
 		}
-		if(found)
-			filteredDataList.push(data);
-		else
-			excludedDataList.push(data);
+		return excludedList;
 	}
-	
-	var newList = shuffleArray(filteredDataList).slice(0, numAdsToDisplay);
+
+
+
+	//keyword order in the post has priority
+	var keywordsLength = keywordsList.length;
+	for(var jj=0; jj < keywordsLength; ++jj)
+	{
+		var keyword = keywordsList[jj];
+		for(var ii=0; ii<dataList.length; ++ii)
+		{
+			var data = dataList[ii];
+			if(isKeywordInDataEntry(data, keyword))
+			{
+				//using reverse keyword position as priority
+				//if there are two keywords at indices 0, 1 (in a list of length 3),
+				//for same data entry, then priority will be (3-0)+(3-1)=5
+				pushPriorityDataIntoPriorityList(data, keywordsLength - jj, priorityList);
+			}
+		}
+	}
+
+	var filteredDataList = getPriorityListSorted(priorityList);	//we got priority based shuffled list
+	var newList = filteredDataList.slice(0, numAdsToDisplay);
 	if(newList.length < numAdsToDisplay)
 	{
+		var excludedDataList = getExcludedListFromPriorityList(dataList, priorityList);
 		newList = newList.concat(shuffleArray(excludedDataList).slice(0, numAdsToDisplay - newList.length));
 	}
 
@@ -108,11 +222,11 @@ function filterListByKeywords(dataList, keywordsList)
 
 function displayAds()
 {
-
 	preprocess(sponsoredList);
 	preprocess(adList);
 
 	var seoKeywords = window.seoKeywords || [];
+	var currentDate = new Date();
 
 	var $adHolderDiv = $("#seoHolder");
 	if(!$adHolderDiv.length)
@@ -123,7 +237,7 @@ function displayAds()
 	
 	//randomize and pick first six
 	var randomizedSponsoredList = shuffleArray(sponsoredList).slice(0, numAdsToDisplay);
-	var randomizedAdList = filterListByKeywords(adList, seoKeywords);
+	var randomizedAdList = filterListByKeywords(filterListByMonths(adList, currentDate), seoKeywords);
 
 	var fragment = document.createDocumentFragment();
 	if(randomizedSponsoredList.length > 0)
@@ -138,7 +252,7 @@ function displayAds()
 	}
 	else
 	{
-		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED TRIPS</div><hr/>"));
+		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED</div><hr/>"));
 	}
 	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
