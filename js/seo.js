@@ -4,7 +4,6 @@ var adList = [];
 var urlPrefix = "http://www.wilderhood.com/trip/";
 var imgURLPrefix = "http://az741737.vo.msecnd.net/wilderhood-public/medium/";
 //Add another key for restricting the ad to be displayed only in those months --> months:["Jan", "Feb"]
-adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AGUMBE", image: "BikeNHike/Trip/Agumbe/BikeNHike_Agumbe_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP", keywords: ["Agumbe", "Reptiles", "Monsoon Destinations"]});
 adList.push({link: "GOA - IN RAINS", image: "BirdWing/Trip/Goa/Goa.jpg", text: "GOA - IN RAINS", keywords: ["Chorla Ghats", "Monsoon Destinations", "Reptiles"]});
 adList.push({link: "Explore Wayanad", image: "MysticWild/Trip/Wayanad/1.jpg", text: "EXPLORE WAYANAD", keywords: ["Wayanad", "Monsoon Destinations", "Reptiles"]});
 adList.push({link: "BHANDHAVGARH PHOTO TOUR", image: "MysticWild/Trip/Bandhavgarh/1.jpg", text: "BHANDHAVGARH PHOTO TOUR", keywords: ["Bandhavgarh", "Tiger Destinations", "Mammal Destinations", "Wildlife Destinations"]});
