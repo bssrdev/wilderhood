@@ -1,4 +1,4 @@
-var numAdsToDisplay = 6;
+var numAdsToDisplay = 9;
 
 var adList = [];
 var urlPrefix = "http://www.wilderhood.com/trip/";
@@ -311,7 +311,7 @@ function displayAds()
 	}
 	else
 	{
-		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED</div><hr/>"));
+		$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>RECOMMENDED TRIPS</div><hr/>"));
 	}
 	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
