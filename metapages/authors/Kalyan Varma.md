@@ -12,7 +12,7 @@ Along with a team of photographers I founded India Nature Watch, an online commu
 I collaborate with wildlife scientists, conservationists, policy makers, activists and educators on conservation action, activism, documentation, books and film projects. I actively work with Nature Conservation Foundation and VGKK in India. 
 
 I hope to combine an artist’s eye with a journalist’s curiosity and sense of storytelling in my visual style, resulting in a body of work I hope will inspire the viewer to discover more. Using narrative and visual construction I strive to lure the audience into the subject, prompting them to ask questions rather than accept a ‘standard version’ of changing landscapes."
-avatar: kalyan.jpg
+avatar: KalyanVarma.jpg
 twitter:
 googleplus: 
 linkedin: 
