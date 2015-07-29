@@ -53,21 +53,21 @@ adList.push({link: "WILD WEST - WILDLIFE PHOTOGRAPHY TOUR OF KUTCH", image: "Dar
 
 adList.push({link: "OOTY", image: "BeyondRoads/Trip/Ooty/Ooty.jpg", text: "OOTY", keywords: ["OOTY", "Birding Destinations", "Nilgiri"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb"]});
 
-adList.push({link: "RANGANTHITTU-BANDIPUR", image: "BeyondRoads/Trip/Ranganathittu/Ranganathittu.jpg", text: "RANGANTHITTU-BANDIPUR", keywords: ["Ranganathittu", "Birding Destinations", "Bandipur", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]});
+adList.push({link: "RANGANTHITTU-BANDIPUR", image: "BeyondRoads/Trip/Ranganathittu/Ranganathittu.jpg", text: "RANGANTHITTU-BANDIPUR", keywords: ["Tiger", "Bandipur", "Kabini", "Ranganathittu", "Birding Destinations", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]});
 
-adList.push({link: "FELINE FORTUNE - TIGER PHOTOGRAPHY TOUR", image: "Toehold/Trip/Tadoba/Tadoba.jpg", text: "FELINE FORTUNE - TIGER PHOTOGRAPHY TOUR", keywords: ["Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "FELINE FORTUNE - TIGER PHOTOGRAPHY TOUR", image: "Toehold/Trip/Tadoba/Tadoba.jpg", text: "FELINE FORTUNE - TIGER PHOTOGRAPHY TOUR", keywords: ["Tiger", "Tadoba", "Pench", "Kanha", "Bandhavgarh", "Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "KAZIRANGA ROAM WITH THE RHINOS", image: "BeyondRoads/Trip/Kaziranga/Kaziranga.jpg", text: "KAZIRANGA ROAM WITH THE RHINOS", keywords: ["Khaziranga", "Tiger Destinations", "RHINOS"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "KAZIRANGA ROAM WITH THE RHINOS", image: "BeyondRoads/Trip/Kaziranga/Kaziranga.jpg", text: "KAZIRANGA ROAM WITH THE RHINOS", keywords: ["Tiger", "Ranthambore", "Khaziranga", "Tiger Destinations", "RHINOS"],  months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "Bandhavgarh", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "BHANDHAVGARH PHOTO TOUR", image: "MysticWild/Trip/Bandhavgarh/1.jpg", text: "BHANDHAVGARH PHOTO TOUR", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "BHANDHAVGARH PHOTO TOUR", image: "MysticWild/Trip/Bandhavgarh/1.jpg", text: "BHANDHAVGARH PHOTO TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "TIGER SOLSTICE - FULL-DAY TIGER PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER SOLSTICE - FULL-DAY TIGER PHOTOGRAPHY TOUR", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "TIGER SOLSTICE - FULL-DAY TIGER PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER SOLSTICE - FULL-DAY TIGER PHOTOGRAPHY TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
+adList.push({link: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 
 adList.push({link: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", image: "Toehold/Trip/Svalbard/Svalbard.jpg", text: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", keywords: ["Svalbard", "Exotic Destinations"], months: ["Jul", "Aug"]});
 

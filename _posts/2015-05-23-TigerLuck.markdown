@@ -5,6 +5,7 @@ subtitle:   "Tiger luck -- Tadoba"
 author:     "Vinodh Ve"
 tags:       ["Tiger Destinations", "Tadoba", "Wildlife Destinations"]
 comments:   true
+seo: 		["Tiger", "Tadoba", "Kanha", "Bandhavgarh", "Pench"]
 header-img: "img/2015-05-23/img1.jpg"
 ---
 

@@ -4,6 +4,7 @@ title:      "My First Tiger sighting - Bhadra"
 subtitle:   "My First Tiger sighting - Bhadra"
 author:     "Vinodh Ve"
 tags:       ["Birding Destinations", "Bhadra", "Wildlife Destinations", "Tiger Destinations"]
+seo: 		["Tiger", "Bhadra"]
 comments:   true
 header-img: "img/2015-03-22/img1.jpg"
 ---
