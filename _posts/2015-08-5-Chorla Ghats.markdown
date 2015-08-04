@@ -3,7 +3,7 @@ layout:     post
 title:      "Glamour in Goa"
 subtitle:   "The Chorla Ghats"
 author:     "Anand Menon"
-header-img: "img/2015-08-5/1.jpg"
+header-img: "img/2015-08-05/1.jpg"
 tags:		["Chorla Ghats", "Monsoon Destinations", "Macro Life", "Reptiles", "Western Ghats", "Wildlife Destinations", ]
 comments:   true
 ---
@@ -21,11 +21,11 @@ comments:   true
 
 <p>The beauty of the place has to be experienced and so I will not try to paint you the picture with words. My trips to Chorla have been during the monsoons, when herping activity is at its peak. The effort, in the remainder of the write—up, will only be to help you be prepared both equipment-wise as well as regarding what subjects might come your way, so that you can enjoy your trip to the fullest.</p>
  
-<img src="{{ site.baseurl}}/img/2015-08-5/2.jpg" alt="India map, Chorla Ghats location">
+<img src="{{ site.baseurl}}/img/2015-08-05/2.jpg" alt="India map, Chorla Ghats location">
 
-<img src="{{ site.baseurl}}/img/2015-08-5/3.jpg" alt="Travel to Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/3.jpg" alt="Travel to Chorla Ghats">
 
-<img src="{{ site.baseurl}}/img/2015-08-5/4.jpg" alt="View rom the Swapnagandha resort, Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/4.jpg" alt="View rom the Swapnagandha resort, Chorla Ghats">
 <p>The “boring” view from my Room – At the Swapnagandha Resort</p>
 
 <p>A photographer's perspective<p>
@@ -67,7 +67,7 @@ comments:   true
 
 <p>Almost all the species that are present in the Western Ghats, be it the different Vipers, the frogs, bugs and insects (except those that are endemic to certain other regions!) are present in Chorla too. Some of the rare species of wildlife are found here. Also, the probability of finding Saw-scaled Vipers, with their beautiful golden sheen, is far higher here than in other parts of the Ghats. Other attractions are the plant life, with ferns, orchids and multi-coloured fungi forming an unbroken carpet of green all around.</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/5.jpg" alt="Biodiversity, Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/5.jpg" alt="Biodiversity, Chorla Ghats">
 <p>A.	A jewel beetle.</p>
 <p>B.	The Nilgiri Keelback or Beddome's Keelback – Non venomous and harmless (unless you are a toad!)</p>
 <p>C.	The Malabar Pit Viper – The pit viper registers heat using the ‘pits’, positioned on each side of the snake's head between the eye and nostril,and is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches away. Venomous to humans. Completely harmless when left alone!</p>
@@ -75,19 +75,19 @@ comments:   true
 <p>E.	Millipede – A millipede rolled up in self-defence</p>
 <p>F.	The Malabar Gliding Frog – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbingthat helps it glide between trees</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/6.jpg" alt="Flower, Chorla Ghats location">
+<img src="{{ site.baseurl}}/img/2015-08-05/6.jpg" alt="Flower, Chorla Ghats location">
 <p>Chorla is home to some amazingly beautiful plant-life</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/7.jpg" alt=", Bioluminescence, Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/7.jpg" alt=", Bioluminescence, Chorla Ghats">
 <p>The midnight Landscape – BioluminescentFungi</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/8.jpg" alt="India map, Chorla Ghats location">
+<img src="{{ site.baseurl}}/img/2015-08-05/8.jpg" alt="India map, Chorla Ghats location">
 <p>And, bending to Editorial pressure, the unavoidable Tiger photo for this wildlife article - A Tiger Centipede </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/9.jpg" alt="Travel to Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/9.jpg" alt="Travel to Chorla Ghats">
 <p>The Saw-scaled Viper – A diminutive chap despite his vicious reputation. [Inset – A close-up of the saw scales and the golden eye lids]</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/10.jpg" alt="Travel to Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/10.jpg" alt="Travel to Chorla Ghats">
 <p>Still can’t make up your mind on whether to go or not? Go ahead and take that step!</p>
 
 <p>Post script: Know your Western Ghats</p>
@@ -96,6 +96,6 @@ comments:   true
 
 <p>It is a UNESCO World Heritage Site and is one of the eight "bio-diversity hotspots" in the world.</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-5/11.jpg" alt="Ghat facts, Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/11.jpg" alt="Ghat facts, Chorla Ghats">
 
-<img src="{{ site.baseurl}}/img/2015-08-5/12.jpg" alt="Floar and Fauna, Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/12.jpg" alt="Floar and Fauna, Chorla Ghats">
