@@ -11,7 +11,7 @@ comments:   true
 
 <p>Goa is a great place for a glamour photo shoot.</p>
 
-<p>Given that the tag cloud of #beaches, #swimsuit, #sun, #spray, #sand et al have sufficient representation both in our mind space as well as cyber space, it is time to look at an alternate take for a glamour shoot in Goa.</p>
+<p>Given that the tag cloud of #beaches, #swimsuit, #sun, #spray, #sand et al have sufficient representation both in our mind space as well as cyber space, it is time to look at an alternate take for a glamour shoot, in Goa.</p>
 
 <p>Welcome to the Chorla Ghats!</p>
 
@@ -36,36 +36,34 @@ comments:   true
 
 <p>1.	A good, weather-sealed camera. I can vouch that a DSLR would be a mighty good choice.</p>
 
-<p>2.	A fast and again, weather-sealed Macro lens. FWIW, my Canon 100mm f/2.8 L has come through in flying colours! I had the non-L 100mm on my earlier trips to the Ghats and found that under the extremely exacting lighting conditions (that rainforests are notorious for), the L version gave me far closer to 100% accurate auto-focus. Also, I noticed that the L version fogged up far more rarely than the non-L one. Sorry non-Canon folks, don’t have much for you other than that the Tamron 90mm Macro too is a great option but I found myself taking far more shots of the same subject owing to focus-hunting under low-light conditions.</p>
+<p>2.	A fast and again, weather-sealed Macro lens. FWIW, my Canon 100mm f/2.8 L has come through in flying colours! I had the non-L 100mm on my earlier trips to the Ghats and found that under the extremely low lighting conditions (that rainforests are notorious for), the L version gave me far closer to 100% accurate auto-focus. Also, I noticed that the L version fogged up far more rarely than the non-L one. Sorry non-Canon folks, do not have much for you other than that. The Tamron 90mm macro is also a great option but I found myself taking far more shots of the same subject owing to focus-hunting under low-light conditions.</p>
 
-<p>3.	A good Flash. The on-camera Flash is fine but since my Camera body comes without one I tend to carry an external Flash. Despite how good they are, be prepared to see your flash give up under the extreme levels of moisture/humidity. They need warming up all over again before they boot up. From experience, I tend to carry two Flashes!</p>
+<p>3.	A good Flash. The built Flash is fine but since my camera body comes without one I tend to carry an external flash. Despite how good they are, be prepared to see your flash give up under the extreme levels of moisture/humidity. They need warming up all over again before they boot up. From experience, I always carry two flashes!</p>
 
 <p>4.	Rain protection for the Gear (and yourself)</p>
 
 <p>5.	An umbrella</p>
 
-<p>6.	If you prefer shooting Macro using a tripod then make sure you carry one of the models where the central columns can flip to be horizontal.</p>
-<p>For the Landscape Photographers:
+<p>6.	If you prefer shooting macro using a tripod then make sure you carry one of the models where the central columns can flip to be horizontal.</p>
+<p>For Landscape Photographers:
 1.	A good, weather-sealed camera.
 2.	A good wide angle lens.
 3.	Tripod</p>
 
-<p>The Experts</p>
-
-<p>Naturalist -</p>
+<p>Experts- For a Naturalist</p>
 
 <p>Herping and photographing Herps are best done under expert supervision for the safety of all concerned.</p>
 
-<p>The Mhadei Nature Conservation Facility has been established at Chorla Ghat to facilitate research and long term monitoring of the Western Ghats of the Sahyadris region and their biodiversity and is intended at providing a platform for ecologists and wildlife biologists by way of fully equipped field station for this area. Having lodged at the Swapnagandha Resort during my stay at Chorla, we also had the good fortune of having Nirmal Kulkarni (the Author of ‘The Goan Jungle Book’) as our mentor/guide. His immense knowledge of the Western Ghats, the Chorla region in particular, and the ability to impart that to people using simple anecdotes and stories make this trip a learning experience like no other.</p>
+<p>The Mhadei Nature Conservation facility has been established at Chorla Ghat to facilitate research and long term monitoring of the Western Ghats of the Sahyadris region and their biodiversity. It intends to provide a platform for ecologists and wildlife biologists by way of fully equipped field station for this area. Having lodged at the Swapnagandha Resort during my stay at Chorla, we also had the good fortune of having Nirmal Kulkarni (the Author of ‘The Goan Jungle Book’) as our mentor/guide. His immense knowledge of the Western Ghats, the Chorla region in particular, and the ability to impart that to people using simple anecdotes and stories, make this trip a learning experience like no other.</p>
 
-<p>Photographer –</p>
+<p>Photographer</p>
 
-<p>The rainforest is probably one of the most challenging environments for Photography, given how the cloud cover and the dense canopy can cause extreme changes in the way the scene is lit. Add to that the propensity of the subject to squirm into the tiniest of crevices, how perfectly they are camouflaged and that far too many of the frogs and snakes are nocturnal, unless you are very confident of your skills and/or have sufficient experience shooting in such an environment you should definitely travel in the company of an Expert Photographer. My last trip to Chorla was with Darter Photography and needless to say, the experience is highly recommended. The balance of helping me get the shot I want while ensuring that the wildlife is not put to any inconvenience whatsoever goes a long way in creating Photographers with a sense of responsibility towards nature.</p>
+<p>The rainforest is probably one of the most challenging environments for Photography, given how the cloud cover and the dense canopy can cause extreme changes in the way the scene is lit. Added to that is the propensity of subjects to squirm into the tiniest of crevices, how perfectly they are camouflaged. There are also far too many frogs and snakes are nocturnal, so unless you are very confident of your skills and/or have sufficient experience shooting in such an environment, you should definitely travel in the company of an xxpert. My last trip to Chorla was with Darter Photography and needless to say, the experience is highly recommended. The balance of helping me get the shot I want while ensuring that the wildlife is not put to any inconvenience whatsoever goes a long way in creating Photographers with a sense of responsibility towards nature.</p>
 <p>(DISCLAIMER: I am not involved with Darter or any other Photography company nor do I get any form of remuneration for my recommendations)</p>
 
 <p>What you can expect to shoot while at Chorla</p>
 
-<p>Almost all the species that are present in the Western Ghats, be it the different Vipers, the frogs, bugs and insects (except those that are endemic to certain other regions!) are present in Chorla too. Some of the rare species of wildlife are found here. Also, the probability of finding Saw-scaled Vipers, with their beautiful golden sheen, is far higher here than in other parts of the Ghats. Other attractions are the plant life, with ferns, orchids and multi-coloured fungi forming an unbroken carpet of green all around.</p>
+<p>Almost all the species that are present in the Western Ghats, be it the different Vipers, frogs, bugs and insects (except those that are endemic to certain other regions!) are present in Chorla too. Some of the rare species of wildlife are found here. Also, the probability of finding Saw-scaled Vipers, with their beautiful golden sheen, is far higher here than in other parts of the Ghats. Other attractions are the plant life, with ferns, orchids and multi-coloured fungi forming an unbroken carpet of green all around.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/5.jpg" alt="Biodiversity, Chorla Ghats">
 <p>A.	A jewel beetle.</p>
@@ -79,16 +77,16 @@ comments:   true
 <p>Chorla is home to some amazingly beautiful plant-life</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/7.jpg" alt=", Bioluminescence, Chorla Ghats">
-<p>The midnight Landscape – BioluminescentFungi</p>
+<p>Midnight Landscape – BioluminescentFungi</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/8.jpg" alt="India map, Chorla Ghats location">
-<p>And, bending to Editorial pressure, the unavoidable Tiger photo for this wildlife article - A Tiger Centipede </p>
+<p>And, bending to editorial pressure, the unavoidable Tiger photo for this wildlife article - A Tiger Centipede </p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/9.jpg" alt="Travel to Chorla Ghats">
 <p>The Saw-scaled Viper – A diminutive chap despite his vicious reputation. [Inset – A close-up of the saw scales and the golden eye lids]</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/10.jpg" alt="Travel to Chorla Ghats">
-<p>Still can’t make up your mind on whether to go or not? Go ahead and take that step!</p>
+<p>Still cannot make up your mind on whether to go or not? Go ahead and take that step!</p>
 
 <p>Post script: Know your Western Ghats</p>
 
