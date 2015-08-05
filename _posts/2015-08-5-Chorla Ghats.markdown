@@ -58,7 +58,7 @@ comments:   true
 
 <p>Photographer</p>
 
-<p>The rainforest is probably one of the most challenging environments for Photography, given how the cloud cover and the dense canopy can cause extreme changes in the way the scene is lit. Added to that is the propensity of subjects to squirm into the tiniest of crevices, how perfectly they are camouflaged. There are also far too many frogs and snakes are nocturnal, so unless you are very confident of your skills and/or have sufficient experience shooting in such an environment, you should definitely travel in the company of an xxpert. My last trip to Chorla was with Darter Photography and needless to say, the experience is highly recommended. The balance of helping me get the shot I want while ensuring that the wildlife is not put to any inconvenience whatsoever goes a long way in creating Photographers with a sense of responsibility towards nature.</p>
+<p>The rainforest is probably one of the most challenging environments for Photography, given how the cloud cover and the dense canopy can cause extreme changes in the way the scene is lit. Added to that is the propensity of subjects to squirm into the tiniest of crevices, how perfectly they are camouflaged. There are also far too many frogs and snakes are nocturnal, so unless you are very confident of your skills and/or have sufficient experience shooting in such an environment, you should definitely travel in the company of an xxpert. My last trip to Chorla was with <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a> and needless to say, the experience is highly recommended. The balance of helping me get the shot I want while ensuring that the wildlife is not put to any inconvenience whatsoever goes a long way in creating Photographers with a sense of responsibility towards nature.</p>
 <p>(DISCLAIMER: I am not involved with Darter or any other Photography company nor do I get any form of remuneration for my recommendations)</p>
 
 <p>What you can expect to shoot while at Chorla</p>
@@ -71,7 +71,7 @@ comments:   true
 <p>C.	The Malabar Pit Viper – The pit viper registers heat using the ‘pits’, positioned on each side of the snake's head between the eye and nostril,and is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches away. Venomous to humans. Completely harmless when left alone!</p>
 <p>D.	Ferns and jungle blossoms – A feast for the eyes and a welcome relief from looking for expertly camouflaged herps!</p>
 <p>E.	Millipede – A millipede rolled up in self-defence</p>
-<p>F.	The Malabar Gliding Frog – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbingthat helps it glide between trees</p>
+<p>F.	The Malabar Gliding Frog – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbing that helps it glide between trees</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/6.jpg" alt="Flower, Chorla Ghats location">
 <p>Chorla is home to some amazingly beautiful plant-life</p>
