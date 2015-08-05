@@ -73,6 +73,8 @@ adList.push({link: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", image: "To
 
 adList.push({link: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Kamchatka/Kamchatka.jpg", text: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Kamchatka", "Exotic Destinations"], months: ["Jul", "Aug"]});
 
+adList.push({link: "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});
+
 var sponsoredList = [];
 /*sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
 sponsoredList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
