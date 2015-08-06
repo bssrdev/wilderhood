@@ -11,7 +11,7 @@ comments:   true
 
 <p>It is always great to visit a Tiger reserve and go on safaris, be it in the north, south or east India. Be it hot summers, wet monsoons or cold winters!</p>
 
-<p>An elusive glowing yellow with black striped animal has captured imaginations of many and inspired many more-The Tiger. An ambition of spotting this golden beauty in the wild took a bunch of likeminded people to Bandipur.</p>
+<p>An elusive glowing yellow with black striped animal has captured imaginations of many and inspired many more-The Tiger. An ambition of spotting this golden beauty in the wild took a bunch of likeminded people to <a href="http://www.wilderhood.com/destination/Bandipur">Bandipur</a>.</p>
 
 <p>Our destination was none other than our very own Bandipur Tiger Reserve. We went on six safaris in a span of two days and it turned out to be a rewarding experience. By the end of it, I wished to spend a few more days at Bandipur,  just for the pleasant weather and peace of mind.</p>  
 
