@@ -4,7 +4,7 @@ title:      "Monsoon Magic at Bandipur"
 subtitle:   "Monsoon Magic at Bandipur"
 author:     "Prasad Natarajan"
 header-img: "img/2015-07-03/4.jpg"
-tags:		["Wildlife Destinations", "Mammal Destinations", "Tiger Destinations"]
+tags:		["Wildlife Destinations", "Mammal Destinations", "Tiger Destinations", "Bandipur"]
 seo: 		["Tiger", "Bandipur", "Kabini"]
 comments:   true
 ---
@@ -31,11 +31,11 @@ comments:   true
 
 <img src="{{ site.baseurl}}/img/2015-07-03/10.jpg" alt="Pea fowl, Bandipur National Park">
 
-<p>“ Bright as a heap of flashing gems, there shines
+<p><em>“Bright as a heap of flashing gems, there shines
 Before thee on the ant-hill, Indra's bow;
 Matched with that dazzling rainbow's glittering lines,
 Thysombre form shall find its beauties grow,
-Like the dark herdsman Vishnu, with peacock-plumes aglow”</p>
+Like the dark herdsman Vishnu, with peacock-plumes aglow”</em></p>
 
 <p>Later, a herd of Indian Gaurs walked across in the rain, what more does one need? The Bandipur forest, peafowl, rain and Indian Gaurs; all at one place, we were immersed in happiness.</p>
 
