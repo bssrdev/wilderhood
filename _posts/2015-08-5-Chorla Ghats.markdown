@@ -26,6 +26,7 @@ comments:   true
 <img src="{{ site.baseurl}}/img/2015-08-05/3.jpg" alt="Travel to Chorla Ghats">
 
 <img src="{{ site.baseurl}}/img/2015-08-05/4.jpg" alt="View rom the Swapnagandha resort, Chorla Ghats">
+
 <p>The “boring” view from my Room – At the Swapnagandha Resort</p>
 
 <p>A photographer's perspective<p>
@@ -50,13 +51,13 @@ comments:   true
 2.	A good wide angle lens.
 3.	Tripod</p>
 
-<p>Experts- For a Naturalist</p>
+<p><strong>Experts- For a Naturalist</strong></p>
 
 <p>Herping and photographing Herps are best done under expert supervision for the safety of all concerned.</p>
 
 <p>The Mhadei Nature Conservation facility has been established at Chorla Ghat to facilitate research and long term monitoring of the Western Ghats of the Sahyadris region and their biodiversity. It intends to provide a platform for ecologists and wildlife biologists by way of fully equipped field station for this area. Having lodged at the Swapnagandha Resort during my stay at Chorla, we also had the good fortune of having Nirmal Kulkarni (the Author of ‘The Goan Jungle Book’) as our mentor/guide. His immense knowledge of the Western Ghats, the Chorla region in particular, and the ability to impart that to people using simple anecdotes and stories, make this trip a learning experience like no other.</p>
 
-<p>Photographer</p>
+<p><strong>Photographer</strong></p>
 
 <p>The rainforest is probably one of the most challenging environments for Photography, given how the cloud cover and the dense canopy can cause extreme changes in the way the scene is lit. Added to that is the propensity of subjects to squirm into the tiniest of crevices, how perfectly they are camouflaged. There are also far too many frogs and snakes are nocturnal, so unless you are very confident of your skills and/or have sufficient experience shooting in such an environment, you should definitely travel in the company of an xxpert. My last trip to Chorla was with <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a> and needless to say, the experience is highly recommended. The balance of helping me get the shot I want while ensuring that the wildlife is not put to any inconvenience whatsoever goes a long way in creating Photographers with a sense of responsibility towards nature.</p>
 <p>(DISCLAIMER: I am not involved with Darter or any other Photography company nor do I get any form of remuneration for my recommendations)</p>
@@ -66,17 +67,17 @@ comments:   true
 <p>Almost all the species that are present in the Western Ghats, be it the different Vipers, frogs, bugs and insects (except those that are endemic to certain other regions!) are present in Chorla too. Some of the rare species of wildlife are found here. Also, the probability of finding Saw-scaled Vipers, with their beautiful golden sheen, is far higher here than in other parts of the Ghats. Other attractions are the plant life, with ferns, orchids and multi-coloured fungi forming an unbroken carpet of green all around.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/5.jpg" alt="Biodiversity, Chorla Ghats">
-<p>A.	A jewel beetle.</p>
-<p>B.	The Nilgiri Keelback or Beddome's Keelback – Non venomous and harmless (unless you are a toad!)</p>
-<p>C.	The Malabar Pit Viper – The pit viper registers heat using the ‘pits’, positioned on each side of the snake's head between the eye and nostril,and is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches away. Venomous to humans. Completely harmless when left alone!</p>
-<p>D.	Ferns and jungle blossoms – A feast for the eyes and a welcome relief from looking for expertly camouflaged herps!</p>
-<p>E.	Millipede – A millipede rolled up in self-defence</p>
-<p>F.	The Malabar Gliding Frog – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbing that helps it glide between trees</p>
+<p>A.	<em>jewel beetle.</em></p>
+<p>B.	<em>The Nilgiri Keelback or Beddome's Keelback</em> – Non venomous and harmless (unless you are a toad!)</p>
+<p>C.	<em>The Malabar Pit Viper</em> – The pit viper registers heat using the ‘pits’, positioned on each side of the snake's head between the eye and nostril,and is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches away. Venomous to humans. Completely harmless when left alone!</p>
+<p>D.	<em>Ferns and jungle blossoms</em> – A feast for the eyes and a welcome relief from looking for expertly camouflaged herps!</p>
+<p>E.	<em>Millipede</em> – A millipede rolled up in self-defence</p>
+<p>F.	<em>The Malabar Gliding Frog</em> – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbing that helps it glide between trees</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/6.jpg" alt="Flower, Chorla Ghats location">
 <p>Chorla is home to some amazingly beautiful plant-life</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-05/7.jpg" alt=", Bioluminescence, Chorla Ghats">
+<img src="{{ site.baseurl}}/img/2015-08-05/7.jpg" alt="Bioluminescence, Chorla Ghats">
 <p>Midnight Landscape – BioluminescentFungi</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/8.jpg" alt="India map, Chorla Ghats location">
@@ -88,7 +89,7 @@ comments:   true
 <img src="{{ site.baseurl}}/img/2015-08-05/10.jpg" alt="Travel to Chorla Ghats">
 <p>Still cannot make up your mind on whether to go or not? Go ahead and take that step!</p>
 
-<p>Post script: Know your Western Ghats</p>
+<p><em>Post script: Know your Western Ghats</em></p>
 
 <p>The Western Ghats (the Sahyādri or the Sahya Parvatam) constitute a mountain range along the western side of India, starting at the southern tip of Gujarat and travelling all the way down to Kanyakumari in Tamil Nadu.</p>
 
