@@ -20,6 +20,8 @@ comments:   true
 
 <p> Day 1, started with Zone-3 for us. One of the most popular zone for tiger activity off late, because of the T19 Cubs. We were not so lucky to sight one, but we enjoyed the forest and saw some of the most amazing locations, which can be magical if you end up with a tiger sighting, one such location is this. (Royal Ruins of Rajbagh Palace)</p>
 
+<img src="{{ site.baseurl }}/img/2015-01-28/landscape.jpg" alt="Royal Ruins of Rajbagh Palace, Rajasthan">
+
 <h3> Hide and Seek | One of the T19 Cub </h3>
 
 <img src="{{ site.baseurl }}/img/2015-01-28/Cub1.jpg" alt="T19 cub from Ranthambore, Rajasthan">
