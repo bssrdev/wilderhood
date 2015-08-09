@@ -10,7 +10,7 @@ comments:   true
 
 <p>INTRODUCTION</p>
 
-<p>Gir is one of the last homes available for Asiatic lion. Asiatic Lions were found across different regions of Asian continent in the past. Excessive hunting of these animals finally brought their population close to extinction in 1900's. That was when Gir was declared as a national park by Nawab of Junagadh to protect habitat for Lions. From close to extinction, the lion population has steadily increased to 400+ individuals as per 2010 census. This is one place a big cats lover should visit. When Birdwing (http://www.birdwing.in/) announced their trip to Gir, I decided to join them.</p>
+<p>Gir is one of the last homes available for the Asiatic lion. Asiatic Lions were found across different regions of Asian continent in the past. Excessive hunting of these animals finally brought their population close to extinction in 1900's. That was when Gir was declared as a national park by Nawab of Junagadh to protect habitat for lions. From close to extinction, the lion population has steadily increased to 400+ individuals as per 2010 census. This is one place a big cats lover should visit. When Birdwing (http://www.birdwing.in/) announced their trip to Gir, I decided to join them.</p>
 
 <p>Gir National Park is located in a place called Sasan Gir. Nearest town is Junagadh and airport is at Rajkot. We stayed in a place called Gir Birding Lodge (http://www.girnationalpark.com/gir_lodge.htm). This lovely place is located in a mango plantation and has good birding opportunities. This place is also close to one of the gates of the national park and very close to the Sasan Gir center, where we need to obtain permits for entry and register routes we would take.</p>
 
@@ -27,7 +27,7 @@ comments:   true
 
 <p>FEMALE AND CUBS</p>
 
-<p>We sighted a small pride consisting of two females and two cubs. They were sighted on two specific occasions. Good part of any lion sighting is that, it gives you time to think, compose and shoot. Lions are in no hurry to move. Most of the lion sightings we had gave us so much time, and allowed us to take good shots of action.</p>
+<p>We sighted a small pride consisting of two females and two cubs. They were sighted on two specific occasions. Good part of any lion sighting is that, it gives you time to think, compose and shoot. Lions are in no hurry to move. Most of the lion sightings we had, gave us so much time and allowed us to take good shots of action.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-09/7.jpg" alt="Gir National Park">
 <img src="{{ site.baseurl}}/img/2015-08-09/8.jpg" alt="Gir National Park">
@@ -40,7 +40,7 @@ comments:   true
 
 <p>TEEN BHAI-RULERS OF THE FUTURE</p>
 
-<p>Three sub-adults are trying to get control of the territory which was once controlled by the great “Raju-Bhai”. They had a fight few days back with him and Raju was left badly wounded in the left eye. Though he was able to hold his control, it is most likely that these three sub-adults may rule this terrotory in the future.</p>
+<p>Three sub-adults are trying to get control of the territory which was once controlled by the great “Raju-Bhai”. They had a fight few days back with him and Raju was left badly wounded in the left eye. Though he was able to retain his control, it is most likely that these three sub-adults may rule this terrotory in the future.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-09/15.jpg" alt="Gir National Park">
 <img src="{{ site.baseurl}}/img/2015-08-09/16.jpg" alt="Gir National Park">
