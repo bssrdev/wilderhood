@@ -8,7 +8,7 @@ tags:		["Gir", "Wildlife Destinations", "Birding Destinations", "Mammal Destinat
 comments:   true
 ---
 
-<p>INTRODUCTION</p>
+<h3>INTRODUCTION</h3>
 
 <p>Gir is one of the last homes available for the Asiatic lion. Asiatic Lions were found across different regions of Asian continent in the past. Excessive hunting of these animals finally brought their population close to extinction in 1900's. That was when Gir was declared as a national park by Nawab of Junagadh to protect habitat for lions. From close to extinction, the lion population has steadily increased to 400+ individuals as per 2010 census. This is one place a big cats lover should visit. When <a href="http://www.wilderhood.com/organizer/Birdwing%20Photography">Birdwing Travel & Photography</a> announced their trip to <a href="http://www.wilderhood.com/trip/Gir%20-%20The%20Lions%20Last%20Lair">Gir Trip</a>, I decided to join them.</p>
 
