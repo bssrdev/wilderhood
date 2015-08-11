@@ -11,33 +11,33 @@ adList.push({link: "RAINFOREST RENDEZVOUS - PHOTOGRAPHY TOUR OF GOA", image: "Da
 
 adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", image: "BikeNHike/Trip/Coorg/BikeNHike_Coorg_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", keywords: ["Coorg", "Monsoon Destinations", "Reptiles"], months: ["Jul", "Aug"]});
 
-adList.push({link: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", image: "Darter/Trip/Andaman/Andaman.jpg", text: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", keywords: ["Andaman", "Birding Destinations", "Port Blair"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", image: "Darter/Trip/Andaman/Andaman.jpg", text: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", keywords: ["Andaman", "Birding Destinations", "Port Blair", "Travel", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
 adList.push({link: "EXPLORE WAYANAD", image: "MysticWild/Trip/Wayanad/1.jpg", text: "EXPLORE WAYANAD", keywords: ["Wayanad", "Monsoon Destinations", "Reptiles"], months: ["Jul"]});
 
-adList.push({link: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", image: "Darter/Trip/Lahaul/Spiti.jpg", text: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", keywords: ["Travel Destinations", "Lahaul", "Spiti"], months: ["Jul", "Aug"]});
+adList.push({link: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", image: "Darter/Trip/Lahaul/Spiti.jpg", text: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", keywords: ["Travel Destinations", "Lahaul", "Spiti", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 
-adList.push({link: "LAND OF THE HIGH PASSES---LADAKH", image: "BeyondRoads/Trip/Ladakh/Ladakh.jpg", text: "LAND OF THE HIGH PASSES---LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh"], months: ["Jul", "Aug"]});
+adList.push({link: "LAND OF THE HIGH PASSES---LADAKH", image: "BeyondRoads/Trip/Ladakh/Ladakh.jpg", text: "LAND OF THE HIGH PASSES---LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 
-adList.push({link: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", image: "Darter/Trip/Ladakh/Ladakh.jpg", text: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh"], months: ["Jul", "Aug"]});
+adList.push({link: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", image: "Darter/Trip/Ladakh/Ladakh.jpg", text: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh", "Ladakh", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 
-adList.push({link: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", image: "Darter/Trip/Cambodia/Cambodia.jpg", text: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", keywords: ["Cambodia", "Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", image: "Darter/Trip/Cambodia/Cambodia.jpg", text: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", keywords: ["Cambodia", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "WALK ON THE HILLY SIDE IN BHUTAN", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "WALK ON THE HILLY SIDE IN BHUTAN", keywords: ["Bhutan", "Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep"]});
+adList.push({link: "WALK ON THE HILLY SIDE IN BHUTAN", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "WALK ON THE HILLY SIDE IN BHUTAN", keywords: ["Bhutan", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep"]});
 
-adList.push({link: "BHUTAN TRAVEL ROUTERS TOURS AND TREKS", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "BHUTAN TRAVEL ROUTERS TOURS AND TREKS", keywords: ["Bhutan", "Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep"]});
+adList.push({link: "BHUTAN TRAVEL ROUTERS TOURS AND TREKS", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "BHUTAN TRAVEL ROUTERS TOURS AND TREKS", keywords: ["Bhutan", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep"]});
 
-adList.push({link: "CLASSIC MYANMAR - A PHOTOGRAPHY TOUR", image: "Darter/Trip/Myanmar/Myanmar.jpg", text: "CLASSIC MYANMAR - A PHOTOGRAPHY TOUR", keywords: ["Myanmar", "Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct"]});
+adList.push({link: "CLASSIC MYANMAR - A PHOTOGRAPHY TOUR", image: "Darter/Trip/Myanmar/Myanmar.jpg", text: "CLASSIC MYANMAR - A PHOTOGRAPHY TOUR", keywords: ["Myanmar", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
 
-adList.push({link: "PHOTOGRAPHY IN NORTH-EAST INDIA AND HORNBILL FESTIVAL", image: "Darter/Trip/Hornbill/Hornbill.jpg", text: "PHOTOGRAPHY IN NORTH-EAST INDIA AND HORNBILL FESTIVAL", keywords: ["HORNBILL FESTIVAL", "Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
+adList.push({link: "PHOTOGRAPHY IN NORTH-EAST INDIA AND HORNBILL FESTIVAL", image: "Darter/Trip/Hornbill/Hornbill.jpg", text: "PHOTOGRAPHY IN NORTH-EAST INDIA AND HORNBILL FESTIVAL", keywords: ["HORNBILL FESTIVAL", "Travel", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 
-adList.push({link: "FORTS AND DUNES OF RAJASTHAN - A TRAVEL PHOTOGRAPHY TOUR", image: "Darter/Trip/Rajasthan/Rajasthan.jpg", text: "FORTS AND DUNES OF RAJASTHAN - A TRAVEL PHOTOGRAPHY TOUR", keywords: ["Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
+adList.push({link: "FORTS AND DUNES OF RAJASTHAN - A TRAVEL PHOTOGRAPHY TOUR", image: "Darter/Trip/Rajasthan/Rajasthan.jpg", text: "FORTS AND DUNES OF RAJASTHAN - A TRAVEL PHOTOGRAPHY TOUR", keywords: ["Travel", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
 
-adList.push({link: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", image: "Darter/Trip/Ladakh/Ladakh-snow.jpg", text: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", keywords: ["Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
+adList.push({link: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", image: "Darter/Trip/Ladakh/Ladakh-snow.jpg", text: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", keywords: ["Travel", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
 
-adList.push({link: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", image: "Darter/Trip/Ladakh/Ladakh-snow.jpg", text: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", keywords: ["Travel Destinations", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
+adList.push({link: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", image: "Darter/Trip/Ladakh/Ladakh-snow.jpg", text: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", keywords: ["Travel", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
 
-adList.push({link: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Maara/Maara.jpg", text: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["African Destinations", "Maara"], months: ["Jul", "Aug"]});
+adList.push({link: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Maara/Maara.jpg", text: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["African Destinations", "Maara", "Exotic"], months: ["Jul", "Aug"]});
 
 adList.push({link: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Maara/Maara.jpg", text: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["African Destinations", "Maara", "Great Migration"], months: ["Jul", "Aug"]});
 
@@ -45,7 +45,7 @@ adList.push({link: "MASAI MARA MIGRATION - SEPT 2015", image: "Sudhir/Trip/Maara
 
 adList.push({link: "MOTHER OF ALL PARKS-SERENGETI", image: "BeyondRoads/Trip/Serengeti/Serengeti.jpg", text: "MOTHER OF ALL PARKS-SERENGETI", keywords: ["African Destinations", "Serengeti", "Tanzania", "Great Migration"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
 
-adList.push({link: "THE PHANTOM AND THE WETLANDS - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Pantanal/Pantanal.jpg", text: "THE PHANTOM AND THE WETLANDS - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Exotic Destinations", "Birding Destinations"], months: ["Jul", "Aug", "Sep"]});
+adList.push({link: "THE PHANTOM AND THE WETLANDS - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Pantanal/Pantanal.jpg", text: "THE PHANTOM AND THE WETLANDS - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Exotic", "Birding Destinations"], months: ["Jul", "Aug", "Sep"]});
 
 adList.push({link: "GIR - THE LIONS LAST LAIR", image: "BirdWing/Trip/Gir/Gir.jpg", text: "GIR - THE LIONS LAST LAIR", keywords: ["Gir", "Birding Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 
@@ -69,9 +69,9 @@ adList.push({link: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/
 
 adList.push({link: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "Tiger Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 
-adList.push({link: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", image: "Toehold/Trip/Svalbard/Svalbard.jpg", text: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", keywords: ["Svalbard", "Exotic Destinations"], months: ["Jul", "Aug"]});
+adList.push({link: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", image: "Toehold/Trip/Svalbard/Svalbard.jpg", text: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", keywords: ["Svalbard", "Exotic"], months: ["Jul", "Aug"]});
 
-adList.push({link: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Kamchatka/Kamchatka.jpg", text: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Kamchatka", "Exotic Destinations"], months: ["Jul", "Aug"]});
+adList.push({link: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Kamchatka/Kamchatka.jpg", text: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Kamchatka", "Exotic"], months: ["Jul", "Aug"]});
 
 adList.push({link: "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});
 
