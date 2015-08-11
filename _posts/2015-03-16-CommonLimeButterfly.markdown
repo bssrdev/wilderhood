@@ -4,6 +4,7 @@ title:      "Common Lime Butterfly Life Cycle"
 subtitle:   "Life cycle of Common Lime Butterfly(Papilio Demoleus)"
 author:     "Neha Manohar"
 tags:       ["Macro Life", "Monsoon Destinations", "Butterflies"]
+seo:		["Butterflies", "Macro"]
 comments:   true
 header-img: "img/2015-03-16/img3.jpg"
 

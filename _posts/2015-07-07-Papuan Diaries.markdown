@@ -5,6 +5,7 @@ subtitle:   "THE BIRD THAT BOWLED ME OVER"
 author:     "Adarsh J Raju"
 header-img: "img/2015-07-07/3.jpg"
 tags:		["Wildlife Destinations", "Birding Destinations", "Exotic Destinations"]
+seo:        ["Exotic", "Birding Destinations"]
 comments:   true
 ---
 

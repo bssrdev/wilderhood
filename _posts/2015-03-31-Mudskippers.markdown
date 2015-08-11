@@ -4,6 +4,7 @@ title:      "Mudskippers – Love at first sight"
 subtitle:   "Mudskippers – Love at first sight"
 author:     "Santhosh Krishnamoorthy"
 tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations", "Goa Wildlife"]
+seo:		["Monsoon", "Macro"]
 comments:   true
 header-img: "img/2015-03-31/img1.jpg"
 ---

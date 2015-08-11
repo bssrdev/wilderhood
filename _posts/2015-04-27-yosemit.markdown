@@ -4,6 +4,7 @@ title:      "Yosemite - My impressions"
 subtitle:   "Yosemite - My impressions"
 author:     "Ashwini Kumar Bhat"
 tags:       ["Wildlife Destinations", "LandScape Destinations", "Travel Destinations", "Exotic Destinations"]
+seo:		["Exotic", "Travel", "Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-27/img8.jpg"
 ---

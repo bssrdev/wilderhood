@@ -4,6 +4,7 @@ title:      "Filters for Landscape photography"
 subtitle:   "A brief insight"
 author:     "Shivakumar L Narayan"
 tags:       ["Tips and Tricks"]
+seo:		["Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-18/img5.jpg"
 ---

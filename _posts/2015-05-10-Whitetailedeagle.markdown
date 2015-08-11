@@ -5,6 +5,7 @@ subtitle:   "White tailed eagle – the vagrant"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-05-10/img2.jpg"
 tags:       ["Birding Destinations", "Wildlife Destinations", "Bikaner", "Raptors"]
+seo:		["Birding Destinations", "Raptors", "Bikaner"]
 comments:   true
 ---
 

@@ -4,7 +4,7 @@ title:      "A Pain turned into a Pleasant moment at Bhadra"
 subtitle:   "A Pain turned into a Pleasant moment at Bhadra"
 author:     "Vinodh Ve"
 tags:       ["Birding Destinations", "Bhadra", "Wildlife Destinations", "Tiger Destinations"]
-seo: 		["Tiger", "Bhadra"]
+seo: 		["Tiger", "Bhadra", "BigCats"]
 comments:   true
 header-img: "img/2015-04-06/img1.jpg"
 ---

@@ -5,6 +5,7 @@ subtitle:   "Raw Nature"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-20/1.jpg"
 tags:       ["Wildlife Destinations", "Monsoon Destinations"]
+seo:		["Monsoon", "Agumbe"]
 comments:   true
 ---
 

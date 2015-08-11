@@ -5,6 +5,7 @@ subtitle:   "King Cobra"
 author:     "Mamta Naidu"
 header-img: "img/2015-06-06/1.jpg"
 tags:       ["Wildlife Destinations", "Agumbe", "Monsoon Destinations"]
+seo:		["King Cobra", "Agumbe", "Monsoon"]
 comments:   true
 ---
 

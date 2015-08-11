@@ -4,6 +4,7 @@ title:      "A Defensive Posture"
 subtitle:   "Death's-head Hawkmoth's Caterpillar"
 author:     "Vinodh Ve"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Coorg"]
+seo:		["Macro", "Monsoon"]
 comments:   true
 disable-header-img : true
 

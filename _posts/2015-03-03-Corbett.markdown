@@ -5,7 +5,7 @@ subtitle:   "CORBETT TIGER RESERVE---The Mother of Wild India"
 author:     "Chandrasekhar Kalyanasundaram"
 header-img: "img/2015-03-03/banner.jpg"
 tags:       ["Wildlife Destinations", "Tiger Destinations", "Corbett"]
-seo: 		["Tiger", "Corbett"]
+seo: 		["Tiger", "Corbett", "Ranthambore"]
 comments:   true
 ---
 

@@ -5,6 +5,7 @@ subtitle:   "The Chorla Ghats"
 author:     "Anand Menon"
 header-img: "img/2015-08-05/1.jpg"
 tags:		["Chorla Ghats", "Monsoon Destinations", "Macro Life", "Reptiles", "Western Ghats", "Wildlife Destinations", ]
+seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
 ---
 

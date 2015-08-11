@@ -4,6 +4,7 @@ title:      "Rendezvous with Short-Eared Owls"
 subtitle:   "Rendezvous with Short-Eared Owls( Little Rann of Kutch )"
 author:     "Bharath Hegde"
 tags:       ["Birding Destinations", "Wildlife Destinations", "LRK", "Raptors"]
+seo:		["Birding Destinations", "Raptors", "Rann"]
 comments:   true
 header-img: "img/2015-04-09/img1.jpg"
 ---

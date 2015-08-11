@@ -5,6 +5,7 @@ subtitle:   "MAGICAL LAND OF BHARATPUR"
 author:     "Manohara Kamath"
 header-img: "img/2015-06-09/1.jpg"
 tags:       ["Wildlife Destinations", "Birding Destinations", "Bharatpur"]
+seo:		["Birding Destinations", "Bharathpur"]
 comments:   true
 ---
 

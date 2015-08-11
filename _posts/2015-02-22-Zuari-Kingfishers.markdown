@@ -5,6 +5,7 @@ subtitle:   "Where else one can find six different species of Kingfishers within
 author:     "Bharath Hegde"
 header-img: "img/2015-02-22/Zuari_river_stream.jpg"
 tags:       ["Wildlife Destinations", "Goa Wildlife", "Birding Destinations"]
+seo:		["Birding Destinations"]
 comments:   true
 ---
 

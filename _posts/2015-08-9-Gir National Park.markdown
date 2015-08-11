@@ -5,7 +5,7 @@ subtitle:   "Gir National Park-Sasan Gir"
 author:     "Manohara Kamath"
 header-img: "img/2015-08-09/2.jpg"
 tags:		["Gir", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations"]
-seo:        ["Gir"]
+seo:        ["Gir", "BigCats"]
 comments:   true
 ---
 

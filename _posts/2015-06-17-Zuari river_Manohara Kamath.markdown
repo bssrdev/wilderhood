@@ -5,6 +5,7 @@ subtitle:   "CUMBARJUEM CANAL BIRD TRIP"
 author:     "Manohara Kamath"
 header-img: "img/2015-06-17/1.jpg"
 tags:       ["Wildlife Destinations", "Birding Destinations", "Goa Wildlife"]
+seo:		["Birding Destinations"]
 comments:   true
 ---
 

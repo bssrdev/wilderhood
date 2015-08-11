@@ -5,6 +5,7 @@ subtitle:   "End of the Era - Lion King, Raju"
 author:     "Jagadeesh Rampam"
 header-img: "img/Gir/IMG_1718.jpg"
 tags:		["Wildlife Destinations", "Mammal Destinations", "Gir"]
+seo: 		["Gir", "BigCats"]
 comments:   true
 ---
 

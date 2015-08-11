@@ -5,6 +5,7 @@ subtitle:   "Lions and the Elephants, as all know, are perennial enemies. One co
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-02-11/Elephants1.jpg"
 tags:       ["African Destinations", "Wildlife Destinations"]
+seo:		["Africa", "BigCats"]
 comments:   true
 ---
 

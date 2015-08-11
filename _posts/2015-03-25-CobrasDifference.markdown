@@ -4,6 +4,7 @@ title:      "King Cobras & Common Cobras"
 subtitle:   "We beg to differ....!!!"
 author:     "Gowri Shankar"
 tags:       ["Macro Life", "Monsoon Destinations", "Reptiles", "King Cobra", "Western Ghats", "Agumbe"]
+seo:		["Agumbe", "Monsoon", "King Cobra"]
 comments:   true
 disable-header-img : true
 

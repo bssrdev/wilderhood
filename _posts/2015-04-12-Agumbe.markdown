@@ -4,6 +4,7 @@ title:      "An unforgettable encounter at Agumbe"
 subtitle:   "An unforgettable encounter at Agumbe"
 author:     "Vinodh Ve"
 tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations", "King Cobra", "Reptiles", "Agumbe"]
+seo:		["Agumbe", "King Cobra", "Monsoon"]
 comments:   true
 header-img: "img/Monsoon.jpg"
 ---

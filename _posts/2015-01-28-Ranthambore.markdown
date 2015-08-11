@@ -5,7 +5,7 @@ subtitle:   "Ranthambore wildlife sanctuary is known for its tigers and is one o
 author:     "Goutham Shankar"
 header-img: "img/2015-01-28/landscape.jpg"
 tags:       ["Wildlife Destinations", "Tiger Destinations", "Ranthambore"]
-seo: 		["Tiger", "Ranthambore"]
+seo: 		["Tiger", "Ranthambore", "BigCats"]
 comments:   true
 ---
 
