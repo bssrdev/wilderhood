@@ -4,6 +4,7 @@ title:      "Plain Tiger Butterfly Life Cycle"
 subtitle:   "Plain Tiger Life Cycle (Danius chrysippus)"
 author:     "Neha Manohar"
 tags:       ["Macro Life", "Monsoon Destinations", "Butterflies"]
+seo:		["Butterflies", "Macro"]
 comments:   true
 header-img: "img/2015-03-10/img9.jpg"
 

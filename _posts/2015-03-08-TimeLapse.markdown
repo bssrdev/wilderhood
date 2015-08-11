@@ -4,6 +4,7 @@ title:      "Time-lapse Photography"
 subtitle:   "What is Time-lapse Photography?"
 author:     "Goutham Shankar"
 tags:       ["Tips and Tricks"]
+seo:		["Landscape Destinations"]
 comments:   true
 disable-header-img: true
 ---

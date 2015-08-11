@@ -5,6 +5,7 @@ subtitle:   "16 legged love affair"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-13/1.jpg"
 tags:       ["Wildlife Destinations", "Monsoon Destinations"]
+seo:		["Monsoon", "Macro"]
 comments:   true
 ---
 

@@ -4,6 +4,7 @@ title:      "Raptor Mania at Jorbeed"
 subtitle:   "Raptor Mania at Jorbeed"
 author:     "Bharath Hegde"
 tags:       ["Birding Destinations", "Bikaner", "Wildlife Destinations", "Raptors"]
+seo:		["Birding Destinations", "Raptors"]
 comments:   true
 header-img: "img/2015-04-15/img1.jpg"
 ---

@@ -5,6 +5,7 @@ subtitle:   "A gliding beauty"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-04/1.jpg"
 tags:       ["Wildlife Destinations", "Agumbe", "Monsoon Destinations"]
+seo:		["Monsoon", "Macro"]
 comments:   true
 ---
 

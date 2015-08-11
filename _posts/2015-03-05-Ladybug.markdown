@@ -4,6 +4,7 @@ title:      "Lady Beetle Life cycle"
 subtitle:   "Lady Beetle Life cycle (Coccinellidae)"
 author:     "Neha Manohar"
 tags:       ["Macro Life", "Monsoon Destinations"]
+seo:		["Butterflies", "Monsoon", "Macro"]
 comments:   true
 header-img: "img/2015-03-05/img5.jpg"
 

@@ -5,6 +5,7 @@ subtitle:   "Tawny Eagle attacking Desert Fox"
 author:     "Bharath Hegde"
 header-img: "img/2015-07-22/4.jpg"
 tags:		["Raptors","Tal Chappar", "Birding Destinations", "Wildlife Destinations"]
+seo:		["Birding Destinations", "Raptors"]
 comments:   true
 ---
 

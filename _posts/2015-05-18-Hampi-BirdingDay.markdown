@@ -4,6 +4,7 @@ title:      "Endemic Bird Day-Special Bird from Hampi"
 subtitle:   "Endemic Bird Day-Special Bird from Hampi"
 author:     "Prasad Natarajan"
 tags:       ["Birding Destinations", "Wildlife Destinations", "Hampi", "Travel Destinations"]
+seo:		["Travel", "Hampi"]
 comments:   true
 disable-header-img: true
 ---

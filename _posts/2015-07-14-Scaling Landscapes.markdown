@@ -5,6 +5,7 @@ subtitle:   "How high is this waterfall?"
 author:     "Ashwini Kumar Bhat"
 header-img: "img/2015-07-14/1b.jpg"
 tags:		["Monsoon Destinations", "Landscape Destinations", "Tips and Tricks"]
+seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
 ---
 

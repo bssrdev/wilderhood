@@ -4,6 +4,7 @@ title:      "AGUMBE-KING’S OWN COUNTRY!"
 subtitle:   "AGUMBE-KING’S OWN COUNTRY!"
 author:     "Mamta Naidu"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Western Ghats", "Reptiles", "King Cobra", "Agumbe"]
+seo:		["Monsoon", "King Cobra"]
 comments:   true
 header-img: "img/2015-04-21/img4.jpg"
 ---

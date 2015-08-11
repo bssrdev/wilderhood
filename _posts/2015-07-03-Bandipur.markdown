@@ -5,7 +5,7 @@ subtitle:   "Monsoon Magic at Bandipur"
 author:     "Prasad Natarajan"
 header-img: "img/2015-07-03/4.jpg"
 tags:		["Wildlife Destinations", "Mammal Destinations", "Tiger Destinations", "Bandipur"]
-seo: 		["Tiger", "Bandipur", "Kabini"]
+seo: 		["Tiger", "Bandipur", "Kabini", "BigCats"]
 comments:   true
 ---
 

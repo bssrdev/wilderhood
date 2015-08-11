@@ -5,6 +5,7 @@ subtitle:   "The Hunt"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-07-11/5.jpg"
 tags:		["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
+seo:		["Monsoon", "Agumbe"]
 comments:   true
 ---
 

@@ -5,6 +5,7 @@ subtitle:   "At Agumbe"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-07-25/3.jpg"
 tags:		["Agumbe","Monsoon Destinations", "Wildlife Destinations"]
+seo:		["Monsoon", "King Cobra", "Agumbe"]
 comments:   true
 ---
 

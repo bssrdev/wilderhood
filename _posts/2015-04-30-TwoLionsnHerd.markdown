@@ -5,6 +5,7 @@ subtitle:   "This is the Episode-II, of the amazing predator-prey interactions t
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-04-30/img2.jpg"
 tags:       ["African Destinations", "Wildlife Destinations"]
+seo:		["Africa", "Exotic"]
 comments:   true
 ---
 
