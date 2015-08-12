@@ -3,7 +3,7 @@ layout:     post
 title:      "Birding in Waynad"
 subtitle:   "Kerala"
 author:     "Shivakumar L Narayanan"
-header-img: "img/2015-08-12/1.jpg"
+header-img: "img/2015-08-12/6.jpg"
 tags:		["Birding Destinations", "Western Ghats", "Wayanad"]
 comments:   true
 ---
