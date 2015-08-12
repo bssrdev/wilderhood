@@ -75,6 +75,8 @@ adList.push({link: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", ima
 
 adList.push({link: "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});
 
+adList.push({link: "JEWELS OF THE RAINFOREST - AMBOLI", image: "BirdWing/Trip/Amboli/Banner.jpg", text: "JEWELS OF THE RAINFOREST - AMBOLI", keywords: ["Monsoon", "Amboli"], months: ["Jul", "Aug"]});
+
 var sponsoredList = [];
 /*sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
 sponsoredList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
