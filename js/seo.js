@@ -7,13 +7,9 @@ var imgURLPrefix = "http://az741737.vo.msecnd.net/wilderhood-public/medium/";
 
 adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AMBOLI", image: "BikeNHike/Trip/Amboli/BikeNHike_Amboli_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AMBOLI", keywords: ["Amboli", "Monsoon Destinations", "Reptiles"], months: ["Jul", "Aug"]});
 
-adList.push({link: "RAINFOREST RENDEZVOUS - PHOTOGRAPHY TOUR OF GOA", image: "Darter/Trip/Goa/Goa.jpg", text: "RAINFOREST RENDEZVOUS - PHOTOGRAPHY TOUR OF GOA", keywords: ["Chorla Ghats", "Monsoon Destinations", "Reptiles", "Goa"], months: ["Jul", "Aug"]});
-
 adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", image: "BikeNHike/Trip/Coorg/BikeNHike_Coorg_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", keywords: ["Coorg", "Monsoon Destinations", "Reptiles"], months: ["Jul", "Aug"]});
 
 adList.push({link: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", image: "Darter/Trip/Andaman/Andaman.jpg", text: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", keywords: ["Andaman", "Birding Destinations", "Port Blair", "Travel", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
-
-adList.push({link: "EXPLORE WAYANAD", image: "MysticWild/Trip/Wayanad/1.jpg", text: "EXPLORE WAYANAD", keywords: ["Wayanad", "Monsoon Destinations", "Reptiles"], months: ["Jul"]});
 
 adList.push({link: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", image: "Darter/Trip/Lahaul/Spiti.jpg", text: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", keywords: ["Travel Destinations", "Lahaul", "Spiti", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 
@@ -36,10 +32,6 @@ adList.push({link: "FORTS AND DUNES OF RAJASTHAN - A TRAVEL PHOTOGRAPHY TOUR", i
 adList.push({link: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", image: "Darter/Trip/Ladakh/Ladakh-snow.jpg", text: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", keywords: ["Travel", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
 
 adList.push({link: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", image: "Darter/Trip/Ladakh/Ladakh-snow.jpg", text: "A SNOW FILLED WINTER IN LADAKH - PHOTOGRAPHY TOUR", keywords: ["Travel", "Landscape Destinations"], months: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]});
-
-adList.push({link: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Maara/Maara.jpg", text: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Africa", "Maara", "Exotic", "BigCats"], months: ["Jul", "Aug"]});
-
-adList.push({link: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Maara/Maara.jpg", text: "THE GREAT MIGRATION - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Africa", "Maara", "Great Migration", "BigCats"], months: ["Jul", "Aug"]});
 
 adList.push({link: "MASAI MARA MIGRATION - SEPT 2015", image: "Sudhir/Trip/Maara/Maara.jpg", text: "MASAI MARA MIGRATION - SEPT 2015", keywords: ["Africa", "Maara", "Great Migration", "BigCats"], months: ["Jul", "Aug", "Sep"]});
 
