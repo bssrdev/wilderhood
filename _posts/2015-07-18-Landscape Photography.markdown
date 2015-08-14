@@ -5,7 +5,7 @@ subtitle:   "The most dangerous form of Photography "
 author:     "Sriharsha Ganjam"
 header-img: "img/2015-07-18/2.jpg"
 tags:		["Monsoon Destinations", "Landscape Destinations", "Tips and Tricks"]
-seo:		["Monsoon", "Landscape Destinations"]
+seo:		["Monsoon", "Landscape Destinations", "Travel"]
 comments:   true
 ---
 
