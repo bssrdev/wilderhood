@@ -3,19 +3,15 @@ layout:     post
 title:      "Subterranean Landscapes (SuLa)"
 subtitle:   "Subterranean Landscapes (SuLa)"
 author:     "Sriharsha Ganjam"
-disable-header-img: true
-tags:		["Landscape Destinations"]
+tags:		["Monsoon Destinations", "Landscape Destinations"]
 seo:		["Landscape Destinations"]
 comments:   true
+disable-header-img: true
 ---
 
 <p>
-In Dec 2014, <a href="http://recitals.wilderhood.com/authors/Shivakumar%20L%20Narayan" style="text-decoration:none">Shiva</a> and <a href="http://recitals.wilderhood.com/authors/Sriharsha%20Ganjam" style="text-decoration:none">Harsha</a> from <a href="http://landscape-wizards.com" style="text-decoration:none">Team LW</a> went on a amazing unseen Landscapes adventure to photograph the caves of Meghalaya in North Eastern region of the Indian Sub-continent.  Cave Photography is still in its infancy in India and this is probably the only professional work  done on photographing the hidden subterranean worlds in India. The accompanying 5 minute video gives you an insight into their amazing adventure and showcases the challenges and threats facing this sensitive and fragile eco-system.
+In Dec 2014, <a href="http://recitals.wilderhood.com/authors/Shivakumar%20L%20Narayan" style="text-decoration:none">Shiva</a> and <a href="http://recitals.wilderhood.com/authors/Sriharsha%20Ganjam" style="text-decoration:none">Harsha</a> from <a href="http://landscape-wizards.com" style="text-decoration:none">Team LW</a> went on a amazing Unseen Landscapes adventure to photograph the caves of Meghalaya in North Eastern region of the Indian Sub-continent.  Cave Photography is still in its infancy in India and this is probably the only professional work  done on photographing the hidden subterranean worlds in India. The accompanying 5 min video gives you an insight into their amazing adventure and showcases the challenges and threats facing this sensitive and fragile eco-system.
 </p>
 
-<iframe width="690" height="460" frameborder="0" allowfullscreen src="https://pdlvimeocdn-a.akamaihd.net/63119/443/334368547.mp4?token2=1439384655_07d723c34c54a8dc86b2ec4bed7d0d68&aksessionid=2d11072a51274688"></iframe>
 
-
-
-
-
+<iframe src="https://player.vimeo.com/video/115924255" width="690" height="460" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
