@@ -43,10 +43,10 @@ The more collection of Bioluminescence
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-04-02/img1.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img2.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img3.jpg">
 <img src="{{ site.baseurl }}/img/2015-04-02/img4.jpg">
 <img src="{{ site.baseurl }}/img/2015-04-02/img5.jpg">
 <img src="{{ site.baseurl }}/img/2015-04-02/img6.jpg">
 <img src="{{ site.baseurl }}/img/2015-04-02/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img3.jpg">
 <img src="{{ site.baseurl }}/img/2015-04-02/img8.jpg">
