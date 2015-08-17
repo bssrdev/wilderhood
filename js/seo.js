@@ -61,8 +61,6 @@ adList.push({link: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/
 
 adList.push({link: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 
-adList.push({link: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", image: "Toehold/Trip/Svalbard/Svalbard.jpg", text: "POLE TRANCE - POLAR BEAR PHOTOGRAPHY EXPEDITION", keywords: ["Svalbard", "Exotic"], months: ["Jul", "Aug"]});
-
 adList.push({link: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Kamchatka/Kamchatka.jpg", text: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Kamchatka", "Exotic"], months: ["Jul", "Aug"]});
 
 adList.push({link: "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});
