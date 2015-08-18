@@ -47,7 +47,7 @@ comments:   true
 
 <img src="{{ site.baseurl}}/img/2015-08-19/Bali_Sharanya_3.3.jpg" alt="Bali Island">
 
-<p>Tulamben is a small fishing village on the north-east coast of Bali. It is among the most popular dive sites on Bali doe to a wreck of the Liberty, a US Army Transport ship torpedoed by a Japanese submarine in 1942, the wreck lies just off shore. During tourist season, up to 100 divers descend to the wreck each day.It was a star-studded sky when I reached there. I decided to walk to the beach from my hotel around midnight, (instead of calling it a day and hitting the sack) when I saw these beautiful rocks. I immediately knew that it was going to be a long, very long sleepless night.</p>
+<p>Tulamben is a small fishing village on the north-east coast of Bali. It is among the most popular dive sites on Bali due to a wreck of the Liberty, a US Army Transport ship torpedoed by a Japanese submarine in 1942, the wreck lies just off shore. During tourist season, up to 100 divers descend to the wreck each day.It was a star-studded sky when I reached there. I decided to walk to the beach from my hotel around midnight, (instead of calling it a day and hitting the sack) when I saw these beautiful rocks. I immediately knew that it was going to be a long, very long sleepless night.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-19/Bali_Sharanya_3.4.jpg" alt="Bali Island">
 
