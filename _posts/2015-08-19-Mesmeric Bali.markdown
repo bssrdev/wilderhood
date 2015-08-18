@@ -3,7 +3,7 @@ layout:     post
 title:      "Mesmeric Bali"
 subtitle:   "The Bali Island, Indonesia"
 author:     "Sharanya Chander"
-header-img: "img/2015-08-19/2.1.jpg"
+header-img: "img/2015-08-19/Bali_Sharanya_2.1.jpg"
 tags:		["Exotic Destinations", "Travel Destinations", "Bali"]
 seo:		["Exotic", "Travel"]
 comments:   true
