@@ -3,7 +3,7 @@ layout: default
 disable-header-img: true
 ---
 
-<div id="main" role="main"> 
+<div id="main" role="main">
   <div class="article-author-container" class="row">
 	  <div class="article-author-side col-xs-3">
 		{% include author-bio.html %}
@@ -22,6 +22,21 @@ disable-header-img: true
 				<span>{{ post.subtitle | strip_html | truncate: 160 }}</span>
 				</article>
 			{% endif %}
+		{% endfor %}
+
+		<h3>Gallery</h3>
+		<hr>
+		{% for collection in site.collections%}
+			{% assign collectionName = collection[0] %}
+			<h5>{{collectionName}}</h5>
+			{% for post in site[collectionName] reversed %}
+				{% if post.author == page.author_name %}
+					<article>
+					<h4><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h4>
+					<span>{{ post.subtitle | strip_html | truncate: 160 }}</span>
+					</article>
+				{% endif %}
+			{% endfor %}
 		{% endfor %}
 	</div>	
   </div>

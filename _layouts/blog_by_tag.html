@@ -30,4 +30,23 @@ layout: default
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+
+	<br><br>
+	<h3>Gallery</h3>
+	<hr>
+	{% for collection in site.collections %}
+		{% assign collectionName = collection[0] %}
+		<h5>{{collectionName}}</h5>
+		{% for post in site[collectionName] reversed %}
+			{% for post_tag in post.tags %}
+				{% if post_tag == page.tag %}
+					<article>
+					<h4><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" >{{ post.title }}</a></h4>
+					<span>{{ post.subtitle | strip_html | truncate: 160 }}</span>
+					</article>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	{% endfor %}
+
 </div>
