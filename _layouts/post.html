@@ -44,6 +44,45 @@ var seoKeywords = [];
 </header>
 {% endif %}
 
+
+{% assign previousPostURL = page.previous.url %}
+{% assign nextPostURL = page.next.url %}
+{% assign previousPostTitle = page.previous.title %}
+{% assign nextPostTitle = page.next.title %}
+
+<!-- Populate Previous and Next if its from a collection -->
+{% if page.collection %}
+
+	{% assign sorted_pages = (site[page.collection] | sort: 'url') %}
+
+	<!-- Find next and previous in the sorted array -->
+	{% assign breakNext = false %}
+	{% for post in sorted_pages %}
+		
+		{% assign newPostURL = {{post.url | remove_first:'index.html' }} %}
+		{% unless post.url == newPostURL %}
+			{% continue %}
+		{% endunless %}
+
+		{% if breakNext == true %}
+			{% assign nextURL = post.url %}
+			{% assign nextPostTitle = post.title %}
+			{% break %}
+		{% endif %}
+		
+		{% if post.url == page.url %}
+			{% assign breakNext = true %}
+			{% continue %}
+		{% endif %}
+		
+		{% assign previousURL = post.url %}
+		{% assign previousPostTitle = post.title %}
+	{% endfor %}
+
+	{% assign previousPostURL = previousURL %}
+	{% assign nextPostURL = nextURL %}
+{% endif %}
+
 <!-- Post Content -->
 <article>
     <div class="container">
@@ -56,14 +95,14 @@ var seoKeywords = [];
 				<div id="post-meta">{{ tags_content }}</div>
 
                 <ul class="pager">
-                    {% if page.previous.url %}
+                    {% if previousPostURL %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                        <a href="{{ previousPostURL | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{previousPostTitle}}">&larr; Previous Post</a>
                     </li>
                     {% endif %}
-                    {% if page.next.url %}
+                    {% if nextPostURL %}
                     <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                        <a href="{{ nextPostURL | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{nextPostTitle}}">Next Post &rarr;</a>
                     </li>
                     {% endif %}
                 </ul>
