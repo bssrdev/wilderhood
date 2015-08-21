@@ -6,7 +6,6 @@ author:     "Prasad Natarajan"
 tags:       ["Birding Destinations", "Wildlife Destinations", "Hampi", "Travel Destinations"]
 seo:		["Travel", "Hampi"]
 comments:   true
-disable-header-img: true
 ---
 
 

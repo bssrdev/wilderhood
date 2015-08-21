@@ -24,7 +24,7 @@ var seoKeywords = [];
 {% endif %}
 
 <!-- Post Header -->
-{% if page.disable-header-img %}
+{% if page.header-img == null %}
 <div class="intro-header-none"></div>
 {% else %}
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
