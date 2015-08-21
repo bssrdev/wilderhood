@@ -6,7 +6,6 @@ author:     "Goutham Shankar"
 tags:       ["Tips and Tricks"]
 seo:		["Landscape Destinations"]
 comments:   true
-disable-header-img: true
 ---
 
 <iframe width="690" height="460" src="https://www.youtube.com/embed/BujWmbHEO90?rel=0" frameborder="0" allowfullscreen></iframe>

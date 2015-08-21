@@ -6,7 +6,6 @@ author:     "Vinodh Ve"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Coorg"]
 seo:		["Macro", "Monsoon"]
 comments:   true
-disable-header-img : true
 
 ---
 <img src="{{ site.baseurl }}/img/2015-06-11/Death's-head Hawkmoth's Caterpillar.jpg" alt="Death's-head Hawkmoth's Caterpillar">

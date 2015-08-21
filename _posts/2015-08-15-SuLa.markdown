@@ -6,7 +6,6 @@ author:     "Sriharsha Ganjam"
 tags:		["Monsoon Destinations", "Landscape Destinations"]
 seo:		["Landscape Destinations", "Caves", "Bats"]
 comments:   true
-disable-header-img: true
 ---
 
 <p>

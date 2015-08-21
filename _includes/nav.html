@@ -1,5 +1,5 @@
 <!-- Navigation -->
-{% if page.disable-header-img %}
+{% if page.header-img == null %}
 <div class="nav-no-header-img">
 {% endif %}
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -37,6 +37,6 @@
     <!-- /.container -->
 </nav>
 
-{% if page.disable-header-img %}
+{% if page.header-img == null %}
 </div>
 {% endif %}
