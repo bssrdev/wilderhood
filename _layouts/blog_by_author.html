@@ -24,20 +24,46 @@ disable-header-img: true
 			{% endif %}
 		{% endfor %}
 
-		<h3>Gallery</h3>
-		<hr>
+		{% assign showGallery = false %}
 		{% for collection in site.collections%}
 			{% assign collectionName = collection[0] %}
-			<h5>{{collectionName}}</h5>
 			{% for post in site[collectionName] reversed %}
 				{% if post.author == page.author_name %}
-					<article>
-					<h4><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h4>
-					<span>{{ post.subtitle | strip_html | truncate: 160 }}</span>
-					</article>
+					{% assign showGallery = true %}
+					{% break %}
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
+
+		<br><br>
+		{% if showGallery == true %}
+			<h3>Gallery</h3>
+			<hr>
+			{% for collection in site.collections%}
+				{% assign collectionName = collection[0] %}
+
+				{% assign showGallery = false %}
+				{% for post in site[collectionName] reversed %}
+					{% if post.author == page.author_name %}
+						{% assign showGallery = true %}
+						{% break %}
+					{% endif %}
+				{% endfor %}				
+
+				{% if showGallery == true %}
+					<h5>{{collectionName}}</h5>
+					{% for post in site[collectionName] reversed %}
+						{% if post.author == page.author_name %}
+							<article>
+							<h4><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h4>
+							<span>{{ post.subtitle | strip_html | truncate: 160 }}</span>
+							</article>
+						{% endif %}
+					{% endfor %}
+				{% endif %}
+
+			{% endfor %}
+		{% endif %}
 	</div>	
   </div>
 </div><!-- /#main -->
