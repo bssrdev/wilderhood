@@ -49,17 +49,23 @@
     </div>
 </footer>
 
-<!-- jQuery -->
-<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+{% if site.production %}
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/hogan.js/3.0.2/hogan.min.js"></script>
+{% else %}
+	<!-- jQuery -->
+	<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
-<!-- Bootstrap Core JavaScript -->
-<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+	<!-- Bootstrap Core JavaScript -->
+	<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
-<!-- Bootstrap Core JavaScript -->
-<script src="{{ "/js/hogan.min.js " | prepend: site.baseurl }}"></script>
+	<!-- Bootstrap Core JavaScript -->
+	<script src="{{ "/js/hogan.min.js " | prepend: site.baseurl }}"></script>
+{% endif %}
 
-<!-- Custom Theme JavaScript -->
-<script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+	<!-- Custom Theme JavaScript -->
+	<script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 
 {% include google_analytics.html %}	
 
@@ -67,7 +73,11 @@
   {% include disqus_comments.html %}
 {% endif %}
 
-<script src="{{ "/js/seo.js" | prepend: site.baseurl }}"></script>
+{% if site.seo %}
+<script src="{{ "/js/seo.js" | prepend: site.baseurl }}" async="async"></script>
+{% endif %}
 
+{% if page.disable_sharing != true %}
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54c8ec6563efcfde" async="async"></script>
+{% endif %}
