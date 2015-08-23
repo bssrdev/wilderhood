@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Land of last Asiatic Lions"
-subtitle:   "Gir National Park-Sasan Gir"
-author:     "Manohara Kamath"
-header-img: "img/2015-08-09/2.jpg"
-tags:		["Gir", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations"]
-seo:        ["Gir", "BigCats"]
+title:      "Old Magazine House"
+subtitle:   "Bird watcher's heaven"
+author:     "Kiran Kashyap"
+header-img: "img/2015-08-23/.jpg"
+tags:		[Wildlife Destinations", "Birding Destinations"]
+seo:        ["Birding Destinations", "JLR", "Ganeshgudi", "OMH"]
 comments:   true
 ---
 

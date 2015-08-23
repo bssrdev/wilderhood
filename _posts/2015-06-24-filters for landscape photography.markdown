@@ -29,7 +29,7 @@ header-img: "img/2015-04-18/img5.jpg"
 
 <p>Polarizer come in variety of forms, one of them is the Warming polarizer which gives a warm tone to the image when used appropriately. For those who are not too keen on having this feel to all of their images – can resort to using a normal Polarizer with a daylight white balance for similar effect.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-24/1.jpg" alt="">
+<img src="{{ site.baseurl}}/img/2015-06-24/1.jpg" alt="Filters for landscape photography">
 
 
 <h4>Neutral Density Filter:</h4>
@@ -42,13 +42,13 @@ The answer for this is NO ! – There is always a science side to things what we
 <p>It is adviced that it is better to use “M”anual exposure mode in the camera whilst shooting such scenario because it gives better control of the exposure.
 There is also a circular ND Filter available from SinghRay which is called a Vari-ND filter which can be hooked onto the front element of the lens just like a Polarizer and used to achieve a reduction in amount of light anywhere between 2 to 8 stops of light.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-24/2.jpg" alt="">
+<img src="{{ site.baseurl}}/img/2015-06-24/2.jpg" alt="Filters for landscape photography">
 
 <h4>Graduated Neutral Density Filter:</h4>
 
 <p>Or sometimes even called, as Graduated ND Filter or ND Grad Filters are also rectangular pieces of glass and is a modified version of the ND Filter. Instead of the entire filter cutting down the amount of light – only one half of the filter cuts down the light. The opacity tapers from top half to about mid level of the filter. ND Grad filters come in very handy when capturing images having both sky and land in the frame. The difference in the light intensity between the sky and the ground tends to reduce the overall contrast in the image and many times also reduces the details in the highlight or the sky region. ND Grad filter used appropriately can help us reduce the difference in the levels and there by increase the dynamic range of an image. ND Grads also comes in a variety of ratings like 1-stop, 2-stop, 3-stop etc. These filters too can be clubbed together for further reduction in the amount of light captured.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-24/3.jpg" alt="">
+<img src="{{ site.baseurl}}/img/2015-06-24/3.jpg" alt="Filters for landscape photography">
 
 <p>There are two main categories of ND Grad filters – viz – Hard Edge and Soft Edge
 – Hard edge ND Grad filters are the ones, which have a clear demarcation between the region cutting the light (the ND half) and clear glass half. These are best suited for Seascapes or where the horizon is a perfect demarcation between land and sky.
@@ -56,7 +56,7 @@ There is also a circular ND Filter available from SinghRay which is called a Var
 
 <p>There is a further sub variety in ND Grad filters caled the Reverse ND Grad. In this the region of higher opacity lies exactly in the middle of the filter and unlike top in the normal ND filters. These are best suited for Seascape images just before or after sunset when the intensity of light is maximum near the horizon.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-24/4.jpg" alt="">
+<img src="{{ site.baseurl}}/img/2015-06-24/4.jpg" alt="Filters for landscape photography">
 
 <h4>Additional Info:</h4>
 
