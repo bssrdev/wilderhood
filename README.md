@@ -44,3 +44,4 @@
  - For testing locally, in a template file add `{{ anyvariable | debug}}` where anyvariable is anything that is valid. Ex:- page
 
 
+jekyll s -c _config-dev.yml --> To run development mode

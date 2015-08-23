@@ -1,5 +1,14 @@
 production: false
 seo: false
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "Gemfile", "prod.rb"]
+include: ["_cssdev", "_jsdev"]
+compress_html:
+  clippings: []
+  comments: []
+  endings: []
+  profile: false
+  ignore:
+    envs: ['development']
 
 # Site settings
 title: "Wilderhood: Recitals"
@@ -24,7 +33,6 @@ highlighter: pygments
 # permalink: pretty
 relative_permalinks: false
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 collections:
   wildart:
@@ -32,3 +40,6 @@ collections:
 
 gems:
   - jekyll-sitemap
+
+sass:
+  style: compressed
