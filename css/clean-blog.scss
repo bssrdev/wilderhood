@@ -1,3 +1,5 @@
+---
+---
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -169,8 +171,8 @@ hr.small {
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   font-size: 24px;
-  line-height: 1.1,
-			display: block;
+  line-height: 1.1;
+  display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
@@ -280,7 +282,7 @@ footer .copyright {
   text-align: center;
   margin-bottom: 0;
 }
-.floating-label-form-group {
+/*.floating-label-form-group {
   font-size: 14px;
   position: relative;
   margin-bottom: 0;
@@ -349,6 +351,7 @@ form .row:first-child .floating-label-form-group {
   border: 1px solid #0085a1;
   color: white;
 }
+*/
 .pager {
   margin: 20px 0 0;
 }
