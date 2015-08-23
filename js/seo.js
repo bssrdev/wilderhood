@@ -5,15 +5,8 @@ var urlPrefix = "http://www.wilderhood.com/trip/";
 var imgURLPrefix = "http://az741737.vo.msecnd.net/wilderhood-public/medium/";
 //Add another key for restricting the ad to be displayed only in those months --> months:["Jan", "Feb"]
 
-adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AMBOLI", image: "BikeNHike/Trip/Amboli/BikeNHike_Amboli_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - AMBOLI", keywords: ["Amboli", "Monsoon Destinations", "Reptiles"], months: ["Jul", "Aug"]});
-
-adList.push({link: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", image: "BikeNHike/Trip/Coorg/BikeNHike_Coorg_1.jpg", text: "HERPING AND MACRO PHOTOGRAPHY WORKSHOP - COORG", keywords: ["Coorg", "Monsoon Destinations", "Reptiles"], months: ["Jul", "Aug"]});
 
 adList.push({link: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", image: "Darter/Trip/Andaman/Andaman.jpg", text: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", keywords: ["Andaman", "Birding Destinations", "Port Blair", "Travel", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
-
-adList.push({link: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", image: "Darter/Trip/Lahaul/Spiti.jpg", text: "HEART OF THE HIMALAYAS - PHOTOGRAPHY TOUR IN LAHAUL & SPITI", keywords: ["Travel Destinations", "Lahaul", "Spiti", "Travel", "Exotic"], months: ["Jul", "Aug"]});
-
-adList.push({link: "LAND OF THE HIGH PASSES---LADAKH", image: "BeyondRoads/Trip/Ladakh/Ladakh.jpg", text: "LAND OF THE HIGH PASSES---LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 
 adList.push({link: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", image: "Darter/Trip/Ladakh/Ladakh.jpg", text: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh", "Ladakh", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 
@@ -65,7 +58,6 @@ adList.push({link: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", ima
 
 adList.push({link: "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});
 
-adList.push({link: "JEWELS OF THE RAINFOREST - AMBOLI", image: "BirdWing/Trip/Amboli/Banner.jpg", text: "JEWELS OF THE RAINFOREST - AMBOLI", keywords: ["Monsoon", "Amboli"], months: ["Jul", "Aug"]});
 
 var sponsoredList = [];
 /*sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
