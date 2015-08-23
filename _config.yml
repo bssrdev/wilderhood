@@ -24,7 +24,7 @@ highlighter: pygments
 # permalink: pretty
 relative_permalinks: false
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "Gemfile"]
 
 collections:
   wildart:
@@ -32,3 +32,16 @@ collections:
 
 gems:
   - jekyll-sitemap
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: []
+  endings: all
+  profile: false
+  ignore:
+    envs: []
+
+#'development'
