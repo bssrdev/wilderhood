@@ -27,7 +27,7 @@ comments:   true
 </ol>
 
 <br>
-<img src="{{ site.baseurl }}/img/timelapse.jpg">
+<img src="{{ site.baseurl }}/img/timelapse.jpg"alt="Time lapse">
 <br><br>
 <strong>Basic TL Shooting Workflow</strong>
 <ol>
