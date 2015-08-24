@@ -20,16 +20,33 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+
+<script type="text/javascript">
+	function loadcssfile(filename) {
+		var css = document.createElement('link');
+		css.rel = 'stylesheet';
+		css.type = 'text/css';
+		css.href = filename;
+		css.media = 'non-blocking-render';
+		document.getElementsByTagName("head")[0].appendChild(css);
+        setTimeout( function(){
+          css.media = 'all';
+        },0);
+	}
+	
 {% if site.production %}
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/css/bootstrap.min.css">
+	loadcssfile("//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/css/bootstrap.min.css");
+	loadcssfile("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css");
+    loadcssfile("//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic");
+    loadcssfile("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800");
 {% else %}
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="{{ '/_cssdev/bootstrap.min.css' | prepend: site.baseurl }}">
+	loadcssfile("{{ '/_cssdev/bootstrap.min.css' | prepend: site.baseurl }}");
+	loadcssfile("{{ '/_cssdev/font-awesome.min.css' | prepend: site.baseurl }}");
+	loadcssfile("{{ '/_cssdev/lora.css' | prepend: site.baseurl }}");
+	loadcssfile("{{ '/_cssdev/opensans.css' | prepend: site.baseurl }}");
 {% endif %}
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/clean-blog.css" | prepend: site.baseurl }}">
-
+	loadcssfile("{{ '/css/clean-blog.css' | prepend: site.baseurl }}");
+</script>
 
 	{% include seo.html %}
 
