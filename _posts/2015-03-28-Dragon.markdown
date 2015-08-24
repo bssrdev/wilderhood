@@ -24,7 +24,7 @@ Something flew silently between the tree trunks, and disappeared. That's a littl
 <img src="{{ site.baseurl }}/img/2015-03-28/img2.jpg">
 
 <p>
-Many of us who lives in or visits areas around western ghats (Kerala / Karnataka) wouldn't have noticed a lizard that flies or actually glides between the tree trunks. 
+Many of us who lives in or visits areas around western ghats (Kerala/Karnataka) wouldn't have noticed a lizard that flies or actually glides between the tree trunks. 
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-28/img3.jpg">
