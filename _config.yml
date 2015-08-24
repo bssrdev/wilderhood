@@ -9,6 +9,8 @@ compress_html:
   ignore:
     envs: []
 
+sass:
+  style: compressed
 
 # Site settings
 title: "Wilderhood: Recitals"
@@ -40,6 +42,3 @@ collections:
 
 gems:
   - jekyll-sitemap
-
-sass:
-  style: compressed
