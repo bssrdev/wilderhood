@@ -9,7 +9,7 @@ comments:   true
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blogcobras.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blogcobras.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 Many people cannot tell between a Common Cobra(Naja naja) from a King Cobra(Ophiophagus hannah). It may sound absurd to a few but from my experience the majority belong to the latter category. I have watched television anchors and news readers confidently make this mistake, newspapers whose editors care less to be corrected in spite of my efforts to explain and sadly the rest would rather believe these poorly researched mediums than a lamenting herpetologist! Hence this article to list the basic differences between the two snakes but does not delve into detailed taxonomic or behavioral differences.
@@ -17,7 +17,7 @@ Many people cannot tell between a Common Cobra(Naja naja) from a King Cobra(Ophi
 
 <h4>SIZE</h4>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blog-size.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blog-size.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra</em> : Usually grows up to 5.5 feet
@@ -27,7 +27,7 @@ Many people cannot tell between a Common Cobra(Naja naja) from a King Cobra(Ophi
 
 <h4>HOODS</h4>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/bloghoods.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/bloghoods.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra</em> : Broad
@@ -37,7 +37,7 @@ Many people cannot tell between a Common Cobra(Naja naja) from a King Cobra(Ophi
 
 <h4>COLOUR AND MARKING</h4>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blogmarks-behind-hood.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blogmarks-behind-hood.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra</em> : Varies between light to dark shades of brown.
@@ -48,7 +48,7 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 
 <h4>SCALES</h4>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blogcuneate-scale.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blogcuneate-scale.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra</em> : Cuneate scale is present
@@ -56,7 +56,7 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 <em>King Cobra</em>   : Cuneate scale is absent
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blogoccipital-scales-marked.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blogoccipital-scales-marked.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra</em> : Occipital scales absent
@@ -66,7 +66,7 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 
 <h4>FOOD</h4>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blogfeeding.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blogfeeding.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra </em>: Frogs, lizards, birds, snakes and small mammals like rats and hare. They are opportunistic  and sometimes eat their own kind.
@@ -76,7 +76,7 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 
 <h4>REPRODUCTION</h4>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/blogeggs-and-nest.jpg"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/blogeggs-and-nest.jpg" alt="King Cobra and Common Cobra">
 
 <p>
 <em>Common Cobra </em>: Lays eggs in holes and crevices
@@ -88,7 +88,7 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 Summary and few more differences…
 </strong>
 
-<img src="{{ site.baseurl }}/img/2015-03-25/table-cobras.png"alt="King Cobra and Common Cobra">
+<img src="{{ site.baseurl }}/img/2015-03-25/table-cobras.png" alt="King Cobra and Common Cobra">
 
 <p>
 Feel free to share your thoughts and more differences which you think might help people in understanding these snakes better.

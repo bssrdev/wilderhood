@@ -26,37 +26,37 @@ The onset of the dry season brings about a lot of changes at the helm of the soc
 One such pair forms the main character of this story.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-30/img1.jpg"alt="African Lion, Serengeti, Africa">
+<img src="{{ site.baseurl }}/img/2015-04-30/img1.jpg" alt="African Lion, Serengeti, Africa">
 
 <p>
 One, hot afternoon, these guys were in the bushes near a water hole, doing what lions do best during the day, dozing away. Just so as to break the lions’ siesta, a huge, a really huge, herd of buffaloes were making their way towards the water hole. As they strode forward, a few of the bulls among them, seemed to have picked up the scent of the predators.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-30/img2.jpg"alt="Water Buffaloes, Serengeti, Africa">
+<img src="{{ site.baseurl }}/img/2015-04-30/img2.jpg" alt="Water Buffaloes, Serengeti, Africa">
 
 <p>
 The big herd was pretty much mobbing the two lions, almost having them surrounded. But, the arrogance of the supreme predator came to fore. They didn’t seem to care and stood their ground, albeit intently watching.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-30/img3.jpg"alt="Water Buffaloes, Serengeti, Africa">
+<img src="{{ site.baseurl }}/img/2015-04-30/img3.jpg" alt="Water Buffaloes, Serengeti, Africa">
 
 <p>
 Though it didn’t seem as if the lions were in the mood for a hunt, the buffaloes, with little calves in their herd, were extra cautious. Other than the ones that had gotten down into the water hole for a quick drink, the rest of the herd had their attention focused on the lions. All the bulls had their horns turned towards the lions. Neither party made any move. This stalemate continued for sometime. Then, suddenly, one of the bulls, made the charge. This finally broke the lions’ brazen contempt and got them on the run.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-30/img4.jpg"alt="African Lion and Water Buffaloes, Serengeti, Africa">
+<img src="{{ site.baseurl }}/img/2015-04-30/img4.jpg" alt="African Lion and Water Buffaloes, Serengeti, Africa">
 
 <p>
 This bull’s initiative got a few of the others going and they started cornering the lions, pushing them to the very edge of the water hole.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-30/img5.jpg"alt="African Lion and Water Buffaloes, Serengeti, Africa">
+<img src="{{ site.baseurl }}/img/2015-04-30/img5.jpg" alt="African Lion and Water Buffaloes, Serengeti, Africa">
 
 <p>
 After a couple of heated charges, the lions finally seemed to realize that they were quite outnumbered here and made a sensible retreat.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-30/img6.jpg"alt="African Lion and Water Buffaloes, Serengeti, Africa">
+<img src="{{ site.baseurl }}/img/2015-04-30/img6.jpg" alt="African Lion and Water Buffaloes, Serengeti, Africa">
 
 <p>
 And the buffaloes ensured that the lions did indeed move away. A victory for the buffaloes this time around.

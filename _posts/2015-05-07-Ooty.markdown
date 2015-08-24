@@ -53,9 +53,9 @@ The peak feeding activity of the birds is early in the morning and towards dusk.
 
 <a href="http://en.wikipedia.org/wiki/Black-and-orange_Flycatcher">Refer: Black and Orange Flycatcher</a>
 
-<img src="{{ site.baseurl }}/img/2015-05-07/img1.jpg"alt="Black and Orange Flycatcher, Ooty">
-<img src="{{ site.baseurl }}/img/2015-05-07/img2.jpg"alt="Black and Orange Flycatcher, Ooty">
-<img src="{{ site.baseurl }}/img/2015-05-07/img3.jpg"alt="Black and Orange Flycatcher, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img1.jpg" alt="Black and Orange Flycatcher, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img2.jpg" alt="Black and Orange Flycatcher, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img3.jpg" alt="Black and Orange Flycatcher, Ooty">
 
 <h4>
 Other birds of Ooty...
@@ -65,51 +65,51 @@ Other birds of Ooty...
 <p>
 Nilgiri Flycatcher (male)
 </p>
-<img src="{{ site.baseurl }}/img/2015-05-07/img5.jpg"alt="Nilgiri Flycatcher, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img5.jpg" alt="Nilgiri Flycatcher, Ooty">
 
 
 <p>
 Grey headed Canary flycatcher
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-07/img6.jpg"alt="Grey headed Canary Flycatcher, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img6.jpg" alt="Grey headed Canary Flycatcher, Ooty">
 
 
 <p>
 Bar winged Flycatcher Shrike
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-07/img7.jpg"alt="Bar winged Flycatcher, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img7.jpg" alt="Bar winged Flycatcher, Ooty">
 
 
 <p>
 White bellied Shortwing | Nilgiri Blue Robin
 </p>
-<img src="{{ site.baseurl }}/img/2015-05-07/img8.jpg"alt="White bellied Shortwing or Nilgiri Blur Robin, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img8.jpg" alt="White bellied Shortwing or Nilgiri Blur Robin, Ooty">
 
 
 <p>
 Nilgiri Laughing Thrush
 </p>
-<img src="{{ site.baseurl }}/img/2015-05-07/img9.jpg"alt="Nilgiri laughing Thrush, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img9.jpg" alt="Nilgiri laughing Thrush, Ooty">
 
 
 <p>
 Great Tit
 </p>
-<img src="{{ site.baseurl }}/img/2015-05-07/img10.jpg"alt="Great Tit, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img10.jpg" alt="Great Tit, Ooty">
 
 
 <p>
 Common Rosefinch (male)
 </p>
-<img src="{{ site.baseurl }}/img/2015-05-07/img11.jpg"alt="Common Rosefinch, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img11.jpg" alt="Common Rosefinch, Ooty">
 
 
 <p>
 Oriental White Eye
 </p>
-<img src="{{ site.baseurl }}/img/2015-05-07/img12.jpg"alt="Oriental White Eye, Ooty">
+<img src="{{ site.baseurl }}/img/2015-05-07/img12.jpg" alt="Oriental White Eye, Ooty">
 
 <p>
 Overall, it was a great trip to Nilgiris, and I still remember the call and jumping of the cute little Black and Orange flycatcher. 
