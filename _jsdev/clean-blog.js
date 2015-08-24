@@ -70,3 +70,14 @@ function loadjsfile(filename) {
 	fileref.setAttribute("src", filename);
 	document.getElementsByTagName("head")[0].appendChild(fileref);
 }
+function loadcssfile(filename, id) {
+	if(id)
+		var fileref = document.getElementById(id);
+	else
+		var fileref = document.createElement("link");
+	fileref.setAttribute("rel", "stylesheet");
+	fileref.setAttribute("type", "text/css");
+	fileref.setAttribute("href", filename);
+	if(!id)
+		document.getElementsByTagName("head")[0].appendChild(fileref);
+}
