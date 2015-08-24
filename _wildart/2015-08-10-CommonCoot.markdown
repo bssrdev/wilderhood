@@ -3,14 +3,14 @@ layout:     post
 title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 2"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2015-08-24/CommonCoot-thumb.jpg"
+header-thumb-img: "img/2015-08-10/CommonCoot-thumb.jpg"
 seo: 		["Birds", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-08-24/CommonCoot.jpg"
+sharing-img: "img/2015-08-10/CommonCoot.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-08-24/CommonCoot.jpg" alt="Common Coot, Bangalore, Wildart by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-08-10/CommonCoot.jpg" alt="Common Coot, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
 It’s already second week of our WildArt Talk and Monday is here, after a beautiful weekend observing birds of Bangalore i am back with this post. This weekend I spent time on few of the wetlands around my home, which took me back to my childhood days when there where large farmlands, water-wells and lakes.
