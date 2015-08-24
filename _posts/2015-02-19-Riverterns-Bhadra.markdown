@@ -20,31 +20,31 @@ Everything starts with the male river terns trying to woo the prospective female
 
 It turns into a complete melee out there, with the males flying around relentlessly and diving into the backwaters in an attempt to catch a fish. Fishing is no mean task. It takes a lot of effort, skill and numerous attempts to finally make the catch. The males, which have been able to successfully fish, return to the island, looking for a female to offer it to.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/Rivertern-with-fish-01-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/Rivertern-with-fish-01-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>Some of the lazier river tern males seem to try and take an easier way out, by stealing the fish from other males which have made a catch. They can be seen chasing those with a fish, to claim it for themselves and try their own luck with the females.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/River-terns-the-chase-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/River-terns-the-chase-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>Amidst all the chaos and the reverberating cacophony of the multitude of river tern calls and squabbles, the males have to keep their attempts going. Constantly flying around with their catch……</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/Rivertern-with-fish-02-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/Rivertern-with-fish-02-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>And landing on the island now and then, to try their luck with the awaiting females.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/River-tern-comes-in-with-a-fish-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/River-tern-comes-in-with-a-fish-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>After many such attempts, a male might, at last, find an accepting suitor, with a female finally choosing to take the offering, a way of saying ‘Yes, I will or I do’….</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/River-tern-male-bringing-fish-for-female-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/River-tern-male-bringing-fish-for-female-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>Thus, they become a pair and their courtship begins, marking a new phase in their lives……</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/River-tern-pair-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/River-tern-pair-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>Mating is yet another challenge for the pair. Many of the other males around try very hard to disrupt the pair’s time together, with all their cracklings and squabbling and also attempt to take over the female.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-19/Riverterns-Mating-01-XL.jpg"alt="River Tern">
+<img src="{{ site.baseurl }}/img/2015-02-19/Riverterns-Mating-01-XL.jpg"alt="River Tern, Bhadra WS, Karnataka">
 
 <p>Tirelessly, having gotten past all the hurdles, the pair does get together. Then, follows the period of nesting.
 
