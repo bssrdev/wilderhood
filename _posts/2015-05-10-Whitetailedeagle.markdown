@@ -31,7 +31,7 @@ It was almost sundown and with the Harrier’s not being very cooperative, we th
 We were dumb struck. It had not been seen in these parts, in a long long time. It was a record of sorts :-) …. All the discussion during that night’s dinner centered around the White tailed Eagle !
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-10/img1.jpg"alt="White Tailed Eagle, Tal Chapar, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-10/img1.jpg" alt="White Tailed Eagle, Tal Chapar, Rajasthan">
 
 <p>
 A quick brief on this majestic bird. White tailed Eagles breed mostly in Northern Europe and Northern Asia. Largest population of it in Europe is found along the coast of Norway. Most of their population is believed to be resident, with a very small number of them migrating south for winter.
@@ -42,22 +42,22 @@ A quick brief on this majestic bird. White tailed Eagles breed mostly in Norther
 This one surely was a vagrant, having diverted somehow from its intended path, ended up in in Tal Chapar, to our good luck :) They are huge birds, with their wing span measuring the range of 7-8 ft. The one we saw, looked like a juvenile and was huge. Here’s a image to show a comparison against a common house crow. The crows were trying to chase away this huge predator, but the big guy was least bit bothered.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-10/img2.jpg"alt="White Tailed Eagle, Tal Chapar, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-10/img2.jpg" alt="White Tailed Eagle, Tal Chapar, Rajasthan">
 
 <p>
 We were wondering if we would see this guy again tomorrow or he, having strayed off of his course, might have made an exit after a quick pit stop here. But, we were to be pleasantly surprised the next day.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-10/img3.jpg"alt="White Tailed Eagle, Tal Chapar, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-10/img3.jpg" alt="White Tailed Eagle, Tal Chapar, Rajasthan">
 
 <p>
 The White tailed Eagle had indeed decided to stay on for some more time. We didn’t go looking for it in the first half of the following day as we were headed to a different place and also, we thought, giving the vagrant some time to settle into his new, unexpected home would be better. When we came back to the park in the second half, we saw this beauty and without a shadow of doubt, we were all very happy.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-10/img4.jpg"alt="White Tailed Eagle, Tal Chapar, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-10/img4.jpg" alt="White Tailed Eagle, Tal Chapar, Rajasthan">
 
 
-<img src="{{ site.baseurl }}/img/2015-05-10/img5.jpg"alt="White Tailed Eagle, Tal Chapar, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-10/img5.jpg" alt="White Tailed Eagle, Tal Chapar, Rajasthan">
 
 <p>
 An amazing sighting and a wonderful experience, the big highlight of the trip for me and something that definitely is etched forever in my memory……

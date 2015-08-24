@@ -64,7 +64,7 @@ comments:   true
 
 <h3>MALDHARI OF GIR</h3>
 
-<p>Any trip to Gir national park will not be complete without mentioning the Maldhari community. Maldhari stands for “owner of animal (live) stock”. They are traditional dairymen of the region, and once supplied milk and its products. The speciality of Gir is that, Maldhari community share space in the forest with lions. While lions are generally perceived as aggressive and dangerous, the lions of Gir have rarely attacked Maldhari people. Even though Maldhari lose some of their livestock to lions, they very rarely attack them. This is a unique bond existing in an ever shrinking green space.
+<p>Any trip to Gir national park will not be complete without mentioning the Maldhari community. Maldhari stands for “owner of animal (live) stock”. They are traditional dairymen of the region, and once supplied milk and its products. The speciality of Gir is that, Maldhari community share space in the forest with lions. While lions are generally perceived as aggressive and dangerous, the lions of Gir have rarely attacked Maldhari people. Even though Maldhari lose some of their livestock to lions, they very rarely attack them. This is a unique bond existing in an ever shrinking green space.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-09/29.jpg" alt="Gir National Park, Gujarat">
 <img src="{{ site.baseurl}}/img/2015-08-09/30.jpg" alt="Gir National Park, Gujarat">
