@@ -3,7 +3,7 @@ seo: true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "Gemfile", "prod.rb", "fonts"]
 compress_html:
   clippings: all
-  comments: []
+  comments: all
   endings: all
   profile: false
   ignore:

@@ -45,3 +45,4 @@
 
 
 jekyll s -c _config-dev.yml --> To run development mode
+jekyll s --no-watch
