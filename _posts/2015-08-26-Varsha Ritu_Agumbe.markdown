@@ -3,7 +3,7 @@ layout:     post
 title:      "Varsha Ritu"
 subtitle:   "Seethanadi Nature Camp and Agumbe"
 author:     "Prasad Natarajan"
-header-img: "img/2015-08-26/2.jpg"
+header-img: "img/2015-08-26/7.jpg"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
 seo:		["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
 comments:   true
@@ -43,7 +43,7 @@ comments:   true
 
 <img src="{{ site.baseurl}}/img/2015-08-26/7.jpg" alt="Fungi, Seethanadi Nature Camp, Hebbri and Agumbe">
 
-<p>After lunch we headed to “Jogi Gundi Falls”,seven years back I had visited this falls and did not have  a camera back then, it was a good feeling to visit this beauty with equipment. . We sat there for about an hour watching the strength of flowing water, listing to gushing sounds and suddenly we heard a Malabar Whistling Thrush whistling away to glory. After an hour, soaked in all her glory, I tried a few slow shutter speed shots and headed back.</p>
+<p>After lunch we headed to “Jogi Gundi Falls”,seven years back I had visited this falls and did not have  a camera back then, it was a good feeling to visit this beauty with equipment. We sat there for about an hour watching the strength of flowing water, listing to gushing sounds and suddenly we heard a Malabar Whistling Thrush whistling away to glory. After an hour, soaked in all her glory, I tried a few slow shutter speed shots and headed back.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-26/8.jpg" alt="Jogi Gundi waterfall, Seethanadi Nature Camp, Hebbri and Agumbe">
 
@@ -64,7 +64,7 @@ What a great looking frog, loved the contrast in color and his huge webbed feet.
 
 <img src="{{ site.baseurl}}/img/2015-08-26/12.jpg" alt="male and female frogs, Seethanadi Nature Camp, Hebbri and Agumbe">
 
-<p>We saw numerous froglets moving about. it is quite amazing to see these animals in differernt life stages, on the same day and in the same place.</p>
+<p>We saw numerous froglets moving about. It is quite amazing to see these animals in differernt life stages, on the same day and in the same place.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-26/13.jpg" alt="froglet, Seethanadi Nature Camp, Hebbri and Agumbe">
 
