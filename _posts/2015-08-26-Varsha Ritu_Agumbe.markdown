@@ -5,7 +5,7 @@ subtitle:   "Seethanadi Nature Camp and Agumbe"
 author:     "Prasad Natarajan"
 header-img: "img/2015-08-26/7.jpg"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
-seo:		["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
+seo:		["Monsoon", "Agumbe", "Seethanadi", "MysticWild"]
 comments:   true
 ---
 
