@@ -4,7 +4,7 @@ title:      "Land of last Asiatic Lion"
 subtitle:   "Gir National Park"
 author:     "Manohara Kamath"
 header-img: "img/2015-08-09/2.jpg"
-tags:		["Gir", "Wildlife Destinations", "Birding Destinations", "Mammal Destinatinations"]
+tags:		["Gir", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations"]
 seo:        ["BigCats", "Gir", "Lions"]
 comments:   true
 ---
