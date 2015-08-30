@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Pakshikoota"
-subtitle:   "Ranganathittu Bird Sanctuary"
+subtitle:   "Ranganthittu Bird Sanctuary"
 author:     "Kiran Kashyap"
 header-img: "img/2015-08-30/12.jpg"
-tags:       ["Birding Destinations", "Wildlife Destinations", "Ranganathittu"]
+tags:       ["Birding Destinations", "Wildlife Destinations", "Ranganthittu"]
 seo:		["Ranganathittu", "Birding Destinations", "Bangalore"]
 comments:   true
 ---
@@ -13,15 +13,15 @@ comments:   true
 
 <p>Social media is a powerful tool if used in a productive way. Karnataka Eco-toursim shared a wonderful post on their facebook wall, "Karnataka Bird Festival--2015". I enrolled to this event, the stage was set at Ranganthittu Bird Sanctuary, one of the best bird sanctuary in the world. Dr.Salim Ali, renowned ornithologist studied the habitat and pressed upon the local government to declare this wonderful place as a bird sanctuary.</p>
 
-<p>I had visited this place several times. But this one was special because of two reasons, I could interact with eminent naturalists turned conservationists who are instrumental in bringing several changes in wildlife society. Secondly, I could spend extra bit of time in venturing both wood-land and wet-land birds as the workshop was for 2 days.</p>
+<p>I had visited this place several times. But this one was special because of two reasons, I could interact with eminent naturalists turned conservationists who are instrumental in bringing several changes in wildlife society. Secondly, I could spend extra bit of time in exploring both wood-land and wet-land birds as the workshop was for 2 days.</p>
 
-<p>Ranganthittu bird sanctuary is well maintained by Forest department. It has all basic amenities required for tourism and bird watching. As days passed I've seen nice improvement inside the park. Good number of dedicated forest dept employees start their day at 630 AM by cleaning the park area.</p> 
+<p>Ranganthittu bird sanctuary is well maintained by Forest department. It has all basic amenities required for tourism and bird watching. As days passed I have seen nice improvement inside the park. Good number of dedicated forest department employees start their day at 6.30 AM by cleaning the park area.</p> 
 
-<p>Boating is the main attraction of this sanctuary. Watch towers are constructed at necessary places. I checked into a boat and opted for an extended boating session. The boatman had immense experience in boating and birding. He was passionate about sharing the knowledge which he gained in so many years of service.</p>
+<p>Boating is the main attraction of this sanctuary. Watch towers are constructed at necessary places. I checked into a boat and opted for an extended boating session. The boatman had immense experience in boating and birding. He was passionate about sharing the knowledge which he gained from so many years of service.</p>
 
 <img src="{{ site.baseurl }}/img/2015-08-30/1.JPG" alt="Painted Stork, Ranganathittu Bird Sanctuary, Karnataka">
 
-<p>The sanctuary will be crowded by several species of resident and migratory birds between January to May, that is when nestling starts. I was fortunate to witness bird activities as I had ample time. Many people who are keen in bird watching visit this place to study the behavior of birds.</p>
+<p>The sanctuary will be crowded by several species of resident and migratory birds between January to May, that is when nesting starts. I was fortunate to witness bird activities as I had ample time. Many people who are keen in bird watching visit this place to study the behavior of birds.</p>
 
 <img src="{{ site.baseurl }}/img/2015-08-30/2.jpg" alt="Painted Stork, Ranganathittu Bird Sanctuary, Karnataka">
 
@@ -30,12 +30,12 @@ comments:   true
 <img src="{{ site.baseurl }}/img/2015-08-30/3.jpg" alt="Spot Billed Pelican, Ranganathittu Bird Sanctuary, Karnataka">
 <img src="{{ site.baseurl }}/img/2015-08-30/4.JPG" alt="Spot Billed Pelican, Ranganathittu Bird Sanctuary, Karnataka">
 
-<p>Our boat slowly crossed small islets which had many nestlings. I saw huge congregation of painted storks, Eurasian spoonbills, egrets, spot billed pelicans, asian openbill storks. It was amazing to see juveniles sun basking without any fear.</p>
+<p>Our boat slowly crossed small islets which had many nestlings. I saw huge congregation of painted storks, Eurasian spoonbills, egrets, spot billed pelicans, asian openbill storks. It was amazing to see juveniles basking under the sun without any fear.</p>
 
 <img src="{{ site.baseurl }}/img/2015-08-30/5.JPG" alt="Asian Openbill, Ranganathittu Bird Sanctuary, Karnataka">
 <img src="{{ site.baseurl }}/img/2015-08-30/6.JPG" alt="Black Capped Night Heron, Ranganathittu Bird Sanctuary, Karnataka">
 
-<p>I started documenting the birds we came across, number of lifers started increasing. Eurasian Thick Knee was one of them. There were about 10 thick knees on a boulder. Apparently they are common in this season. Eyes seemed bigger than their body.</p>
+<p>I started documenting the birds we came across, number of lifers started increasing. Eurasian Thick Knee was one of them. There were about 10 thick knees on a boulder. Apparently they are common in this season. Their eyes seemed bigger than their body.</p>
 
 <img src="{{ site.baseurl }}/img/2015-08-30/7.JPG" alt="Eurasian Thick knee, Ranganathittu Bird Sanctuary, Karnataka">
 <img src="{{ site.baseurl }}/img/2015-08-30/8.jpg" alt="Cattle Egret, Ranganathittu Bird Sanctuary, Karnataka">
