@@ -4,22 +4,24 @@ ads:    true
 disable_sharing: true
 header-img: "img/home-bg.jpg"
 ---
-
+<div itemscope itemtype="http://schema.org/Blog">
 {% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+<div class="post-preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+	<meta itemprop='image' content="{{site.url}}{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+    <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title" itemprop="name">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h3 class="post-subtitle" itemprop="headline">
             {{ post.subtitle | strip_html | truncate: 160 }}
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by <a href="{{ post.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">{{ post.author }}</a> on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by <span itemprop='author'><a href="{{ post.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">{{ post.author }}</a></span> on <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 </div>
 <hr>
 {% endfor %}
+</div>
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
