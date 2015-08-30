@@ -13,7 +13,7 @@ var seoKeywords = [];
 
 <!-- Create Tags listing -->
 {% if page.tags.size > 0 %}
-    {% capture tags_content %}Posted with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% capture tags_content %}{% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %} {% endcapture %}
     {% for post_tag in page.tags %}
 		{% assign tag = post_tag %}
             {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tags/{{ tag }}/">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
@@ -23,104 +23,109 @@ var seoKeywords = [];
     {% assign tags_content = '' %}
 {% endif %}
 
-<!-- Post Header -->
-{% if page.header-img == null %}
-<div class="intro-header-none"></div>
-{% else %}
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-heading">
-                    <h1>{{ page.title }}</h1>
-                    <!--{% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
-                    {% endif %}-->
-                    <span class="meta">Posted by <a href="{{ page.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page.author }}</a> on {{ page.date | date: "%B %-d, %Y" }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-{% endif %}
-
-
-{% assign previousPostURL = page.previous.url %}
-{% assign nextPostURL = page.next.url %}
-{% assign previousPostTitle = page.previous.title %}
-{% assign nextPostTitle = page.next.title %}
-
-<!-- Populate Previous and Next if its from a collection -->
-{% if page.collection %}
-
-	{% assign sorted_pages = (site[page.collection] | sort: 'url') %}
-
-	<!-- Find next and previous in the sorted array -->
-	{% assign breakNext = false %}
-	{% for post in sorted_pages %}
-		
-		{% assign newPostURL = {{post.url | remove_first:'index.html' }} %}
-		{% unless post.url == newPostURL %}
-			{% continue %}
-		{% endunless %}
-
-		{% if breakNext == true %}
-			{% assign nextURL = post.url %}
-			{% assign nextPostTitle = post.title %}
-			{% break %}
-		{% endif %}
-		
-		{% if post.url == page.url %}
-			{% assign breakNext = true %}
-			{% continue %}
-		{% endif %}
-		
-		{% assign previousURL = post.url %}
-		{% assign previousPostTitle = post.title %}
-	{% endfor %}
-
-	{% assign previousPostURL = previousURL %}
-	{% assign nextPostURL = nextURL %}
-{% endif %}
-
-<!-- Post Content -->
-<article>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-8 col-sm-offset-1 col-xs-12">
-				{% unless page.disable_sharing %}
-					<div class="row" style="height:40px">
-						<div class="addthis_sharing_toolbox pull-right"></div>
+<div itemscope itemtype="http://schema.org/BlogPosting">
+	<!-- Post Header -->
+	{% if page.header-img == null %}
+	<div class="intro-header-none"></div>
+	{% else %}
+	<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+		<meta itemprop='image' content="{{site.url}}{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+					<div class="post-heading">
+						<h1 itemprop="name">{{ page.title }}</h1>
+						<meta itemprop='headline' content="{{page.subtitle}}">
+						<meta itemprop='publisher' content="Wilderhood">
+						<!--{% if page.subtitle %}
+						<h2 class="subheading">{{ page.subtitle }}</h2>
+						{% endif %}-->
+						<span class="meta">Posted by <span itemprop='author'><a href="{{ page.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page.author }}</a></span> on <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>
 					</div>
-				{% endunless %}
-				<div class="w-content">
-					{{ content }}
 				</div>
-				<div id="post-meta">{{ tags_content }}</div>
-
-                <ul class="pager">
-                    {% if previousPostURL %}
-                    <li class="previous">
-                        <a href="{{ previousPostURL | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{previousPostTitle}}">&larr; Previous Post</a>
-                    </li>
-                    {% endif %}
-                    {% if nextPostURL %}
-                    <li class="next">
-                        <a href="{{ nextPostURL | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{nextPostTitle}}">Next Post &rarr;</a>
-                    </li>
-                    {% endif %}
-                </ul>
-
-				<br/>
-				{% if page.comments == true %}
-				  <section id="disqus_thread"></section><!-- /#disqus_thread -->
-				{% endif %}
-            </div>
-			<div class="col-sm-3 hidden-xs">
-				<div id="seoHolder" style="padding-top:40px"></div>
 			</div>
-        </div>
-    </div>
-</article>
+		</div>
+	</header>
+	{% endif %}
+
+
+	{% assign previousPostURL = page.previous.url %}
+	{% assign nextPostURL = page.next.url %}
+	{% assign previousPostTitle = page.previous.title %}
+	{% assign nextPostTitle = page.next.title %}
+
+	<!-- Populate Previous and Next if its from a collection -->
+	{% if page.collection %}
+
+		{% assign sorted_pages = (site[page.collection] | sort: 'url') %}
+
+		<!-- Find next and previous in the sorted array -->
+		{% assign breakNext = false %}
+		{% for post in sorted_pages %}
+			
+			{% assign newPostURL = {{post.url | remove_first:'index.html' }} %}
+			{% unless post.url == newPostURL %}
+				{% continue %}
+			{% endunless %}
+
+			{% if breakNext == true %}
+				{% assign nextURL = post.url %}
+				{% assign nextPostTitle = post.title %}
+				{% break %}
+			{% endif %}
+			
+			{% if post.url == page.url %}
+				{% assign breakNext = true %}
+				{% continue %}
+			{% endif %}
+			
+			{% assign previousURL = post.url %}
+			{% assign previousPostTitle = post.title %}
+		{% endfor %}
+
+		{% assign previousPostURL = previousURL %}
+		{% assign nextPostURL = nextURL %}
+	{% endif %}
+
+	<!-- Post Content -->
+	<article itemprop="articleBody">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-1 col-xs-12">
+					{% unless page.disable_sharing %}
+						<div class="row" style="height:40px">
+							<div class="addthis_sharing_toolbox pull-right"></div>
+						</div>
+					{% endunless %}
+					<div class="w-content">
+						{{ content }}
+					</div>
+					<div id="post-meta">Posted with: <span itemprop="keywords">{{ tags_content }}</span></div>
+
+					<ul class="pager">
+						{% if previousPostURL %}
+						<li class="previous">
+							<a href="{{ previousPostURL | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{previousPostTitle}}">&larr; Previous Post</a>
+						</li>
+						{% endif %}
+						{% if nextPostURL %}
+						<li class="next">
+							<a href="{{ nextPostURL | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{nextPostTitle}}">Next Post &rarr;</a>
+						</li>
+						{% endif %}
+					</ul>
+
+					<br/>
+					{% if page.comments == true %}
+					  <section id="disqus_thread"></section><!-- /#disqus_thread -->
+					{% endif %}
+				</div>
+				<div class="col-sm-3 hidden-xs">
+					<div id="seoHolder" style="padding-top:40px"></div>
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
 
 <hr>
