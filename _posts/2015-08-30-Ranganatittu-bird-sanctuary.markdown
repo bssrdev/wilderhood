@@ -62,14 +62,16 @@ comments:   true
 
 <p>I was able to identify and record 84 species of birds in two days. With many lifers and fond memories, I departed Ranganthittu with plans to come back for more birding.</p>
 
-<p>Venue: Ranganthittu Bird Sanctuary.</p>
-<p>Location: 5 kms from Srirangapatna, Mysore Road, Karnataka.</p>
-<p>Distance from Bangalore: 120kms.</p>
-<p>Park & Boating Timings: 830 AM to 530 PM.</p>
-<p>Entry Fee: 50rs per adult (Indian).</p>
-<p>Extended Boating session: INR 1000 per boat for 45mins.</p>
-<p>Food and Water available inside the park.</p>
-<p>Best time to visit: January to May.</p>
+<p>
+<strong>Venue:</strong> Ranganthittu Bird Sanctuary.
+<strong>Location:</strong> 5 kms from Srirangapatna, Mysore Road, Karnataka.
+<strong>Distance from Bangalore:</strong> 120kms.
+<strong>Park & Boating Timings:</strong> 830 AM to 530 PM.
+<strong>Entry Fee:</strong> 50rs per adult (Indian).
+<strong>Extended Boating session:</strong> INR 1000 per boat for 45mins.
+Food and Water available inside the park.
+<strong>Best time to visit:</strong> January to May.
+</p>
 
 <p>Ebird Checklist: http://ebird.org/ebird/view/checklist?subID=S22592484</p>
 
