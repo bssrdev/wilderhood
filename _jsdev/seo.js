@@ -1,6 +1,6 @@
 (function()
 {
-	var numAdsToDisplay = 12;
+	var numAdsToDisplay = 9;
 	
 	var adList = [];
 	var urlPrefix = "http://www.wilderhood.com/trip/";
@@ -39,9 +39,9 @@
 	
 	
 	var sponsoredList = [];
-	/*sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
-	sponsoredList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
-	sponsoredList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});*/
+	sponsoredList.push({link: "http://thewolfpackstore.com", image: "wolfpack.jpeg", text: "Feel Leopard on you", keywords: ["Kabini", "BigCats"]});
+	sponsoredList.push({link: "http://thewolfpackstore.com", image: "gaur.jpeg", text: "Kabini is home for Indian Gaurs", keywords: ["Kabini", "BigCats"]});
+	//sponsoredList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
 	
 	function toTitleCase(str)
 	{
