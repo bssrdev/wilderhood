@@ -1,6 +1,6 @@
 (function()
 {
-	var numAdsToDisplay = 9;
+	var numAdsToDisplay = 12;
 	
 	var adList = [];
 	var urlPrefix = "http://www.wilderhood.com/trip/";
