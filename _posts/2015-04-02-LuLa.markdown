@@ -3,7 +3,7 @@ layout:     post
 title:      "Luminous Landscapes (LuLa)"
 subtitle:   "Luminous Landscapes (LuLa)"
 author:     "Sriharsha Ganjam"
-tags:       ["Monsoon Destinations", "Goa Wildlife", "Wildlife Destinations"]
+tags:       ["Monsoon Destinations", "Goa Wildlife", "Wildlife Destinations", "Landscape Destinations"]
 seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-02/img4.jpg"
