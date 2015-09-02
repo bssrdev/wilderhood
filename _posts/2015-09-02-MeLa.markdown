@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "Meteor Landscapes (MeLa)"
+subtitle:   "A photo expedition to shoot one of the most beautiful and seldom witnessed natural wonders!"
+author:     "Sriharsha Ganjam"
+tags:       ["Landscape Destinations", "Tips and Tricks"]
+seo:		["Landscape Destinations", "tipsntricks", "lsw"]
+comments:   true
+header-img: "img/2015-09-02/5.jpg"
+---
+
+<img src="{{ site.baseurl }}/img/2015-09-02/1.gif">
+<p>A time lapse image showing the meteors striking through the clear winter sky of BRT</p>
+
+<p>A dream which has been constantly with me for four ears was to make images of meteor showers. Images of this kind are rare and I have seen very few landscape images depicting a meteor shower in its full glory. With no such images from the Indian sub=continent, I knew it would not be an easy task to make this image. I spent countless hours planning my shots and working out the correct technique, most of which failed. However, with each failed attempt, I learnt something new and this knowledge eventually helped me draw up my strategy. My goal here was to showcase the beauty of a meteor shower and also present it in a way, which was never seen before. </p>
+
+<img src="{{ site.baseurl }}/img/2015-09-02/2.jpg" alt="Shotting the sky, BRT, Karnataka">
+<p>The anti-poaching camp in Jodigere was our base camp for two nights. The place was in the middle of nowhere, this double folded the thrill of our expedition</p>
+
+<p> Defining the variables involved in making this image evolved over time and some of the key variables were:</p>
+
+<p>Location- It had to be located far from human habitation to avoid light pollution, but also be easily accessible to enable easy co-ordnination of the logistics</p>
+
+<p>Season- Meteor showers happen throughout the year, but not all of them are optimum for viewing, as we have cloud cover for almost ten months in a year in my part of the world</p>
+
+<p>Lunar phase- Having a full moon can be detrimental to viewing and photographing a meteor shower as bright moonlight can wash out faint meteors</p>
+
+<p>Equipment- Having a 'fast wide angle' lens coupled with a high ISO performing camera, to capture all available light and generate minimum noise while doing so</p>
+
+<img src="{{ site.baseurl }}/img/2015-09-02/3.jpg" alt="Shotting the sky, BRT, Karnataka">
+<p>BRT was an ideal location, given that the place has scenic potential and lacks light pollution</p>
+
+<p>The hunt to find the perfect location started after I zeroed in on the Geminids meteor showers, which happens in December every year. The showers in 2011 were slated to happen during new moon, and also since it was in December there was a great possibility to having clear nights. This meant perfect shooting conditions if weather co-operated. I chose the Jodigere APC deep inside BRT tiger reserve as my shoot site, as I had observed the potential of the place on my previous visits. Visibility to the East was very good, allowing me to see the showers radiating from the Gemini constellation as it rised. It was also far from human habitation, therefore minimum light pollution. The best part was the foreground the landscape offered, rocks and hills, were perfect for a beautiful composition.</p>
+
+<img src="{{ site.baseurl }}/img/2015-09-02/4.jpg" alt="Shotting the sky, BRT, Karnataka">
+<p>We were stationed near the famouse twin lakes of Jodigere, 'Jodigere' is named after the twin lakes, it literally translates to twin lakes</p>
+
+<p>With all these in mind and necessary equipment, I set out with my wife Siri to fulfill the quest of metoer shower images. To my relief, the conditions in the field were perfect except the bone chilling gale force winds which was not anticipated. All that was required now were jackets and fire balls in the sky to put on a show. And they did! On the two nights I spent in Jodigere photographing the event, I could see several meteors striking through the sky. They came in multitude of colours and brightness, and it was the most spectacular fire work display I have ever seen! The winds through the night were a major deterrent and we had to restrict our view for a few minutes everytime we got out of the camp.</p>
+
+<img src="{{ site.baseurl }}/img/2015-09-02/5.jpg" alt="Shotting the sky, BRT, Karnataka">
+<p>High up in the hills, the air in BRT is crystal clear</p>
+
+<img src="{{ site.baseurl }}/img/2015-09-02/6.jpg" alt="Shotting the sky, BRT, Karnataka">
+<p>The forest gaurds from the camp were extremely helpful, without their support I could not have succeeded in this mission</p>
+
+<p>Luckily, I accomplished my dream, the dream I had been chasing for four years. The support from the Forest Department was indispenseble, particularly driver Ramu and forest gaurd Vishwanath from the Jodigere camp, they were obliging in every step and provided me with immense support. Mr. Vijay Mohan Raj, director of BRT was kind enough to ensure my permits and logistics were taken care of. Apart from the nasty tick bites and a charging Gaur which had us driving forever, I left BRT with pleasant memories and I shall treasure this assignment all my life.</p>
