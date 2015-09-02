@@ -75,5 +75,5 @@ I should admit, at the end of the day, with only one leech bite I was really enj
 
 <img src="{{ site.baseurl}}/img/2015-08-26/14.jpg" alt="Indian Bull frog, Seethanadi Nature Camp, Hebbri and Agumbe">
 
-<p>PS. All images were made from 18-55mm and 50-250mm lens.</p>
+<p>PS. All images were made from 18-55mm and 55-250mm lens.</p>
 
