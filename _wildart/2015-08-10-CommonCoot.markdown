@@ -4,7 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 2"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-08-10/CommonCoot-thumb.jpg"
-seo: 		["Birds", "Bangalore", "wildart"]
+seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-08-10/CommonCoot.jpg"
 ---
