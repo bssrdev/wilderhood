@@ -38,3 +38,14 @@ header-img: "img/home-bg.jpg"
     {% endif %}
 </ul>
 {% endif %}
+
+{% if paginator.page == 1 %}
+	<script type="application/ld+json">
+	{
+	  "@context" : "http://schema.org",
+	  "@type" : "WebSite",
+	  "name" : "Wilderhood",
+	  "url" : "http://www.wilderhood.com"
+	}
+	</script>
+{% endif %}
