@@ -10,7 +10,7 @@ sharing-img: "img/2015-08-03/RedWhiskeredBulbul.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-08-03/RedWhiskeredBulbul.jpg.jpg" alt="Red Whiskered Bulbul, Bangalore, Wildart by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-08-03/RedWhiskeredBulbul.jpg" alt="Red Whiskered Bulbul, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
 Its brings me great pleasure to share my artworks and observations on birds of Bangalore with you all.  Through Wilderhood every Monday I will be sharing an artwork and small write-up on the subject. Hope you too would enjoy them as much I do!
