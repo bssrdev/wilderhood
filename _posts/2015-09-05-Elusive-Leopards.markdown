@@ -3,7 +3,7 @@ layout:     post
 title:      "Elusive Leopards"
 subtitle:   "Nagarahole National Park"
 author:     "Kiran Kashyap"
-tags:       ["Mammal Destinations", "Tiger Destinations", "Birding Destinations"]
+tags:       ["Mammal Destinations", "Tiger Destinations", "Birding Destinations", "Kabini"]
 seo:		["BigCats", "Tiger", "Kabini", "Kanha", "Pench", "Tadoba", "Ranthambore", "Corbett", "Birding Destinations"]
 comments:   true
 header-img: "img/2015-09-05/1.jpg"
