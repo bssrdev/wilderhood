@@ -3,7 +3,7 @@ layout:     post
 title:      "Live another day"
 subtitle:   "Valparai"
 author:     "Anil Kumar GT"
-tags:       ["Birding Destinations", "Mammal Destinations"]
+tags:       ["Birding Destinations", "Mammal Destinations", "Western Ghats"]
 seo:		["BigCats", "Leopards", "Valparai", "Birding Destinations"]
 comments:   true
 header-img: "img/2015-09-09/1.jpg"
