@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Ashwini V Mohan
+title: Ashwini V Mohan
 permalink: authors/Ashwini V Mohan/
 web: http://wilderhood.com
 email: contact@wilderhood.com

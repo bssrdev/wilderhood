@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Vinodh Ve
+title: Vinodh Ve
 permalink: authors/Vinodh Ve/
 web: http://vvlikes.blogspot.in/
 email: vvinod1@gmail.com

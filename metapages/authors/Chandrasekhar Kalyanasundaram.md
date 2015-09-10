@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Chandrasekhar Kalyanasundaram
+title: Chandrasekhar Kalyanasundaram
 permalink: authors/Chandrasekhar Kalyanasundaram/
 web: http://beyondroads.in
 email: support@beyondroads.in

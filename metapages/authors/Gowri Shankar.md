@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Gowri Shankar
+title: Gowri Shankar
 permalink: authors/Gowri Shankar/
 web: http://rainforestecology.com
 email: info@rainforestecology.com

@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Kalyan Varma
+title: Kalyan Varma
 permalink: authors/Kalyan Varma/
 web: http://http://kalyanvarma.net/
 bio: "I am a wildlife photographer, filmmaker, naturalist and explorer specializing in environment, science and ecology in India. I freelance with many of the world's leading magazines, environmental NGOs and television channels like Nat Geo and BBC.

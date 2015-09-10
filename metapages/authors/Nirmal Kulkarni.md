@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Nirmal Kulkarni
+title: Nirmal Kulkarni
 permalink: authors/Nirmal Kulkarni/
 web: http://goawildwatch.blogspot.in/
 email: ophidian_nirmal@yahoo.co.in

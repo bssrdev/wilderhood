@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Bharath Hegde
+title: Bharath Hegde
 permalink: authors/Bharath Hegde/
 web: http://lifeiswild.in
 email: 

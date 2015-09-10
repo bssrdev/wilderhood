@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Jagadeesh Rampam
+title: Jagadeesh Rampam
 permalink: authors/Jagadeesh Rampam/
 web: http://wilderhood.com
 email: jagadeesh@wilderhood.com

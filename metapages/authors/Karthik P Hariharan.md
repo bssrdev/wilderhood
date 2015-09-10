@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Karthik P Hariharan
+title: Karthik P Hariharan
 permalink: authors/Karthik P Hariharan/
 web: http://wilderhood.com
 email: contact@wilderhood.com

@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Priya Eidnani
+title: Priya Eidnani
 permalink: authors/Priya Eidnani/
 web: http://wilderhood.com
 email: contact@wilderhood.com

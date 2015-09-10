@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Anand Menon
+title: Anand Menon
 permalink: authors/Anand Menon/
 email: chanakyanand@gmail.com
 bio: "Nature Lover, Aspiring Naturalist, Nature Photographer, based in Bangalore, India"

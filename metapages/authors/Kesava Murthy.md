@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Kesava Murthy
+title: Kesava Murthy
 permalink: authors/Kesava Murthy/
 web: http://birdwing.in
 email: register@birdwing.in

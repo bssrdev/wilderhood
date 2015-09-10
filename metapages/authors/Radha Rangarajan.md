@@ -1,6 +1,7 @@
 ---
 layout: blog_by_author
 author_name: Radha Rangarajan
+title: Radha Rangarajan
 permalink: authors/Radha Rangarajan/
 web: http://radha-rangarajan.blogspot.in/
 email:
