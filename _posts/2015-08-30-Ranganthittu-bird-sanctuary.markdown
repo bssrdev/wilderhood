@@ -4,7 +4,7 @@ title:      "Pakshikoota"
 subtitle:   "Ranganthittu Bird Sanctuary"
 author:     "Kiran Kashyap"
 header-img: "img/2015-08-30/12.jpg"
-tags:       ["Birding Destinations", "Wildlife Destinations", "Ranganthittu"]
+tags:       ["Birding Destinations", "Wildlife Destinations", "Ranganathittu"]
 seo:		["Ranganathittu", "Birding Destinations", "Bangalore"]
 comments:   true
 ---
