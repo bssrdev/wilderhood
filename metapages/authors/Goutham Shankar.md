@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Goutham Shankar
 title: Goutham Shankar
+subtitle: Goutham Shankar
 permalink: authors/Goutham Shankar/
 web: http://bookmylens.com
 email: goutham@bookmylens.com

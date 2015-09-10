@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Santhosh Krishnamoorthy
 title: Santhosh Krishnamoorthy
+subtitle: Santhosh Krishnamoorthy
 permalink: authors/Santhosh Krishnamoorthy/
 web: http://framesofnature.com
 email: santhosh.kris@gmail.com

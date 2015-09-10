@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Sharanya Chander
 title: Sharanya Chander
+subtitle: Sharanya Chander
 permalink: authors/Sharanya Chander/
 web: http://wilderhood.com
 email: contact@wilderhood.com

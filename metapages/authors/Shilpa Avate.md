@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Shilpa Avate
 title: Shilpa Avate
+subtitle: Shilpa Avate
 permalink: authors/Shilpa Avate/
 web: http://wilderhood.com
 email: contact@wilderhood.com

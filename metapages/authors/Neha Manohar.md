@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Neha Manohar
 title: Neha Manohar
+subtitle: Neha Manohar
 permalink: authors/Neha Manohar/
 web: http://wilderhood.com
 email: contact@wilderhood.com

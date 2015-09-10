@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Kiran Kashyap
 title: Kiran Kashyap
+subtitle: Kiran Kashyap
 permalink: authors/Kiran Kashyap/
 web: http://kiranvrb.blogspot.in
 email: kiranvrb@gmail.com

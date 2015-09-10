@@ -2,6 +2,7 @@
 layout: blog_by_author
 author_name: Adarsh J Raju
 title: Adarsh J Raju
+subtitle: Adarsh J Raju
 permalink: authors/Adarsh J Raju/
 web: http://wanderingcanvas.net
 email: adarsh@wanderingcanvas.net
