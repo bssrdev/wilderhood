@@ -6,7 +6,7 @@ author:     "Mamta Naidu"
 tags:       ["Birding Destinations","Exotic Destinations", "Reptiles", "Monsoon Destinations", "Macro Life"]
 seo:		["exotic", "Andaman", "reptiles"]
 comments:   true
-header-img: "img/2015-09-12/1.jpg"
+header-img: "img/2015-09-12/1.JPG"
 ---
 
 <p>When Andaman Islands were in its nascent state; while the aboriginal tribes were figuring out what to wear for the upcoming carnival: skimpy Bamboo leaves or longish Palm leaves, I wanted to visit Andaman!</p>
