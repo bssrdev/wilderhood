@@ -128,26 +128,25 @@ Trek
 
 <p>Reptiles sighted:</p>
 
-<p>King Cobra Juvenile-1</p>
+<p>King Cobra Juvenile - 1</p>
 
-<p>Yellow Lipped Sea Kraits-10</p>
+<p>Yellow Lipped Sea Kraits - 10</p>
 
-<p>Dog Faced Water Snakes -6</p>
+<p>Dog Faced Water Snakes - 6</p>
 
 <p>Green Bronze back Tree Snakes – 3</p>
 
-<p>Andaman Pit Viper-1</p>
+<p>Andaman Pit Viper - 1</p>
 
-<p>Andaman Monitor Lizard-1 dead</p>
+<p>Andaman Monitor Lizard - 1 dead</p>
 
-<p>King Cobra Juvenile</p>
 
 <img src="{{ site.baseurl }}/img/2015-09-12/20.jpg" alt="Andaman Islands">
 <img src="{{ site.baseurl }}/img/2015-09-12/21.JPG" alt="Andaman Islands">
 <img src="{{ site.baseurl }}/img/2015-09-12/22.JPG" alt="Andaman Islands">
 
 
-<p?Birds sighted:</p>
+<p>Birds sighted?</p>
 
 <p>Brown Shrike, Black Capped King Fisher, Collared King Fisher, White Breasted King Fisher, Stork Billed King Fisher, White-bellied Sea Eagle, River Terns, Grey Wagtails, Green Pigeons, Night Jar, Whistling teal, Ashy Woodswallows, Andaman Crake, Andaman Coucal, Long Tailed Parakeet, Red Breasted Parakeet, Black Napped Oriole. </p>
 
