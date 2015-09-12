@@ -62,6 +62,14 @@ $(document).ready(function(){
 
 	//resizable iframes
 	$(".w-content iframe").wrap("<div class='aspect-video'></div>")
+
+	//alt as title of the image if it doesn't exist
+	$("article img").each(function(){
+		if(!$(this).attr("title"))
+        {
+			$(this).attr("title", $(this).attr("alt"));
+		}
+   });
 });
 
 function loadjsfile(filename) {
