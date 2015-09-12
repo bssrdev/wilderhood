@@ -144,7 +144,7 @@ Trek
 
 <img src="{{ site.baseurl }}/img/2015-09-12/20.jpg" alt="Andaman Islands">
 <img src="{{ site.baseurl }}/img/2015-09-12/21.JPG" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/22.JPG" alt="Andaman Islands"
+<img src="{{ site.baseurl }}/img/2015-09-12/22.JPG" alt="Andaman Islands">
 
 
 <p?Birds sighted:</p>
