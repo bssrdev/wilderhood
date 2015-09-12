@@ -287,5 +287,9 @@
 		$adHolderDiv.append(fragment);
 	}
 
-	displayAds();
+
+	if($(window).width() >= 768)
+	{
+		setTimeout(displayAds, 1000);
+	}
 })();
