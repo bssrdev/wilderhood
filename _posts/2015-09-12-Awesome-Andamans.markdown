@@ -39,23 +39,23 @@ header-img: "img/2015-09-12/1.JPG"
 
 <p>Cottage at ANET (Andaman and Nicobar Environmental Team)</p>
 
-<img src="{{ site.baseurl }}/img/2015-09-12/2.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/2.JPG" alt="ANET cottage, Andaman Islands">
 
 <p>First Day:
 Walk in the mangroves was as good as walk in the clouds.  Wading in the mangroves sinking knee-deep and I-thanks to my height-almost neck-deep into the muck was a unique experience. That’s when I learnt my premier valuable lesson: wearing full-length pants on these Islands was an unpardonable crime. Ignoring the popular quote never fight an unarmed man, Mangroves is a perfect place to get back at your foes.</p>
 
 <p>Walk in the Mangroves!!!</p>
 
-<img src="{{ site.baseurl }}/img/2015-09-12/3.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/3.JPG" alt="Mangroves, Andaman Islands">
 
 <p>Here it was, we first laid our eyes on the ubiquitous Hermit Crabs in different sizes, shells and shapes doing all sorts of interesting activities together with Mud Skippers.</p>
 
 <p>Hermit Crabs</p>
-<img src="{{ site.baseurl }}/img/2015-09-12/4.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/4.JPG" alt="Hermit crab, Andaman Islands">
 Mud Skipper!!!
-<img src="{{ site.baseurl }}/img/2015-09-12/5.JPG" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/6.JPG" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/7.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/5.JPG" alt="Mudskipper, Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/6.JPG" alt="Snails, Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/7.JPG" alt="Snails, Andaman Islands">
 <p>Washed off all the muck we gathered on ourselves in the name of looking for a Guitar-fish. We did see the Guitar-fish that belonged to the popular Ray family</p>
 
 <img src="{{ site.baseurl }}/img/2015-09-12/8.JPG" alt="Andaman Islands">
@@ -89,15 +89,15 @@ Mud Skipper!!!
 
 <p>Tree climbing was a grueling yet a thrilling activity.</p>
 
-<img src="{{ site.baseurl }}/img/2015-09-12/11.jpg" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/11.jpg" alt="Tree climbing, Andaman Islands">
 Trek
-<img src="{{ site.baseurl }}/img/2015-09-12/12.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/12.JPG" alt="Intertidal walk, Andaman Islands">
 
 <p>We went on a super cool trek after the super heated tree climbing. It was an unusual and a very enchanting terrain. It was something along the lines of Narnia terrain.  We trekked in the rain and through the thorny bushes, played in the waterfall, used the tree roots to climb down the trail, played in the sea and lunched on the beach in the rain. Here it was I learnt my second valuable lesson, never wear shorts while trekking through the thorny bushes. Ouch! The pain was so immense that I didn’t mind howling like a wolf.</p>
 
 <img src="{{ site.baseurl }}/img/2015-09-12/13.jpg" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/14.JPG" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/15.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/14.JPG" alt="Beach, Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/15.JPG" alt="Camping, Andaman Islands">
 
 <p>Moonwalk-not the Michael Jackson one</p>
 
@@ -106,7 +106,7 @@ Trek
 <p>For the first time I was high without being influence by any kind of spirits.</p>
 
 <p>Cuttle Fish!!!</p>
-<img src="{{ site.baseurl }}/img/2015-09-12/16.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/16.JPG" alt="Cuttle fish, Andaman Islands">
 
 <p>Fourth day:</p>
 
@@ -141,9 +141,9 @@ Trek
 <p>Andaman Monitor Lizard - 1 dead</p>
 
 
-<img src="{{ site.baseurl }}/img/2015-09-12/20.jpg" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/21.JPG" alt="Andaman Islands">
-<img src="{{ site.baseurl }}/img/2015-09-12/22.JPG" alt="Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/20.jpg" alt="King Cobra, Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/21.JPG" alt="Andaman Pit Viper, Andaman Islands">
+<img src="{{ site.baseurl }}/img/2015-09-12/22.JPG" alt="Andaman Bronzeback tree snake, Andaman Islands">
 
 
 <p>Birds sighted?</p>
