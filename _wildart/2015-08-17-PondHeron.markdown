@@ -13,11 +13,15 @@ sharing-img: "img/2015-08-17/Indian Pond Heron_Prasad Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-08-17/Indian Pond Heron_Prasad Natarajan.jpg" alt="Indian Pond Heron, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
-After an awesome weekend at Agumbe Seethanadi Nature Camp, watching gliding frogs, listing to Wynand frogs calling out for their mates, little crawling leeches, Golden Oriole's calls early morning and constant rain drops is no less than a paradise on earth. Not to forget the Grey Hornbills calls at a far distance is such a pleasure to my soul. Such experiences energizes me, among such beauties I wrote about this humble yet great hunter of the pond!
+After an awesome weekend at <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> <a href="http://www.wilderhood.com/accommodation/Seethanadi%20Nature%20Camp">Seethanadi Nature Camp</a>, watching gliding frogs, listing to Wynand frogs calling out for their mates, little crawling leeches, Golden Oriole's calls early morning and constant rain drops is no less than a paradise on earth. Not to forget the Grey Hornbills calls at a far distance is such a pleasure to my soul. Such experiences energizes me, among such beauties I wrote about this humble yet great hunter of the pond!
 </p>
 
 <p>
-Last week we spoke about a wader and disappearing lakes, continuing with the same theme we speak about Indian Pond Heron(Ardeola Grayii). Indian Pond Heron have whitish wings contrast with dark scapulars, light yellow tarsus, streaks appear on head,neck and breast usually. During breeding season they display yellowish tinge over the head and neck. Maroonish brown scapulars. Male/Female look similar during non breeding season, while during breeding season the male displays lengthy white steak from their crown.  
+<a href="{{ site.baseurl }}/wildart/2015-08-10-CommonCoot.html">Last week, we spoke about a wader and disappearing lakes</a>. Continuing with the same theme we speak about <strong>Indian Pond Heron (Ardeola Grayii)</strong>. 
+</p>
+
+<p>
+Indian Pond Heron have whitish wings contrast with dark scapulars, light yellow tarsus, streaks appear on head,neck and breast usually. During breeding season they display yellowish tinge over the head and neck. Maroonish brown scapulars. Male/Female look similar during non breeding season, while during breeding season the male displays lengthy white steak from their crown.  
 </p>
 
 <p>
