@@ -36,20 +36,22 @@
 	adList.push({link: "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});	
 	adList.push({link: "BUTTERFLY WATCHING, BIRD WATCHING AND HERPING TOUR", image: "MysticWild/Trip/Someshwar/collage.jpg", text: "BUTTERFLY WATCHING, BIRD WATCHING AND HERPING TOUR", keywords: ["Agumbe", "Monsoon"], months: ["Aug", "Sep"]});
 	adList.push({link: "TADOBA WILDLIFE SAFARI TOUR", image: "MysticWild/Trip/Tadoba/banner.jpg", text: "TADOBA WILDLIFE SAFARI TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
-	
-	
-	//adList.push({link: "Thecamp: Cozy farmhouse setup in Palasambe", image: "Accommodation/TheCamp/Banner.jpg", text: "Thecamp: Cozy farmhouse setup in Palasambe", keywords: ["Westernghats", "Monsoon", "MacroLife"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
-	//adList.push({link: "Kabini River Lodge", image: "Accommodation/JLR/Kabini/Kabini.jpg", text: "JLR - Kabini River Lodge", keywords: ["BigCats", "Birding Destinations", "Leopard", "Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
-	//adList.push({link: "Bandipur Safari Lodge", image: "Accommodation/JLR/Bandipur/Bandipur.jpg", text: "JLR - Bandipur Safari Lodge", keywords: ["BigCats", "Birding Destinations", "Leopard", "Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats", "Bandipur"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	adList.push({link: "Ladakh Photo Tour", image: "consciouspace/Trip/Ladakh/Leh8.jpg", text: "Ladakh Photo Tour", keywords: ["Travel Destinations", "Ladakh", "Leh"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	adList.push({link: "Photo-tour to Kabini", image: "consciouspace/Trip/Kabini/kabini3.jpg", text: "Photo-tour to Kabini", keywords: ["BigCats", "Birding Destinations", "Leopard", "Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats", "Bandipur"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	
+	//Accommodation properties
+	//var urlPrefix = "http://www.wilderhood.com/accommodation/";
+
+	//adList.push({link: "The Camp", image: "Accommodation/TheCamp/Banner.jpg", text: "Thecamp: Cozy farmhouse setup in Palasambe", keywords: ["Westernghats", "Monsoon", "MacroLife"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	//adList.push({link: "Kabini River Lodge", image: "Accommodation/JLR/Kabini/Kabini.jpg", text: "JLR - Kabini River Lodge", keywords: ["BigCats", "Birding Destinations", "Leopard", "Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	//adList.push({link: "Bandipur Safari Lodge", image: "Accommodation/JLR/Bandipur/Bandipur.jpg", text: "JLR - Bandipur Safari Lodge", keywords: ["BigCats", "Birding Destinations", "Leopard", "Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats", "Bandipur"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	
 
 	var sponsoredList = [];
 	//sponsoredList.push({link: "http://thewolfpackstore.com", image: "wolfpack.jpeg", text: "Feel Leopard on you", keywords: ["Kabini", "BigCats"]});
 	//sponsoredList.push({link: "http://thewolfpackstore.com", image: "gaur.jpeg", text: "Kabini is home for Indian Gaurs", keywords: ["Kabini", "BigCats"]});
-	//sponsoredList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
 	
+
 	function toTitleCase(str)
 	{
 	    return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
