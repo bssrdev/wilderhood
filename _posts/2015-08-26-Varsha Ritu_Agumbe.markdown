@@ -9,7 +9,7 @@ seo:		["Monsoon", "Agumbe", "Seethanadi", "MysticWild"]
 comments:   true
 ---
 
-<p>It is always great to visit forests whenever we find a chance, especially during monsoon, when forests are teeming with so much life. Travel experiences energizes me, it inspires me and also connects me to my roots. So I decided to travel with Mystic Wild Adventures on a weekend to Seethanadi Nature Camp and Agumbe.</p>
+<p>It is always great to visit forests whenever we find a chance, especially during monsoon, when forests are teeming with so much life. Travel experiences energizes me, it inspires me and also connects me to my roots. So I decided to travel with Mystic Wild Adventures on a weekend to <a href="http://www.wilderhood.com/accommodation/Seethanadi%20Nature%20Camp">Seethanadi Nature Camp</a> and <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a>.</p>
 
 <p>Till date I have only been exposed to bird watching and have not been to forests in search of crawling snakes or jumping frogs. I packed my bag with basic kit lens and did not carry a macro lens with me. Reason being I was not traveling with any major expectations, since this was my first time experience with reptiles and amphibians. Green forests, wet soil, rain and more rain, this was all  in my mind. Sometimes it is great to travel to a destination without much knowledge about the place, especially when you have a great guide and group to travel with.</p> 
 
