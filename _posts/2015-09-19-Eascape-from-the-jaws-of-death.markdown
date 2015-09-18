@@ -13,7 +13,7 @@ header-img: "img/2015-09-19/1.jpg"
 
 <p>Surprising element was the frog putting up a fight against the snake! As each second passed by, I could see that the frog was bloating itself to make itself larger, which would make it harder for the snake to swallow.</p>
 
-<p>I observed this struggle between life and death for a minute or so, from both the predator’s and pray’s perspective and then within a couple of seconds, the snake vanished into the thick bushes.</p>
+<p>I observed this struggle between life and death for a minute or so, from both the predator’s and prey’s perspective and then within a couple of seconds, the snake vanished into the thick bushes.</p>
 
 <p>So who do you think won that evening : Frog or the Vine Snake ?</p>
 
