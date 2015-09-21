@@ -9,7 +9,7 @@
 	
 	
 	adList.push({link: urlPrefix + "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", image: "Darter/Trip/Andaman/Andaman.jpg", text: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", keywords: ["Andaman", "Birding Destinations", "Port Blair", "Travel", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
-	adList.push({link: urlPrefix + "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", image: "Darter/Trip/Ladakh/Ladakh.jpg", text: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh", "Ladakh", "Travel", "Exotic"], months: ["Jul", "Aug"]});
+	//adList.push({link: urlPrefix + "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", image: "Darter/Trip/Ladakh/Ladakh.jpg", text: "MOUNTAINS AND MONASTERIES - A PHOTOGRAPHY TOUR OF LADAKH", keywords: ["Ladakh", "Travel Destinations", "Landscape Destinations", "Leh", "Ladakh", "Travel", "Exotic"], months: ["Jul", "Aug"]});
 	adList.push({link: urlPrefix + "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", image: "Darter/Trip/Cambodia/Cambodia.jpg", text: "CAMBODIA PHOTOGRAPHY TOUR - TEMPLES OF ANGKOR WAT & BEYOND", keywords: ["Cambodia", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
 	adList.push({link: urlPrefix + "WALK ON THE HILLY SIDE IN BHUTAN", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "WALK ON THE HILLY SIDE IN BHUTAN", keywords: ["Bhutan", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep"]});
 	adList.push({link: urlPrefix + "BHUTAN TRAVEL ROUTERS TOURS AND TREKS", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "BHUTAN TRAVEL ROUTERS TOURS AND TREKS", keywords: ["Bhutan", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep"]});
@@ -33,12 +33,15 @@
 	adList.push({link: urlPrefix + "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "TIGER CENTRAL - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Jul", "Aug", "Sep", "Oct"]});
 	adList.push({link: urlPrefix + "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "BANDHAVGARH TIGER RESERVE - SUNRISE TO SUNSET DEC 2015", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 	adList.push({link: urlPrefix + "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", image: "Toehold/Trip/Kamchatka/Kamchatka.jpg", text: "BEAR FEAST IN THE FAR EAST - WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Kamchatka", "Exotic"], months: ["Jul", "Aug"]});
-	adList.push({link: urlPrefix + "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});	
+	//adList.push({link: urlPrefix + "HERPING AND PHOTOGRAPHY TOUR AT THAR DESERT", image: "BikeNHike/Trip/Thar/4.jpg", text: "THAR DESERT - HERPING", keywords: ["Thar Desert", "HERPING"], months: ["Jul", "Aug", "Sep"]});	
 	adList.push({link: urlPrefix + "BUTTERFLY WATCHING, BIRD WATCHING AND HERPING TOUR", image: "MysticWild/Trip/Someshwar/collage.jpg", text: "BUTTERFLY WATCHING, BIRD WATCHING AND HERPING TOUR", keywords: ["Agumbe", "Monsoon"], months: ["Aug", "Sep"]});
 	adList.push({link: urlPrefix + "TADOBA WILDLIFE SAFARI TOUR", image: "MysticWild/Trip/Tadoba/banner.jpg", text: "TADOBA WILDLIFE SAFARI TOUR", keywords: ["Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats"], months: ["Jul", "Aug", "Sep", "Oct", "Nov"]});
 	adList.push({link: urlPrefix + "Ladakh Photo Tour", image: "consciouspace/Trip/Ladakh/Leh8.jpg", text: "Ladakh Photo Tour", keywords: ["Travel Destinations", "Ladakh", "Leh"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	adList.push({link: urlPrefix + "Photo-tour to Kabini", image: "consciouspace/Trip/Kabini/kabini3.jpg", text: "Photo-tour to Kabini", keywords: ["BigCats", "Birding Destinations", "Leopard", "Tiger", "Bandhavgarh", "Pench", "Kanha", "Tadoba", "BigCats", "Bandipur"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	adList.push({link: urlPrefix + "BIG CAT DIARIES - WILDLIFE PHOTOGRAPHY TOUR AT GIR", image: "BikeNHike/Trip/Gir/1.jpg", text: "BIG CAT DIARIES - WILDLIFE PHOTOGRAPHY TOUR AT GIR", keywords: ["Gir", "Birding Destinations", "BigCats"], months: ["Jul", "Aug", "Sep", "Oct"]});
+	adList.push({link: urlPrefix + "RAPTOR MANIA - BIRDING & PHOTOGRAPHY TOUR AT TAL CHAPPAR", image: "BikeNHike/Trip/Tal/1.jpg", text: "RAPTOR MANIA - BIRDING & PHOTOGRAPHY TOUR AT TAL CHAPPAR", keywords: ["TalChappar", "Birding Destinations", "Raptors", "Black bucks"], months: ["Oct", "Nov"]});
 	
+
 	//Accommodation properties
 	urlPrefix = "http://www.wilderhood.com/accommodation/";
 
