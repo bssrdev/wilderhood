@@ -6,11 +6,11 @@ author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-09-21/Grey-Heron_Prasad-Natarajan-thumb.jpg"
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-09-21/Grey-Heron_Prasad Natarajan.jpg"
+sharing-img: "img/2015-09-21/Grey-Heron_Prasad-Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-09-21/Grey-Heron_Prasad Natarajan.jpg" alt="Grey Heron, Bangalore, Wildart by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-09-21/Grey-Heron_Prasad-Natarajan.jpg" alt="Grey Heron, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
 Before the new stone benches were installed at Hebbal lake, during summer days we were able to access the tiny islands. Water used to reside and we were able to walk on the shores, sit up in bamboo shades and watch waders at close quarters. However in few years lot of work has gone into this lake and many of those islands stay submerged in summer as well. About 3 years back when I had visited this lake in peak summer, spent the whole day watching these waders. 
