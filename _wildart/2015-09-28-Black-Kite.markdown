@@ -6,11 +6,11 @@ author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-09-28/Black-Kite_Prasad-Natarajan-thumb.jpg"
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-09-28/Black-Kite_Prasad Natarajan.jpg"
+sharing-img: "img/2015-09-28/Black-Kite_Prasad-Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-09-28/Black-Kite_Prasad Natarajan.jpg" alt="Black Kite, Bangalore, Wildart by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-09-28/Black-Kite_Prasad-Natarajan.jpg" alt="Black Kite, Bangalore, Wildart by Prasad Natarajan">
 
 <p>Welcome back everyone, it has been a thrilling week for me at a tiger reserve in south India. After watching the big four in the reserve, I am all charged up to roar. Staying at a jungle energizes me, it felt great to spend time and watch mammals and birds that our pristine jungles offer. While heading back to Bangalore, I watched the bird of this week. Many of them were sitting on top of trees, few other were gliding across the blue sky and I also noticed one of them getting hit by a fast moving vehicle on ring road.</p>
 
