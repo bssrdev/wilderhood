@@ -37,6 +37,8 @@ paginate: 10
 collections:
   wildart:
     output: true
+  wildlifeweek:
+    output: true
 
 gems:
   - jekyll-sitemap
