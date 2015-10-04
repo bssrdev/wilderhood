@@ -3,7 +3,7 @@ layout:     post
 title:      "Wildlife week"
 subtitle:   "Day 3: Spotted Deer"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2015-10-04/Image 03 Spotted Deers_Prasad Natarajan_thumb.jpg"
+header-thumb-img: "img/2015-10-04/Image 03 Spotted Deers_Prasad Natarajan_thumb.JPEG"
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-10-04/Image 03 Spotted Deers_Prasad Natarajan.jpg"
