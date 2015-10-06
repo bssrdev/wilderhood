@@ -1,7 +1,11 @@
 ---
 layout:     post
 title:      "Wildlife week"
+<<<<<<< HEAD
 subtitle:   "Day 6: "
+=======
+subtitle:   "Day 5: Feral cattle"
+>>>>>>> origin/master
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-07/Image_06_Shieldtail_snake_Prasad_Natarajan_thumb.jpg"
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
