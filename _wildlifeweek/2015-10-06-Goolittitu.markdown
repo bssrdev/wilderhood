@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Wildlife week"
-subtitle:   "Day 5: "
+subtitle:   "Day 5: Feral cattle"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-06/Image_05_Goolittitu_Prasad_Natarajan_thumb.jpg"
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
