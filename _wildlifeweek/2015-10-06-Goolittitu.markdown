@@ -3,15 +3,15 @@ layout:     post
 title:      "Wildlife week"
 subtitle:   "Day 5: Feral cattle"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2015-10-07/Image_06_Shieldtail_snake_Prasad_Natarajan_thumb.jpg"
-seo: 		["Birding Destinations", "Bangalore", "wildart"]
+header-thumb-img: "img/2015-10-06/Image_05_Goolittitu_Prasad_Natarajan_thumb.jpg"
+seo: 		["Birding Destinations", "Bangalore", "Ranganathittu"]
 comments:   true
-sharing-img: "img/2015-10-07/Image_06_Shieldtail_snake_Prasad_Natarajan.jpg"
+sharing-img: "img/2015-10-06/Image_05_Goolittitu_Prasad_Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-10-07/Image_06_Shieldtail_snake_Prasad_Natarajan.jpg" alt="Shieldtail, Wildlife week wild encounters by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-10-06/Image_05_Goolittitu_Prasad_Natarajan.jpg" alt="Feral Cattle, Goolittittu, Wildlife week wild encounters by Prasad Natarajan">
 
 <p>
-Sirsi is a great place to visit during winters, one can spot all endemic birds and winter visitors. Early morning walk across a tiny muddy road resulted in as many as twenty plus birds and about six endemic birds. What we also observed was, many vehicles zooming on the road. After walking for a couple of hours, we saw huge trucks were also using the muddy roads which were part of the forest area. Then we came across this headless Sheildtail snake, my first encounter with this snake. It would have been great if I had seen it with its head and alive. Road kills are common in such areas, where mammals, reptiles and sometimes birds also get killed by speeding vehicles. 
+During my visit to Ranganathittu Bird Sanctuary, I spent a whole day watching pelicans, painted storks, egrets, openbills, river terns, night herons. I took the evening boat safari after our guide informed me about the existence of a man made island beside this sanctuary. Since the sanctuary was over crowded with birds, the authorities made a similar island, with the same trees, water etc. However none of the birds moved to this island, during heavy rains couple of domesticated cows were washed onto this island. After which they have lost contact with humans and now there is a big herd of these feral cows who have not come in contact with humans in a long time. When we reached this island, we were luckily to watch these feral cows grazing and for a moment, they all lifted their head up. But as soon as they saw us, they made a quick dash towards the thickets. It was great to make a few images of these elusive feral cows, this island is called Goolittitu!
 </p>
