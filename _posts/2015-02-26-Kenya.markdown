@@ -17,7 +17,7 @@ comments:   true
 <img src="{{ site.baseurl }}/img/2015-02-26/img1.jpg">
 
 
-<p>Mornings in <a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya are a study in contrasts. While on one hand there may be adrenaline pumping action, on the other there is a calming sense of peace. While on one hand there may be a dance of death, on the other life plays out its usual routines.</p>
+<p>Mornings in <a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya</a> are a study in contrasts. While on one hand there may be adrenaline pumping action, on the other there is a calming sense of peace. While on one hand there may be a dance of death, on the other life plays out its usual routines.</p>
 
 <img src="{{ site.baseurl }}/img/2015-02-26/img2.jpg">
 
