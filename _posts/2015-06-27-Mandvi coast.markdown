@@ -9,7 +9,7 @@ seo:		["Birding Destinations", "Rann"]
 comments:   true
 ---
 
-<p>During my visit to Greater Rann of Kutch, Gujarat, we spent a day in the Mandvi coast to observe and photograph waders near the sea shore.</p>
+<p>During my visit to Greater Rann of <a href="http://www.wilderhood.com/destination/Kutch"> Kutch,Gujarat</a>, we spent a day in the Mandvi coast to observe and photograph waders near the sea shore.</p>
 
 <p>We saw various species of birds, but the two highlights of the day were Oystercatchers and Crab Plovers.</p>
 

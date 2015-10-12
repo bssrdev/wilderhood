@@ -9,7 +9,7 @@ seo:		["Monsoon", "King Cobra", "Agumbe"]
 comments:   true
 ---
 
-<p>Monsoons have set in and with them comes wonderful feelings of love and romance at Agumbe. This is what I felt when I visited the place as a part of the Rainforest Rendezvous with <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a>.</p>
+<p>Monsoons have set in and with them comes wonderful feelings of love and romance at <a href="http://www.wilderhood.com/destination/Agumbe"> Agumbe</a>. This is what I felt when I visited the place as a part of the Rainforest Rendezvous with <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a>.</p>
 
 <p>The whole camp site was lush green with lovely streams crisscrossing the place. Rains were coming down in powerful short spells and there was a pleasant cool breeze billowing across. It was definitely a stage setup to usher in the the flavor of romance. There were wonderful different forms of courtships happening all around the place and it seemed as though the insect world was abound with love and romance.</p>
 

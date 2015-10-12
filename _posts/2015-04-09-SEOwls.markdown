@@ -10,7 +10,7 @@ header-img: "img/2015-04-09/img1.jpg"
 ---
 
 <p>
-For me a birding trip to Little Rann of Kutch was not going to be complete without coming across the Short-Eared Owls. Somehow I always wanted to see these birds in the Rann.
+For me a birding trip to <a href="http://www.wilderhood.com/destination/Kutch">Little Rann of Kutch</a> was not going to be complete without coming across the Short-Eared Owls. Somehow I always wanted to see these birds in the Rann.
 </p>
 
 <p>

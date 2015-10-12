@@ -10,7 +10,7 @@ header-img: "img/2015-09-02/5.jpg"
 ---
 
 <img src="{{ site.baseurl }}/img/2015-09-02/1.gif">
-<p>A time lapse image showing the meteors striking through the clear winter sky of BRT</p>
+<p>A time lapse image showing the meteors striking through the clear winter sky of <a href="http://www.wilderhood.com/destination/BR%20Hills">BRT</a></p>
 
 <p>A dream which has been constantly with me for four years was to make images of meteor showers. Images of this kind are rare and I have seen very few landscape images depicting a meteor shower in its full glory. With no such images from the Indian sub-continent, I knew it would not be an easy task to make this image. I spent countless hours planning my shots and working out the correct technique, most of which failed. However, with each failed attempt, I learnt something new and this knowledge eventually helped me draw up my strategy. My goal here was to showcase the beauty of a meteor shower and also present it in a way, which was never seen before. </p>
 

@@ -10,7 +10,7 @@ header-img: "img/2015-05-23/img1.jpg"
 ---
 
 <p>
-Mid-May of last to last year, we visited Tadoba for Tigers… Lot of funny things happened throughout the trip… Some of them are shared here…  
+Mid-May of last to last year, we visited <a href="http://www.wilderhood.com/destination/Tadoba"> Tadoba</a> for Tigers… Lot of funny things happened throughout the trip… Some of them are shared here…  
 </p>
 
 <p>

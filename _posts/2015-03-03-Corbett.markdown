@@ -16,7 +16,7 @@ comments:   true
 
 
 
-<p>Jim Corbett National park, is the oldest park in India which was established in the year 1936 to protect the Bengal tiger. Initially known as the Hailey park, this park got rechristened after the legend <a href="http://en.wikipedia.org/wiki/Jim_Corbett" style="text-decoration:none">Jim Corbett</a>, who had a lot to contribute towards the establishment of the park. 
+<p> <a href="http://www.wilderhood.com/destination/Corbett"> Jim Corbett National park</a>, is the oldest park in India which was established in the year 1936 to protect the Bengal tiger. Initially known as the Hailey park, this park got rechristened after the legend <a href="http://en.wikipedia.org/wiki/Jim_Corbett" style="text-decoration:none">Jim Corbett</a>, who had a lot to contribute towards the establishment of the park. 
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-03/banner.jpg">

@@ -9,7 +9,7 @@ seo:		["Birding Destinations"]
 comments:   true
 ---
 
-<p> As the sun rises over the grassland, it is evident why this place is named Tal Chapar. Barring a few trees and waterholes, the park is absolutely flat all around (Tal Chapar = “flat land of Chapar”). This wonderful habitat plays host to thousands of Blackbucks (one of the highest wild populations in the world). Wherever you look, you are bound to see them prancing about the grassland, dueling with each other, silently grazing, or just lazing around. </p>
+<p> As the sun rises over the grassland, it is evident why this place is named <a href="http://www.wilderhood.com/destination/Tal%20Chappar"> Tal Chapar </a>. Barring a few trees and waterholes, the park is absolutely flat all around (Tal Chapar = “flat land of Chapar”). This wonderful habitat plays host to thousands of Blackbucks (one of the highest wild populations in the world). Wherever you look, you are bound to see them prancing about the grassland, dueling with each other, silently grazing, or just lazing around. </p>
 
 
 <img src="{{ site.baseurl }}/img/2015-02-14/Bonellis-Eagle-and-Blackbuck.jpg"  alt="Black bucks are found Wherever you look, you are bound to see them prancing about the grassland, dueling with each other, silently grazing, or just lazing around, Tal Chappar, Rajasthan">

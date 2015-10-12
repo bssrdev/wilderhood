@@ -14,7 +14,7 @@ comments:   true
 
 Birds of the Tern family, these River Terns , as their name implies, are mostly confined to the fresh water areas and are resident breeders along the inland waters in most parts of India.
 
-Each year, from early March till June, is their breeding season and these birds come in their thousands to a small island on the backwaters of the Bhadra reservoir in Shimoga. They flock to this place to start a new chapter in their lives, to find a prospective mate and bear their young. It is here, that all seems to get very fishy, fishy… :-) The little fresh water ‘fish’, known as the ‘Minnows‘, found abundantly in these backwaters, become a very crucial part of their lives.
+Each year, from early March till June, is their breeding season and these birds come in their thousands to a small island on the backwaters of the <a href="http://www.wilderhood.com/destination/Bhadra"> Bhadra</a>reservoir in Shimoga. They flock to this place to start a new chapter in their lives, to find a prospective mate and bear their young. It is here, that all seems to get very fishy, fishy… :-) The little fresh water ‘fish’, known as the ‘Minnows‘, found abundantly in these backwaters, become a very crucial part of their lives.
 
 Everything starts with the male river terns trying to woo the prospective females. Female river terns sit quaintly on the island waiting for a male to entice them with an irresistible trinket. When a male has to approach a female to pop the question ‘will you marry me’ , it isn’t with a resplendent diamond ring, but with a juicy little ‘FISH’ :-)
 

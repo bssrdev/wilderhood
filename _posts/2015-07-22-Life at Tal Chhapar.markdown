@@ -9,7 +9,7 @@ seo:		["Birding Destinations", "Raptors"]
 comments:   true
 ---
 
-<p>It was last day of Sept 2012 and we were a small group of birder-photographers. We were returning to Tal Chhapar after exploring a nearby hilly area. Time was around 2:30pm, we were hungry and yet we had decided to skip lunch and go birding all day, non-stop.</p>
+<p>It was last day of Sept 2012 and we were a small group of birder-photographers. We were returning to <a href="http://www.wilderhood.com/destination/Tal%20Chappar"> Tal Chhapar </a> after exploring a nearby hilly area. Time was around 2:30pm, we were hungry and yet we had decided to skip lunch and go birding all day, non-stop.</p>
 
 <p>We soon spotted a Desert Fox walking around in search of a meal. The area around Tal Chhapar has abundant population of Spiny Tailed Lizard in the months of October to November. These lizards like to pop their head out from the ground holes and bask in the sun. We followed the fox for some distance and it finally caught hold of a lizard.</p>
 

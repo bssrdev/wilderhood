@@ -11,7 +11,7 @@ comments:   true
 
 
 <p>
-This is the Episode-II, of the amazing predator-prey interactions that I witnessed during my trip to the wonderful and seemingly endless grassy plains of the Serengeti.
+This is the Episode-II, of the amazing predator-prey interactions that I witnessed during my trip to the wonderful and seemingly endless grassy plains of the <a href="http://www.wilderhood.com/destination/Serengeti"> Serengeti</a>.
 </p>
 
 <p>

@@ -9,7 +9,7 @@ seo:		["Africa", "Exotic"]
 comments:   true
 ---
 
-<p>Kenya is a timeless home to beautiful creatures. From Amboseli, which is the best place in Africa to get close to free-ranging elephants down south, you have Samburu – a unique scrub, desert and grassland ecosystem up north of the equator. On one hand you have the green wetlands of Nakuru and on the other hand you have the dry grasslands of the Masai Mara – the holy grail for any wildlife enthusiast. Life, death and regeneration happen round the clock. And while each of these locations can be a riot of colour, I’ve always wanted to capture the <em>timelessness life here in just Black and White!</em></p>
+<p><a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya </a> is a timeless home to beautiful creatures. From Amboseli, which is the best place in Africa to get close to free-ranging elephants down south, you have Samburu – a unique scrub, desert and grassland ecosystem up north of the equator. On one hand you have the green wetlands of Nakuru and on the other hand you have the dry grasslands of the Masai Mara – the holy grail for any wildlife enthusiast. Life, death and regeneration happen round the clock. And while each of these locations can be a riot of colour, I’ve always wanted to capture the <em>timelessness life here in just Black and White!</em></p>
 
 <p>This photo essay is an attempt to tell a few stories without the distraction of colour – <strong>Kenya in It's Moody Monotones.</strong></p>
 
@@ -17,7 +17,7 @@ comments:   true
 <img src="{{ site.baseurl }}/img/2015-02-26/img1.jpg">
 
 
-<p>Mornings in Kenya are a study in contrasts. While on one hand there may be adrenaline pumping action, on the other there is a calming sense of peace. While on one hand there may be a dance of death, on the other life plays out its usual routines.</p>
+<p>Mornings in <a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya are a study in contrasts. While on one hand there may be adrenaline pumping action, on the other there is a calming sense of peace. While on one hand there may be a dance of death, on the other life plays out its usual routines.</p>
 
 <img src="{{ site.baseurl }}/img/2015-02-26/img2.jpg">
 
@@ -55,8 +55,8 @@ The migration brings a cacophony of activity as thousands of gnus cross the plai
 
 <img src="{{ site.baseurl }}/img/2015-02-26/img10.jpg">
 
-<p>Kenya is an easy country to fall in love with. And yet, this is a wilderness under threat. In the last 50 years, lion, cheetah, leopard, rhino and elephant numbers have plummeted and the loss of these species is leading to the collapse of the ecosystems they stand for. While Kenya is officially a no-hunting zone, the sceptre of poaching along with rising affluence in China and Vietnam means that wildlife trade is the number one threat to this pristine wilderness.
-It troubles me to believe that at this rate we could lose these ecosystems forever. That if we did nothing, our next generation may never see the drama of life in Kenya as we have done. And that even we know this place quite differently from generations past. <br>
+<p><a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya</a> is an easy country to fall in love with. And yet, this is a wilderness under threat. In the last 50 years, lion, cheetah, leopard, rhino and elephant numbers have plummeted and the loss of these species is leading to the collapse of the ecosystems they stand for. While Kenya is officially a no-hunting zone, the sceptre of poaching along with rising affluence in China and Vietnam means that wildlife trade is the number one threat to this pristine wilderness.
+It troubles me to believe that at this rate we could lose these ecosystems forever. That if we did nothing, our next generation may never see the drama of life in  Kenya as we have done. And that even we know this place quite differently from generations past. <br>
 <br>
      <a href="http://www.wilderhood.com/organizer/Birdwing%20Photography">Birdwing Travel And Photography</a> conducts 
      The Great Migration - Masai Mara every year in the month of August.

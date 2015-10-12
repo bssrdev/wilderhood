@@ -11,7 +11,7 @@ header-img: "img/2015-09-16/16.jpg"
 
 <p>The western ghats of India are a mountain range that runs parallel to western coastal belt. Covered by thick forests it hosts rare medicinal plants, vivid flora and fauna, scenic beauty spots, rivers and streams. The range starts from Kerala in the south and to Maharashtra in the north.</p>
 
-<p>I had the deepest desire to watch endemic species up close and only one place could fulfill that- Dandeli. So, I packed my bags, headed to this small town and spent three days. It was during the year end, so I could not get an accommodation at Dandeli. However I managed to stay at Kalache, a remote village near Yellapur. This place comes under Western Ghats of India and it offers an amazing bird diversity.</p>
+<p>I had the deepest desire to watch endemic species up close and only one place could fulfill that- <a href="http://www.wilderhood.com/destination/Dandeli"> Dandeli </a>. So, I packed my bags, headed to this small town and spent three days. It was during the year end, so I could not get an accommodation at Dandeli. However I managed to stay at Kalache, a remote village near Yellapur. This place comes under Western Ghats of India and it offers an amazing bird diversity.</p>
 
 
 <img src="{{ site.baseurl }}/img/2015-09-16/1.JPG" alt="Besra, Dandeli, Karnataka">

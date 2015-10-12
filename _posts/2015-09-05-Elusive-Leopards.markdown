@@ -11,7 +11,7 @@ header-img: "img/2015-09-05/1.jpg"
 
 <p>Shy, elusive, charismatic, stealth are few known characteristics of a leopard. Spots all over their body, gives them an appalling fancy look. They primarily inhabit tropical rain forests, evergreen forests, moist deciduous forests, dry deciduous forests and temperate forests. They are also often seen in the fringes of cities and villages.</p>
 
-<p>Similiar to other parts of its distribution, human-leopard conflict is present in Karnataka too. As Nagarahole NP lies between Coorg, Hunsur and HD Kote, reported sightings and appearances of leopards close to human habitation are high.</p>
+<p>Similiar to other parts of its distribution, human-leopard conflict is present in Karnataka too. As <a href="http://www.wilderhood.com/destination/Kabini">Nagarahole National Park</a> lies between <a href="http://www.wilderhood.com/destination/Coorg">Coorg</a>, Hunsur and HD Kote, reported sightings and appearances of leopards close to human habitation are high.</p>
 
 <p>It is generally observed that forests with high density of tigers are not home for many leopards, is this because leopards are not known to outsmart tigers? May be. Leopards generally enter human inhabited villages and lurk around those areas in order to spend less time hunting, as food is easily available around humans(Cattle like goat, cow and buffalo). Domesticated animals are generally easy prey when compared to wild animals.</p> 
 
