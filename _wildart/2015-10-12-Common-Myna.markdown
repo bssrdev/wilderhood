@@ -3,14 +3,14 @@ layout:     post
 title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 10"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2015-10-12/Common Myna_Prasad_Natarajan_thumb.jpg"
+header-thumb-img: "img/2015-10-12/Common-Myna_Prasad_Natarajan_thumb.jpg"
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-10-12/Common Myna_Prasad_Natarajan.jpg"
+sharing-img: "img/2015-10-12/Common-Myna_Prasad_Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-10-12/Common Myna_Prasad_Natarajan.jpg" alt="Common Myna , Bangalore, Wildart by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-10-12/Common-Myna_Prasad_Natarajan.jpg" alt="Common Myna , Bangalore, Wildart by Prasad Natarajan">
 
 <p>Welcome back everyone to the tenth week of Wildart talk, hope you all had a great Wildlife week, Wilderhood and I celebrated the last week with many interesting wildlife encounters across India. If you have missed out those encounters, do check them out (http://recitals.wilderhood.com/gallery/). After a week of visual safari all over India, it is time to come back to our common birds of Bangalore.</p>
 
