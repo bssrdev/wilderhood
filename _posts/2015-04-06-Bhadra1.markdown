@@ -6,7 +6,7 @@ author:     "Vinodh Ve"
 tags:       ["Birding Destinations", "Bhadra", "Wildlife Destinations", "Tiger Destinations"]
 seo: 		["Tiger", "Bhadra", "BigCats"]
 comments:   true
-header-img: "img/2015-04-06/img1.jpg"
+header-img: "img/2015-04-06/Bhadra1.jpg"
 ---
 
 <p>
@@ -26,9 +26,9 @@ Everybody was eagerly watching the elephant, as we approach closer and closer. T
 Suddenly, the elephant got up! What a huge animal!! Then it played for sometime with water, splashed all muddy water over it, cooled down for sometime... It was a great relief for all of us in the boat. And, as usual, the cameras celebrated the moment than us - kach kach kach kach... everyone clicked the elephant play time. 
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-06/img2.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-06/img3.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-06/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-06/Bhadra2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-06/Bhadra3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-06/Bhadra4.jpg">
 
 <p>
 After some play in water, it got up and showered itself a lot of mud from the river bank over all parts of the body, as if humans apply lotion/cream/powder. 

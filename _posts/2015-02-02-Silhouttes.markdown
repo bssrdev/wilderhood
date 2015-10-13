@@ -3,7 +3,7 @@ layout:     post
 title:      "Amazing Silhouettes."
 subtitle:   "Silhouettes can be a best way to add drama to the scene. We’ll look at some tips on how to make some amazing silhouettes."
 author:     "Kesava Murthy"
-header-img: "img/2015-02-02/silhoutte.jpg"
+header-img: "img/2015-02-02/masai_mara.jpg"
 tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks"]
 seo:		["Africa", "BigCats"]
 comments:   true
@@ -28,7 +28,7 @@ comments:   true
 
 <p>Silhouette shot in wild (uncontrolled environment) is very difficult. It requires one to ascertain the situation and act at faster speed based on the changing environment. The best time to make some silhouettes are the early morning sunrise or sunset time. This is when the sun is at lowest in the sky, it makes an ideal often colorful back-lit situation.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-02/silhoutte.jpg"  alt="Silhouttes in making in Maasai Maara, Kenya">
+<img src="{{ site.baseurl }}/img/2015-02-02/masai_mara.jpg"  alt="Silhouttes in making in Maasai Maara, Kenya">
 
 
 <p>The shot above was made from last year’s Photography tour to <a href="http://www.wilderhood.com/destination/Masai%20Mara"> Maasai Mara</a> by <a href="http://www.wilderhood.com/organizer/Birdwing%20Photography">Birdwing Travel And Photography</a>. The image was shot late evening. The skipper <a href="{{ site.baseurl }}/authors/Kesava Murthy" style="text-decoration:none">Kesava Murthy</a> immediately realised that he wanted to create an image with drama!!! </p>
@@ -37,7 +37,7 @@ comments:   true
 
 <p>The below shot is from early morning sunrise when the sun was just popping up. What do you think makes this shot interesting? For me, it’s the defined shape of the macaque highlighted by the stark contrast and lack of detail in the  macaque drawing the viewer's full attention to the unique pose of the macaque.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-02/silhoutte1.jpg"  alt="Silhouttes in making in Nandi Hills, Near Bangalore">
+<img src="{{ site.baseurl }}/img/2015-02-02/masai_mara1.jpg"  alt="Silhouttes in making in Nandi Hills, Near Bangalore">
 
 <h4>Tech details:</h4>
 <p>ISO : 400<br>

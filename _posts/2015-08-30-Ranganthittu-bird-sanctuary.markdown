@@ -3,7 +3,7 @@ layout:     post
 title:      "Pakshikoota"
 subtitle:   "Ranganthittu Bird Sanctuary"
 author:     "Kiran Kashyap"
-header-img: "img/2015-08-30/12.jpg"
+header-img: "img/2015-08-30/Ranganathittu12.jpg"
 tags:       ["Birding Destinations", "Wildlife Destinations", "Ranganathittu"]
 seo:		["Ranganathittu", "Birding Destinations", "Bangalore"]
 comments:   true
@@ -19,44 +19,44 @@ comments:   true
 
 <p>Boating is the main attraction of this sanctuary. Watch towers are constructed at necessary places. I checked into a boat and opted for an extended boating session. The boatman had immense experience in boating and birding. He was passionate about sharing the knowledge which he gained from so many years of service.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/1.JPG" alt="Painted Stork, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu1.JPG" alt="Painted Stork, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>The sanctuary will be crowded by several species of resident and migratory birds between January to May, that is when nesting starts. I was fortunate to witness bird activities as I had ample time. Many people who are keen in bird watching visit this place to study the behavior of birds.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/2.jpg" alt="Painted Stork, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu2.jpg" alt="Painted Stork, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>There will be less amount of bird activity during monsoons due to increase in water level. Water released from Krishna Raja Sagara dam submerges most of the islets. Boating will be suspended.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/3.jpg" alt="Spot Billed Pelican, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/4.JPG" alt="Spot Billed Pelican, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu3.jpg" alt="Spot Billed Pelican, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu4.JPG" alt="Spot Billed Pelican, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>Our boat slowly crossed small islets which had many nestlings. I saw huge congregation of painted storks, Eurasian spoonbills, egrets, spot billed pelicans, asian openbill storks. It was amazing to see juveniles basking under the sun without any fear.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/5.JPG" alt="Asian Openbill, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/6.JPG" alt="Black Capped Night Heron, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu5.JPG" alt="Asian Openbill, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu6.JPG" alt="Black Capped Night Heron, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>I started documenting the birds we came across, number of lifers started increasing. Eurasian Thick Knee was one of them. There were about 10 thick knees on a boulder. Apparently they are common in this season. Their eyes seemed bigger than their body.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/7.JPG" alt="Eurasian Thick knee, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/8.jpg" alt="Cattle Egret, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/9.JPG" alt="Eurasian Spoon bill, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu7.JPG" alt="Eurasian Thick knee, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu8.jpg" alt="Cattle Egret, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu9.JPG" alt="Eurasian Spoon bill, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>After a wonderful boating experience, I took a stroll inside the park to check out wood-land birds. Flycatchers, warblers, wagtails, kingfishers and many more were friendly.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/10.JPG" alt="Small Blue Kingfisher, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/11.JPG" alt="Stork Billed Kingfisher, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu10.JPG" alt="Small Blue Kingfisher, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu11.JPG" alt="Stork Billed Kingfisher, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>With a loud call, Stork Billed Kingfisher flew from direction to another. It evaded human interaction. With great difficulty I managed to get a glimpse of it within a thick canopy.</p>
 
-<img src="{{ site.baseurl }}/img/2015-08-30/12.jpg" alt="Pied Kingfisher, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/13.JPG" alt="Indian Grey Hornbill, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/14.JPG" alt="Forest Wagtail, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/15.JPG" alt="White Browed Fantail Flycatcher, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/16.JPG" alt="Indian Peafowl, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/17.JPG" alt="River Tern, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/18.jpg" alt="Grey Bellied Cuckoo, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/19.jpg" alt="Grey Bellied Cuckoo, Ranganathittu Bird Sanctuary, Karnataka">
-<img src="{{ site.baseurl }}/img/2015-08-30/20.JPG" alt="Marsh Crocodile, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu12.jpg" alt="Pied Kingfisher, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu13.JPG" alt="Indian Grey Hornbill, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu14.JPG" alt="Forest Wagtail, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu15.JPG" alt="White Browed Fantail Flycatcher, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu16.JPG" alt="Indian Peafowl, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu17.JPG" alt="River Tern, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu18.jpg" alt="Grey Bellied Cuckoo, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu19.jpg" alt="Grey Bellied Cuckoo, Ranganathittu Bird Sanctuary, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-08-30/Ranganathittu20.JPG" alt="Marsh Crocodile, Ranganathittu Bird Sanctuary, Karnataka">
 
 <p>Karnataka Bird Festival was an outstanding gesture by Eco-toursim board to educate people about birds and their habitat. In times of heavy habitat destruction such kind of workshops would create awareness in the community. The two day workshop included talks by eminent wildlife photographers and conservationists which focused only on birds.</p>
 

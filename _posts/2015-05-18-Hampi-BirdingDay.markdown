@@ -13,7 +13,7 @@ comments:   true
 Morning sun refused to pay us a visit,as we walked towards the ruins of <a href="http://www.wilderhood.com/destination/Hampi"> Hampi</a>. On the humongous stone entrance grew tiny thorns shrubs and little blades of grass depicts the long forgotten grandeur. Hampi former capital of Vijayanagar Empire, "Vijaya"meaning success, "Nagar" meaning city. City of success now laid in state of ruins and how brutal man could be to his own kind. One of the UNESCO World Heritage Site, attracts tourist from all over the planet
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-18/Image_1.jpg" alt="Hampi, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-05-18/Hampi1.jpg" alt="Hampi, Karnataka">
 
 <p>
 We gently strolled through the huge stone steps, spotting Painted spurfowl female with chicks rushing around the cactus. Few Bush quails heading to a tiny water hole near a those thorny shrubs.
@@ -27,13 +27,13 @@ Promising start,calls of the Grey francolins at far off distance, Green bee eate
 We heard the calls of White browed bulbul at first and were able to spot few of them, by now the swifts hovered around the cloudy skies. White browed bulbul shares this rocky habitat with another interesting bulbul as well, both their calls are similar. 
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-18/Image_2.jpg" alt="Hampi, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-05-18/Hampi2.jpg" alt="Hampi, Karnataka">
 
 <p>
 Indian rock agama sniffed and crawled the rock reaching the edge of the rock and so was my excitement with anticipation when we heard the calls of Yellow throated bulbul. In few minutes these rocks were filled with calls of this bulbul, we sat quietly watching their behavior for the next two and half hours. The Yellow throated bulbul is a species of bulbul endemic to south peninsular region.This species of bulbul is olive grey above with a yellow throat, undertail coverts and tail tips. The head is plain while the breast and belly have a grey coloration. Males and females have similar plumage.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-18/Image_3.jpg" alt="Hampi, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-05-18/Hampi3.jpg" alt="Hampi, Karnataka">
 
 <p>
 Yellow throated bulbul stand Vulnerable as per IUCN listing.Their habitat is mainly rocky hilly areas, which are mainly threatened by granite quarrying, cattle grazing, etc. In Hampi though tourists are proving to be major threat to these birds, while we sat watching them, we saw couple of tourists walking straight towards them. Though unintentional these tourist were directly interfering with the feeding and matting pattern of this bulbul. Hope the local guides are made aware of these beautiful bulbuls and they in-turn will educate the tourists how important these birds are to this region. 
@@ -44,13 +44,13 @@ Yellow throated bulbul stand Vulnerable as per IUCN listing.Their habitat is mai
 During those two and half hours we watch about twelve of individuals and two male's fighting for a female, all three making rounds in the thorny shrubs.However with low light and the bulbuls busy with their daily routine of feeding on berries, it was very difficult to photograph them. 
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-18/Image_6.jpg" alt="Bulbul, Hampi">
+<img src="{{ site.baseurl }}/img/2015-05-18/Hampi4.jpg" alt="Bulbul, Hampi">
 
 <p>
 There is a pattern with all birds, similarly these bulbuls too had a favorite perch were they all sat, which would enable them to survey the area from higher ground. So we waited patiently close by to that berry tree, knowing that one of them will surely arrive there to survey the area. Finally one individual came close, sat really close and gave us enough time to make few shots.After making those pictures we decided to head back to Daroji Sloth Bear Resort with filled hearts and mindful of pleasant memories of watching this beautiful endemic bird of southern peninsular.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-18/IMG_9583.jpg" alt="Hampi, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-05-18/Hampi5.jpg" alt="Hampi, Karnataka">
 
 <h4>
 In General:

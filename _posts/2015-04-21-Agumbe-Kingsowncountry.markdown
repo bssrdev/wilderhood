@@ -6,7 +6,7 @@ author:     "Mamta Naidu"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Western Ghats", "Reptiles", "King Cobra", "Agumbe"]
 seo:		["Monsoon", "King Cobra"]
 comments:   true
-header-img: "img/2015-04-21/img4.jpg"
+header-img: "img/2015-04-21/agumbe4.jpg"
 ---
 
 <p>
@@ -17,7 +17,7 @@ If you’re like me, a little stupid and love quaint little villages, gregarious
 If you’re like me a little weird and love incessant rains, plethora of glistening little shrubs as well as tall trees in all shades of greens, yellows and browns, orchestra by Cicadas all day, all night, Leeches (of course not on me but in the forest, for Leeches are indicators of pristine forests), alluring King Cobras, reticent Pit Vipers, ubiquitous Frogs, <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> is most definitely for you.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe1.jpg">
 
 <p>
 <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> is 370km from Bangalore. It is a part of Shimoga district in Malnad region. Not for nothing Agumbe forest made it to the list of World Heritage sites. It receives 2nd highest rainfall in India, thus, earned the name Cherrapunjee of South India.
@@ -31,32 +31,32 @@ When my friend and I set off on this expedition, all I had in mind was rains, sn
 We stayed at a friend’s environmental education camp site called Kālinga Centre for Rainforest Ecology. It is a perfect place to meditate, read, stretch awkwardly in the name of yoga and contemplate about life without rains, trees and boyfriends. It is a perfect anytime getaway for wildlife enthusiasts.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe2.jpg">
 
 <p>
 Now picture yourself spending time right in the middle of one of the wettest places in the world. While rustling streams, murmuring breeze, pitter patter of raindrops, gallons of oxygen, fragrance of earth, forest as far as your eyes can see and beyond takes over your entire existence. If you’re like my mother and this scene spooks you add a good friend or two and some good hot food to your imagination. It was truly a soul-stirring and detoxifying experience.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe3.jpg">
 
 <p>
 If you want to just flop at one place and enjoy the nature all you have to do here is slightly tilt your head: you’ll find stick insects calculating its moves over a prey in one direction, not so far from it is, potter wasp ‘s abandoned nest inviting you to peek into its dark tunnel and in another direction is eggs of day Gecko clinging to the roof for their lives. Back at home with great difficulty I’ll find eggs in the refrigerator much less eggs of Gecko on the roof. In simple mathematical terms <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> is equal to blessedness.
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe4.jpg">
 
 <p>
 Sunset point in <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> Ghats is as famous as Niagara falls in the US. It’s a shame, like any other touristy spots in India it is untidy with a lot of plastic packets and bottles strewn all over the place. One can witness Bonnet Macaques very close to people eating from plastics packets and sometimes packets itself. If I were the Sun I would either never set on <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> or at least choose another point, inaccessible to people, to set in peace and quiet, and avoid this mess.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe5.jpg">
 
 <p>
 That said, <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> Ghats is also home for gorgeous Lion tailed Macaques (endemic to Western Ghats) and the mighty and revered King Cobras. Here we had an opportunity to be a part of rescue and release of a sick King Cobra in a close by village called Someshwara. When you look into the eyes of a King Cobra you will realize why he deserves the respect he gets. What a majestic animal, what a beauty. To me this clearly tops the list of most beautiful creatures ever to exist on this planet. The drive through the Ghats lifts even the most darkest and apathetic of moods.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe6.jpg">
 
 <p>
 <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> village is cozy and comforting and has its own charm just like the song from the television version of Malgudi days. Kasturi akka is a very famous, courteous and important personality in the village. Malgudi days was shot in her house. And the Kashaya (tea made of dozens of herbs) she offers with or without milk is perhaps cousin of elixir of life.
@@ -66,7 +66,7 @@ That said, <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> Gha
 In my humble-not so significant-opinion Western Ghats especially <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> is God’s best creation, not to mention after women and King Cobra of course.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-21/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-21/agumbe7.jpg">
 
 <p>
 Remember:

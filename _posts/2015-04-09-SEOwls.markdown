@@ -6,7 +6,7 @@ author:     "Bharath Hegde"
 tags:       ["Birding Destinations", "Wildlife Destinations", "LRK", "Raptors"]
 seo:		["Birding Destinations", "Raptors", "Rann"]
 comments:   true
-header-img: "img/2015-04-09/img1.jpg"
+header-img: "img/2015-04-09/kutch1.jpg"
 ---
 
 <p>
@@ -17,7 +17,7 @@ For me a birding trip to <a href="http://www.wilderhood.com/destination/Kutch">L
 When I participated <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a> for  <a href="http://www.wilderhood.com/trip/Wild%20West%20-%20Wildlife%20Photography%20Tour%20of%20Kutch">WildWest tour at LRK</a>, we spent few hours spread over two days looking for these birds.  We choose a thorny shrub area mainly consisting of Juliflora for our search, where these birds are known to sit and sulk under the canopy of small trees on the ground.  Thanks to amazing spotting by one of the drivers, we managed to see a Short-Eared Owl within few minutes of our search.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-09/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-09/kutch2.jpg">
 
 <p>
 Short-Eared Owl sitting on a branch well inside the canopy of Juliflora tree. What an amazing spotting this was!
@@ -40,7 +40,7 @@ Suddenly we got a signal from the vehicle behind and we instantly hoped that it 
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2015-04-09/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-09/kutch1.jpg">
 
 <p>
 The Owl was sitting on the ground hiding among the shrubs, the shrub acted as a neat camouflage. Our vehicle had passed through this shrub and sure we missed spotting this one! Even the bird is known to be diurnal, the hunting occurs mainly in the night and probably they sit on the ground like this the whole day. Again the bird stared at us keenly!
@@ -50,7 +50,7 @@ The Owl was sitting on the ground hiding among the shrubs, the shrub acted as a 
 After some time the bird took off and sat right in middle on the “Rann” at a short distance from us. ( I mean in “open” with its full body visible.)  The photographer-birders like us always love this sight of the bird in open as a nice opportunity to take pictures!  But this also meant that it would be a hard task approaching the bird.  We definitely needed to crawl to cover the distance, as we would be seen as a threat if we get up from the ground. We needed to stop when bird looked at us and proceed when the bird looked the other way. It took us couple of tries to get to the reasonable proximity of the bird and  we managed to make few pictures of the bird.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-09/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-09/kutch3.jpg">
 
 <p>
 We wished the Owl happy Hunting as the bird took off after some.  It was time to bid adieu to LRK and we returned with loads of memories from the trip.

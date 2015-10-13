@@ -3,7 +3,7 @@ layout:     post
 title:      "Ranthambore"
 subtitle:   "Ranthambore wildlife sanctuary is known for its tigers and is one of the best places in India to see these majestic predators in the jungle."
 author:     "Goutham Shankar"
-header-img: "img/2015-01-28/landscape.jpg"
+header-img: "img/2015-01-28/ranthambore.jpg"
 tags:       ["Wildlife Destinations", "Tiger Destinations", "Ranthambore"]
 seo: 		["Tiger", "Ranthambore", "BigCats"]
 comments:   true
@@ -20,15 +20,15 @@ comments:   true
 
 <p> Day 1, started with Zone-3 for us. One of the most popular zone for tiger activity off late, because of the T19 Cubs. We were not so lucky to sight one, but we enjoyed the forest and saw some of the most amazing locations, which can be magical if you end up with a tiger sighting, one such location is this. (Royal Ruins of Rajbagh Palace)</p>
 
-<img src="{{ site.baseurl }}/img/2015-01-28/landscape.jpg"  alt="Royal Ruins of Rajbagh Palace, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-01-28/ranthambore.jpg"  alt="Royal Ruins of Rajbagh Palace, Rajasthan">
 
 <h3> Hide and Seek | One of the T19 Cub </h3>
 
-<img src="{{ site.baseurl }}/img/2015-01-28/Cub1.jpg"  alt="T19 cub from Ranthambore, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-01-28/ranthambore1.jpg"  alt="T19 cub from Ranthambore, Rajasthan">
 
 <p> Day1 – evening safari, it was again zone 3 for us. We headed to the forest sharp at 2 PM after a light lunch switching back to the mode of enjoying the forest! For the first few hours, we drove all around the zone checking out some vantage points where the chances of sighting CATS are very high. we were not so lucky to spot one, but it was a fantastic drive. Our experienced naturalist suggested that we should stay close to the lake, as there were good chances of spotting the tiger around. So we made our way close to the Rajbagh lake.</p>
 
-<img src="{{ site.baseurl }}/img/2015-01-28/cub2.jpg"  alt="Cub2 of T19 in Ranthambore, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-01-28/ranthambore2.jpg"  alt="Cub2 of T19 in Ranthambore, Rajasthan">
 
 <p> Now, one of them in the canter spots the cubs and starts rushing towards them! What would you expect the others to do?  You are so excited that you start looking everywhere to get a glimpse of the cubs. But once you spot them, you just can’t take your eyes off them so here’s one click of the cute and curious cub!</p>
 
@@ -40,4 +40,4 @@ comments:   true
 
 <p>After making a kill it took the sambar to the place where it had left the cubs.  The cubs were so obedient that they never wandered around or changed their place. </p>
 
-<img src="{{ site.baseurl }}/img/2015-01-28/tigerwithkill.jpg"  alt="Tiger with kill in Ranthambore, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-01-28/ranthambore3.jpg"  alt="Tiger with kill in Ranthambore, Rajasthan">

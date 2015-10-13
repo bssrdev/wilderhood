@@ -3,7 +3,7 @@ layout:     post
 title:      "A day in Mandvi coast"
 subtitle:   "Birds and Dolphins"
 author:     "Vinodh Ve"
-header-img: "img/2015-06-27/2.jpg"
+header-img: "img/2015-06-27/Kutch2.jpg"
 tags:		["Wildlife Destinations", "Birding Destinations", "GRK"]
 seo:		["Birding Destinations", "Rann"]
 comments:   true
@@ -13,8 +13,8 @@ comments:   true
 
 <p>We saw various species of birds, but the two highlights of the day were Oystercatchers and Crab Plovers.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/1.jpg" alt="Oyster catchers, Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/2.jpg" alt="Crab Plover, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch1.jpg" alt="Oyster catchers, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch2.jpg" alt="Crab Plover, Greater Rann of Kutch">
 
 <h4>Oystercatchers</h4>
 
@@ -24,9 +24,9 @@ comments:   true
 
 <p>When we saw them, they were extremely skittish and never allowed us closer. We had to crawl inch by inch, lying on the beach with each wave hitting us on the face.  All this, to get a decent image. Luckily, the sea was not rough and the waves were not very high.</p> 
 
-<img src="{{ site.baseurl}}/img/2015-06-27/3.jpg" alt=" Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/4.jpg" alt=" Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/5.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch3.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch4.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch5.jpg" alt=" Greater Rann of Kutch">
 
 <h4>Crab Plovers</h4>
 
@@ -38,19 +38,19 @@ comments:   true
 
 <p>We found them in a huge flock during morning hours and later in the evening, they were scattered around. When they saw the fishermen throwing fishing nets into the water, they actively utilised the opportunity to grab fish near the net. They gave no attention to our presence and we seized the opportunity to observe their interaction and behaviour with each other- adults feeding the young, hunting crabs, etc.</p> 
 
-<img src="{{ site.baseurl}}/img/2015-06-27/6.jpg" alt=" Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/7.jpg" alt=" Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/8.jpg" alt=" Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/9.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch6.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch7.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch8.jpg" alt=" Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch9.jpg" alt=" Greater Rann of Kutch">
 
 <p>Apart from these two magnificent birds, we saw many more birds like - Slender billed Gull, Brown-headed Gull, Heuglin's Gull, Pallas Gull, Gull billed Tern, Whiskered Tern, Lesser Crested Tern, Eurasian Curlew, Whimbrel, Kentish/Lesser/Greater Sand Plovers, Eurasian Thick-knee, Ruddy Turnstone, Western Reef Egret, Terek Sandpiper, Curlew Sandpiper, Bar-tailed and Black-tailed Godwits, Black necked Stork etc.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/10.jpg" alt="A Brown headed Gull with kill (Non-breeding plumage), Greater Rann of Kutch">
-<img src="{{ site.baseurl}}/img/2015-06-27/11.jpg" alt="Eurasian Thick-knee, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch10.jpg" alt="A Brown headed Gull with kill (Non-breeding plumage), Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch11.jpg" alt="Eurasian Thick-knee, Greater Rann of Kutch">
 
 <p>In the afternoon while we were walking towards the jeep, we saw a couple of Dolphins very close to a fishing boat close to the shore, the dolphins were jumping in and out of water. This was a spectacular scene to watch.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-27/12.jpg" alt="Dolphins off the shore, Greater Rann of Kutch">
+<img src="{{ site.baseurl}}/img/2015-06-27/Kutch12.jpg" alt="Dolphins off the shore, Greater Rann of Kutch">
 
 <p>Altogether, it  was one of my best birding days with many lifers, decent images and opportunities to observe wader behaviours and Dolphins! By then, far away beyond the water we could see the sun drowning into the ocean and the day was over.</p>
 

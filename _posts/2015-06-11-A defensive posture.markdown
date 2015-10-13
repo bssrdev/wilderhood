@@ -8,7 +8,7 @@ seo:		["Macro", "Monsoon"]
 comments:   true
 
 ---
-<img src="{{ site.baseurl }}/img/2015-06-11/Death's-head Hawkmoth's Caterpillar.jpg" alt="Death's-head Hawkmoth's Caterpillar">
+<img src="{{ site.baseurl }}/img/2015-06-11/Coorg1.jpg" alt="Death's-head Hawkmoth's Caterpillar">
 
 <p>It was monsoon, sometime during the end of June 2013. We were in <a href="http://www.wilderhood.com/destination/Coorg">Coorg</a> to capture macro photographs as the monsoon offers myriad opportunities. </p>
 
@@ -16,11 +16,11 @@ comments:   true
 
 
 
-<img src="{{ site.baseurl }}/img/2015-06-11/Caterpillar feeding on a leaf.jpg" alt="Caterpillar feeding on a leaf, Coorg">
+<img src="{{ site.baseurl }}/img/2015-06-11/Coorg2.jpg" alt="Caterpillar feeding on a leaf, Coorg">
 
 <p>One of us touched the plant by chance and the caterpillar was alert in a second.  Immediately it changed its posture on the plant. The head freed from the munching leaf, facing upwards and folding all its tiny legs towards its face, it almost looked like it was praying. Back then, it was just another situation where we realized nature is so diverse, even behaviours of each animal varied so greatly and assumed that the change in position was a warning.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-11/Defensive posture.jpg" alt="Defensive posture">
+<img src="{{ site.baseurl }}/img/2015-06-11/Coorg3.jpg" alt="Defensive posture">
 
 <p>Later, when identifying the caterpillar, I understood that it is a Death's-head Hawkmoth's (Acherontia lachesis) caterpillar. Death's-head Hawkmoth got its name because, this massive hawk moth has a spooky image of a skull on its thorax and it's horizontally banded body reminds us of the ribs of a human skeleton. Adding to this fact is that the death's head hawk moth can squeak when alarmed and that it's huge caterpillar can also make clicking sounds.</p>
 

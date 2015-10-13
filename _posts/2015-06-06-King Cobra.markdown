@@ -3,7 +3,7 @@ layout:     post
 title:      "SNAKES ROCK MY WORLD!"
 subtitle:   "King Cobra"
 author:     "Mamta Naidu"
-header-img: "img/2015-06-06/1.jpg"
+header-img: "img/2015-06-06/Agumbe1.jpg"
 tags:       ["Wildlife Destinations", "Agumbe", "Monsoon Destinations"]
 seo:		["King Cobra", "Agumbe", "Monsoon"]
 comments:   true
@@ -18,13 +18,13 @@ comments:   true
 
 <p> From time to time I have to have some snake time to rejuvenate my mind and soul. So I made a trip to <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> hoping to see some <em>Ophiophagus hannahs</em> (King Cobras) in action</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-06/1.jpg" alt="KCRE, Agumbe">
+<img src="{{ site.baseurl }}/img/2015-06-06/Agumbe1.jpg" alt="KCRE, Agumbe">
 
 <p> If you’re like me- a little weird and love incessant rains, a plethora of glistening little shrubs as well as tall trees in all shades of greens, yellows and browns, the orchestra of cicadas all day and night, leeches (of course not on me but in the forest, for leeches are indicators of pristine forests), alluring King Cobras, reticent Pit Vipers, ubiquitous frogs – then Agumbe is most definitely for you.</p>
 
 <p> There is no way we would return from Agumbe without spotting a snake – it always lived up to its reputation. When we spotted our first snake, a Pit Viper with green morph, our joy knew no bounds. We got more than 100 pictures of the gorgeous fellow sitting calmly in the same position with an “I don’t care” attitude. If he knew he was going to be on FB and evoke some emotions, perhaps he would’ve have changed his posture. We thought this would be the only Pit Viper we would see during our trip. In a matter of few hours we saw another Pit Viper with a brown morph. A green morph and a brown morph! We went mad with excitement. We shot another 100 pictures of this fellow too and I must say that they all have the same “couldn’t-care-less” attitude.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-06/2.jpg" alt="Malabar pit Viper in Agumbe, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-06-06/Agumbe2.jpg" alt="Malabar pit Viper in Agumbe, Karnataka">
 
 <p>Just when we thought we wouldn’t see any more snakes, Ms. Vine with her innocent and slender face appeared. In a matter of one and half days three snakes was a good deal for me.</p>
 
@@ -34,7 +34,7 @@ comments:   true
 
 <p>Prasanth with all his tools- hooks, pipe, bag, etc would make Rambo look like a wuss. He brought the King Cobra, perhaps old or sick, out of a shrub very carefully. It felt like, he was gently untangling a baby’s hair. And then I bagged the King Cobra! Yay! We released him in an open ground close by praying that he would survive.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-06/3.jpg" alt="King Cobra in Someshwara, Karnataka">
+<img src="{{ site.baseurl }}/img/2015-06-06/Agumbe3.jpg" alt="King Cobra in Someshwara, Karnataka">
 
 <p>When you look into the eyes of a King Cobra you will realize why he deserves the respect he gets. What a majestic animal! What a beauty! To me this clearly tops the list of most beautiful creatures ever to exist on this planet. It felt like he was sending some signals through his eyes and calming my soul. I have never felt this inspired and composed ever in my life.</p>
 

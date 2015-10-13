@@ -3,7 +3,7 @@ layout:     post
 title:      "Life at Tal Chhapar"
 subtitle:   "Tawny Eagle attacking Desert Fox"
 author:     "Bharath Hegde"
-header-img: "img/2015-07-22/4.jpg"
+header-img: "img/2015-07-22/Tal_Chhapar4.jpg"
 tags:		["Raptors","Tal Chappar", "Birding Destinations", "Wildlife Destinations"]
 seo:		["Birding Destinations", "Raptors"]
 comments:   true
@@ -18,11 +18,11 @@ comments:   true
 <p>It was a memorable experience for us and a here is the photo account of the same.</p>
 
 
-<img src="{{ site.baseurl}}/img/2015-07-22/1.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/2.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/3.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/4.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/5.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/6.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/7.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/8.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar1.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar2.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar3.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar4.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar5.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar6.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar7.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar8.jpg" alt="Tal Chhapar">

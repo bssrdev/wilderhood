@@ -3,7 +3,7 @@ layout:     post
 title:      "Monsoon Magic at Bandipur"
 subtitle:   "Monsoon Magic at Bandipur"
 author:     "Prasad Natarajan"
-header-img: "img/2015-07-03/4.jpg"
+header-img: "img/2015-07-03/Bandipur4.jpg"
 tags:		["Wildlife Destinations", "Mammal Destinations", "Tiger Destinations", "Bandipur"]
 seo: 		["Tiger", "Bandipur", "Kabini", "BigCats"]
 comments:   true
@@ -17,19 +17,19 @@ comments:   true
 
 <p>As soon as we reached the reserve, we were greeted with several Bonnet Macaques, it is great to watch them immersed in their daily activities. Feeding such wild animals is not a good practice, though the warning message always specifies this guideline, most of the tourists end up feeding them. Bonnet Macaques are also great subjects to photograph and soft back light adds an appealing outlook to them.</p>
 
-<img src="{{ site.baseurl}}/img/2015-07-03/7.jpg" alt="Bonet Macaque,Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur7.jpg" alt="Bonet Macaque,Bandipur National Park">
 
 <p>Sparrows can be found in plenty at the canteen area, building their nests and picking leftovers. Sparrows evoke nostalgia if you have grown up in Bangalore, they certainly remind me of my childhood when I used to feed them from the balcony of my house.</p>
 
-<img src="{{ site.baseurl}}/img/2015-07-03/8.jpg" alt="Common Sparrow, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur8.jpg" alt="Common Sparrow, Bandipur National Park">
 
 <p>Another primate to be seen there was, the Hanuman Langur. A female Hanuman Langur with her young one is a such a treat to watch.</p>  
 
-<img src="{{ site.baseurl}}/img/2015-07-03/9.jpg" alt="Hanuman Langur, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur9.jpg" alt="Hanuman Langur, Bandipur National Park">
 
 <p>The rain gods showered their blessings on all of us, the beauty of the place increased double fold due to the peafowl . These calm, dramatic and peaceful moments reminded me of  great poet Kalidasa's words;</p> 
 
-<img src="{{ site.baseurl}}/img/2015-07-03/10.jpg" alt="Pea fowl, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur10.jpg" alt="Pea fowl, Bandipur National Park">
 
 <p><em>“Bright as a heap of flashing gems, there shines
 Before thee on the ant-hill, Indra's bow;
@@ -39,27 +39,27 @@ Like the dark herdsman Vishnu, with peacock-plumes aglow”</em></p>
 
 <p>Later, a herd of Indian Gaurs walked across in the rain, what more does one need? The Bandipur forest, peafowl, rain and Indian Gaurs; all at one place, we were immersed in happiness.</p>
 
-<img src="{{ site.baseurl}}/img/2015-07-03/1.jpg" alt="Indian Gaur, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur1.jpg" alt="Indian Gaur, Bandipur National Park">
 
 <p>As soon as the rain reduced, the sun was out in the sky, shining its bright light on us. We were just recovering from the sightings when two stripe-necked mongoose walked out into the open. They were biting each other, moving up and down on each other with their neck and for a brief time they were mating.  This was such a wonderful natural history moment, it was a golden opportunity to document mating behavior displayed by the mongoose. Animal sightings fascinate us, but imagine watching how they interact with each other, this was an unexpected insight into their life and we were thrilled beyond measure.</p>
 
-<img src="{{ site.baseurl}}/img/2015-07-03/2.jpg" alt="Stripe-necked Mongoose, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur2.jpg" alt="Stripe-necked Mongoose, Bandipur National Park">
 
 <p>The gentle giant-an Asian elephant  paid us a visit with a jungle Myna perched on its back, it is amazing how animals of such varied size class co-exist in nature.</p> 
 
-<img src="{{ site.baseurl}}/img/2015-07-03/3.jpg" alt="Asian Elephant, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur3.jpg" alt="Asian Elephant, Bandipur National Park">
 
 <p>We started to explore the forest and noticed two Spotted deer stags (males) involved in a territorial fight.</p> 
 
-<img src="{{ site.baseurl}}/img/2015-07-03/4.jpg" alt="Spotted Deer, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur4.jpg" alt="Spotted Deer, Bandipur National Park">
 
 <p>Green Bee-eaters were also busy, they began feasting on insects right after the showers.</p> 
 
-<img src="{{ site.baseurl}}/img/2015-07-03/5.jpg" alt="Green Bee Eater, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur5.jpg" alt="Green Bee Eater, Bandipur National Park">
  
 <p>A red wattle lapwing chick was a charming sighting we witnessed in our safari. Her mother was around, she  made a quick dash toward the chick and they both slowly disappeared into the green.</p>
 
-<img src="{{ site.baseurl}}/img/2015-07-03/6.jpg" alt="Red Wattle Lapwing, Bandipur National Park">
+<img src="{{ site.baseurl}}/img/2015-07-03/Bandipur6.jpg" alt="Red Wattle Lapwing, Bandipur National Park">
 
 <p>So did our hope of spotting that elusive cat.  Our energy level did not deteriorate, because there's always next time. It was a truly exhilarating experience in the forest, with rains and interesting animals all around.</p> 
 

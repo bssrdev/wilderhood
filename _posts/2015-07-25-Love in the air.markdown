@@ -3,7 +3,7 @@ layout:     post
 title:      "Love in the air"
 subtitle:   "At Agumbe"
 author:     "Santhosh Krishnamoorthy"
-header-img: "img/2015-07-25/3.jpg"
+header-img: "img/2015-07-25/Agumbe3.jpg"
 tags:		["Agumbe","Monsoon Destinations", "Wildlife Destinations"]
 seo:		["Monsoon", "King Cobra", "Agumbe"]
 comments:   true
@@ -19,24 +19,24 @@ comments:   true
 
 
 Courting Pair of Blue-tailed Damsel Flies
-<img src="{{ site.baseurl}}/img/2015-07-25/1.jpg" alt="Courting Pair of Blue-tailed Damsel Flies, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe1.jpg" alt="Courting Pair of Blue-tailed Damsel Flies, Agumbe">
 Mating pair of Dragon Flies
-<img src="{{ site.baseurl}}/img/2015-07-25/2.jpg" alt="Mating Dragon Flies, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe2.jpg" alt="Mating Dragon Flies, Agumbe">
 Mating pair of Tiger Beetles
-<img src="{{ site.baseurl}}/img/2015-07-25/3.jpg" alt="Mating pair of Tiger Beetles, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe3.jpg" alt="Mating pair of Tiger Beetles, Agumbe">
 Mating pair of Crane Flies
-<img src="{{ site.baseurl}}/img/2015-07-25/4.jpg" alt="Mating Crane Flies, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe4.jpg" alt="Mating Crane Flies, Agumbe">
 Mating pair of Beetles
-<img src="{{ site.baseurl}}/img/2015-07-25/5.jpg" alt="Mating pair of Beetles, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe5.jpg" alt="Mating pair of Beetles, Agumbe">
 Male starts pursuing the female..
-<img src="{{ site.baseurl}}/img/2015-07-25/6.jpg" alt="Male starts pursuing the female, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe6.jpg" alt="Male starts pursuing the female, Agumbe">
 Female kicks back at the male..showing total lack of interest
-<img src="{{ site.baseurl}}/img/2015-07-25/7.jpg" alt="Female kicks back at the male..showing total lack of interest, Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe7.jpg" alt="Female kicks back at the male..showing total lack of interest, Agumbe">
 A kick on the head doesn’t stop the male from pursuing….He titillated the female with his antennae in the hope of acceptance
-<img src="{{ site.baseurl}}/img/2015-07-25/8.jpg" alt="A kick on the head doesn’t stop the male from pursuing….
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe8.jpg" alt="A kick on the head doesn’t stop the male from pursuing….
 He titillated the female with his antennae in the hope of acceptance, Agumbe">
 He continues the pursuit, though a bit heart-broken :)
-<img src="{{ site.baseurl}}/img/2015-07-25/9.jpg" alt="He continues the pursuit, though a bit heart-broken,Agumbe">
+<img src="{{ site.baseurl}}/img/2015-07-25/Agumbe9.jpg" alt="He continues the pursuit, though a bit heart-broken,Agumbe">
 
 <p>There was this male black beetle that was in pursuit of its mate, albeit, with very little success. He would try to entice the female by brushing his antennae against the her body, but the female would not budge. This chase went on for a few minutes before the male finally gave up and they moved away in different directions.</p>
 

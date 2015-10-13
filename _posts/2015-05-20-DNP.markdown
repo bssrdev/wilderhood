@@ -6,7 +6,7 @@ author:     "Manohara Kamath"
 tags:       ["Birding Destinations", "Wildlife Destinations", "Desert National Park", "Travel Destinations"]
 seo: 		["Travel", "Birding Destinations"]
 comments:   true
-header-img: "img/2015-05-20/original.jpg"
+header-img: "img/2015-05-20/Sudashri.jpg"
 ---
 
 
@@ -35,8 +35,8 @@ Tired from the journey, we decided to do safari around the park. We were not sur
 My friend got excited and we asked the driver to search, after some time we found it sitting near a bush, we started to take pictures and went closer, we got some good images of the cat. It was nicely posing for us. We anticipated some action but it did not happen. When we tried to move little closer the cat disappeared from its bush. My friend mentioned me that sighting a Desert cat at such a close distance was like seeing god. Our day was done, new year gift and wishes were given by nature.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img1.jpg" alt="Desert Cat, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img2.jpg" alt="Desert Cat, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri1.jpg" alt="Desert Cat, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri2.jpg" alt="Desert Cat, DNP, Rajasthan">
 
 <h1>
 IN SEARCH OF GIB
@@ -46,8 +46,8 @@ IN SEARCH OF GIB
 One of the most critically endangered bird, the Great Indian Bustard (GIB) is only 250 in number as per 2011 census. The loss in habitat and hunting has brought the birds to such a low numbers. Efforts are on to save the remaining birds and to increase the number. One of the important area of protection is Desert National Park. There is a special fenced canopy where live stock grazing is prohibited and it is here we have chances to sight GIB. One has to hire camel cart to go inside the canopy and if lucky we have chance to see GIB. There are also times when bird is seen outside the canopy area in surroundings. We had sighting of this bird twice and were able to get some decent images of the bird.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img4.jpg" alt="Great Indian Bustard, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img3.jpg" alt="Great Indian Bustard, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri4.jpg" alt="Great Indian Bustard, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri3.jpg" alt="Great Indian Bustard, DNP, Rajasthan">
 
 <h1>
 REGULAR SPOTTER - DESERT FOX
@@ -57,10 +57,10 @@ REGULAR SPOTTER - DESERT FOX
 One of the regular spotted animal was Desert Fox. We had almost more than 10 encounters with this. It started with the 1st day and was constantly spotted on till the last day. Every fox we stopped, to see if it was Indian fox and it turned out to be Desert fox. I joked to my friend that we might see a fox in the sand dunes close to our tent in the moon light and it turned out that a fox was seen walking, for few minutes we both thought we were hallucinating but when we went to dunes, we could see the pug marks of the fox which confirmed our sighting. Later our guide also confirmed that they have seen fox in the dunes previously.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img5.jpg" alt="Desert Fox, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img6.jpg" alt="Desert Fox, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img7.jpg" alt="Desert Fox, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img8.jpg" alt="Desert Fox, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri5.jpg" alt="Desert Fox, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri6.jpg" alt="Desert Fox, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri7.jpg" alt="Desert Fox, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri8.jpg" alt="Desert Fox, DNP, Rajasthan">
 
 <h1>
 THE EVER ELUSIVE INDIAN FOX
@@ -70,7 +70,7 @@ THE EVER ELUSIVE INDIAN FOX
 Like Desert Fox, Indian fox was not very cooperative, from a very far off distance from us it would run away. We had in total 5 sightings and could get only 1 shot of this. It gave some 10 sec glance at me and was able to click one shot (luckily my camera cooperated). May be in next visit to DNP they would be more cooperative I guess.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img9.jpg" alt="Indian Fox, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri9.jpg" alt="Indian Fox, DNP, Rajasthan">
 
 <h1>
 VULTURES
@@ -81,10 +81,10 @@ We had sightings of the vultures in different locations. Highlight was obviously
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img12.jpg" alt="Vultures, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img10.jpg" alt="Vultures, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img11.jpg" alt="Vultures, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img13.jpg" alt="Vultures, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri12.jpg" alt="Vultures, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri10.jpg" alt="Vultures, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri11.jpg" alt="Vultures, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri13.jpg" alt="Vultures, DNP, Rajasthan">
 
 <h1>
 OTHER SIGHTINGS
@@ -94,10 +94,10 @@ OTHER SIGHTINGS
 Other sightings we had was Laggar Falcon, Cream Courser and Tawny Eagle.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img14.jpg" alt="Laggar Falcon, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img15.jpg" alt="Cream Courser, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img16.jpg" alt="Tawny Eagle, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img17.jpg" alt="Tawny Eagle, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri14.jpg" alt="Laggar Falcon, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri15.jpg" alt="Cream Courser, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri16.jpg" alt="Tawny Eagle, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri17.jpg" alt="Tawny Eagle, DNP, Rajasthan">
 
 <h1>
 NIGHT LIFE
@@ -107,7 +107,7 @@ NIGHT LIFE
 After a long tiring day in the safari, in the evening we had traditional Rajasthani folk and dance performance from the local Manganiar community. We were entertained to some traditional songs and some songs which have been adapted to Bollywood movies along with the traditional dance. Night walk in the sand were also a possibility which we explored. In the end, I would like to say this is one such place people have to visit either you can be a wild-life photographer or a common person who want to take a relaxed trip. Both have something which they can take back from the trip.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/img18.jpg" alt="Night life, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img19.jpg" alt="Night life, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img20.jpg" alt="Night life, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/img21.jpg" alt="Night life, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri18.jpg" alt="Night life, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri19.jpg" alt="Night life, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri20.jpg" alt="Night life, DNP, Rajasthan">
+<img src="{{ site.baseurl }}/img/2015-05-20/Sudashri21.jpg" alt="Night life, DNP, Rajasthan">

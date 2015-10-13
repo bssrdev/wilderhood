@@ -3,7 +3,7 @@ layout:     post
 title:      "Thattekad-Salim Ali Bird Santuary"
 subtitle:   "The fight of Navrang"
 author:     "Vinodh Ve"
-header-img: "img/2015-05-30/Jumping Indian Pitta.jpg"
+header-img: "img/2015-05-30/Thattekad.jpg"
 tags:       ["Wildlife Destinations","Birding Destinations","Thattekad"]
 seo:		["Birding Destinations"]
 comments:   true
@@ -20,22 +20,22 @@ comments:   true
 <p>Unaware that a stranger was observing them, the birds went on with their business. In no time,  a territorial combat started with some spectacular displays of power.  I have summarized the displays in the order in which they occurred:</p>
 
 <p>Both look at the left with their  neck stretched</p>
-<img src="{{ site.baseurl }}/img/2015-05-30/Left neck stretch.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
+<img src="{{ site.baseurl }}/img/2015-05-30/Thattekad1.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
 
 <p>Then they look at the right with neck stretched</p>
-<img src="{{ site.baseurl }}/img/2015-05-30/Right neck stretch.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
+<img src="{{ site.baseurl }}/img/2015-05-30/Thattekad2.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
 
 <p>Both the birds display a side view pose (lateral view)</p>
-<img src="{{ site.baseurl }}/img/2015-05-30/Body side display.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
+<img src="{{ site.baseurl }}/img/2015-05-30/Thattekad3.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
 
 <p>They spread their colourful wings on the ground</p>
-<img src="{{ site.baseurl }}/img/2015-05-30/Wing spreading.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
+<img src="{{ site.baseurl }}/img/2015-05-30/Thattekad4.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
 
 <p>The opponents facing each other jump in the air towards each other</p>
-<img src="{{ site.baseurl }}/img/2015-05-30/Jumping in the air.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
+<img src="{{ site.baseurl }}/img/2015-05-30/Thattekad5.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
 
 <p>Both try to dominate the other in the jump and win the combat</p>
-<img src="{{ site.baseurl }}/img/2015-05-30/Dominating the jump.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
+<img src="{{ site.baseurl }}/img/2015-05-30/Thattekad6.jpg" alt="Indian Pitta, Tattekad-Salim Ali Bird Sanctuary, Cochin, Kerala">
 
 <p>On previous occasions, I have observed the bird Indian Blue Robin also using similar tactics of stretching the neck and staring at the opponent.</p>
 

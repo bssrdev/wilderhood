@@ -3,7 +3,7 @@ layout:     post
 title:      "Old Magazine House"
 subtitle:   "Old Magazine House - Bird Watcher's heaven"
 author:     "Kiran Kashyap"
-header-img: "img/2015-08-23/28.jpg"
+header-img: "img/2015-08-23/Ganeshgudi28.jpg"
 tags:		["Birding Destinations"]
 seo:		["Birding Destinations", "JLR"]
 comments:   true
@@ -17,211 +17,211 @@ comments:   true
 This beautiful lady sat on the perch like a queen. She posed nicely for all shutterbugs who continuously triggered their cam button. I was bowled over..!
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/1.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi1.jpg">
 
 <p>
 Blue Capped Rock Thrush - Female.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/2.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi2.jpg">
 
 <p>
 White Rumped Shama - Perhaps the most visited bird to the bath area. I was longing to see this bird since many days, viola!! Wish granted. I watched him over again. 
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/3.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi3.jpg">
 
 <p>
 White Rumped Munia.--- They were the first to welcome me to the camp. Like a real family. they dipped into clay pots together to clean their wings. They continued to visit the pot area quite often.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/4.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi4.jpg">
 
 <p>
 Little Spider Hunter.-- I had to look for this tiny bird everywhere. But it was bold enough to show it's face at OMH camp. What a pleasant way to say HI.! They are extremely active and quite difficult to spot in open. I was lucky this time.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/5.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi5.jpg">
 
 <p>
 Streak Throated Woodpecker - I was having my breakfast enjoying the nature. With it's sharp beak this lovely bird peeked into each holes to catch worms. It was a magnificent scene. A lifer to me.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/6.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi6.jpg">
 
 <p>
 Black Eagle ontop of OMH camp - A memorable sighting. While we were busy clicking birds on perch, one of the senior birder alerted the camp that he saw a rare raptor. Another addition to my lifer's list.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/7.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi7.jpg">
 
 <p>
 Emerald Dove - Frequent visitor to this camp. People throng to OMH camp just to see this colorful bird. 
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/8.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi8.jpg">
 
 <p>
 Pompadour Green Pigeon.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/9.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi9.jpg">
 
 <p>
 Brown Cheeked Fulvetta.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/10.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi10.jpg">
 
 <p>
 Dark Fronted Babbler - I had a glimpse of this bird sometime back. I was thrilled to see couple of Dark Fronted babblers dancing in front of me. 
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/11.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi11.jpg">
 
 <p>
 Black Naped Monarch - Female. I was not satisfied with the list. Monarch was on top of my unfulfilled list. One of my friend who was a frequent visitor to OMH tipped me to wait near a place as Monarch's are particular about territory. Wish granted, yet again!
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/12.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi12.jpg">
 
 <p>
 Black Throated Munia.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/13.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi13.jpg">
 
 <p>
 Orange Headed Ground Thrush.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/14.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi14.jpg">
 
 <p>
 Indian Blackbird.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/15.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi15.jpg">
 
 <p>
 Blyth's starling - Before the bath.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/16.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi16.jpg">
 
 <p>
 Blyth's starling - After bath. A spectacular transform.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/17.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi17.jpg">
 
 <p>
 Verditer Flycatcher - I admire it's unique color. Happens to be a frequent visitor to bird bath area. 
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/18.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi18.jpg">
 
 <p>
 Tickel's Blue Flycatcher - another commoner, but a mass entertainer. He did some acrobatics in front of us before entering the pool.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/19.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi19.jpg">
 
 <p>
 White Bellied Blue Flycatcher - Female. Another addition to my lifer's list. I was however unhappy not to see the Male bird. But this beauty gave ample time for us to photograph and enjoy the presence.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/20.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi20.jpg">
 
 <p>
 Indian Yellow Tit.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/21.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi21.jpg">
 
 <p>
 Oriental White Eye.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/22.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi22.jpg">
 
 <p>
 Asian Paradise Flycatcher - Female.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/23.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi23.jpg">
 
 <p>
 APFC Female.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/24.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi24.jpg">
 
 <p>
 Asian Brown Flycatcher.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/25.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi25.jpg">
 
 <p>
 Flame Throated Bulbul - Unlike other bulbuls, this specie is silent. I was fascinated with it's vivid colors, especially beneath it's neck. The Ruby color offers an outstanding saga of appearance. Spellbound  !
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/26.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi26.jpg">
 
 <p>
 Brown Breasted Flycatcher.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/27.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi27.jpg">
 
 <p>
 Yellow Browed Bulbul.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/28.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi28.jpg">
 
 <p>
 Yellow Browed Bulbul - This is a unique frame I never had experienced . Two of them sat on the perch preening their feathers. I sensed some kind of retaliation among other birds as they did not dare to enter the arena till these were around. The Duo offered good spectra for sometime. 
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/29.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi29.jpg">
 
 <p>
 Great Indian Horbill - It's not easy to find this big bird during non breeding time. Dandeli is a hornbill country. 
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/30.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi30.jpg">
 
 <p>
 Malabar Pied Hornbill.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/31.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi31.jpg">
 
 <p>
 Bar Winged Flycatcher Shrike.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/32.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi32.jpg">
 
 <p>
 Vernal Hanging Parrot.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/33.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi33.jpg">
 
 <p>
 Racket Tailed Drongo.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/34.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi34.jpg">
 
 <p>
 Golden Oriole.
 </p>
 
-<img src="{{ site.baseurl}}/img/2015-08-23/35.jpg">
+<img src="{{ site.baseurl}}/img/2015-08-23/Ganeshgudi35.jpg">
 
 <p>
 Brown Shrike.

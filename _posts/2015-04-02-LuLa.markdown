@@ -6,14 +6,14 @@ author:     "Sriharsha Ganjam"
 tags:       ["Monsoon Destinations", "Goa Wildlife", "Wildlife Destinations", "Landscape Destinations"]
 seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
-header-img: "img/2015-04-02/img4.jpg"
+header-img: "img/2015-04-02/goa4.jpg"
 ---
 
 <p>
 Venturing into a dense snake infested jungle in the middle of the night is crazy enough, but doing it without any torch light and amidst pouring rain was truly ridiculous! And that’s what we did, daring into the inky darkness looking for something that fairy tales are made of. It was our maiden expedition into the rain soaked forests of the western ghats looking for the fabled “Luminous Landscapes”
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-02/img9.gif">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa9.gif">
 
 <p>
 Bioluminescence (BL) is big in these forests and there is no shortage of organisms exhibiting this wonderful phenomenon. Most of us have seen BL through Fireflies and Glow worms, but the phenomenon is not limited to insects alone. This is also prevalent in a range of mushrooms and fungi, and it was our mission to find these on our adventure. The luminous fungus we were after, grow on dead wooden barks making the whole bark or twig glow at night. Working for the Unseen Landscapes we wanted to show the forest floors like they had never been
@@ -42,11 +42,11 @@ Our First Expedition (Introducing Luminous Landscapes)
 The more collection of Bioluminescence
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-02/img1.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img4.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img5.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img6.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img7.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img2.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img3.jpg">
-<img src="{{ site.baseurl }}/img/2015-04-02/img8.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa1.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa4.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa5.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa6.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa7.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/goa8.jpg">

@@ -6,7 +6,7 @@ author:     "Bharath Hegde"
 tags:       ["Wildlife Destinations", "Tal Chappar", "Black Bucks"]
 seo:		["Birding Destinations"]
 comments:   true
-header-img: "img/2015-04-24/img1.jpg"
+header-img: "img/2015-04-24/tal_chapar1.jpg"
 ---
 
 <p>
@@ -33,42 +33,42 @@ Below is an essay describing the same.
 Male BlackBuck in the golden rays of sun.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar2.jpg">
 
 <p>
 Mother Feeding the calf.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar3.jpg">
 
 <p>
 Male Blackbucks in the grassland.
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar4.jpg">
 
 <p>
 Male Blackbucks Locking horns.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar5.jpg">
 
 <p>
 Male Blackbuck showing its pride.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar6.jpg">
 
 <p>
 Jumping Female Blackbucks
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar1.jpg">
 
 <p>
 A sprinting young male.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-24/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-24/tal_chapar7.jpg">
 

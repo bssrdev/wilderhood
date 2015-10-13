@@ -3,7 +3,7 @@ layout:     post
 title:      "Southern Flying Lizard"
 subtitle:   "A gliding beauty"
 author:     "Santhosh Krishnamoorthy"
-header-img: "img/2015-06-04/1.jpg"
+header-img: "img/2015-06-04/Agumbe1.jpg"
 tags:       ["Wildlife Destinations", "Agumbe", "Monsoon Destinations"]
 seo:		["Monsoon", "Macro"]
 comments:   true
@@ -18,19 +18,19 @@ comments:   true
 
 <p>On one of the usual beautiful mornings in <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a>, I spotted and followed a male Draco and it turns out, it was an unusual tough morning for him. </p>
 
-<img src="{{ site.baseurl }}/img/2015-06-04/2.jpg" alt="Gular pouch opened">
+<img src="{{ site.baseurl }}/img/2015-06-04/Agumbe2.jpg" alt="Gular pouch opened">
 
 <p> He happily started climbing up the tree trunk feeding on a variety of ants crawling up and down. When he had walked up more than two third of the tree, he noticed another male Draco on the same trunk feasting on ants. Immediately, he seemed to be warned and extended his gular pouch and started moving towards the new male.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-04/3.jpg" alt="Both males on the tree trunk">
+<img src="{{ site.baseurl }}/img/2015-06-04/Agumbe3.jpg" alt="Both males on the tree trunk">
 
 <p> He reached the new male and circled him, I guess in the hope of intimidating the intruder, this act repeated a few number of times. There was nono impact on the new male from this act whatsoever, he went on munching on the ants with no care for this other male trying to scare him. Our male noticed this careless behaviour of the new male and seemed to accept his defeat in intimidating this new guy on his tree. Eventually, our male glided away to another tree.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-04/5.gif" alt="Our male circling the new male">
+<img src="{{ site.baseurl }}/img/2015-06-04/Agumbe5.gif" alt="Our male circling the new male">
 
 <p> The new tree on which he glided on had another interesting encounter waiting for this male. This time, there was no competing male, instead there was a female already occupying the tree trunk. Again, the male extended his gular pouch and posed, it was tricky to decipher information from this move as it could be an attempt to court the female. Observing the male, the female then extended her patagial membrane and the interaction between them continued in the same manner. He extended the gular pouch and she extended her patagial membrane. Finally, it looked to me as though she had disapproved. Later I observed the male gliding to another tree located at a distance.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-04/5.jpg" alt="Male and Female on the new tree trunk">
+<img src="{{ site.baseurl }}/img/2015-06-04/Agumbe5.jpg" alt="Male and Female on the new tree trunk">
 
 <p>These observations have been such invaluable insights into the natural history of this elusive canopy reptile species. I attempted to understand these interactions and decipher information with a human's perspective. That is the best we humans can do to understand animals and hence observations can be biased. It has given me immense delight to share this photo story to you.  </p>
 

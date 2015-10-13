@@ -3,7 +3,7 @@ layout:     post
 title:      "Kenya in it's Moody Monotones"
 subtitle:   "Kenya in it's Moody Monotones"
 author:     "Kesava Murthy"
-header-img: "img/2015-02-26/img1.jpg"
+header-img: "img/2015-02-26/masai_mara1.jpg"
 tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Black and Whites", "Tips and Tricks"]
 seo:		["Africa", "Exotic"]
 comments:   true
@@ -14,46 +14,46 @@ comments:   true
 <p>This photo essay is an attempt to tell a few stories without the distraction of colour – <strong>Kenya in It's Moody Monotones.</strong></p>
 
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara1.jpg">
 
 
 <p>Mornings in <a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya</a> are a study in contrasts. While on one hand there may be adrenaline pumping action, on the other there is a calming sense of peace. While on one hand there may be a dance of death, on the other life plays out its usual routines.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara2.jpg">
 
 
 <p>The calm elephant processions of Amboseli bely their strong sense of purpose. These are not aimless walks in the wilderness. Food, water and refuge set the pace in the wild.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara3.jpg">
 
 <p>In the vast savannas, even these gentle giants sometimes look small from a distance. As they approach you however, everything else dwarfs in proportion.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara4.jpg">
 
 <p>Tall and elegant, giraffe represent a tremendous evolutionary arms race along with the native acacias of Africa. Their unmistakable silhouettes dot the vast Kenyan plains – a day would be quite incomplete without a sight of their languid grace.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara5.jpg">
 
 
 <p>Stark grassland landscapes play a game of hide and seek. While sometimes they hide large predators in their midst, sometimes only a silhouette is enough to give away a grazer’s identity.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara6.jpg">
 
 <p>Zebra lead the migrating herds. And just as the wildebeest, these animals demonstrate swarm intelligence – overcoming obstacles as one. It’s tough to spot these gregarious animals alone. Their strength is in numbers.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara7.jpg">
 
 <em>Where there is prey, there are predators!!!!</em>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img8.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara8.jpg">
 
 <p>Even as time flies, some of the most beautiful moments with the world’s fastest land mammal come not in the hunt, but in rest.</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img9.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara9.jpg">
 
 The migration brings a cacophony of activity as thousands of gnus cross the plains into the Mara. Time stops for none – moving with the herd ensures the best chance of survival.
 
-<img src="{{ site.baseurl }}/img/2015-02-26/img10.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-26/masai_mara10.jpg">
 
 <p><a href="http://www.wilderhood.com/destination/Masai%20Mara"> Kenya</a> is an easy country to fall in love with. And yet, this is a wilderness under threat. In the last 50 years, lion, cheetah, leopard, rhino and elephant numbers have plummeted and the loss of these species is leading to the collapse of the ecosystems they stand for. While Kenya is officially a no-hunting zone, the sceptre of poaching along with rising affluence in China and Vietnam means that wildlife trade is the number one threat to this pristine wilderness.
 It troubles me to believe that at this rate we could lose these ecosystems forever. That if we did nothing, our next generation may never see the drama of life in  Kenya as we have done. And that even we know this place quite differently from generations past. <br>

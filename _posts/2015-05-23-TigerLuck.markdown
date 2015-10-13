@@ -6,7 +6,7 @@ author:     "Vinodh Ve"
 tags:       ["Tiger Destinations", "Tadoba", "Wildlife Destinations"]
 comments:   true
 seo: 		["Tiger", "Tadoba", "Kanha", "Bandhavgarh", "Pench", "BigCats"]
-header-img: "img/2015-05-23/img1.jpg"
+header-img: "img/2015-05-23/Tadoba1.jpg"
 ---
 
 <p>
@@ -37,32 +37,32 @@ Then the tiger pair started doing some courtship rituals, right in front of us. 
 The Groom
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-23/img1.jpg" alt="Tiger, Tadoba">
+<img src="{{ site.baseurl }}/img/2015-05-23/Tadoba1.jpg" alt="Tiger, Tadoba">
 
 <p>
 The Bride
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-23/img2.jpg" alt="Tiger, Tadoba">
+<img src="{{ site.baseurl }}/img/2015-05-23/Tadoba2.jpg" alt="Tiger, Tadoba">
 
 <p>
 Following her...
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-23/img3.jpg" alt="Tiger, Tadoba">
+<img src="{{ site.baseurl }}/img/2015-05-23/Tadoba3.jpg" alt="Tiger, Tadoba">
 
 <p>
 Face-to-face
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-23/img4.jpg" alt="Tiger, Tadoba">
+<img src="{{ site.baseurl }}/img/2015-05-23/Tadoba4.jpg" alt="Tiger, Tadoba">
 
 <p>
 Courtship rituals
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-23/img5.jpg" alt="Tiger, Tadoba">
-<img src="{{ site.baseurl }}/img/2015-05-23/img6.jpg" alt="Tiger, Tadoba">
+<img src="{{ site.baseurl }}/img/2015-05-23/Tadoba5.jpg" alt="Tiger, Tadoba">
+<img src="{{ site.baseurl }}/img/2015-05-23/Tadoba6.jpg" alt="Tiger, Tadoba">
 
 <h4>
 Tigers' Courtship

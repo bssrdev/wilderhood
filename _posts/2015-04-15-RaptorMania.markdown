@@ -6,7 +6,7 @@ author:     "Bharath Hegde"
 tags:       ["Birding Destinations", "Bikaner", "Wildlife Destinations", "Raptors"]
 seo:		["Birding Destinations", "Raptors"]
 comments:   true
-header-img: "img/2015-04-15/img1.jpg"
+header-img: "img/2015-04-15/bikaner1.jpg"
 ---
 
 <p>
@@ -21,79 +21,79 @@ I had heard that near Bikaner one can easily spot vultures. In Nov 2013, I had t
 Here are some details that I could capture.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner2.jpg">
 
 <p>
 Jorbeed, a large dumping yard for carcass.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner3.jpg">
 
 <p>
 A Steppe Eagle as we were entering Jorbeed. Later we spotted a number of these.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner4.jpg">
 
 <p>
 A Steppe Eagle showing of its broad wings.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner5.jpg">
 
 <p>
 A colony of Griffon Vultures, Cinereous Vultures and an Egyptian Vulture. Compare the size of Cinereous vulture with Egyptian Vulture. Cinereous vultures were looking like bears from distance.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner6.jpg">
 
 <p>
 A colony of Griffon Vultures with a single juvenile Cinereous vulture.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner7.jpg">
 
 <p>
 A lonely Griffon Vulture on the tree.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img8.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner8.jpg">
 
 <p>
 A Griffon Vulture spreading its wings.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img9.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner9.jpg">
 
 <p>
 A Cinereous Vulture in the sky.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner1.jpg">
 
 <p>
 Raptor Camarderie at Jorbeed. A juvenile Steppe Eagle, Griffon and Egyptian Vulture
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img10.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner10.jpg">
 
 <p>
 An Eastern Imperial Eagle juvenile with a Steppe Eagle juvenile
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img11.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner11.jpg">
 
 <p>
 An Egyptian Vulture gorging on a carcass.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img12.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner12.jpg">
 
 <p>
 A Black-Eared Kite juvenile. Was really an odd man out in the mela of Steppes.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-04-15/img13.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-15/bikaner13.jpg">
 
 <p>
 This is how we ended our day at Jorbeed. A couple of Eagles on the trees and a flock of Yellow-Eyed pigeons flying all around.
