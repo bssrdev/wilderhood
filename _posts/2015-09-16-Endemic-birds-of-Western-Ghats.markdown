@@ -3,7 +3,7 @@ layout:     post
 title:      "Endemic birds of Western Ghats"
 subtitle:   "Birding in Dandeli"
 author:     "Kiran Kashyap"
-tags:       ["Birding Destinations", "Western Ghats"]
+tags:       ["Birding Destinations", "Western Ghats", "Dandeli"]
 seo:		["WesternGhats", "Dandeli", "Birding Destinations"]
 comments:   true
 header-img: "img/2015-09-16/Dandeli16.jpg"

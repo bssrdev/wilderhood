@@ -3,7 +3,7 @@ layout:     post
 title:      "Meteor Landscapes (MeLa)"
 subtitle:   "A photo expedition to shoot one of the most beautiful and seldom witnessed natural wonders!"
 author:     "Sriharsha Ganjam"
-tags:       ["Landscape Destinations", "Tips and Tricks"]
+tags:       ["Landscape Destinations", "Tips and Tricks", "BR_hills"]
 seo:		["Landscape Destinations", "tipsntricks", "lsw"]
 comments:   true
 header-img: "img/2015-09-02/BR_hills5.jpg"

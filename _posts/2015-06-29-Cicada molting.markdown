@@ -4,7 +4,7 @@ title:      "Molting Cicada"
 subtitle:   "Molting Cicada"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-29/Amboli2.jpg"
-tags:		["Wildlife Destinations", "Monsoon Destinations"]
+tags:		["Wildlife Destinations", "Monsoon Destinations", "Amboli"]
 seo:		["Monsoon", "Amboli"]
 comments:   true
 ---

@@ -4,7 +4,7 @@ title:      "A day of PLENTIFUL"
 subtitle:   "Hosekote Lake"
 author:     "Vinodh Ve"
 header-img: "img/2015-06-21/Hosekote1.jpg"
-tags:       ["Wildlife Destinations", "Birding Destinations"]
+tags:       ["Wildlife Destinations", "Birding Destinations", "Hosekote"]
 seo:		["Birding Destinations"]
 comments:   true
 ---
