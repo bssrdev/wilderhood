@@ -4,5 +4,5 @@ tag: Bhadra
 title: Bhadra
 subtitle: Bhadra
 permalink: tags/Bhadra/
-header-img: "img/2015-02-19/River-terns-the-chase-XL.jpg"
+header-img: "img/2015-02-19/bhadra.jpg"
 ---

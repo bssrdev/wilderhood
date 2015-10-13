@@ -4,5 +4,5 @@ tag: Maasai Maara
 title: Maasai Maara
 subtitle: Maasai Maara
 permalink: tags/Maasai Maara/
-header-img: "img/2015-02-02/silhoutte.jpg"
+header-img: "img/2015-02-02/masai_mara.jpg"
 ---

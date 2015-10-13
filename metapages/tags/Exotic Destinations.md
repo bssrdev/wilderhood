@@ -4,5 +4,5 @@ tag: Exotic Destinations
 title: Exotic Destinations
 subtitle: Exotic Destinations
 permalink: tags/Exotic Destinations/
-header-img: "img/2015-04-27/img8.jpg"
+header-img: "img/2015-04-27/tal_chapar7.jpg"
 ---

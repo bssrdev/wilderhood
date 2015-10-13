@@ -4,5 +4,5 @@ tag: Thattekad
 title: Thattekad
 subtitle: Thattekad
 permalink: tags/Thattekad/
-header-img: "img/2015-05-30/Jumping Indian Pitta.jpg"
+header-img: "img/2015-05-30/Thattekad5.jpg"
 ---

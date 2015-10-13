@@ -4,6 +4,6 @@ tag: Bharatpur
 title: Bharatpur
 subtitle: Bharatpur
 permalink: tags/Bharatpur/
-header-img: "img/2015-06-09/1.jpg"
+header-img: "img/2015-06-09/Bharatpur1.jpg"
 
 ---

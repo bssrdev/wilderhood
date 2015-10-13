@@ -4,5 +4,5 @@ tag: Corbett
 title: Corbett
 subtitle: Corbett
 permalink: tags/Corbett/
-header-img: "img/2015-03-03/img6.jpg"
+header-img: "img/2015-03-03/corbett6.jpg"
 ---
