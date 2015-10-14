@@ -34,15 +34,15 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
 
 <p>An afternoon spent by the riverside will yield sightings like Orange Minivets (<em>Pericrocotus flammeus</em>), Vernal hanging Parrot (<em>Loriculus vernalis</em>), Pompadour green Pigeon (<em>Treron sp.</em>), White throated Kingfishers (<em>Halcyon smyrnensis</em>), Golden fronted Leafbird (<em>Chloropsis aurifrons</em>) and not to forget the sunbirds and flowerpeckers!</p>
 
+<img src="{{ site.baseurl }}/img/2015-10-14/Thick-billed-flowerpecker.JPG" alt="Thick-billed flowerpecker, Palsambe, Kolhapur,Maharashtra">
+<img src="{{ site.baseurl }}/img/2015-10-14/orange-minivet-palsambe.jpg" alt="Orange Minivet, Palsambe, Kolhapur,Maharashtra">
+<img src="{{ site.baseurl }}/img/2015-10-14/rose-ringed-parakeet-palsambe.jpg" alt="Rose ringed parakeet, Palsambe, Kolhapur,Maharashtra">
 
 <p>The rather mildly disturbed habitats offer snapshots of natural history that we are not likely to see in an over-populated location or a very dense forest. Shikra feeding on a Bulbul (possibly young one); a Rat snake winding around a Baya Weaver bird's nest in an attempt to prey on the latter's eggs; a Malabar Pied Hornbill sitting on a tree picking berries, tossing it in the air and gulping them; a mossy rock teeming hundreds of millipedes; a humongous caecilian attempting to wiggle its way across the road; a Jungle Cat visiting the fringes of the farm land at night to catch some easy prey- were some of the wild glimpses we were lucky enough to witness, whilst our stay at The Camp.</p>
 
 <img src="{{ site.baseurl }}/img/2015-10-14/millipedes.JPG" alt="Millipedes, Palsambe, Kolhapur,Maharashtra">
-<img src="{{ site.baseurl }}/img/2015-10-14/orange-minivet-palsambe.jpg" alt="Orange Minivet, Palsambe, Kolhapur,Maharashtra">
 <img src="{{ site.baseurl }}/img/2015-10-14/oriental-magpie-palsambe.jpg" alt="Oriental Magpie, Palsambe, Kolhapur,Maharashtra">
-<img src="{{ site.baseurl }}/img/2015-10-14/rose-ringed-parakeet-palsambe.jpg" alt="Rose ringed parakeet, Palsambe, Kolhapur,Maharashtra">
 <img src="{{ site.baseurl }}/img/2015-10-14/Malabar-pied-hornbill.JPG" alt="Malabar-pied hornbill, Palsambe, Kolhapur,Maharashtra">
-<img src="{{ site.baseurl }}/img/2015-10-14/Thick-billed-flowerpecker.JPG" alt="Thick-billed flowerpecker, Palsambe, Kolhapur,Maharashtra">
 
 
 <p>Areas around Palsambe offer sights that depict a beautiful blend of natural history and cultural history here. Close by, are the Ramling Caves which have beautiful monolith rock structures and caves which harbour a Shiva Temple. A waterfall makes its way through the rocks and during the summers, you can wade through the cool water, explore the caves and also do a short hike to the top of the waterfall.</p>
@@ -59,3 +59,5 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
  
  
 <p>Lastly, the stay at The Camp is a delightful experience. It comprises of a single house with multiple rooms and in-built bathrooms. Water supply is round the clock while electricity supply fluctuates. If you have an inclination to try out traditional cuisines, then the food here is sure to tingle your taste buds! The place offers several activities for people interested in nature-watching, hiking, visiting cultural and heritage spots, night sky observations etc. There is no cell phone network available there except for BSNL so if you want to be cut off from the rest of the world, The Camp is definitely the place to come. A truly blissful and rejuvenating place!</p>
+
+<p> Thanks to <a href="{{ site.baseurl }}/authors/Jagadeesh%20Rampam/">Jagadeesh Rampam</a> and <a href="{{ site.baseurl }}/authors/Devadatta Naik">Devadatta Naik</a> for images contribution!</p>
