@@ -28,7 +28,7 @@ comments:   true
 
 <p>My analysis:  The best way to portray the size is to include something that has a definite size to which we can relate to. The best way I would suggest is to include humans – though the body surface area varies from XS to XXL, when viewed in relation to a large landscape it is easier to grasp the enormity of the landscape. They make an excellent element to give the sense of size to the whole picture. If you take your dog along with you, then you can think about including them as well.</p>
 
-<p>In my previous blogs <a href="http://www.landscape-wizards.com/home/inspired-landscapes/why-visit-the-same-place-again">Why Visit the same place Again!?</a> and <a href="http://www.landscape-wizards.com/home/inspired-landscapes/yes-i-went-to-sathoddi-again">yes I went to Sathoddi again</a> the images have the same problem.  Hence I decided to give readers this post, giving a sense of height of the falls, so that they can relate to other images from the same place.</p>
+<p>In my previous blogs <a href="http://recitals.wilderhood.com/2015/09/30/Sathoddi-Falls-Why-visit-the-same-place-again%20.html"  target="_blank">Why Visit the same place Again!?</a> and <a href="http://recitals.wilderhood.com/2015/10/10/Sathoddi-Yes-I-went-to-sathoddi-again.html"  target="_blank">yes I went to Sathoddi again</a> the images have the same problem.  Hence I decided to give readers this post, giving a sense of height of the falls, so that they can relate to other images from the same place.</p>
 
 <p>Below are the images giving a comparative perspective of landscapes with and without humans and I am sure you can gauge the size of the waterfall in the last two images.</p>  
 
