@@ -9,7 +9,7 @@ seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
 ---
 
-<p>Whenever I show my landscape images to my friends, they say : ‘ Wow! It must be a very beautiful place ! ‘. That expression is almost certain if the image is of a waterfall. But, less often than not, they ask me ‘ By the way, how big is the waterfall? ‘ and I really appreciate people who ask me that question! Most of the people get carried away by the colours and beauty of the place, whereas only a handful of them think about the size of it and try to see the image from a representational angle. This post is dedicated to my second category of friends.</p>
+<p>Whenever I show my landscape images to my friends, they say : 'Wow! It must be a very beautiful place!'. That expression is almost certain if the image is of a waterfall. But, less often than not, they ask me 'By the way, how big is the waterfall?'' and I really appreciate people who ask me that question! Most of the people get carried away by the colours and beauty of the place, whereas only a handful of them think about the size of it and try to see the image from a representational angle. This post is dedicated to my second category of friends.</p>
 
 <p>With a mere beautiful photograph of a landscape, it is often difficult to judge the enormity of the place. Sometimes even if we include a tree or a rock to give some sense of scale, the purpose will not be truly served. This is because, the viewer may not know how big the tree was or how large the rock was. There are big trees and there are small ones, this holds true for rocks as well. So the question still stands at – how big was it in reality in relation to what is depicted in the image?</p>
 
