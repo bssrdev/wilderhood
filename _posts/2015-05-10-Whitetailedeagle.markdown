@@ -4,8 +4,8 @@ title:      "White tailed eagle – the vagrant"
 subtitle:   "White tailed eagle – the vagrant"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-05-10/tal_chapar2.jpg"
-tags:       ["Birding Destinations", "Wildlife Destinations", "Bikaner", "Raptors"]
-seo:		["Birding Destinations", "Raptors", "Bikaner"]
+tags:       ["Birding Destinations", "Wildlife Destinations", "Tal Chappar", "Bikaner", "Raptors"]
+seo:		["Birding Destinations", "Raptors", "Bikaner", "Tal Chappar"]
 comments:   true
 ---
 

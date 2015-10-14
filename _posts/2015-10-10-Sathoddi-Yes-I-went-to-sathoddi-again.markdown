@@ -11,6 +11,8 @@ header-img: "img/2015-09-30/Sathoddi.jpg"
 
 <p>In my earlier blog about <a href="{{ site.baseurl }}/2015/09/30/Sathoddi-Falls-Why-visit-the-same-place-again.html" target="_blank">Why visit the same place again?</a> I had mentioned my reason of visiting a place over and over. At the end of the blog post I had indicated that I would surely be visiting Sathoddi again in the future and I was sure that it would throw one or the other surprises.</p>
 
+<p>In my earlier blog about <a href="{{ site.baseurl }}/2015/09/30/Sathoddi-Falls-Why-visit-the-same-place-again%20.html" target="_blank">Why visit the same place again?</a> I had mentioned my reason of visiting a place over and over. At the end of the blog post I had indicated that I would surely be visiting Sathoddi again in the future and I was sure that it would throw one or the other surprises.</p>
+
 
 <p>Few months back it happened again. I was there to witness the beauty of the falls again. This time it was the end of summer and the first showers were yet to wet the ground. The water was almost at its lowest but flowing. </p>
 
