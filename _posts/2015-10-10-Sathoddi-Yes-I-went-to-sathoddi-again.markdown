@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Sathoddi Falls"
-subtitle:   "Yes I went to Sathoddi again"
+subtitle:   "Yes I went to Sathoddi again!"
 author:     "Ashwini Kumar Bhat"
 tags:       ["Landscape Destinations", "Monsoon Destinations", "Sathoddi"]
 seo:		["Monsoon Destinations", "WesternGhats", "WaterFall"]
