@@ -59,5 +59,3 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
  
  
 <p>Lastly, the stay at The Camp is a delightful experience. It comprises of a single house with multiple rooms and in-built bathrooms. Water supply is round the clock while electricity supply fluctuates. If you have an inclination to try out traditional cuisines, then the food here is sure to tingle your taste buds! The place offers several activities for people interested in nature-watching, hiking, visiting cultural and heritage spots, night sky observations etc. There is no cell phone network available there except for BSNL so if you want to be cut off from the rest of the world, The Camp is definitely the place to come. A truly blissful and rejuvenating place!</p>
-
-<p> Thanks to <a href="{{ site.baseurl }}/authors/Jagadeesh%20Rampam/">Jagadeesh Rampam</a> and <a href="{{ site.baseurl }}/authors/Devadatta Naik">Devadatta Naik</a> for images contribution!</p>
