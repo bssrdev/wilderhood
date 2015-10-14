@@ -9,7 +9,7 @@ comments:   true
 header-img: "img/2015-10-14/TheCamp-view.JPG"
 ---
 
-<p>My fourth visit in the last 10 months, and I still cannot get enough of The Camp. Located in Palsambe, which is about 50kms from Kolhapur city, The Camp is great place to rejuvenate yourself physically and mentally. The campsite is surrounded by lush green fields, deciduous forests and small-altitude hills.</p> 
+<p>My fourth visit in the last 10 months, and I still cannot get enough of The Camp. Located in Palsambe, which is about 50kms from Kolhapur city, <a href="http://www.wilderhood.com/accommodation/The%20Camp">The Camp</a> is great place to rejuvenate yourself physically and mentally. The campsite is surrounded by lush green fields, deciduous forests and small-altitude hills.</p> 
 
 
 <p>Kumbhi, a perennial river that flows through the village is the lifeline of people living there. </p>
