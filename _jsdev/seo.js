@@ -58,7 +58,7 @@
 	adList.push({link: urlPrefix + "Jungle Enclave", image: "Toehold/Trip/Bandipur/Bandipur.jpg", text: "Jungle Enclave", keywords: ["Bandipur", "Mammal Destinations", "Tiger Destinations"], months: ["Oct", "Nov"]});		
 	adList.push({link: urlPrefix + "Jungle Jaunt", image: "Toehold/Trip/Bandipur/Bandipur.jpg", text: "Jungle Jaunt", keywords: ["Bandipur", "Mammal Destinations", "Tiger Destinations"], months: ["Oct", "Nov"]});		
 	adList.push({link: urlPrefix + "Spot Luck", image: "Toehold/Trip/Bera/Bera.jpg", text: "Spot Luck", keywords: ["Bera", "Tiger Destinations"], months: ["Oct", "Nov"]});		
-	adList.push({link: urlPrefix + "Little Rann of Kutch", image: "Toehold/Trip/Kutch/Kutch.jpg", text: "Little Rann of Kutch", keywords: ["Kutch", "Birding Destinations", "Mammal Destinations", "Landscape Destinations"], months: ["Oct", "Nov"]});		
+	adList.push({link: urlPrefix + "Little Rann of Kutch", image: "Toehold/Trip/Kutch/Kutch.jpg", text: "Little Rann of Kutch", keywords: ["LRK", "Kutch", "Birding Destinations", "Mammal Destinations", "Landscape Destinations"], months: ["Oct", "Nov"]});		
 	adList.push({link: urlPrefix + "Nature Photography Masterclass- Ranganathittu", image: "Toehold/Trip/Ranganathittu/Ranganathittu.jpg", text: "Nature Photography Masterclass- Ranganathittu", keywords: ["Ranganathittu", "Birding Destinations"], months: ["Oct", "Nov"]});		
 	adList.push({link: urlPrefix + "A Big Cat Week - Masai Mara", image: "Toehold/Trip/Masai-mara/masai_mara.jpg", text: "A Big Cat Week - Masai Mara", keywords: ["Masai Mara", "African Destinations", "Travel Destinations"], months: ["Oct", "Nov","Dec"]});		
 	adList.push({link: urlPrefix + "Giant Of The FloodPlains", image: "Toehold/Trip/Kaziranga/Kaziranga.jpg", text: "Giant Of The FloodPlains", keywords: ["Kaziranga", "African Destinations", "Travel Destinations"], months: ["Oct", "Nov","Dec", "Jan"]});		
@@ -81,6 +81,7 @@
 	adList.push({link: urlPrefix + "Bandhavgarh Tiger Reserve", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh.jpg", text: "Bandhavgarh Tiger Reserve", keywords: ["Bandhavgarh", "Mammal Destinations", "Tiger Destinations"], months: ["Oct", "Nov","Dec", "Jan", "Feb", "Mar", "Apr", "May"]});		
 	adList.push({link: urlPrefix + "Masai Mara Migration", image: "Sudhir/Trip/Maara/Maara.jpg", text: "Masai Mara Migration", keywords: ["Masai Mara", "African Destinations", "Tiger Destinations", "Landscape Destinations"], months: ["Oct", "Nov","Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});		
 	adList.push({link: urlPrefix + "Kaziranga Tiger Reserve", image: "Sudhir/Trip/Kaziranga/Kaziranga_photography1.jpg", text: "Kaziranga Tiger Reserve", keywords: ["Kaziranga", "Mammal Destinations", "Tiger Destinations"], months: ["Oct", "Nov","Dec", "Jan", "Feb", "Mar", "Apr", "May"]});		
+	adList.push({link: urlPrefix + "LITTLE RANN OF KUTCH - BIKENHIKE", image: "BikeNHike/Trip/Little_Rann_of_Kutch/Little_Rann_of_Kutch_photography1.jpg", text: "LITTLE RANN OF KUTCH - BIKENHIKE", keywords: ["LRK", "Kutch", "Birding Destinations"], months: ["Oct", "Nov"]});		
 	
 	
 	//Accommodation properties

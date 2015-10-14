@@ -5,7 +5,7 @@ subtitle:   "Rare Geese and a near miss at Little Rann of Kutch"
 author:     "Bharath Hegde"
 header-img: "img/2015-03-01/kutch.jpg"
 tags:       ["Wildlife Destinations", "Birding Destinations", "LRK"]
-seo:		["Birding Destinations", "Rann"]
+seo:		["LRK", "Kutch", "Birding Destinations", "Rann"]
 comments:   true
 ---
 
