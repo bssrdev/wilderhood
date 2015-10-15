@@ -29,7 +29,7 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
 
 <p>A short walk away, you can see the beautiful Kumbhi cutting across the forests and fields. A rickety old bridge made from 8-10 tree barks serve as the connection between the banks of the river. Villagers cross the bridge effortlessly, carrying load on their heads and hands, jostling about their everyday chores while we struggle and balance ourselves to get one decent picture!</p>
 
-<img src="{{ site.baseurl }}/img/2015-10-14/Jagadeesh-crossing-bridge-thecamp.jpg" alt="Bridge crossing, Palsambe, Kolhapur,Maharashtra">
+<img src="{{ site.baseurl }}/img/2015-10-14/Jagadeesh-crossing-bridge-thecamp.jpg" alt="Jagadeesh doing the bridge crossing, Palsambe, Kolhapur,Maharashtra">
 
 
 <p>An afternoon spent by the riverside will yield sightings like Orange Minivets (<em>Pericrocotus flammeus</em>), Vernal hanging Parrot (<em>Loriculus vernalis</em>), Pompadour green Pigeon (<em>Treron sp.</em>), White throated Kingfishers (<em>Halcyon smyrnensis</em>), Golden fronted Leafbird (<em>Chloropsis aurifrons</em>) and not to forget the sunbirds and flowerpeckers!</p>
