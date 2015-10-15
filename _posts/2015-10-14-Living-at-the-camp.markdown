@@ -46,8 +46,8 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
 
 <img src="{{ site.baseurl }}/img/2015-10-14/millipedes.JPG" alt="Millipedes, Palsambe, Kolhapur, Maharashtra">
 <img src="{{ site.baseurl }}/img/2015-10-14/yellow-banded-caecilian-Palsambe.jpg" alt="Yellow banded Caecilian, Palsambe, Kolhapur, Maharashtra">
-<img src="{{ site.baseurl }}/img/2015-10-14/oriental-magpie-palsambe.jpg" alt="Oriental Magpie, Palsambe, Kolhapur, Maharashtra">
-<img src="{{ site.baseurl }}/img/2015-10-14/Malabar-pied-hornbill.JPG" alt="Malabar-pied hornbill, Palsambe, Kolhapur, Maharashtra">
+<!--img src="{{ site.baseurl }}/img/2015-10-14/oriental-magpie-palsambe.jpg" alt="Oriental Magpie, Palsambe, Kolhapur, Maharashtra">
+<img src="{{ site.baseurl }}/img/2015-10-14/Malabar-pied-hornbill.JPG" alt="Malabar-pied hornbill, Palsambe, Kolhapur, Maharashtra"-->
 
 
 <p>Areas around Palsambe offer sights that depict a beautiful blend of natural history and cultural history here. Close by, are the Ramling Caves which have beautiful monolith rock structures and caves which harbour a Shiva Temple. A waterfall makes its way through the rocks and during the summers, you can wade through the cool water, explore the caves and also do a short hike to the top of the waterfall.</p>
