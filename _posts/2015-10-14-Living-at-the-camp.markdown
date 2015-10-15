@@ -4,7 +4,7 @@ title:      "Living at The Camp"
 subtitle:   "Savour the beauty of Palsambe"
 author:     "Adithi Muralidhar"
 tags:       ["Landscape Destinations", "Monsoon Destinations", "Macro Life", "Reptiles"]
-seo:		["Monsoon Destinations", "WesternGhats", "Reptiles", "TheCamp"]
+seo:		["Monsoon Destinations", "Landscape Destinations", "WesternGhats", "Reptiles", "TheCamp"]
 comments:   true
 header-img: "img/2015-10-14/TheCamp-view.JPG"
 ---

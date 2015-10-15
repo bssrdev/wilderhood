@@ -25,7 +25,7 @@ There were two common birds that were found in great abundance in the 80’s Hou
 </p>
 
 <p>
-Ashy prinia(Prinia socialis) is much smaller size warbler, they are found in scrublands and  gardens. Their distinctive ashy crown should be the reason for their name is suppose. They have short black beak, creamy golden breast, rounded wings and their long tail is tipped with black spots. In breeding season their plumage is slightly darker ashy grey. 
+Ashy prinia(<em>Prinia socialis</em>) is much smaller size warbler, they are found in scrublands and  gardens. Their distinctive ashy crown should be the reason for their name is suppose. They have short black beak, creamy golden breast, rounded wings and their long tail is tipped with black spots. In breeding season their plumage is slightly darker ashy grey. 
 </p>
 
 <p>

@@ -17,7 +17,7 @@ Before the new stone benches were installed at Hebbal lake, during summer days w
 </p>
 
 <p>
-Its always great idea to make notes of our observations. As an artist I also make fast study sketches, which become finished works later in my studio. When we look back on these notes and sketches, we are transported back in time and scene. So this week is about a long wader, had spotted about five to six Grey Herons(Ardea cinerea) during that day visit, since that visit recent visits I am able to spot either one or sometimes none.</p>
+Its always great idea to make notes of our observations. As an artist I also make fast study sketches, which become finished works later in my studio. When we look back on these notes and sketches, we are transported back in time and scene. So this week is about a long wader, had spotted about five to six Grey Herons(<em>Ardea cinerea</em>) during that day visit, since that visit recent visits I am able to spot either one or sometimes none.</p>
 
 <p>
 Grey herons are long, large waders, their body is usually Grey in color and hence their name. Adults have white head with a broad black patch on the crown area and a extended black thin crest. Their beak is usually upper end is shades of soft grey and yellowish bottom. In breeding plumage their beak turns crimson with shades of yellow. Long beak enables them to spears through the fish and other prey. Their neck is S shaped which a great adaptation for fishing. Their long legs help them in wading through shallow waters easily.

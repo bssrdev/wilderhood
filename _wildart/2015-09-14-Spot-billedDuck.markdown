@@ -16,7 +16,7 @@ sharing-img: "img/2015-09-14/Spot-billedDuck.jpg"
 
 <p>This week I spent a few mornings watching a wader at this lake, a common wader found in most of the lakes in and around Bangalore. This bird is found in southern part of India and also found in eastern parts with slight variation.</p>
 
-<p>Spot-billed ducks(Anas poecilorhyncha) have black streak lines that run from edge of their beak to the end of the neck. Yellow tip on their beak gives them their name, red spot on the base of their beak is prominent in males. This red spot is less prominent in females and younger ones, also younger ones have brownish plumage. They have a scaly patterned body with green speculum and white tertials and  bright orange feet. Chicks are black with yellow back with wide eye-band stripes.</p>
+<p>Spot-billed ducks(<em>Anas poecilorhyncha</em>) have black streak lines that run from edge of their beak to the end of the neck. Yellow tip on their beak gives them their name, red spot on the base of their beak is prominent in males. This red spot is less prominent in females and younger ones, also younger ones have brownish plumage. They have a scaly patterned body with green speculum and white tertials and  bright orange feet. Chicks are black with yellow back with wide eye-band stripes.</p>
 
 <p>At Hebbal lake, there are a few tiny islands with bamboo growth. I have seen both male and female gathering the dry leaves for general roosting and these islands are also great nesting spots. During months of November and December, they breed and both male and female take turns to incubate the eggs. They also take turns to bring food for the chicks.</p>
 

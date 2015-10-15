@@ -17,7 +17,7 @@ After an awesome weekend at <a href="http://www.wilderhood.com/destination/Agumb
 </p>
 
 <p>
-<a href="{{ site.baseurl }}/wildart/2015-08-10-CommonCoot.html">Last week, we spoke about a wader and disappearing lakes</a>. Continuing with the same theme we speak about <strong>Indian Pond Heron (Ardeola Grayii)</strong>. 
+<a href="{{ site.baseurl }}/wildart/2015-08-10-CommonCoot.html">Last week, we spoke about a wader and disappearing lakes</a>. Continuing with the same theme we speak about <strong>Indian Pond Heron (<em>Ardeola Grayii</em>)</strong>. 
 </p>
 
 <p>

@@ -4,7 +4,7 @@ title:      "Wildlife week"
 subtitle:   "Day 6: Shieldtail Snake"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-07/Image_06_Shieldtail_snake_Prasad_Natarajan_thumb.jpg"
-seo: 		["Birding Destinations", "Bangalore", "wildart"]
+seo: 		["Agumbe", "Monsoon Destinations", "wildlifeweek"]
 comments:   true
 sharing-img: "img/2015-10-07/Image_06_Shieldtail_snake_Prasad_Natarajan.jpg"
 ---
