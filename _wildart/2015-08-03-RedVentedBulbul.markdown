@@ -13,7 +13,7 @@ sharing-img: "img/2015-08-03/RedWhiskeredBulbul.jpg"
 <img src="{{ site.baseurl }}/img/2015-08-03/RedWhiskeredBulbul.jpg" alt="Red Whiskered Bulbul, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
-Its brings me great pleasure to share my artworks and observations on birds of Bangalore with you all.  Through Wilderhood every Monday I will be sharing an artwork and small write-up on the subject. Hope you too would enjoy them as much I do!
+Its brings me great pleasure to share my artworks and observations on birds of Bangalore with you all.  Through <a href="http://www.wilderhood.com">Wilderhood</a> every Monday I will be sharing an artwork and small write-up on the subject. Hope you too would enjoy them as much I do!
 </p>
 
 <p>
@@ -21,7 +21,7 @@ How many of us know that there are about 60 species of birds found in and around
 </p>
 
 <p>
-This week we start off with the humble Red-whiskered bulbul(Pycnonotus jocosus) is a common bird sighted around 10-15 Kilometers from the actual Bangalore city. They are a member of  the bulbul family of passerines.  
+This week we start off with the humble Red-whiskered bulbul(<em>Pycnonotus jocosus</em>) is a common bird sighted around 10-15 Kilometers from the actual Bangalore city. They are a member of  the bulbul family of passerines.  
 </p>
 
 <p>

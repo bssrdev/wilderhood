@@ -4,7 +4,7 @@ title:      "Wildlife week"
 subtitle:   "Day 4: Southern Birdwing"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-05/Image_04_Southern_Birdwing_Prasad_Natarajan_thumb.jpg"
-seo: 		["Birding Destinations", "Bangalore", "wildart"]
+seo: 		["Agumbe", "Butterflies", "Monsoon Destinations", "wildlifeweek"]
 comments:   true
 sharing-img: "img/2015-10-04/Image_04_Southern_Birdwing_Prasad_Natarajan.jpg"
 ---

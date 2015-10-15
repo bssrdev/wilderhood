@@ -25,7 +25,7 @@ Shocking report states we had about 280 lakes in the 60’s however as per 1993 
 </p>
 
 <p>
-Our bird today is Common Coot (Fulica), they can be easily spotted at most of the common lakes. Black plumage dominates their body, with a clearly visible white colored smooth forehead, red colored eyes and light yellow marking on the tarsus(leg). Their web feet is really beautiful to observe, this not only helps them in wading on water but also helps them make a those quick dashes on the surface of the water.
+Our bird today is Common Coot (<em>Fulica</em>), they can be easily spotted at most of the common lakes. Black plumage dominates their body, with a clearly visible white colored smooth forehead, red colored eyes and light yellow marking on the tarsus(leg). Their web feet is really beautiful to observe, this not only helps them in wading on water but also helps them make a those quick dashes on the surface of the water.
 </p>
 
 <p>
