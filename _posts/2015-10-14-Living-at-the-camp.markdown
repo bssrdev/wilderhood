@@ -38,7 +38,11 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
 <img src="{{ site.baseurl }}/img/2015-10-14/orange-minivet-palsambe.jpg" alt="Orange Minivet, Palsambe, Kolhapur,Maharashtra">
 <img src="{{ site.baseurl }}/img/2015-10-14/rose-ringed-parakeet-palsambe.jpg" alt="Rose ringed parakeet, Palsambe, Kolhapur,Maharashtra">
 
-<p>The rather mildly disturbed habitats offer snapshots of natural history that we are not likely to see in an over-populated location or a very dense forest. Shikra feeding on a Bulbul (possibly young one); a Rat snake winding around a Baya Weaver bird's nest in an attempt to prey on the latter's eggs; a Malabar Pied Hornbill sitting on a tree picking berries, tossing it in the air and gulping them; a mossy rock teeming hundreds of millipedes; a humongous caecilian attempting to wiggle its way across the road; a Jungle Cat visiting the fringes of the farm land at night to catch some easy prey- were some of the wild glimpses we were lucky enough to witness, whilst our stay at The Camp.</p>
+<p>The rather mildly disturbed habitats offer snapshots of natural history that we are not likely to see in an over-populated location or a very dense forest. Shikra feeding on a Bulbul (possibly young one); a Rat snake winding around a Baya Weaver bird's nest in an attempt to prey on the latter's eggs;</p>
+
+<img src="{{ site.baseurl }}/img/2015-10-14/Rat-snake-trying-to-feed-on-bayaweaver-chicks.jpg" alt="Rat snake in an attempt to feed on Bayaweaver eggs from the nest, Palsambe, Kolhapur,Maharashtra">
+
+<p>a Malabar Pied Hornbill sitting on a tree picking berries, tossing it in the air and gulping them; a mossy rock teeming hundreds of millipedes; a humongous caecilian attempting to wiggle its way across the road; a Jungle Cat visiting the fringes of the farm land at night to catch some easy prey- were some of the wild glimpses we were lucky enough to witness, whilst our stay at The Camp.</p>
 
 <img src="{{ site.baseurl }}/img/2015-10-14/millipedes.JPG" alt="Millipedes, Palsambe, Kolhapur,Maharashtra">
 <img src="{{ site.baseurl }}/img/2015-10-14/oriental-magpie-palsambe.jpg" alt="Oriental Magpie, Palsambe, Kolhapur,Maharashtra">
