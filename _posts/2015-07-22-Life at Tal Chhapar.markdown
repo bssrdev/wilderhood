@@ -18,11 +18,11 @@ comments:   true
 <p>It was a memorable experience for us and a here is the photo account of the same.</p>
 
 
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar1.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar2.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar3.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar4.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar5.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar6.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar7.jpg" alt="Tal Chhapar">
-<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar8.jpg" alt="Tal Chhapar">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar1.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar2.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar3.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar4.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar5.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar6.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar7.jpg" alt="Tal Chhapar, Rajasthan">
+<img src="{{ site.baseurl}}/img/2015-07-22/Tal_Chhapar8.jpg" alt="Tal Chhapar, Rajasthan">

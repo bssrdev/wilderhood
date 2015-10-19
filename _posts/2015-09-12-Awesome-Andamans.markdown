@@ -4,7 +4,7 @@ title:      "Awesome Andaman"
 subtitle:   "At Andaman Islands"
 author:     "Mamta Naidu"
 tags:       ["Birding Destinations","Exotic Destinations", "Reptiles", "Monsoon Destinations", "Macro Life", "Andaman"]
-seo:		["exotic", "Andaman", "reptiles"]
+seo:		["Monsoon Destinations", "exotic", "Andaman", "reptiles"]
 comments:   true
 header-img: "img/2015-09-12/Andaman1.JPG"
 ---
