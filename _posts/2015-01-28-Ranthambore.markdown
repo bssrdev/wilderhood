@@ -10,7 +10,7 @@ comments:   true
 ---
 
 
-<p><a href="http://www.wilderhood.com/destination/Ranthambore">Ranthambore National Park</a> is one of the largest national parks in northern India. It is situated in Sawai Madhopur district of southeastern Rajasthan, about 110 km northeast of Kota and 160 km southeast of Jaipur, which is also the nearest airport.</p>
+<p><a href="http://www.wilderhood.com/destination/Ranthambore" target="_blank">Ranthambore National Park</a> is one of the largest national parks in northern India. It is situated in Sawai Madhopur district of southeastern Rajasthan, about 110 km northeast of Kota and 160 km southeast of Jaipur, which is also the nearest airport.</p>
 
 <p> Ranthambhore was established as the Sawai Madhopur Game Sanctuary in 1955 by the Government of India and was declared one of the Project Tiger reserves in 1973. Ranthambore became a national park in 1980. In 1984, the adjacent forests were declared the Sawai Man Singh Sanctuary and Keladevi Sanctuary, and in 1991 the tiger reserve was enlarged to include the Sawai Man Singh and Keladevi sanctuaries.</p>
 

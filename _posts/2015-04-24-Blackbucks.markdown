@@ -10,7 +10,7 @@ header-img: "img/2015-04-24/tal_chapar1.jpg"
 ---
 
 <p>
-<a href="http://www.wilderhood.com/destination/Tal%20Chappar"> Tal Chhapar</a>,  located at Churu District of Rajasthan, is a grassland situated on the fringe of great Indian Desert. This was once a private hunting area of erstwhile Maharaja of Bikaner. Blackbucks were introduced at Tal Chhapar in 1920.
+<a href="http://www.wilderhood.com/destination/Tal%20Chappar" target="_blank">Tal Chhapar</a>,  located at Churu District of Rajasthan, is a grassland situated on the fringe of great Indian Desert. This was once a private hunting area of erstwhile Maharaja of Bikaner. Blackbucks were introduced at Tal Chhapar in 1920.
 </p>
 
 <p>

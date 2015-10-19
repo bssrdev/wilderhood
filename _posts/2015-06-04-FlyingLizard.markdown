@@ -16,7 +16,7 @@ comments:   true
 
 
 
-<p>On one of the usual beautiful mornings in <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a>, I spotted and followed a male Draco and it turns out, it was an unusual tough morning for him. </p>
+<p>On one of the usual beautiful mornings in <a href="http://www.wilderhood.com/destination/Agumbe" target="_blank">Agumbe</a>, I spotted and followed a male Draco and it turns out, it was an unusual tough morning for him. </p>
 
 <img src="{{ site.baseurl }}/img/2015-06-04/Agumbe2.jpg" alt="Gular pouch opened">
 

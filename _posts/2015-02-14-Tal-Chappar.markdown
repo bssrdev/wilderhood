@@ -9,7 +9,7 @@ seo:		["Birding Destinations"]
 comments:   true
 ---
 
-<p> As the sun rises over the grassland, it is evident why this place is named <a href="http://www.wilderhood.com/destination/Tal%20Chappar"> Tal Chapar </a>. Barring a few trees and waterholes, the park is absolutely flat all around (Tal Chapar = “flat land of Chapar”). This wonderful habitat plays host to thousands of Blackbucks (one of the highest wild populations in the world). Wherever you look, you are bound to see them prancing about the grassland, dueling with each other, silently grazing, or just lazing around. </p>
+<p> As the sun rises over the grassland, it is evident why this place is named <a href="http://www.wilderhood.com/destination/Tal%20Chappar" target="_blank">Tal Chapar</a>. Barring a few trees and waterholes, the park is absolutely flat all around (Tal Chapar = “flat land of Chapar”). This wonderful habitat plays host to thousands of Blackbucks (one of the highest wild populations in the world). Wherever you look, you are bound to see them prancing about the grassland, dueling with each other, silently grazing, or just lazing around. </p>
 
 
 <img src="{{ site.baseurl }}/img/2015-02-14/tal_chapar2.jpg"  alt="Black bucks are found Wherever you look, you are bound to see them prancing about the grassland, dueling with each other, silently grazing, or just lazing around, Tal Chappar, Rajasthan">
@@ -40,4 +40,4 @@ comments:   true
 
 <p> <strong> About Tal Chapar: </strong> Former hunting grounds of the Maharaja of Bikaner, Tal Chapar is now a protected Wildlife Sanctuary. Tal Chapar can be reached by train/road from Delhi (around 350km) or by road from Jaipur (around 200km). You can stay at the comfortable Forest Rest House adjoining the park.</p>
 
-<p>As part of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/tal-chapar-photography-tour/" style="text-decoration:none">trips to Tal Chappar</a> all every winter!</p>
+<p>As part of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" target="_blank" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/tal-chapar-photography-tour/" target="_blank" style="text-decoration:none">trips to Tal Chappar</a> all every winter!</p>

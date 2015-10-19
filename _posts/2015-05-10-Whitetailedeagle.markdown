@@ -15,7 +15,7 @@ This happened sometime back. However, it is one of those sightings that stays wi
 </p>
 
 <p>
-This was in November of 2012, the place, the wonderful grasslands of <a href="http://www.wilderhood.com/destination/Tal%20Chappar">Tal Chapar</a>, in Rajasthan. Was on a birding trip there, with Shreeram of <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a>. My first outing to the northern part of India for birding.
+This was in November of 2012, the place, the wonderful grasslands of <a href="http://www.wilderhood.com/destination/Tal%20Chappar" target="_blank">Tal Chapar</a>, in Rajasthan. Was on a birding trip there, with Shreeram of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" target="_blank">Darter Photography</a>. My first outing to the northern part of India for birding.
 </p>
 
 <p>

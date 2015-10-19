@@ -10,13 +10,13 @@ comments:   true
 ---
 
 
-<p>Away from the crowd packed like sardines, nestling in the foot hills of the mighty Himalayas, lies this beautiful piece of earth called <a href="http://www.wilderhood.com/destination/Corbett"><em>Corbett</em></a>. River Ramganga quietly flows cutting this valley into two. The upper regions boast of thick vegetation while the lower grass lands sway gently with the cool northerly winds. The birds started their dawn chorus as we drove along the banks of Ramganga, when we heard a throaty bark somewhere inside the forest. Then another!! "sambar-alarm" , our driver whispered, "definetly a tiger" he said. Our hearts skipped a beat while we watched this family of sambars stepping out in the open with Sun at their back, they seem to be very alert, looking around but the play never stopped to cease. </p>
+<p>Away from the crowd packed like sardines, nestling in the foot hills of the mighty Himalayas, lies this beautiful piece of earth called <a href="http://www.wilderhood.com/destination/Corbett" target="_blank"><em>Corbett</em></a>. River Ramganga quietly flows cutting this valley into two. The upper regions boast of thick vegetation while the lower grass lands sway gently with the cool northerly winds. The birds started their dawn chorus as we drove along the banks of Ramganga, when we heard a throaty bark somewhere inside the forest. Then another!! "sambar-alarm" , our driver whispered, "definetly a tiger" he said. Our hearts skipped a beat while we watched this family of sambars stepping out in the open with Sun at their back, they seem to be very alert, looking around but the play never stopped to cease. </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-03/corbett1.jpg">
 
 
 
-<p> <a href="http://www.wilderhood.com/destination/Corbett"> Jim Corbett National park</a>, is the oldest park in India which was established in the year 1936 to protect the Bengal tiger. Initially known as the Hailey park, this park got rechristened after the legend <a href="http://en.wikipedia.org/wiki/Jim_Corbett" style="text-decoration:none">Jim Corbett</a>, who had a lot to contribute towards the establishment of the park. 
+<p> <a href="http://www.wilderhood.com/destination/Corbett" target="_blank">Jim Corbett National park</a>, is the oldest park in India which was established in the year 1936 to protect the Bengal tiger. Initially known as the Hailey park, this park got rechristened after the legend <a href="http://en.wikipedia.org/wiki/Jim_Corbett" style="text-decoration:none">Jim Corbett</a>, who had a lot to contribute towards the establishment of the park. 
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-03/corbett17.jpg">

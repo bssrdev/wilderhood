@@ -9,7 +9,7 @@ comments:   true
 header-img: "img/2015-10-14/TheCamp-view.JPG"
 ---
 
-<p>My fourth visit in the last 10 months, and I still cannot get enough of The Camp. Located in Palsambe, which is about 50kms from Kolhapur city, <a href="http://www.wilderhood.com/accommodation/The%20Camp">The Camp</a> is great place to rejuvenate yourself physically and mentally. The campsite is surrounded by lush green fields, deciduous forests and small-altitude hills.</p>
+<p>My fourth visit in the last 10 months, and I still cannot get enough of The Camp. Located in Palsambe, which is about 50kms from Kolhapur city, <a href="http://www.wilderhood.com/accommodation/The%20Camp" target="_blank">The Camp</a> is great place to rejuvenate yourself physically and mentally. The campsite is surrounded by lush green fields, deciduous forests and small-altitude hills.</p>
 
 
 <p>Kumbhi, a perennial river that flows through the village is the lifeline of people living there. </p>
@@ -63,4 +63,4 @@ header-img: "img/2015-10-14/TheCamp-view.JPG"
 <p>Throughout your walk in the plateau, Malabar Crested Larks (<em>Galerida malabarica</em>) and Blue Mormons (<em>Papilio polymnestor</em>) will accompany you. During the monsoons, the plateau bursts into colours of white, yellow, orange, pink and purple and it quite a spectacular sight to see!</p>
  
  
-<p>Lastly, the stay at <a href="http://www.wilderhood.com/accommodation/The%20Camp">The Camp</a> is a delightful experience. It comprises of a single house with multiple rooms and in-built bathrooms. Water supply is round the clock while electricity supply fluctuates. If you have an inclination to try out traditional cuisines, then the food here is sure to tingle your taste buds! The place offers several activities for people interested in nature-watching, hiking, visiting cultural and heritage spots, night sky observations etc. There is no cell phone network available there except for BSNL so if you want to be cut off from the rest of the world, The Camp is definitely the place to come. A truly blissful and rejuvenating place!</p>
+<p>Lastly, the stay at <a href="http://www.wilderhood.com/accommodation/The%20Camp" target="_blank">The Camp</a> is a delightful experience. It comprises of a single house with multiple rooms and in-built bathrooms. Water supply is round the clock while electricity supply fluctuates. If you have an inclination to try out traditional cuisines, then the food here is sure to tingle your taste buds! The place offers several activities for people interested in nature-watching, hiking, visiting cultural and heritage spots, night sky observations etc. There is no cell phone network available there except for BSNL so if you want to be cut off from the rest of the world, The Camp is definitely the place to come. A truly blissful and rejuvenating place!</p>

@@ -9,7 +9,7 @@ comments:   true
 header-img: "img/2015-09-12/Andaman1.JPG"
 ---
 
-<p>When <a href="http://www.wilderhood.com/destination/Andaman"> Andaman </a> Islands were in its nascent state; while the aboriginal tribes were figuring out what to wear for the upcoming carnival: skimpy Bamboo leaves or longish Palm leaves, I wanted to visit Andaman!</p>
+<p>When <a href="http://www.wilderhood.com/destination/Andaman" target="_blank">Andaman</a> Islands were in its nascent state; while the aboriginal tribes were figuring out what to wear for the upcoming carnival: skimpy Bamboo leaves or longish Palm leaves, I wanted to visit Andaman!</p>
 
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman1.JPG" alt="Andaman Islands">
 

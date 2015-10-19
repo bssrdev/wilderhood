@@ -10,7 +10,7 @@ comments:   true
 ---
 
 <p>
-<a href="http://www.wilderhood.com/accommodation/Old%20Magazine%20House">Old Magazine house camp</a> is a property of <a href="http://www.wilderhood.com/accommodationOwner/Jungle%20Lodges%20&%20Resorts">Jungle lodges and resorts</a>, Karnataka. Situated in the midst of thick forests of <a href="http://www.wilderhood.com/destination/Dandeli">Ganeshgudi</a>, it hosts different species of birds which are endemic to western ghats and migratory birds. The "bird bath" technique, that includes clay pots filled with water attracts plenty of birds to quench thirst and clean their feathers.
+<a href="http://www.wilderhood.com/accommodation/Old%20Magazine%20House" target="_blank">Old Magazine house camp</a> is a property of <a href="http://www.wilderhood.com/accommodationOwner/Jungle%20Lodges%20&%20Resorts" target="_blank">Jungle lodges and resorts</a>, Karnataka. Situated in the midst of thick forests of <a href="http://www.wilderhood.com/destination/Dandeli" target="_blank">Ganeshgudi</a>, it hosts different species of birds which are endemic to western ghats and migratory birds. The "bird bath" technique, that includes clay pots filled with water attracts plenty of birds to quench thirst and clean their feathers.
 </p>
 
 <p>
@@ -235,7 +235,7 @@ OMH camp is certainly the best place for bird watching. The habitat is preserved
 <strong>Place:</strong> The Old Magazine House, Ganeshgudi.<br>
 <strong>Distance:</strong> 500 kms from Bangalore. 40kms from Dandeli.<br>
 <strong>Route:</strong> Bangalore -> Tumkur -> Hubli -> Dharwad -> Haliyala -> Dandeli -> Ganeshgudi.<br>
-<strong>Bookings:</strong> <a href="http://www.wilderhood.com/accommodationOwner/Jungle%20Lodges%20&%20Resorts">Jungle Lodges & Resorts</a> <br>
+<strong>Bookings:</strong> <a href="http://www.wilderhood.com/accommodationOwner/Jungle%20Lodges%20&%20Resorts" target="_blank">Jungle Lodges & Resorts</a> <br>
 <strong>Best time to visit:</strong> Throughout the year. But for best bird activities visit during Monsoons. Migratory bird watching happens between October-February.<br>
-<strong>Birding hotspots:</strong> <a href="http://www.wilderhood.com/accommodation/Old%20Magazine%20House">OMH campus</a>, Near Ganeshgudi Township entrance, SUPA dam bridge. <br>
+<strong>Birding hotspots:</strong> <a href="http://www.wilderhood.com/accommodation/Old%20Magazine%20House" target="_blank">OMH campus</a>, Near Ganeshgudi Township entrance, SUPA dam bridge. <br>
 </p>

@@ -12,13 +12,13 @@ comments:   true
 
 <p>Lions and the Elephants, as all know, are perennial enemies. One constantly getting the better of the other (with probably the lions having a slight edge there).  Given a chance, I guess, in most cases, either of them would prefer to avoid crossing paths with the other. However, things tend to be quite different during the dry summer months. Water becomes a very precious commodity and both of these mammals are drawn to whatever few places there are, that are left with water. That is when, their paths are bound to cross.</p>
 
-<p>When, that does, happen, there are bound to be a lot of apprehensive and adrenaline rushing moments. Was lucky to witness one such moment on my recent trip to the vast and amazing grasslands of <a href="http://www.wilderhood.com/destination/Serengeti"> Serengeti </a>, in Tanzania, Africa.</p>
+<p>When, that does, happen, there are bound to be a lot of apprehensive and adrenaline rushing moments. Was lucky to witness one such moment on my recent trip to the vast and amazing grasslands of <a href="http://www.wilderhood.com/destination/Serengeti" target="_blank">Serengeti</a>, in Tanzania, Africa.</p>
 
 <p>Here’s an attempt at sharing that experience of mine through a short photo story.....</p>
 
 <img src="{{ site.baseurl }}/img/2015-02-11/serengeti1.jpg" alt="African Lion, Serengeti NP, Africa">
 
-<p>It was one late afternoon in the grasslands of <a href="http://www.wilderhood.com/destination/Serengeti"> Serengeti </a>. We were watching a pride of lions resting near a water hole. It was quite a big pride, with many young cubs and juvenile ones in them. The mothers were busy feeding their cubs, while the little more older cubs were busy playing around. They all seemed to be having some quality family time.</p>
+<p>It was one late afternoon in the grasslands of <a href="http://www.wilderhood.com/destination/Serengeti" target="_blank">Serengeti</a>. We were watching a pride of lions resting near a water hole. It was quite a big pride, with many young cubs and juvenile ones in them. The mothers were busy feeding their cubs, while the little more older cubs were busy playing around. They all seemed to be having some quality family time.</p>
 
 <p>At a distance was a small family of elephants happily grazing their way towards the same water hole. Didn’t know, if they were aware of the lion’s presence at the water hole at that time……There was a little one among them as well and we were getting a bit anxious looking at them moving towards the pride.</p>
 

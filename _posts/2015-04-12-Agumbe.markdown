@@ -10,7 +10,7 @@ header-img: "img/Monsoon.jpg"
 ---
 
 <p>
-<strong><a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a></strong> - this place is one of my favorite from my childhood, for couple of reasons. I love snakes, not sure from when!!! Of course my favorite snake is the king of snakes - <a href="{{ site.baseurl }}/tags/King%20Cobra" style="text-decoration:none">King Cobra</a>. Agumbe being the King Cobra capital is my primary reason to love this place. The other reason is, I like Malgudi days which was shot in Agumbe's Doddamane. Later, I become a big fan of <a href="{{ site.baseurl }}/authors/Gowri%20Shankar" style="text-decoration:none">Gowri Shankar</a> - the herpetologist I admire the most.
+<strong><a href="http://www.wilderhood.com/destination/Agumbe" target="_blank">Agumbe</a></strong> - this place is one of my favorite from my childhood, for couple of reasons. I love snakes, not sure from when!!! Of course my favorite snake is the king of snakes - <a href="{{ site.baseurl }}/tags/King%20Cobra" style="text-decoration:none">King Cobra</a>. Agumbe being the King Cobra capital is my primary reason to love this place. The other reason is, I like Malgudi days which was shot in Agumbe's Doddamane. Later, I become a big fan of <a href="{{ site.baseurl }}/authors/Gowri%20Shankar" style="text-decoration:none">Gowri Shankar</a> - the herpetologist I admire the most.
 </p>
 
 <p>

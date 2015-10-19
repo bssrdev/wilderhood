@@ -12,7 +12,7 @@ comments:   true
 
 <p>Where else one can find six different species of Kingfishers within a distance of 200 meters? I don’t know. But we did,  at the Goan Zuari river!<br><br>
 This was late March 2014, temperature was soaring and  it was nearing the end of the birding season. We, the folks from Bangalore, were at Zuari to catch glimpse of birds and any other forms of life in general. We were part of the boat trips guided by senior birder Mr B.M.Kamath. The boat safaris commenced at Cortalim jetty and took us through creeks of Cumbharjua Canal in the river.
-Zuari River is the largest river in <a href="http://www.wilderhood.com/destination/Goa"> Goa </a> , originating at verdant Western Ghats and joining into tempestuous Arabian Sea, with a total length of only 34 KM. The river divides the state of  Goa into North Goa and South  Goa. At Cortalim, the river has a width of 1.3KM and considering such small length of the river, the width seems disproportional!</p>
+Zuari River is the largest river in <a href="http://www.wilderhood.com/destination/Goa" target="_blank">Goa</a> , originating at verdant Western Ghats and joining into tempestuous Arabian Sea, with a total length of only 34 KM. The river divides the state of  Goa into North Goa and South  Goa. At Cortalim, the river has a width of 1.3KM and considering such small length of the river, the width seems disproportional!</p>
 
 <img src="{{ site.baseurl }}/img/2015-02-22/goa1.jpg">
 

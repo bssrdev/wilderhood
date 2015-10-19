@@ -10,7 +10,7 @@ header-img: "img/2015-03-31/goa1.jpg"
 ---
 
 <p>
-In the sun soaked land of <a href="http://www.wilderhood.com/destination/Goa">Goa</a>, riding on a boat over the tidal waters of the river Zuari, we were looking for birds, more specifically, the kingfishers. That’s when we noticed something hopping up and down on the mudflats, very close to the water’s edge. We thought of taking a diversion and examining as to what it could be. Getting closer, we realized that they were Mudskippers, those lovely amphibious fish. Had always wished to see them and this was my first encounter. The moment I saw them, my heart leapt with excitement and I instantly fell in love with the springy, lively beauties. It was indeed, love at first sight… :-)
+In the sun soaked land of <a href="http://www.wilderhood.com/destination/Goa" target="_blank">Goa</a>, riding on a boat over the tidal waters of the river Zuari, we were looking for birds, more specifically, the kingfishers. That’s when we noticed something hopping up and down on the mudflats, very close to the water’s edge. We thought of taking a diversion and examining as to what it could be. Getting closer, we realized that they were Mudskippers, those lovely amphibious fish. Had always wished to see them and this was my first encounter. The moment I saw them, my heart leapt with excitement and I instantly fell in love with the springy, lively beauties. It was indeed, love at first sight… :-)
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-31/goa2.jpg">

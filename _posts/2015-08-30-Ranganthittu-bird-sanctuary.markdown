@@ -9,7 +9,7 @@ seo:		["Ranganathittu", "Birding Destinations", "Bangalore"]
 comments:   true
 ---
 
-<p>Situated on the banks of river Kaveri, <a href="http://www.wilderhood.com/destination/Ranganathittu"> Ranganthittu </a> is a small village that hosts close to 170 species of birds. Naturally created islets are covered with lush green forests.</p>
+<p>Situated on the banks of river Kaveri, <a href="http://www.wilderhood.com/destination/Ranganathittu" target="_blank">Ranganthittu</a> is a small village that hosts close to 170 species of birds. Naturally created islets are covered with lush green forests.</p>
 
 <p>Social media is a powerful tool if used in a productive way. Karnataka Eco-toursim shared a wonderful post on their facebook wall, "Karnataka Bird Festival--2015". I enrolled to this event, the stage was set at Ranganthittu Bird Sanctuary, one of the best bird sanctuary in the world. Dr.Salim Ali, renowned ornithologist studied the habitat and pressed upon the local government to declare this wonderful place as a bird sanctuary.</p>
 

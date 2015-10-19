@@ -10,7 +10,7 @@ comments:   true
 
 
 <p>
-Morning sun refused to pay us a visit,as we walked towards the ruins of <a href="http://www.wilderhood.com/destination/Hampi"> Hampi</a>. On the humongous stone entrance grew tiny thorns shrubs and little blades of grass depicts the long forgotten grandeur. Hampi former capital of Vijayanagar Empire, "Vijaya"meaning success, "Nagar" meaning city. City of success now laid in state of ruins and how brutal man could be to his own kind. One of the UNESCO World Heritage Site, attracts tourist from all over the planet
+Morning sun refused to pay us a visit,as we walked towards the ruins of <a href="http://www.wilderhood.com/destination/Hampi" target="_blank">Hampi</a>. On the humongous stone entrance grew tiny thorns shrubs and little blades of grass depicts the long forgotten grandeur. Hampi former capital of Vijayanagar Empire, "Vijaya"meaning success, "Nagar" meaning city. City of success now laid in state of ruins and how brutal man could be to his own kind. One of the UNESCO World Heritage Site, attracts tourist from all over the planet
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-05-18/Hampi1.jpg" alt="Hampi, Karnataka">

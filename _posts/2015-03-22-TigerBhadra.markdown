@@ -10,7 +10,7 @@ header-img: "img/2015-03-22/Bhadra1.jpg"
 ---
 
 <p>
-<a href="http://www.wilderhood.com/destination/Bhadra"> Bhadra Tiger Reserve </a>- Bhadra is a dense evergreen forest – its undulating terrain is dotted with lush valleys and misty peaks which form the watershed for the Bhadra river. Spread over the districts of Chikmangalur and Shimoga, the unique combination of three types of forests here – dry deciduous, moist deciduous and the submontane shola – shelters a wide range of flora and fauna. There are around 33 tigers in Bhadra. Though Bhadra is a tiger reserve, spotting a tiger in Bhadra is extremely difficult because of the density of flora. Knowing this, we never had tiger in our checklist at Bhadra.
+<a href="http://www.wilderhood.com/destination/Bhadra" target="_blank">Bhadra Tiger Reserve</a>- Bhadra is a dense evergreen forest – its undulating terrain is dotted with lush valleys and misty peaks which form the watershed for the Bhadra river. Spread over the districts of Chikmangalur and Shimoga, the unique combination of three types of forests here – dry deciduous, moist deciduous and the submontane shola – shelters a wide range of flora and fauna. There are around 33 tigers in Bhadra. Though Bhadra is a tiger reserve, spotting a tiger in Bhadra is extremely difficult because of the density of flora. Knowing this, we never had tiger in our checklist at Bhadra.
 </p>
 
 <p>
