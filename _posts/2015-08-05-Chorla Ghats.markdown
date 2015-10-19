@@ -10,11 +10,11 @@ comments:   true
 ---
 
 
-<p>Goa is a great place for a glamour photo shoot.</p>
+<p><a href="http://www.wilderhood.com/destination/Goa">Goa</a> is a great place for a glamour photo shoot.</p>
 
 <p>Given that the tag cloud of #beaches, #swimsuit, #sun, #spray, #sand et al have sufficient representation both in our mind space as well as cyber space, it is time to look at an alternate take for a glamour shoot, in Goa.</p>
 
-<p>Welcome to the Chorla Ghats!</p>
+<p>Welcome to the <a href="http://www.wilderhood.com/destination/Goa">Chorla Ghats!</a></p>
 
 <p>Located in the north-central part of the Western Ghats, Chorla is Goa and as unclichéd as it gets! Lush green vegetation all around, with mind-boggling variety of flora and fauna as far as the eye can see, Chorla is a paradise for a herp lover as well as those who love mesmerising landscapes.</p>
 <p>Chorla Ghat is located on the intersection of the borders of Goa, Karnataka and Maharashtra in India.</p>
@@ -28,7 +28,7 @@ comments:   true
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats4.jpg" alt="View rom the Swapnagandha resort, Chorla Ghats">
 
-<p>The “boring” view from my Room – At the Swapnagandha Resort</p>
+<p>The “boring” view from my Room – At the <a href="http://www.wilderhood.com/accommodation/Swapnagandha">Swapnagandha Resort</a></p>
 
 <p>A photographer's perspective<p>
 
