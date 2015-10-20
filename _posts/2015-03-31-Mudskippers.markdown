@@ -6,14 +6,14 @@ author:     "Santhosh Krishnamoorthy"
 tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations", "Goa Wildlife"]
 seo:		["Monsoon", "Macro"]
 comments:   true
-header-img: "img/2015-03-31/goa1.jpg"
+header-img: "img/2015-03-31/goa_Mudskippers1.jpg"
 ---
 
 <p>
 In the sun soaked land of <a href="http://www.wilderhood.com/destination/Goa" target="_blank">Goa</a>, riding on a boat over the tidal waters of the river Zuari, we were looking for birds, more specifically, the kingfishers. That’s when we noticed something hopping up and down on the mudflats, very close to the water’s edge. We thought of taking a diversion and examining as to what it could be. Getting closer, we realized that they were Mudskippers, those lovely amphibious fish. Had always wished to see them and this was my first encounter. The moment I saw them, my heart leapt with excitement and I instantly fell in love with the springy, lively beauties. It was indeed, love at first sight… :-)
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa2.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers2.jpg">
 
 <p>
 Mudskippers are fundamentally fish, but have developed some amazing adaptations to be able to live both on land and in water, thus becoming completely amphibious.
@@ -41,7 +41,7 @@ They live in small burrows, which they build on the mudflats by excavating the m
 A male looks out of his little home………
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa3.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers3.jpg">
 
 <p>Another interesting thing about these are their bulging, multi-colored eyes.</p>
 	
@@ -55,39 +55,39 @@ How amazing is that.!..
 When we saw them, there was full on activity going. Males seemed to be in full glow, very busy , proudly displaying their gorgeous florescent colored fins to impress the females around.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa4.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-31/goa1.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers4.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers1.jpg">
 
 <p>
 They were vigorously jumping up and down as well. Looked like in addition to mating display, it was territorial display amongst different males too. Using their tail fins, they seemed to thrust themselves up into the air.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa5.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers5.jpg">
 
 <p>
 There seemed to be intense competition all round, as there were many in number and the females weren’t seemed to be getting impressed very easily.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa6.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers6.jpg">
 
 <p>
 Sometimes, they can even glide through the canopy, just like a bird, changing directions may be using its tail.
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa6.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers6.jpg">
 
 <p>
 The females seemed to be very choosy, making very close examinations of the males and their colored accessories, as in the image below.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa7.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers7.jpg">
 
 <p>
 With some personal one-to-one performances as well………
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-31/goa8.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-31/goa_Mudskippers8.jpg">
 
 <p>
 Indeed, it seemed like a lot of effort on the little fish’s part to get his prospective partner to say a "yes"
