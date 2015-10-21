@@ -14,7 +14,7 @@ Landscape photography can be hard work and only sometimes all the efforts pay of
 </p>
 
 <p>
-Here are some of the shots made during this fantastic natural event....
+Here are some of the shots made during this fantastic natural event.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha2.jpg" alt="Fog rolls in towards Hampi">
@@ -44,19 +44,19 @@ Fog rolling in
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha6.jpg" alt="The main event begins… Sun rises over the numerous hillocks and brings various and brilliant hues of red, orange and yellow.">
 
 <p>
-The main event begins… Sun rises over the numerous hillocks and brings various and brilliant hues of red, orange and yellow.
+The main event begins. Sun rises over the numerous hillocks and brings various and brilliant hues of red, orange and yellow.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha7.jpg" alt="A wide angel perspective of sun-rise and the hillocks">
 
 <p>
-A wide angel perspective of sun-rise and the hillocks
+A wide angle perspective of sun-rise and the hillocks
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha8.jpg" alt="Personally, this and the next three are the shots that i like the most.">
 
 <p>
-Personally, this and the next three are the shots that i like the most.
+Personally, this and the next three are the shots that I like the most.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha9.jpg" alt="Favorite shot #2 : Another perspective of the same subject">
