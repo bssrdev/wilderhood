@@ -29,18 +29,22 @@ The forest floor was incredibly dense with very few opportunities for making a w
 </p>
 
 <p>
-We travelled twice to this location in two years to perfect on the technique to capture a beautiful image of the Luminous fungi. Our first visit was more documentary, where we made some test images to work out our exposures. We noticed that making an image of just the glowing barks made little artistic sense unless we included a context to the surroundings. This was tricky as we had to illuminate the entire landscape subtly to bring it into the frame. So on our visit the second year we worked out a new method of illuminating the landscape called “Spray Flashing” where we experimented with multiple flash settings and exposures to arrive at an exposure which would not compromise on the glow and yet would still light up the rest of the forest in a subtle yet beautiful way. Through our experiments with composition and exposure we learned something new every time, and improved on our technique of Spray Flashing on our second visit. Our shoot would usually last from evening 7pm and continue till 3am after which we would return back to base, to catch some much needed sleep and be ready for the next evening. It was literally back breaking work, and walking in the rain and dark looking for promising areas with a good presence of the luminescence was anything but easy. At the end of both these expeditions we felt that we would need to groom our learning from these visits to maximise our output as this was by far one of the trickiest assignments we had ever done! -- <strong> <a href="{{ site.baseurl }}/authors/Sriharsha%20Ganjam">Sriharsha Ganjam</a>/<a href="{{ site.baseurl }}/authors/Ashwini%20Kumar%20Bhat"> Ashwini Kumar Bhat</a></strong>
+We travelled twice to this location in two years to perfect on the technique to capture a beautiful image of the Luminous fungi. Our first visit was more documentary, where we made some test images to work out our exposures. We noticed that making an image of just the glowing barks made little artistic sense unless we included a context to the surroundings. This was tricky as we had to illuminate the entire landscape subtly to bring it into the frame. So on our visit the second year we worked out a new method of illuminating the landscape called “Spray Flashing” where we experimented with multiple flash settings and exposures to arrive at an exposure which would not compromise on the glow and yet would still light up the rest of the forest in a subtle yet beautiful way. Through our experiments with composition and exposure we learned something new every time, and improved on our technique of Spray Flashing on our second visit. Our shoot would usually last from evening 7pm and continue till 3am after which we would return back to base, to catch some much needed sleep and be ready for the next evening. It was literally back breaking work, and walking in the rain and dark looking for promising areas with a good presence of the luminescence was anything but easy. At the end of both these expeditions we felt that we would need to groom our learning from these visits to maximise our output as this was by far one of the trickiest assignments we had ever done!
 </p>
 
 <p>
-Our First Expedition (Introducing Luminous Landscapes)
+   -- <a href="{{ site.baseurl }}/authors/Sriharsha%20Ganjam">Sriharsha Ganjam</a>/<a href="{{ site.baseurl }}/authors/Ashwini%20Kumar%20Bhat">Ashwini Kumar Bhat</a>
 </p>
+
+<h4>
+Our First Expedition (Introducing Luminous Landscapes)
+</h4>
 
 <iframe src="https://player.vimeo.com/video/103281573" width="690" height="460" frameborder="0"></iframe>
 
-<p>
+<h4>
 The more collection of Bioluminescence
-</p>
+</h4>
 
 <img src="{{ site.baseurl }}/img/2015-04-02/goa1.jpg">
 <img src="{{ site.baseurl }}/img/2015-04-02/goa4.jpg">
