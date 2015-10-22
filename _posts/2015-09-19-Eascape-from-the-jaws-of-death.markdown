@@ -3,7 +3,7 @@ layout:     post
 title:      "Escape from the jaws of death"
 subtitle:   "Jog falls"
 author:     "Anil Kumar GT"
-tags:       ["Agumbe", "Monsoon Destinations", "Macro Life", "Reptiles"]
+tags:       ["Agumbe", "Monsoon Destinations", "Macro Life", "Reptiles", "Wildlife Destinations"]
 seo:		["Monsoon", "WesternGhats", "Agumbe", "Reptiles"]
 comments:   true
 header-img: "img/2015-09-19/western_ghats1.jpg"

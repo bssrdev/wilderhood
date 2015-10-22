@@ -3,7 +3,7 @@ layout:     post
 title:      "King's Platter"
 subtitle:   "King's Platter"
 author:     "Gowri Shankar"
-tags:       ["Macro Life", "Monsoon Destinations", "Reptiles", "King Cobra", "Western Ghats", "Agumbe"]
+tags:       ["Macro Life", "Monsoon Destinations", "Reptiles", "King Cobra", "Western Ghats", "Agumbe", "Wildlife Destinations"]
 seo:		["Agumbe", "Monsoon", "King Cobra"]
 comments:   true
 header-img: "img/2015-03-19/agumbe.jpg"

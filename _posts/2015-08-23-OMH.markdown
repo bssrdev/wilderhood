@@ -4,7 +4,7 @@ title:      "Old Magazine House"
 subtitle:   "Old Magazine House - Bird Watcher's heaven"
 author:     "Kiran Kashyap"
 header-img: "img/2015-08-23/Ganeshgudi28.jpg"
-tags:		["Birding Destinations"]
+tags:		["Birding Destinations", "Wildlife Destinations"]
 seo:		["Birding Destinations", "JLR"]
 comments:   true
 ---

@@ -4,7 +4,7 @@ title:      "Birding in Wayanad"
 subtitle:   "Kerala"
 author:     "Shivakumar L Narayan"
 header-img: "img/2015-08-12/Wayanad6.jpg"
-tags:		["Birding Destinations", "Western Ghats", "Wayanad"]
+tags:		["Birding Destinations", "Western Ghats", "Wayanad", "Wildlife Destinations"]
 seo:		["Birding Destinations", "Wayanad"]
 comments:   true
 ---
