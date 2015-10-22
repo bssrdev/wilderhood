@@ -3,7 +3,7 @@ layout:     post
 title:      "Filters for Landscape photography"
 subtitle:   "A brief insight"
 author:     "Shivakumar L Narayan"
-tags:       ["Tips and Tricks"]
+tags:       ["Tips and Tricks", "Landscape Destinations"]
 seo:		["Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-18/Landscape5.jpg"

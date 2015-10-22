@@ -3,7 +3,7 @@ layout:     post
 title:      "FROM THE LAND OF SAND DUNES -- Desert National Park"
 subtitle:   "FROM THE LAND OF SAND DUNES -- Desert National Park"
 author:     "Manohara Kamath"
-tags:       ["Birding Destinations", "Wildlife Destinations", "Desert National Park", "Travel Destinations"]
+tags:       ["Birding Destinations", "Wildlife Destinations", "Landscape Destinations", "Desert National Park", "Travel Destinations"]
 seo: 		["Travel", "Birding Destinations"]
 comments:   true
 header-img: "img/2015-05-20/Desert_national_park.jpg"

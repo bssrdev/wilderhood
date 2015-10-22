@@ -4,7 +4,7 @@ title:      "ZUARI RIVER AND ITS BIRDLIFE"
 subtitle:   "CUMBARJUEM CANAL BIRD TRIP"
 author:     "Manohara Kamath"
 header-img: "img/2015-06-17/Zuari_river_goa1.jpg"
-tags:       ["Wildlife Destinations", "Birding Destinations", "Goa Wildlife"]
+tags:       ["Wildlife Destinations", "Landscape Destinations", "Birding Destinations", "Goa Wildlife"]
 seo:		["Birding Destinations"]
 comments:   true
 ---
@@ -41,9 +41,18 @@ comments:   true
 <img src="{{ site.baseurl}}/img/2015-06-17/Zuari_river_goa14.jpg" alt="Mudskipper, Zuari river, Goa">
 <img src="{{ site.baseurl}}/img/2015-06-17/Zuari_river_goa15.jpg" alt="Mudskipper, Zuari river, Goa">
 
-<h4>KINGFISHER KING OF GOOD TIMES</h4>
+<h4>KINGFISHER - KING OF GOOD TIMES</h4>
 
-<p>In Zuari boat safari one can see a minimum of five species of kingfishers, they are 1) The regularly seen White-throated kingfisher 2) Common Kingfisher 3) Pied Kingfisher 4) Collared kingfisher and 5) Black-capped kingfisher. Depending on the time and luck, you can have multiple sightings. I clicked images of four King fishers' which are more difficult to find and it is a great feeling to capture uncommon species.</p>
+<p>In Zuari boat safari one can see a minimum of five species of kingfishers, they are 
+<ol> 
+	<li>The regularly seen <em>White-throated kingfisher</em></li>
+	<li><em>Common Kingfisher</em></li>
+	<li><em>Pied Kingfisher</em></li>
+	<li><em>Collared kingfisher</em></li>
+	<li><em>Black-capped kingfisher</em></li>
+</ol>
+	 
+	 Depending on the time and luck, you can have multiple sightings. I clicked images of four King fishers' which are more difficult to find and it is a great feeling to capture uncommon species.</p>
 
 <img src="{{ site.baseurl}}/img/2015-06-17/Zuari_river_goa16.jpg" alt="Wimbrel, Zuari river, Goa">
 <img src="{{ site.baseurl}}/img/2015-06-17/Zuari_river_goa17.jpg" alt="Black headed stork, Zuari river, Goa">

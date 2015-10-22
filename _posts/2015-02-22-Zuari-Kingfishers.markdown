@@ -4,7 +4,7 @@ title:      "Zuari Kingfishers"
 subtitle:   "Where else one can find six different species of Kingfishers within a distance of 200 meters? I don’t know. But we did,  at the Goan Zuari river!"
 author:     "Bharath Hegde"
 header-img: "img/2015-02-22/Zuari_river.jpg"
-tags:       ["Wildlife Destinations", "Goa Wildlife", "Birding Destinations"]
+tags:       ["Wildlife Destinations", "Landscape Destinations", "Goa Wildlife", "Birding Destinations"]
 seo:		["Birding Destinations"]
 comments:   true
 ---

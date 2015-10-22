@@ -4,7 +4,7 @@ title:      "When Elephants crossed paths with the Lions at Serengeti"
 subtitle:   "Lions and the Elephants, as all know, are perennial enemies. One constantly getting the better of the other, with probably the lions having a slight edge there."
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-02-11/serengeti1.jpg"
-tags:       ["African Destinations", "Wildlife Destinations"]
+tags:       ["African Destinations", "Wildlife Destinations", "Landscape Destinations"]
 seo:		["Africa", "BigCats"]
 comments:   true
 ---

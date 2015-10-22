@@ -3,7 +3,7 @@ layout:     post
 title:      "Dump-yard Birding"
 subtitle:   "Dump-yard Birding"
 author:     "Vinodh Ve"
-tags:       ["Birding Destinations", "Bikaner", "Wildlife Destinations", "Raptors"]
+tags:       ["Birding Destinations", "Bikaner", "Landscape Destinations", "Wildlife Destinations", "Raptors"]
 seo:		["Birding Destinations", "Raptors"]
 comments:   true
 header-img: "img/bikaner.jpg"

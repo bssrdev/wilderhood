@@ -3,8 +3,8 @@ layout:     post
 title:      "Life at Tal Chhapar: Black Bucks"
 subtitle:   "Life at Tal Chhapar: Black Bucks"
 author:     "Bharath Hegde"
-tags:       ["Wildlife Destinations", "Tal Chappar", "Black Bucks"]
-seo:		["Birding Destinations"]
+tags:       ["Wildlife Destinations", "Landscape Destinations", "Tal Chappar", "Black Bucks"]
+seo:		["Birding Destinations", "Landscape Destinations",]
 comments:   true
 header-img: "img/2015-04-24/tal_chapar1.jpg"
 ---

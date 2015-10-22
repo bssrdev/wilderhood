@@ -4,7 +4,7 @@ title:      "Glamour in Goa"
 subtitle:   "The Chorla Ghats"
 author:     "Anand Menon"
 header-img: "img/2015-08-05/Chorla_Ghats1.jpg"
-tags:		["Chorla Ghats", "Monsoon Destinations", "Macro Life", "Reptiles", "Western Ghats", "Wildlife Destinations", "Goa Wildlife"]
+tags:		["Chorla Ghats", "Monsoon Destinations", "Landscape Destinations", "Macro Life", "Reptiles", "Western Ghats", "Wildlife Destinations", "Goa Wildlife"]
 seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
 ---

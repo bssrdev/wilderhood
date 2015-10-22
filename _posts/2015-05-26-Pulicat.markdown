@@ -3,7 +3,7 @@ layout:     post
 title:      "BIRDING TRIP TO PULICAT"
 subtitle:   "BIRDING TRIP TO PULICAT"
 author:     "Manohara Kamath"
-tags:       ["Birding Destinations", "Wildlife Destinations", "Pulicat"]
+tags:       ["Birding Destinations", "Landscape Destinations", "Wildlife Destinations", "Pulicat"]
 seo:		["Birding Destinations", "Pulicat"]
 comments:   true
 header-img: "img/2015-05-26/Pulicat1.jpg"

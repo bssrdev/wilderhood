@@ -4,7 +4,7 @@ title:      "Varsha Ritu"
 subtitle:   "Seethanadi Nature Camp and Agumbe"
 author:     "Prasad Natarajan"
 header-img: "img/2015-08-26/Agumbe_Seethanadi7.jpg"
-tags:       ["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
+tags:       ["Wildlife Destinations", "Landscape Destinations", "Monsoon Destinations", "Agumbe"]
 seo:		["Monsoon", "Agumbe", "Seethanadi", "MysticWild"]
 comments:   true
 ---

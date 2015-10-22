@@ -4,7 +4,7 @@ title:      "AGUMBE"
 subtitle:   "My experience at KCRE"
 author:     "Vinodh Ve"
 header-img: "img/2015-06-14/Agumbe1.jpg"
-tags:       ["Wildlife Destinations", "Monsoon Destinations", "Agumbe"]
+tags:       ["Wildlife Destinations", "Landscape Destinations", "Monsoon Destinations", "Agumbe"]
 seo:		["Agumbe", "Monsoon"]
 comments:   true
 ---
