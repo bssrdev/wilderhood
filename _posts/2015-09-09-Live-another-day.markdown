@@ -11,7 +11,7 @@ header-img: "img/2015-09-09/Valparai1.jpg"
 
 <p>Back in December 2012, I was part of a photography tour to <a href="http://www.wilderhood.com/destination/Valparai" target="_blank">Valparai and Annamalai</a>. Deep within the beautiful and enchanting Western Ghats of India, this was a tour organized by Kalyan Varma and Dilan Mandana. Around 2 pm, as we approached one of the forest guest house on the banks of the Pambar river, we heard alarm calls of a Sambar deer. The Sambar seemed to be very close to where we were, so we rushed in the direction from where the call came. We climbed in and out of six foot trenches and scrambled through thick bushes to see the Sambar which was giving out alarm calls.</p>
 
-<p>Here is how that story went :</p>
+<h3>Here is how that story went :</h3>
 
 <img src="{{ site.baseurl }}/img/2015-09-09/Valparai2.jpg" alt="Sambar Deer and Dhole, Valparai, Tamilnadu">
 <p>Through the thick bushes, we managed to see a Sambar mother and her fawn, in lightly deep and fast flowing water.</p>
