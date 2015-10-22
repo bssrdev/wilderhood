@@ -3,7 +3,7 @@ layout:     post
 title:      "Sathoddi Falls"
 subtitle:   "Why visit the same place again?"
 author:     "Ashwini Kumar Bhat"
-tags:       ["Landscape Destinations", "Monsoon Destinations", "Sathoddi"]
+tags:       ["Landscape Destinations", "Monsoon Destinations", "Sathoddi", "Tips and Tricks"]
 seo:		["Monsoon Destinations", "WesternGhats", "WaterFall"]
 comments:   true
 header-img: "img/2015-09-30/Sathoddi.jpg"
