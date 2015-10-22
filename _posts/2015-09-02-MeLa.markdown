@@ -28,7 +28,7 @@ header-img: "img/2015-09-02/BR_hills5.jpg"
 <p><h3>Equipment</h3>- Having a 'fast wide angle' lens coupled with a high ISO performing camera, to capture all available light and generate minimum noise while doing so</p>
 
 <img src="{{ site.baseurl }}/img/2015-09-02/BR_hills3.jpg" alt="Shotting the sky, BRT, Karnataka">
-<p>BRT was an ideal location, given that the place has scenic potential and lacks light pollution</p>
+<p> <a href="http://www.wilderhood.com/destination/BR%20Hills" target="_blank">BRT</a> was an ideal location, given that the place has scenic potential and lacks light pollution</p>
 
 <p>The hunt to find the perfect location started after I zeroed in on the Geminids meteor showers, which happens in December every year. The showers in 2011 were slated to happen during new moon, and also since it was in December there was a great possibility to having clear nights. This meant perfect shooting conditions if weather co-operated. I chose the Jodigere APC deep inside BRT tiger reserve as my shoot site, as I had observed the potential of the place on my previous visits. Visibility to the East was very good, allowing me to see the showers radiating from the Gemini constellation as it rised. It was also far from human habitation, therefore minimum light pollution. The best part was the foreground the landscape offered, rocks and hills, were perfect for a beautiful composition.</p>
 
