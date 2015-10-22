@@ -12,11 +12,11 @@ comments:   true
 
 <p><a href="http://www.wilderhood.com/destination/Agumbe" target="_blank">Agumbe</a>-This word has been in my thoughts since my childhood for the following three reasons:</p>
 
-<p>1. <h4>King Cobras</h4>  Wildlife documentaries and newspapers talk about this place as a heaven to find King Cobras in South India. This is mostly because many documentaries have been shot here with the help of Gowri Shankar. The King Cobra is my favourite snake for various reasons,  it is the largest venomous snake in the world, has a noble look and is the only snake to build a nest.</p>
+<p><strong>1.King Cobras</strong>  Wildlife documentaries and newspapers talk about this place as a heaven to find King Cobras in South India. This is mostly because many documentaries have been shot here with the help of Gowri Shankar. The King Cobra is my favourite snake for various reasons,  it is the largest venomous snake in the world, has a noble look and is the only snake to build a nest.</p>
 
-<p>2. <h4>Gowri shankar</h4>  In a King Cobra documentary of my ever-favourite Herpetologist and Conservationist Romulus Whitaker , I used to admire the snake handling skills of Gowri shankar. Gowri's knowledge and his way of handling snakes earns him admiration from several people including me and he has been my hero since then.</p> 
+<p><strong>2. Gowri shankar</strong>  In a King Cobra documentary of my ever-favourite Herpetologist and Conservationist Romulus Whitaker, I used to admire the snake handling skills of <a href="{{ sitebase.url }}/authors/Gowri Shankar">Gowri shankar</a>. Gowri's knowledge and his way of handling snakes earns him admiration from several people including me and he has been my hero since then.</p> 
 
-<p>3. <h4>Malgudi Days</h4>  I used to love watching Malgudi days by RK Narayan. When I was informed that most part of this popular series was shot in Agumbe, I wanted to visit this place, specially to see the young boy Swami's house.</p>
+<p><strong>3. Malgudi Days</strong>  I used to love watching Malgudi days by RK Narayan. When I was informed that most part of this popular series was shot in Agumbe, I wanted to visit this place, specially to see the young boy Swami's house.</p>
 
 <p>It was in May 2012, when I learned that <a href="http://www.wilderhood.com/organizer/Darter%20Photography" target="_blank">Darter Photography</a> was organising a trip to Agumbe that monsoon, and I started dreaming right away! It was a weekend trip and the bonus was Gowri Shankar would be with us throughout the trip.. The tour itinerary was perfect - I could meet Gowri  to learn about snakes, I could visit Doddamane where the television series Malgudi days was shot, and if I am lucky, I could see a King Cobra too.</p>
 
@@ -24,9 +24,9 @@ comments:   true
 
 <p>I met Shreeram MV, Co-founder of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" target="_blank">Darter Photography</a> and the skipper for the Agumbe trip. He filled some confidence in me and reassured that there will be people around to watch each other. That's how  Agumbe began in my life! My first wildlife trip, new to a forest, new to a DSLR camera, new to a tour with unknown people and this excited me beyond measure.</p>
 
-<p>Kalinga Center for Rainforest Ecology (KCRE)</p>
+<h4>Kalinga Center for Rainforest Ecology (KCRE)</h4>
 
-<p>Since then, I have visited Agumbe around seven to eight times, I travelled with Darter, as well as Birdwing. We stay in a place called Kalinga Center for Rainforest Ecology (KCRE) managed by Prashanth and run by Gowrishankar himself. The KCRE's main focus is to enable Education, Research and Conservation of rainforest species, for anyone who is interested - they can be students, weekend naturalists, photographers, etc.</p>
+<p>Since then, I have visited Agumbe around seven to eight times, I travelled with Darter, as well as Birdwing. We stay in a place called Kalinga Center for Rainforest Ecology (KCRE) managed by Prashanth and run by Gowri Shankar himself. The KCRE's main focus is to enable Education, Research and Conservation of rainforest species, for anyone who is interested - they can be students, weekend naturalists, photographers, etc.</p>
 
 <p>The place is around 5 km deeper into the forest from Guddekere bus stop, on the way to Agumbe town which is around 8 km away. There is a single KSRTC bus from Bangalore to Agumbe every night at 10 PM. The return bus starts from Agumbe every night at 8 PM. For the return journey only five seats are allocated for online reservation, to make it easier for the native people who have no access to internet.</p>
 
