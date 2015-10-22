@@ -3,7 +3,7 @@ layout:     post
 title:      "Meteor Landscapes (MeLa)"
 subtitle:   "A photo expedition to shoot one of the most beautiful and seldom witnessed natural wonders!"
 author:     "Sriharsha Ganjam"
-tags:       ["Landscape Destinations", "Tips and Tricks", "BR_hills"]
+tags:       ["Landscape Destinations", "Tips and Tricks", "BRHills"]
 seo:		["Landscape Destinations", "tipsntricks", "lsw"]
 comments:   true
 header-img: "img/2015-09-02/BR_hills5.jpg"
@@ -19,13 +19,13 @@ header-img: "img/2015-09-02/BR_hills5.jpg"
 
 <p> Defining the variables involved in making this image evolved over time and some of the key variables were:</p>
 
-<p>Location- It had to be located far from human habitation to avoid light pollution, but also be easily accessible to enable easy co-ordnination of the logistics</p>
+<p><h3>Location</h3>- It had to be located far from human habitation to avoid light pollution, but also be easily accessible to enable easy co-ordnination of the logistics</p>
 
-<p>Season- Meteor showers happen throughout the year, but not all of them are optimum for viewing, as we have cloud cover for almost ten months in a year in my part of the world</p>
+<p><h3>Season</h3>- Meteor showers happen throughout the year, but not all of them are optimum for viewing, as we have cloud cover for almost ten months in a year in my part of the world</p>
 
-<p>Lunar phase- Having a full moon can be detrimental to viewing and photographing a meteor shower as bright moonlight can wash out faint meteors</p>
+<p><h3>Lunar phase</h3>- Having a full moon can be detrimental to viewing and photographing a meteor shower as bright moonlight can wash out faint meteors</p>
 
-<p>Equipment- Having a 'fast wide angle' lens coupled with a high ISO performing camera, to capture all available light and generate minimum noise while doing so</p>
+<p><h3>Equipment</h3>- Having a 'fast wide angle' lens coupled with a high ISO performing camera, to capture all available light and generate minimum noise while doing so</p>
 
 <img src="{{ site.baseurl }}/img/2015-09-02/BR_hills3.jpg" alt="Shotting the sky, BRT, Karnataka">
 <p>BRT was an ideal location, given that the place has scenic potential and lacks light pollution</p>
