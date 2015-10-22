@@ -34,38 +34,38 @@ Then the tiger pair started doing some courtship rituals, right in front of us. 
 </p>
 
 <p>
-The Groom
+<h3>The Groom</h3>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-05-23/Tadoba1.jpg" alt="Tiger, Tadoba">
 
 <p>
-The Bride
+<h3>The Bride</h3>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-05-23/Tadoba2.jpg" alt="Tiger, Tadoba">
 
 <p>
-Following her...
+<h3>Following her...</h3>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-05-23/Tadoba3.jpg" alt="Tiger, Tadoba">
 
 <p>
-Face-to-face
+<h3>Face-to-face</h3>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-05-23/Tadoba4.jpg" alt="Tiger, Tadoba">
 
 <p>
-Courtship rituals
+<h3>Courtship rituals</h3>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-05-23/Tadoba5.jpg" alt="Tiger, Tadoba">
 <img src="{{ site.baseurl }}/img/2015-05-23/Tadoba6.jpg" alt="Tiger, Tadoba">
 
 <h4>
-Tigers' Courtship
+<h3>Tigers' Courtship</h3>
 </h4>
 
 <p>

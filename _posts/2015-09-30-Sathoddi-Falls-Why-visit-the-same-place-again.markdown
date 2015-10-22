@@ -44,4 +44,4 @@ header-img: "img/2015-09-30/Sathoddi.jpg"
 
 <p>I am not bored of the place yet.</p>
 
-<p> How can I, when I belong to the third kind of photographers? </p>
+<p><h3>How can I, when I belong to the third kind of photographers?</h3></p>

@@ -62,19 +62,19 @@ Personally, this and the next three are the shots that I like the most.
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha9.jpg" alt="Favorite shot #2 : Another perspective of the same subject">
 
 <p>
-Favorite shot #2 : Another perspective of the same subject
+<h3>Favorite shot #2 :</h3> Another perspective of the same subject
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha10.jpg" alt="Favorite shot #3 : A wider perspective of the same subject">
 
 <p>
-Favorite shot #3 : A wider perspective of the same subject
+<h3>Favorite shot #3 :</h3> A wider perspective of the same subject
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha11.jpg" alt="Favorite shot #4 : Yet another perspective of the same subject">
 
 <p>
-Favorite shot #4 : Yet another perspective of the same subject
+<h3>Favorite shot #4 :</h3> Yet another perspective of the same subject
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-21/Matanga_Parvatha12.jpg" alt="The show went on for about 30 minutes and the fog continued to flow during this time.">

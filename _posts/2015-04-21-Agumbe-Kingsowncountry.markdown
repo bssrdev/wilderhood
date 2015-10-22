@@ -69,7 +69,7 @@ In my humble-not so significant-opinion Western Ghats especially <a href="http:/
 <img src="{{ site.baseurl }}/img/2015-04-21/agumbe7.jpg">
 
 <p>
-Remember:
+<h3>Remember:</h3>
 </p>
 
 <p>
@@ -81,7 +81,7 @@ If you are travelling during monsoon: carry rain gear, gum boots or water-resist
 </p>
 
 <p>
-Places to stay:
+<h3>Places to stay:</h3>
 </p>
 
 <p>
@@ -95,5 +95,5 @@ Hingaara Homestay
 </p>
 
 <p>
-Note: Avoid carrying and discarding any form of plastic in the village/forest/ghats. Carry plastic covers only to bring your damp clothes and shoes back.
+<h3>Note:</h3> Avoid carrying and discarding any form of plastic in the village/forest/ghats. Carry plastic covers only to bring your damp clothes and shoes back.
 </p>

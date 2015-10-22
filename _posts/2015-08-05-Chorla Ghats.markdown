@@ -34,7 +34,7 @@ comments:   true
 
 <p>Here is a list of the bare necessities that you need in terms of Photography gear to survive in Chorla:</p>
 
-<p>For Macro Enthusiasts:</p>
+<p><h3>For Macro Enthusiasts:</h3></p>
 
 <p>1.	A good, weather-sealed camera. I can vouch that a DSLR would be a mighty good choice.</p>
 
@@ -68,29 +68,29 @@ comments:   true
 <p>Almost all the species that are present in the Western Ghats, be it the different Vipers, frogs, bugs and insects (except those that are endemic to certain other regions!) are present in Chorla too. Some of the rare species of wildlife are found here. Also, the probability of finding Saw-scaled Vipers, with their beautiful golden sheen, is far higher here than in other parts of the Ghats. Other attractions are the plant life, with ferns, orchids and multi-coloured fungi forming an unbroken carpet of green all around.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats5.jpg" alt="Biodiversity, Chorla Ghats">
-<p>A.	<em>jewel beetle.</em></p>
-<p>B.	<em>The Nilgiri Keelback or Beddome's Keelback</em> – Non venomous and harmless (unless you are a toad!)</p>
-<p>C.	<em>The Malabar Pit Viper</em> – The pit viper registers heat using the ‘pits’, positioned on each side of the snake's head between the eye and nostril,and is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches away. Venomous to humans. Completely harmless when left alone!</p>
-<p>D.	<em>Ferns and jungle blossoms</em> – A feast for the eyes and a welcome relief from looking for expertly camouflaged herps!</p>
-<p>E.	<em>Millipede</em> – A millipede rolled up in self-defence</p>
-<p>F.	<em>The Malabar Gliding Frog</em> – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbing that helps it glide between trees</p>
+<p>A.	<em><h3>jewel beetle.</h3></em></p>
+<p>B.	<em><h3>The Nilgiri Keelback or Beddome's Keelback</h3></em> – Non venomous and harmless (unless you are a toad!)</p>
+<p>C.	<em><h3>The Malabar Pit Viper</h3></em> – The pit viper registers heat using the ‘pits’, positioned on each side of the snake's head between the eye and nostril,and is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches away. Venomous to humans. Completely harmless when left alone!</p>
+<p>D.	<em><h3>Ferns and jungle blossoms</h3></em> – A feast for the eyes and a welcome relief from looking for expertly camouflaged herps!</p>
+<p>E.	<em><h3>Millipede</h3></em> – A millipede rolled up in self-defence</p>
+<p>F.	<em><h3>The Malabar Gliding Frog</h3></em> – Caught napping! Brilliantly coloured in green, yellow and with reddish-pink webbing that helps it glide between trees</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats6.jpg" alt="Flower, Chorla Ghats location">
 <p>Chorla is home to some amazingly beautiful plant-life</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats7.jpg" alt="Bioluminescence, Chorla Ghats">
-<p>Midnight Landscape – BioluminescentFungi</p>
+<p><h3>Midnight Landscape</h3> – BioluminescentFungi</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats8.jpg" alt="India map, Chorla Ghats location">
 <p>And, bending to editorial pressure, the unavoidable Tiger photo for this wildlife article - A Tiger Centipede </p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats9.jpg" alt="Travel to Chorla Ghats">
-<p>The Saw-scaled Viper – A diminutive chap despite his vicious reputation. [Inset – A close-up of the saw scales and the golden eye lids]</p>
+<p><h3>The Saw-scaled Viper</h3> – A diminutive chap despite his vicious reputation. [Inset – A close-up of the saw scales and the golden eye lids]</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-05/Chorla_Ghats10.jpg" alt="Travel to Chorla Ghats">
 <p>Still cannot make up your mind on whether to go or not? Go ahead and take that step!</p>
 
-<p><em>Post script: Know your Western Ghats</em></p>
+<p><em><h3>Post script</h3>: Know your Western Ghats</em></p>
 
 <p>The Western Ghats (the Sahyādri or the Sahya Parvatam) constitute a mountain range along the western side of India, starting at the southern tip of Gujarat and travelling all the way down to Kanyakumari in Tamil Nadu.</p>
 

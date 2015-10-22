@@ -98,6 +98,6 @@ The majestic El-Capitan, beautiful Yosemite Falls, serene Yosemite Valley and th
 <img src="{{ site.baseurl }}/img/2015-04-27/Yosemite16.jpg" alt="Yosemite National Park, US">
 
 <p>
-Asking me if I want to go there again? <br> <br>
-- Why not? :)
+Asking me if <h3>I want to go there again?</h3> <br> <br>
+- <h3>Why not?</h3> :)
 </p>

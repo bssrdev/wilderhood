@@ -22,6 +22,6 @@ header-img: "img/2015-09-30/Sathoddi.jpg"
 
 <p>And this has motivated me again to visit the place again in some other different time or season.</p>
 
-<p>When next?? I don’t know, but I will for sure. In some different season, for some different reason.</p>
+<p><h3>When next??</h3> I don’t know, but I will for sure. In some different season, for some different reason.</p>
 
 <p>You can find this image as a full page feature in this month’s Saevus magazine.</p>

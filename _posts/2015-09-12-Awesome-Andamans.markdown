@@ -19,7 +19,7 @@ header-img: "img/2015-09-12/Andaman1.JPG"
 
 <p>Yes, I robbed my sisters off their savings! Mu ha ha ha.. Of course I’m considerate.  I left some pittance for their survival in my absence.</p>
 
-<p>Bangalore to Chennai:</p>
+<p><h3>Bangalore to Chennai:</h3></p>
 
 <p>Eight hours of train journey.</p>
 
@@ -29,7 +29,7 @@ header-img: "img/2015-09-12/Andaman1.JPG"
 
 <p>I stayed at my not so sane colleague’s place (not so sane because he dared to host me).  And the treatment I got there: if Jaya Lalitha witnessed the scene, she would’ve cried like a baby and cursed her fate for not being me. I felt like a princess of Nile minus milk bath. I almost dropped the plan of visiting Andaman and settled in Chennai.</p>
 
-<p>Chennai to Andaman:</p>
+<p><h3>Chennai to Andaman:</h3></p>
 
 <p>It took us longer to board the flight than to reach Andaman. In essence, it took us two hours.</p>
 
@@ -41,7 +41,7 @@ header-img: "img/2015-09-12/Andaman1.JPG"
 
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman2.JPG" alt="ANET cottage, Andaman Islands">
 
-<p>First Day:
+<p><h3>First Day:</h3>
 Walk in the mangroves was as good as walk in the clouds.  Wading in the mangroves sinking knee-deep and I-thanks to my height-almost neck-deep into the muck was a unique experience. That’s when I learnt my premier valuable lesson: wearing full-length pants on these Islands was an unpardonable crime. Ignoring the popular quote never fight an unarmed man, Mangroves is a perfect place to get back at your foes.</p>
 
 <p>Walk in the Mangroves!!!</p>
@@ -60,7 +60,7 @@ Mud Skipper!!!
 
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman8.JPG" alt="Andaman Islands">
 
-<p>Second day:</p>
+<p><h3>Second day:</h3></p>
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman9.JPG" alt="Andaman Islands">
 
 <p>Scuba diving was a feat in itself for me, for one I didn’t know swimming, like that was not enough I had seasickness. I was such a troublemaker. If my diving instructor were anything like my Hindi teacher in school, she would take a wooden ruler and hit me on my knuckles 10 times on each hand. Thank heavens she was more like Mother Teresa, kind, caring, understanding and some other nice things.</p>
@@ -83,7 +83,7 @@ Mud Skipper!!!
 
 <p>This happened because my camera was dangling across my neck while I was wearing shorts. And I couldn’t tell where Rohin was looking: camera or shorts. Sometimes subtle nuances in pronunciation make for good embarrassing moments.  After this incident I resolved never to wear shorts and shots at the same time. I became the laughing-stock for next 4 days.  It was easily one of my most embarrassing moments.</p>
 
-<p>Third Day:</p>
+<p><h3>Third Day:</h3></p>
 
 <p>My group mates were like the jaunty Squirrels playing in the tree while I was like a Sloth stuck in the middle of nowhere, can’t run, can’t hide types. My entire future flashed in front of me in the few minutes spent up in the air. Hanging 20 ft above the ground and several feet below the treetop I realized muscle power is as essential as memory power or in corporate environment manpower. That’s when I made a list of things I’m going to do to improve my muscle power as soon as I’m back in Bangalore. Some of them are: gulp protein drink every day, exercise at least once in a fortnight, bully sisters a little less, cut down on shopping, save money, speak the truth always and listen to parents once in a while.</p>
 
@@ -108,7 +108,7 @@ Trek
 <p>Cuttle Fish!!!</p>
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman16.JPG" alt="Cuttle fish, Andaman Islands">
 
-<p>Fourth day:</p>
+<p><h3>Fourth day:</h3></p>
 
 <p>Camping in the jungle</p>
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman17.JPG" alt="Andaman Islands">
@@ -117,7 +117,7 @@ Trek
 
 <p>Here it was I learnt my third and the most valuable lesson.  Always wear mosquito repellent while on the beaches in Andamans.  Had I paid heed to the well-wishers. I would have saved almost three months pain of scratching and nursing the sand fly bites. Moral of the story, it is ok to forget you wallet at home but not the mosquito repellent.  Sand flies will arrest you like the Lilliputs arrested Gulliver.</p>
 
-<p>Fifth day:</p>
+<p><h3>Fifth day:</h3></p>
 
 <p>Fifth day was solely dedicated to breaking the fast at the village and a five-hour pleasant trek snacking on oranges and biscuits with a few “nurse the leech bite” breaks.</p>
 
@@ -146,7 +146,7 @@ Trek
 <img src="{{ site.baseurl }}/img/2015-09-12/Andaman22.JPG" alt="Andaman Bronzeback tree snake, Andaman Islands">
 
 
-<p>Birds sighted?</p>
+<p><h3>Birds sighted?</h3></p>
 
 <p>Brown Shrike, Black Capped King Fisher, Collared King Fisher, White Breasted King Fisher, Stork Billed King Fisher, White-bellied Sea Eagle, River Terns, Grey Wagtails, Green Pigeons, Night Jar, Whistling teal, Ashy Woodswallows, Andaman Crake, Andaman Coucal, Long Tailed Parakeet, Red Breasted Parakeet, Black Napped Oriole. </p>
 

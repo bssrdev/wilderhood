@@ -65,6 +65,6 @@ comments:   true
 <img src="{{ site.baseurl}}/img/2015-08-19/Bali6.1.jpg" alt="Bali Island">
 <img src="{{ site.baseurl}}/img/2015-08-19/Bali6.2.jpg" alt="Bali Island">
 
-<p>So, have you booked your tickets yet???</p>
+<p>So, <h3>have you booked your tickets yet???</h3></p>
 
 

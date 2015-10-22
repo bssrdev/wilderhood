@@ -14,7 +14,7 @@ comments:   true
 
 <img src="{{ site.baseurl }}/img/2015-02-07/kabini_elephant.jpg"  alt="ESSENCE OF KABINI - Every place has a signature photograph to it. For me, this is the closest it comes for Kabini. The banks of the reservoir, with fresh grass growing at the onset of summer. The beautiful moist deciduous forest all around it. And the majestic animals that define the place - the Tiger and the Elephant.">
 
-<img src="{{ site.baseurl }}/img/2015-02-07/kabini_leopard.jpg.jpg"  alt="TRAFFIC JAM - Sound advice it was. For predators abound here. On a warm March afternoon, this stunner decided to lead the way. And we were more than glad to oblige.">
+<img src="{{ site.baseurl }}/img/2015-02-07/kabini_leopard.jpg"  alt="TRAFFIC JAM - Sound advice it was. For predators abound here. On a warm March afternoon, this stunner decided to lead the way. And we were more than glad to oblige.">
 
 <p>I’ve visited this magical forest many times, including a few weeks that I spent on assignment in summer 2014.  This portfolio is a collection of photographs that showcases the variety of wildlife and habitats that this rich forest holds. Enjoy the virtual safari! </p>
 

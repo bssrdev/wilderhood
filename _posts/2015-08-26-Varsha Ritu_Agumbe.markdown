@@ -15,7 +15,7 @@ comments:   true
 
 <p>Early morning we were introduced to various reptiles, frogs and basics of photography which is a great way to start off our day. The dinning area is a beautiful open space and that is where I found my first subject. Though the entire floor was neatly laid with tiles,fungus grew in the gaps  of those tiles.</p>
 
-<p>Do you remember this famous quote from the movie Jurassic Park ,“Life finds a way! ”? It is true.</p>
+<p>Do you remember this famous quote from the movie Jurassic Park ,<h3>“Life finds a way! ”?</h3> It is true.</p>
 
 <img src="{{ site.baseurl}}/img/2015-08-26/Agumbe_Seethanadi1.jpg" alt="Fungi, Seethanadi Nature Camp, Hebbri and Agumbe">
 

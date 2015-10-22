@@ -12,11 +12,11 @@ comments:   true
 
 <p><a href="http://www.wilderhood.com/destination/Agumbe" target="_blank">Agumbe</a>-This word has been in my thoughts since my childhood for the following three reasons:</p>
 
-<p>1. King Cobras - Wildlife documentaries and newspapers talk about this place as a heaven to find King Cobras in South India. This is mostly because many documentaries have been shot here with the help of Gowri Shankar. The King Cobra is my favourite snake for various reasons,  it is the largest venomous snake in the world, has a noble look and is the only snake to build a nest.</p>
+<p>1. <h3>King Cobras</h3> - Wildlife documentaries and newspapers talk about this place as a heaven to find King Cobras in South India. This is mostly because many documentaries have been shot here with the help of Gowri Shankar. The King Cobra is my favourite snake for various reasons,  it is the largest venomous snake in the world, has a noble look and is the only snake to build a nest.</p>
 
-<p>2. Gowri shankar - In a King Cobra documentary of my ever-favourite Herpetologist and Conservationist Romulus Whitaker , I used to admire the snake handling skills of Gowri shankar. Gowri's knowledge and his way of handling snakes earns him admiration from several people including me and he has been my hero since then.</p> 
+<p>2. <h3>Gowri shankar</h3> - In a King Cobra documentary of my ever-favourite Herpetologist and Conservationist Romulus Whitaker , I used to admire the snake handling skills of Gowri shankar. Gowri's knowledge and his way of handling snakes earns him admiration from several people including me and he has been my hero since then.</p> 
 
-<p>3. Malgudi Days - I used to love watching Malgudi days by RK Narayan. When I was informed that most part of this popular series was shot in Agumbe, I wanted to visit this place, specially to see the young boy Swami's house.</p>
+<p>3. <h3>Malgudi Days</h3> - I used to love watching Malgudi days by RK Narayan. When I was informed that most part of this popular series was shot in Agumbe, I wanted to visit this place, specially to see the young boy Swami's house.</p>
 
 <p>It was in May 2012, when I learned that <a href="http://www.wilderhood.com/organizer/Darter%20Photography" target="_blank">Darter Photography</a> was organising a trip to Agumbe that monsoon, and I started dreaming right away! It was a weekend trip and the bonus was Gowri Shankar would be with us throughout the trip.. The tour itinerary was perfect - I could meet Gowri  to learn about snakes, I could visit Doddamane where the television series Malgudi days was shot, and if I am lucky, I could see a King Cobra too.</p>
 
