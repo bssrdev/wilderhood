@@ -3,8 +3,8 @@ layout:     post
 title:      "Pelican's Paradise"
 subtitle:   "Madiwala Lake"
 author:     "Kiran Kashyap"
-tags:       ["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Bangalore Wildlife"]
-seo:		["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Bangalore"]
+tags:       ["Birding Destinations", "Bangalore Wildlife"]
+seo:		["Birding Destinations", "Bangalore"]
 comments:   true
 header-img: "img/2015-10-24/Spot_Billed_Pelican_Madiwala_lake.jpg"
 ---

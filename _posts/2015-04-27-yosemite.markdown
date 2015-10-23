@@ -3,7 +3,7 @@ layout:     post
 title:      "Yosemite - My impressions"
 subtitle:   "Yosemite - My impressions"
 author:     "Ashwini Kumar Bhat"
-tags:       ["Wildlife Destinations", "LandScape Destinations", "Travel Destinations", "Exotic Destinations", "Yosemite"]
+tags:       ["Wildlife Destinations", "Landscape Destinations", "Travel Destinations", "Exotic Destinations", "Yosemite"]
 seo:		["Exotic", "Travel", "Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-27/Yosemite8.jpg"
