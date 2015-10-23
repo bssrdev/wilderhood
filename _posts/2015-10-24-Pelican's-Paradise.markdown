@@ -125,16 +125,16 @@ Greater Cormorant
 Painted Stork
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-10-24/Purple_heron_Madiwala_Lake15.JPG" alt="Purple Heron, Madiwala Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2015-10-24/Purple_heron_Madiwala_Lake15.JPG" alt="Purple Heron with little cormorant, a perspective shot, Madiwala Lake, Bangalore">
 
 <p>
-Purple Heron
+Purple Heron with little cormorant, a perspective shot
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-10-24/Brahminy_Kite_Madiwala_Lake16.JPG" alt="Brahminy Kite, Madiwala Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2015-10-24/Brahminy_Kite_Madiwala_Lake16.JPG" alt="Brahminy Kite on the perch, Madiwala Lake, Bangalore">
 
 <p>
-Brahminy Kite
+Brahminy Kite on the perch
 </p>
 
 <strong>Location:</strong> Madiwala Lake can be easily located. It is near to BTM layout, before Central Silk Board.<br>
