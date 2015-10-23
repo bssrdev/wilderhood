@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pelican's Paradise"
-subtitle:   "Pelican's Paradise"
+subtitle:   "At Madiwala Lake"
 author:     "Kiran Kashyap"
 tags:       ["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Madiwala Lake"]
 seo:		["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Madiwala Lake"]
