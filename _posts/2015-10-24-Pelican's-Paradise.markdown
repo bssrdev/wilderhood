@@ -3,7 +3,7 @@ layout:     post
 title:      "Pelican's Paradise"
 subtitle:   "Madiwala Lake"
 author:     "Kiran Kashyap"
-tags:       ["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Bangalore Wildlfe"]
+tags:       ["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Bangalore Wildlife"]
 seo:		["Landscape Destinations", "Travel Destinations", "Birding Destinations", "Bangalore"]
 comments:   true
 header-img: "img/2015-10-24/Spot_Billed_Pelican_Madiwala_lake.jpg"
@@ -55,14 +55,10 @@ The Flight shot of Pelican
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Pelican_Roosting_Peace_Madiwala_lake3.JPG" alt="Pelican Roosting, Madiwala Lake, Bangalore">
 
-<p>
-Pelican Roosting
-</p>
-
-<img src="{{ site.baseurl }}/img/2015-10-24/Juv_Pelican_Madiwala_lake5.JPG" alt="A juvenile pelican follows a sub-adult, Madiwala Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2015-10-24/Juv_Pelican_Madiwala_lake5.JPG" alt="A juvenile Pelican follows a sub-adult, Madiwala Lake, Bangalore">
 
 <p>
-A juvenile pelican follows a sub-adult
+A juvenile Pelican follows a sub-adult
 </p>
 
 <p>
@@ -78,7 +74,7 @@ Pelicans are mighty birds. With broad wing span and a spotty long bill, they hav
 <img src="{{ site.baseurl }}/img/2015-10-24/Pelican_ElegantLook_Madiwala_Lake7.JPG" alt="An Elegant look, Madiwala Lake, Bangalore">
 
 <p>
-Apart from pelicans, we saw plenty of other aquatic birds. Everything was up-close. It was very nice to see them preening, feeding young ones, wading through silent water, flying here and there.
+Apart from Pelicans, we saw plenty of other aquatic birds. Everything was up-close. It was very nice to see them preening, feeding young ones, wading through silent water, flying here and there.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Black_Capped_Night_Heron_Madiwala_Lake8.JPG" alt="Black Capped Night Heron, Madiwala Lake, Bangalore">
@@ -101,17 +97,45 @@ Darter Roosting
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Grey_Heron__Madiwala_Lake10.JPG" alt="Grey Heron, Madiwala Lake, Bangalore">
 
+<p>
+Grey Heron
+</p>
+
 <img src="{{ site.baseurl }}/img/2015-10-24/Grey_Heron__Madiwala_Lake11.JPG" alt="Grey Heron, Madiwala Lake, Bangalore">
+
+<p>
+Grey Heron
+</p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Little_Cormorant_Madiwala_Lake12.JPG" alt="Little Cormorant, Madiwala Lake, Bangalore">
 
+<p>
+Little Cormorant
+</p>
+
 <img src="{{ site.baseurl }}/img/2015-10-24/Greater_Cormorant_Madiwala_Lake13.JPG" alt="Greater Cormorant, Madiwala Lake, Bangalore">
+
+<p>
+Greater Cormorant
+</p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Painted_Stork__Madiwala_Lake14.JPG" alt="Painted Stork, Madiwala Lake, Bangalore">
 
+<p>
+Painted Stork
+</p>
+
 <img src="{{ site.baseurl }}/img/2015-10-24/Purple_heron_Madiwala_Lake15.JPG" alt="Purple Heron, Madiwala Lake, Bangalore">
 
+<p>
+Purple Heron
+</p>
+
 <img src="{{ site.baseurl }}/img/2015-10-24/Brahminy_Kite_Madiwala_Lake16.JPG" alt="Brahminy Kite, Madiwala Lake, Bangalore">
+
+<p>
+Brahminy Kite
+</p>
 
 <strong>Location:</strong> Madiwala Lake can be easily located. It is near to BTM layout, before Central Silk Board.<br>
 <strong>Park Timings:</strong> 6:30 AM to 11:00 AM, 4:00 PM to 6 PM.<br>
