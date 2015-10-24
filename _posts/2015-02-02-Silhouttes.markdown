@@ -5,7 +5,7 @@ subtitle:   "Silhouettes can be a best way to add drama to the scene. We’ll lo
 author:     "Kesava Murthy"
 header-img: "img/2015-02-02/masai_mara.jpg"
 tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks"]
-seo:		["Africa", "BigCats"]
+seo:		["Africa", "BigCats", "Bangalore"]
 comments:   true
 ---
 

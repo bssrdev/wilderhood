@@ -4,6 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 5"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-08-31/SouthernCoucal-thumb.jpg"
+tags:       ["Bangalore Wildlife"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-08-31/SouthernCoucal.jpg"

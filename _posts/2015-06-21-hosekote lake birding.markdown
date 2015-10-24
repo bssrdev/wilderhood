@@ -5,7 +5,7 @@ subtitle:   "Hosekote Lake"
 author:     "Vinodh Ve"
 header-img: "img/2015-06-21/Hosekote1.jpg"
 tags:       ["Wildlife Destinations", "Birding Destinations", "Hosekote"]
-seo:		["Birding Destinations"]
+seo:		["Birding Destinations", "Bangalore"]
 comments:   true
 ---
 

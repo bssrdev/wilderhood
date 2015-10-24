@@ -4,6 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 8"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-09-21/Grey-Heron_Prasad-Natarajan-thumb.jpg"
+tags:       ["Bangalore Wildlife"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-09-21/Grey-Heron_Prasad-Natarajan.jpg"
