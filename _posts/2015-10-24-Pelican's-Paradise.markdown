@@ -98,19 +98,19 @@ Darter Roosting
 <img src="{{ site.baseurl }}/img/2015-10-24/Grey_Heron__Madiwala_Lake10.JPG" alt="Grey Heron, Madiwala Lake, Bangalore">
 
 <p>
-Grey Heron
+<a href="{{ site.baseurl }}/wildart/2015-09-21-GreyHeron.html"> Grey Heron</a>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Grey_Heron__Madiwala_Lake11.JPG" alt="Grey Heron, Madiwala Lake, Bangalore">
 
 <p>
-Grey Heron
+<a href="{{ site.baseurl }}/wildart/2015-09-21-GreyHeron.html"> Grey Heron</a>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Little_Cormorant_Madiwala_Lake12.JPG" alt="Little Cormorant, Madiwala Lake, Bangalore">
 
 <p>
-Little Cormorant
+<a href="{{ site.baseurl }}/wildart/2015-09-07-LittleCormorant.html"> Little Cormorant</a>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Greater_Cormorant_Madiwala_Lake13.JPG" alt="Greater Cormorant, Madiwala Lake, Bangalore">
@@ -128,7 +128,7 @@ Painted Stork
 <img src="{{ site.baseurl }}/img/2015-10-24/Purple_heron_Madiwala_Lake15.JPG" alt="Purple Heron with little cormorant, a perspective shot, Madiwala Lake, Bangalore">
 
 <p>
-Purple Heron with little cormorant, a perspective shot
+Purple Heron with <a href="{{ site.baseurl }}/wildart/2015-09-07-LittleCormorant.html">Little cormorant</a>, a perspective shot
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-10-24/Brahminy_Kite_Madiwala_Lake16.JPG" alt="Brahminy Kite on the perch, Madiwala Lake, Bangalore">
