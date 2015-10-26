@@ -85,7 +85,7 @@ If you are travelling during monsoon: carry rain gear, gum boots or water-resist
 </p>
 
 <p>
-Kālinga Centre for Rainforest Ecology: for information and to check availability contact the Director at info@rainforestecology.com
+<a href="http://www.wilderhood.com/accommodation/Kalinga%20Centre%20for%20Rainforest%20Ecology" target="_blank">Kālinga Centre for Rainforest Ecology</a>: for information and to check availability contact the Director <em>info@rainforestecology.com</em>
 </p>
 
 <p>
@@ -94,6 +94,8 @@ Mallya Residency
 Hingaara Homestay
 </p>
 
+<h3>Note:</h3> 
 <p>
-<h3>Note:</h3> Avoid carrying and discarding any form of plastic in the village/forest/ghats. Carry plastic covers only to bring your damp clothes and shoes back.
+Avoid carrying and discarding any form of plastic in the village/forest/ghats. Carry plastic covers only to bring your damp clothes and shoes back.
 </p>
+
