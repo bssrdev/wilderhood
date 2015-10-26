@@ -4,6 +4,7 @@ title:      "Wildlife week"
 subtitle:   "Day 5: Feral cattle"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-06/Image_05_Goolittitu_Prasad_Natarajan_thumb.jpg"
+tags:       ["Birding Destinations", "Ranganathittu"]
 seo: 		["Ranganathittu", "Birding Destinations", "wildlifeweek"]
 comments:   true
 sharing-img: "img/2015-10-06/Image_05_Goolittitu_Prasad_Natarajan.jpg"

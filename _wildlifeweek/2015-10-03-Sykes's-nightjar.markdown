@@ -4,6 +4,7 @@ title:      "Wildlife week"
 subtitle:   "Day 2: Sykes's nightjar"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-03/Image 02 Sykes's nightjar_thumb.jpg"
+tags:       ["Birding Destinations", "LRK"]
 seo: 		["Kutch", "Mammal Destinations", "Birding Destinations", "wildlifeweek"]
 comments:   true
 sharing-img: "img/2015-10-03/Image 02 Sykes's nightjar_Prasad Natarajan.jpg"

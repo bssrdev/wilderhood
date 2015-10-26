@@ -4,6 +4,7 @@ title:      "Wildlife week"
 subtitle:   "Day 1: Indian Desert Jird"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-02/India-Desert-Jird_Prasad-Natarajan-thumb.jpg"
+tags:       ["Birding Destinations", "GRK"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-10-02/India-Desert-Jird_Prasad-Natarajan.jpg"
