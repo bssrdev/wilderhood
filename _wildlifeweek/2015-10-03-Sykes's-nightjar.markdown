@@ -3,15 +3,15 @@ layout:     post
 title:      "Wildlife week"
 subtitle:   "Day 2: Sykes's nightjar"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2015-10-03/Image 02 Sykes's nightjar_thumb.jpg"
+header-thumb-img: "img/2015-10-03/Sykes's_nightjar_thumb.jpg"
 tags:       ["Birding Destinations", "LRK"]
 seo: 		["Kutch", "Mammal Destinations", "Birding Destinations", "wildlifeweek"]
 comments:   true
-sharing-img: "img/2015-10-03/Image 02 Sykes's nightjar_Prasad Natarajan.jpg"
+sharing-img: "img/2015-10-03/Sykes's_nightjar_Prasad_Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-10-03/Image 02 Sykes's nightjar_Prasad Natarajan.jpg" alt="Sykes's Nightjar, Little Rann of Kutch, Wildlife week wild encounters by Prasad Natarajan">
+<img src="{{ site.baseurl }}/img/2015-10-03/Sykes's_nightjar_Prasad_Natarajan.jpg" alt="Sykes's Nightjar, Little Rann of Kutch, Wildlife week wild encounters by Prasad Natarajan">
 
 <p>
 A few Wildlife Reserves allow night trails and it is great to go on night trails. That is when we will be able to observe predatory behaviors of many mammals. At <a href="http://www.wilderhood.com/destination/Kutch">Little Rann of Kutch!</a></p> 
