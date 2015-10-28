@@ -138,6 +138,5 @@ Am sure anyone who visits Nandi hills would enjoy both scenic beauty and bird wa
 <strong>Genre:</strong> Hill station<br>
 <strong>Best time to visit:</strong> Throughout the year<br>
 <strong>Nearby tourism places:</strong> Bhoga Nandeeshwara temple, Ghati Subramanya temple.<br>
-<style type="text/css">a {text-decoration: none}</style>
-<strong>Ebird checklist:</strong><a href="http://ebird.org/ebird/view/checklist?subID=S2401693" target="_blank" style="text-decoration: none"><em> Click Here </em></a><br>
-<strong>More photos on flickr:</strong><a href="https://www.flickr.com/photos/79335872@N06/sets/72157654584749358" target="_blank" style="text-decoration: none"><em> Click Here </em></a>
+<strong>Ebird checklist:</strong><a href="http://ebird.org/ebird/view/checklist?subID=S2401693" target="_blank"><em>Click Here</em></a><br>
+<strong>More photos on flickr:</strong><a href="https://www.flickr.com/photos/79335872@N06/sets/72157654584749358" target="_blank"><em>Click Here</em></a>
