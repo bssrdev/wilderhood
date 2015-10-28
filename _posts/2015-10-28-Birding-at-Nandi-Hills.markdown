@@ -14,7 +14,7 @@ Birding in Nandi hills is always fun, and if it's with Deepa Mohan birds would t
 </p>
 
 <p>
-I thoroughly enjoyed the dance of Indian Blue Robin, APFC, rock thrushes and many more. My lifer list started growing as I had not seen some of the beauties in the past.
+I thoroughly enjoyed the dance of Indian Blue Robin, Asian Paradise Flycather (APFC), rock thrushes and many more. My lifer list started growing as I had not seen some of the beauties in the past.
 </p>
 
 
