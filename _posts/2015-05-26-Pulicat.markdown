@@ -10,9 +10,9 @@ header-img: "img/2015-05-26/Pulicat1.jpg"
 ---
 
 
-<h1>
+<h3>
 ABOUT THE LOCATION
-</h1>
+</h3>
 
 
 <p>
@@ -21,9 +21,9 @@ Pulicat lake is the second largest back water lake in India. The lake area is sh
 
 <img src="{{ site.baseurl }}/img/2015-05-26/Pulicat2.jpg"  alt="Flamingo, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
 
-<h1>
+<h3>
 SIGHTINGS
-</h1>
+</h3>
 
 <p>
 The lake area where sightings are observed are basically in two specific locations. One side is predominantly Flamingo, White Bellied sea eagle (WBSE). We also found Black tailed godwits and Pacific golden plovers in this location. Early morning light and good flock of Flamingos are the best subjects to shoot in mornings. We were lucky to have multiple sightings of the WBSE. Once we are finished shooting Flamingos and WBSE we moved towards Plovers, Sanderlings, Sandpipers, Ruddy Turnstone and Wimbrel.

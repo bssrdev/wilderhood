@@ -10,9 +10,9 @@ header-img: "img/2015-05-20/Desert_national_park.jpg"
 ---
 
 
-<h1>
+<h3>
 INTRODUCTION
-</h1>
+</h3>
 
 
 <p>
@@ -23,9 +23,9 @@ This year on the day of New year we decided to visit Desert National Park. This 
 Of all the trips, I have done in Year 2014, I rate this trip as best mainly due to its sightings, stay, location etc
 </p>
 
-<h1>
+<h3>
 DARSHAN OF DESERT CAT
-</h1>
+</h3>
 
 <p>
 Tired from the journey, we decided to do safari around the park. We were not sure what was in for us! As the light was falling, we saw something moving and I pointed it to our guide cum driver and it was <em>Desert Cat</em>. 
@@ -38,9 +38,9 @@ My friend got excited and we asked the driver to search, after some time we foun
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_desert_cat1.jpg" alt="Desert Cat, DNP, Rajasthan">
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_desert_cat2.jpg" alt="Desert Cat, DNP, Rajasthan">
 
-<h1>
+<h3>
 IN SEARCH OF GIB
-</h1>
+</h3>
 
 <p>
 One of the most critically endangered bird, the Great Indian Bustard (GIB) is only 250 in number as per 2011 census. The loss in habitat and hunting has brought the birds to such a low numbers. Efforts are on to save the remaining birds and to increase the number. One of the important area of protection is Desert National Park. There is a special fenced canopy where live stock grazing is prohibited and it is here we have chances to sight GIB. One has to hire camel cart to go inside the canopy and if lucky we have chance to see GIB. There are also times when bird is seen outside the canopy area in surroundings. We had sighting of this bird twice and were able to get some decent images of the bird.
@@ -49,9 +49,9 @@ One of the most critically endangered bird, the Great Indian Bustard (GIB) is on
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Great_Indian_Bustard4.jpg" alt="Great Indian Bustard, DNP, Rajasthan">
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Great_Indian_Bustard3.jpg" alt="Great Indian Bustard, DNP, Rajasthan">
 
-<h1>
+<h3>
 REGULAR SPOTTER - DESERT FOX
-</h1>
+</h3>
 
 <p>
 One of the regular spotted animal was Desert Fox. We had almost more than 10 encounters with this. It started with the 1st day and was constantly spotted on till the last day. Every fox we stopped, to see if it was Indian fox and it turned out to be Desert fox. I joked to my friend that we might see a fox in the sand dunes close to our tent in the moon light and it turned out that a fox was seen walking, for few minutes we both thought we were hallucinating but when we went to dunes, we could see the pug marks of the fox which confirmed our sighting. Later our guide also confirmed that they have seen fox in the dunes previously.
@@ -62,9 +62,9 @@ One of the regular spotted animal was Desert Fox. We had almost more than 10 enc
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox7.jpg" alt="Desert Fox, DNP, Rajasthan">
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox8.jpg" alt="Desert Fox, DNP, Rajasthan">
 
-<h1>
+<h3>
 THE EVER ELUSIVE INDIAN FOX
-</h1>
+</h3>
 
 <p>
 Like Desert Fox, Indian fox was not very cooperative, from a very far off distance from us it would run away. We had in total 5 sightings and could get only 1 shot of this. It gave some 10 sec glance at me and was able to click one shot (luckily my camera cooperated). May be in next visit to DNP they would be more cooperative I guess.
@@ -72,9 +72,9 @@ Like Desert Fox, Indian fox was not very cooperative, from a very far off distan
 
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Indian_Fox9.jpg" alt="Indian Fox, DNP, Rajasthan">
 
-<h1>
+<h3>
 VULTURES
-</h1>
+</h3>
 
 <p>
 We had sightings of the vultures in different locations. Highlight was obviously the King Vulture both male and female in one frame in the early morning hours.
@@ -86,9 +86,9 @@ We had sightings of the vultures in different locations. Highlight was obviously
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg" alt="Vultures, DNP, Rajasthan">
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg" alt="Vultures, DNP, Rajasthan">
 
-<h1>
+<h3>
 OTHER SIGHTINGS
-</h1>
+</h3>
 
 <p>
 Other sightings we had was Laggar Falcon, Cream Courser and Tawny Eagle.
@@ -99,9 +99,9 @@ Other sightings we had was Laggar Falcon, Cream Courser and Tawny Eagle.
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg" alt="Tawny Eagle, DNP, Rajasthan">
 <img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg" alt="Tawny Eagle, DNP, Rajasthan">
 
-<h1>
+<h3>
 NIGHT LIFE
-</h1>
+</h3>
 
 <p>
 After a long tiring day in the safari, in the evening we had traditional Rajasthani folk and dance performance from the local Manganiar community. We were entertained to some traditional songs and some songs which have been adapted to Bollywood movies along with the traditional dance. Night walk in the sand were also a possibility which we explored. In the end, I would like to say this is one such place people have to visit either you can be a wild-life photographer or a common person who want to take a relaxed trip. Both have something which they can take back from the trip.
