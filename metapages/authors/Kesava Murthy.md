@@ -8,7 +8,7 @@ web: http://birdwing.in
 email: register@birdwing.in
 bio: "Kesavamurthy is a Bangalore based naturalist and wildlife Photographer.
 He runs a Travel & Photography outfit with the name derived from the beautiful butterfly Birdwing (birdwing.in)"
-avatar: Kesava.jpg
+avatar: Kesava_Murthy.jpg
 twitter: 
 googleplus:
 linkedin:

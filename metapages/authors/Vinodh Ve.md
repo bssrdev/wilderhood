@@ -7,7 +7,7 @@ permalink: authors/Vinodh Ve/
 web: http://vvlikes.blogspot.in/
 email: vvinod1@gmail.com
 bio: "Nature Lover, Aspiring Naturalist, Nature Photographer, Blogger, and avid traveller based in Bangalore, India"
-avatar: Vinodh.jpg
+avatar: Vinodh_Ve.jpg
 twitter: 
 googleplus:
 linkedin:

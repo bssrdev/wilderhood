@@ -7,7 +7,7 @@ permalink: authors/Ashwini V Mohan/
 web: http://wilderhood.com
 email: contact@wilderhood.com
 bio: "an environmental & ecology science grad, nature lover and loves traveling"
-avatar: ashwini.jpg
+avatar: ashwini_v_mohan.jpg
 twitter: 
 googleplus:
 linkedin:

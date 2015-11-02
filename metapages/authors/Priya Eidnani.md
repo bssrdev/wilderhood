@@ -7,7 +7,7 @@ permalink: authors/Priya Eidnani/
 web: http://wilderhood.com
 email: contact@wilderhood.com
 bio: "Captain by Profession, Traveller by Passion ;)!!!"
-avatar: Priya.jpg
+avatar: Priya_Eidnani.jpg
 twitter: 
 googleplus:
 linkedin:

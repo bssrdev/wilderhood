@@ -7,7 +7,7 @@ permalink: authors/Shilpa Avate/
 web: http://wilderhood.com
 email: contact@wilderhood.com
 bio: "Trained dancer, Avid Traveller, explorer, herp lover, Birdie ....."
-avatar: Shilpa.jpg
+avatar: Shilpa_Avate.jpg
 twitter: 
 googleplus:
 linkedin:

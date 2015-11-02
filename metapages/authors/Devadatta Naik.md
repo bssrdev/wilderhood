@@ -11,7 +11,7 @@ bio: "Devadatta Naik, is a committed field ecologist widely known in conservatio
 He has to his credit, the distinction of being one of the first to work on a project for Radio Telemetry on the King Cobra, the largest venomous snake of the world and has been a team member in Herpetofauna survey projects in Maharashtra, Arunachal Pradesh, Goa and Karnataka. In August 2012 he was invited by New Mexico Department of Game & Fish, USA to work as field assistant on various projects related to herpetology.
 
 He is a member of various wildlife NGO’s like WWF India and Bombay Natural History Society and networks like the Western Ghats Action group, etc Devadatta, is also a research affiliate to the Mhadei Research center, Goa."
-avatar: dev.jpg
+avatar: Devadatta_Naik.jpg
 twitter:
 googleplus: 
 linkedin: 

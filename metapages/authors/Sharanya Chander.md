@@ -7,7 +7,7 @@ permalink: authors/Sharanya Chander/
 web: http://wilderhood.com
 email: contact@wilderhood.com
 bio: "an outdoor photographer (specializing in fashion and interior photography), Wildlife enthusiast and avid traveller"
-avatar: Sharanya.jpg
+avatar: Sharanya_Chander.jpg
 twitter: 
 googleplus:
 linkedin:

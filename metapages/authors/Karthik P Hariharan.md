@@ -7,7 +7,7 @@ permalink: authors/Karthik P Hariharan/
 web: http://wilderhood.com
 email: contact@wilderhood.com
 bio: "Nature Lover, Wildlife Photographer, avid traveller based in Bangalore, India"
-avatar: Karthik.jpg
+avatar: Karthik_P_Hariharan.jpg
 twitter: 
 googleplus:
 linkedin:
