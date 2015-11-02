@@ -1,12 +1,12 @@
 ---
 layout: blog_by_author
-author_name: Shivakumar L Narayan
-title: Shivakumar L Narayan
-subtitle: Shivakumar L Narayan
-permalink: authors/Shivakumar L Narayan/
+author_name: Ashwini Kumar Bhat
+title: Ashwini Kumar Bhat
+subtitle: Ashwini Kumar Bhat
+permalink: authors/Ashwini Kumar Bhat/
 web: http://www.landscape-wizards.com/
 bio: "Part of team of dedicated nature photographers (landscape-wizards) who specialize in making landscape images, in the hope of immortalizing some of the nature's best visuals."
-avatar: shivakumar_L_Narayan.jpg
+avatar: Ashwini_Kumar_Bhat.jpg
 twitter: 
 googleplus:
 linkedin:
