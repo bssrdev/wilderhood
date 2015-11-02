@@ -26,7 +26,7 @@ This lake was once part of the bird survey; it had sandpipers, plovers, swamphen
 </p>
 
 <p>
-Any guesses? Yes, they are frugivorous meaning they mainly fed on fruits. Well, White cheeked barbet (<em>Megalaima viridis</em>) is our bird of this week. They occasionally feed on the insects from the vegetable farms as well. There are couple big Gulmohur trees close to this plantation where they have dug-up their nests. Farmers at this guava plantation let these barbets feed on the ripe fruits, since they don’t sell the ripe ones and off-course these barbets also feed on the insects at the neighboring farm. It’s a great way to co-exist, isn’t it? These birds also act as great seed dispersers for the farmers. 
+Any guesses? Yes, they are frugivorous meaning they mainly fed on fruits. Well, White cheeked barbet (<em>Megalaima viridis</em>) is our bird of this week. They occasionally feed on the insects from the vegetable farms as well. There are couple of big Gulmohur trees close to this plantation where they have dug-up their nests. Farmers at this guava plantation let these barbets feed on the ripe fruits, since they don’t sell the ripe ones and off-course these barbets also feed on the insects at the neighboring farm. It’s a great way to co-exist, isn’t it? These birds also act as great seed dispersers for the farmers. 
 </p>
 
 <p>
