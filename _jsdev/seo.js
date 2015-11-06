@@ -81,6 +81,8 @@
 	adList.push({link: urlPrefix + "Masai Mara Migration", image: "Sudhir/Trip/Maara/Maara.jpg", text: "Masai Mara Migration", keywords: ["Masai Mara", "African Destinations", "Tiger Destinations", "Landscape Destinations"], months: ["Oct", "Nov","Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});		
 	adList.push({link: urlPrefix + "Kaziranga Tiger Reserve", image: "Sudhir/Trip/Kaziranga/Kaziranga_photography1.jpg", text: "Kaziranga Tiger Reserve", keywords: ["Kaziranga", "Mammal Destinations", "Tiger Destinations"], months: ["Oct", "Nov","Dec", "Jan", "Feb", "Mar", "Apr", "May"]});		
 	adList.push({link: urlPrefix + "LITTLE RANN OF KUTCH - BIKENHIKE", image: "BikeNHike/Trip/Little_Rann_of_Kutch/Little_Rann_of_Kutch_photography1.jpg", text: "LITTLE RANN OF KUTCH - BIKENHIKE", keywords: ["LRK", "Kutch", "Birding Destinations"], months: ["Oct", "Nov"]});		
+	adList.push({link: urlPrefix + "Ranthambhore Wild Wonders - April 2016", image: "Sudhir/Trip/Ranthambore/Ranthambore.jpg", text: "Ranthambhore Wild Wonders - April 2016", keywords: ["Ranthambore", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]});		
+	adList.push({link: urlPrefix + "The land Of The Roar and Trumpet - Corbett", image: "BeyondRoads/Trip/Corbett/Corbett.jpg", text: "The land Of The Roar and Trumpet - Corbett", keywords: ["Corbett", "Tiger Destinations"], months: ["Oct", "Nov", "Dec"]});		
 	
 	
 	//Accommodation properties
@@ -109,6 +111,11 @@
 	adList.push({link: urlPrefix + "Wildernest Nature Resorts", image: "Accommodation/Wildernest_Nature_Resorts/Wildernest_Nature_Resorts1.jpg", text: "Wildernest Nature Resorts", keywords: ["Chorla Ghats", "Goa", "Monsoon Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	adList.push({link: urlPrefix + "Nature Nest", image: "Accommodation/Nature_Nest/Nature_Nest1.jpg", text: "Nature Nest", keywords: ["Chorla Ghats", "Goa", "Monsoon Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	adList.push({link: urlPrefix + "Swapnagandha", image: "Accommodation/Swapnagandha/Swapnagandha1.jpg", text: "Swapnagandha", keywords: ["Chorla Ghats", "Goa", "Monsoon Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	adList.push({link: urlPrefix + "Honey Valley", image: "Accommodation/Honey_Valley/Honey_Valley.jpg", text: "Honey Valley", keywords: ["Coorg"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	adList.push({link: urlPrefix + "Chingaara", image: "Accommodation/Chingaara/Chingaara.jpg", text: "Chingaara", keywords: ["Coorg"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	adList.push({link: urlPrefix + "Nature Herritage", image: "Accommodation/Nature_Herritage/Nature_Herritage.jpg", text: "Nature Herritage", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	adList.push({link: urlPrefix + "Tiger Den Resort", image: "Accommodation/Tiger_Den_Resort/Tiger_Den_Resort.jpg", text: "Tiger Den Resort", keywords: ["Bandhavgarh", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
+	adList.push({link: urlPrefix + "Svasvara", image: "Accommodation/Svasvara/Svasvara.jpg", text: "Svasvara", keywords: ["Tadoba", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	
 
 	var sponsoredList = [];
