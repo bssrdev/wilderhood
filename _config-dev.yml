@@ -39,6 +39,9 @@ collections:
     output: true
   wildlifeweek:
     output: true
+  MajesticStripes:
+    output: true
+
 
 gems:
   - jekyll-sitemap
