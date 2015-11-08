@@ -3,7 +3,7 @@ layout:     post
 title:      "Majestic Stripes"
 subtitle:   "Tiger from Kanha"
 author:     "Jagadeesh Rampam"
-header-thumb-img: "img/2015-08-11/Tiger-Kanha-thumb.jpg"
+header-thumb-img: "img/2015-11-08/Tiger-Kanha-thumb.jpg"
 tags:       ["Tiger Destinations", "Tiger Encounters"]
 seo: 		["Tiger Destinations", "Kanha"]
 comments:   true
