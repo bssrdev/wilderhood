@@ -4,7 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 13"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-11-02/WhiteCheekedBarbet_Prasad-Natarajan-thumb.jpg"
-tags:       ["Bangalore Wildlife"]
+tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-11-02/WhiteCheekedBarbet_Prasad-Natarajan.jpg"

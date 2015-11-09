@@ -4,7 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 14"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-11-09/White-Throated-Kingfisher-Prasad-Natarajan-thumb.jpg"
-tags:       ["Bangalore Wildlife"]
+tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-11-09/White-Throated-Kingfisher-Prasad-Natarajan.jpg"
@@ -17,7 +17,7 @@ sharing-img: "img/2015-11-09/White-Throated-Kingfisher-Prasad-Natarajan.jpg"
 Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">birds of Bangalore</a>,during my visit to <a href="http://www.wilderhood.com/destination/Ranganathittu" target="_blank">Ranganathittu Bird Sanctuary</a> got to watch our bird of this week at close distance. Boat safari is an excellent way to get close to birds and watch their behavior.
 </p>
 
-<p>Last week on an early morning walk at Cubbon park, I heard calls of barbets, flowerpeckers,  koels and sunbirds. Near the pond area, I found the oriental magpie robin singing to glory, so did the tickell’s blue, black kite soaring across the pond is such a pleasant sight to the eye. Suddenly at one of the dustbin I heard a call chake-ake-ake, it’s a familiar call however didn’t expect it coming from a dustbin.
+<p>Last week on an early morning walk at Cubbon park, I heard calls of barbets, flowerpeckers,  koels and sunbirds. Near the pond area, I found the oriental magpie robin singing to glory, so did the tickell’s blue, black kite soaring across the pond is such a pleasant sight to the eye. Suddenly at one of the dustbin I heard a call <em>chake-ake-ake</em>, it’s a familiar call however didn’t expect it coming from a dustbin.
 </p>
 
 <p>Our bird of this week was looking for worms and other insects there!
