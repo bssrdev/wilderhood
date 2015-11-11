@@ -6,7 +6,7 @@ author:     "Kiran Kashyap"
 tags:       ["Birding Destinations", "Bangalore Wildlife"]
 seo:		["Birding Destinations", "Bangalore"]
 comments:   true
-header-img: "img/2015-10-28/Puff_Throated_Babbler_Nandi_Hills.JPG"
+header-img: "img/2015-10-28/Puff_Throated_Babbler_Nandi Hills.jpg"
 ---
 
 <p>

@@ -6,7 +6,7 @@ author:     "Adithi Muralidhar"
 tags:       ["Landscape Destinations", "Monsoon Destinations", "Macro Life", "Reptiles", "Wildlife Destinations"]
 seo:		["Monsoon Destinations", "Landscape Destinations", "WesternGhats", "Reptiles", "TheCamp"]
 comments:   true
-header-img: "img/2015-10-14/TheCamp-view.JPG"
+header-img: "img/2015-10-14/The Camp-view.jpg"
 ---
 
 <p>My fourth visit in the last 10 months, and I still cannot get enough of The Camp. Located in Palsambe, which is about 50kms from Kolhapur city, <a href="http://www.wilderhood.com/accommodation/The%20Camp" target="_blank">The Camp</a> is great place to rejuvenate yourself physically and mentally. The campsite is surrounded by lush green fields, deciduous forests and small-altitude hills.</p>
