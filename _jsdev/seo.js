@@ -1,6 +1,6 @@
 (function()
 {
-	var numAdsToDisplay = 10;
+	var numRecommendedAdsToDisplay = 10;
 	
 	var adList = [];
 	var urlPrefix = "http://www.wilderhood.com/trip/";
@@ -119,6 +119,7 @@
 	adList.push({link: urlPrefix + "Svasvara", image: "Accommodation/Svasvara/Svasvara.jpg", text: "Svasvara", keywords: ["Tadoba", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	
 
+	var numSponsoredAdsToDisplay = 2;
 	var sponsoredList = [];
 	sponsoredList.push({link: "http://bit.ly/wolfpackstore", image: "wolfpack.jpeg", text: "Wolfpack T-shirt: Feel Leopard on you", keywords: ["Kabini", "BigCats"]});
 	sponsoredList.push({link: "http://bit.ly/wolfpackstore", image: "croc.jpeg", text: "Wolfpack T-shirt: Welcome to Croc Country", keywords: ["Monsoon Destinations", "Reptiles"]});
@@ -315,11 +316,11 @@
 		}
 	
 		var filteredDataList = getPriorityListSorted(priorityList);	//we got priority based shuffled list
-		var newList = filteredDataList.slice(0, numAdsToDisplay);
-		if(newList.length < numAdsToDisplay)
+		var newList = filteredDataList.slice(0, numRecommendedAdsToDisplay);
+		if(newList.length < numRecommendedAdsToDisplay)
 		{
 			var excludedDataList = getExcludedListFromPriorityList(dataList, priorityList);
-			newList = newList.concat(shuffleArray(excludedDataList).slice(0, numAdsToDisplay - newList.length));
+			newList = newList.concat(shuffleArray(excludedDataList).slice(0, numRecommendedAdsToDisplay - newList.length));
 		}
 	
 		return newList;
@@ -341,7 +342,7 @@
 		var compiledTemplate = Hogan.compile(template);
 		
 		//randomize and pick first six
-		var randomizedSponsoredList = shuffleArray(sponsoredList).slice(0, numAdsToDisplay);
+		var randomizedSponsoredList = shuffleArray(sponsoredList).slice(0, numSponsoredAdsToDisplay);
 		var randomizedAdList = filterListByKeywords(filterListByMonths(adList, currentDate), seoKeywords);
 	
 		var fragment = document.createDocumentFragment();
