@@ -13,7 +13,7 @@ Based at Agumbe and focus primarily on studying and conserving King Cobras. Have
 Have worked for several wildlife documentaries behind screen, and featured along side Rom Whitaker in couple of  wildlife documentaries, ‘The King and I’,  ‘Secrets of the King Cobra ‘, ‘Asia’s Deadliest Snake’ , ‘One Million Snake Bites’ and ‘Wildest India’ by BBC, National Geographic Channel, Nat Geo Wild and Discovery channel respectively.
 
 Apart from rescuing over hundred king cobras from distress situations I have collected vital scientific data which has led to new insights into the life of a King Cobra. Interests include in studying the ecology, breeding biology, and conservation biology of King Cobras. Also find it very important and satisfying in reaching out to masses through education programs!!!"
-avatar: GowriShankar.jpg
+avatar: Gowri Shankar.jpg
 twitter: 
 googleplus:
 linkedin:

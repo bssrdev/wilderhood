@@ -7,7 +7,7 @@ permalink: authors/Kiran Kashyap/
 web: http://kiranvrb.blogspot.in
 email: kiranvrb@gmail.com
 bio: "Nature Lover, Wildlife Photographer, avid traveller based in Bangalore, India"
-avatar: Kiran_Kashyap.JPG
+avatar: Kiran Kashyap.JPG
 twitter: 
 googleplus:
 linkedin:

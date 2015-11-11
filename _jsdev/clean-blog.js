@@ -9,7 +9,7 @@ $(function() {
     $("[data-toggle='tooltip']").tooltip();
 
 	//make all images responsive
-	$("img").addClass("img-responsive")
+	$("article img").addClass("img-responsive");
 });
 
 // Navigation Scripts to Show Header on Scroll-Up
@@ -54,11 +54,11 @@ jQuery(document).ready(function($) {
 //scroll to first post
 $(document).ready(function(){
 
-	setTimeout(function(){
+	/*setTimeout(function(){
 		var $firstPost = $($(".post-preview").get(0));
 		if($firstPost.length && window.scrollY == 0)
 			$("header").next().goTo()
-	}, 1000);
+	}, 1000);*/
 
 	//resizable iframes
 	$(".w-content iframe").wrap("<div class='aspect-video'></div>")

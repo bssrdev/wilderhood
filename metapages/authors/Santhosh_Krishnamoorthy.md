@@ -7,7 +7,7 @@ permalink: authors/Santhosh Krishnamoorthy/
 web: http://framesofnature.com
 email: santhosh.kris@gmail.com
 bio: "Nature Lover, Aspiring Naturalist, Nature Photographer, Blogger, based in Bangalore, India"
-avatar: Santhosh_Krishnamoorthy.jpg
+avatar: Santhosh Krishnamoorthy.jpg
 twitter: santhoshk
 googleplus:
 linkedin:

@@ -7,7 +7,7 @@ permalink: authors/Dinesh Balakrishnan/
 web: 
 email: 
 bio: "An avid traveller, wildlife enthusiast, Nature Lover, Cartoonist based in Bangalore, India"
-avatar: Dinesh_Balakrishnan.jpg
+avatar: Dinesh Balakrishnan.jpg
 twitter:
 googleplus: 
 linkedin: 

@@ -7,7 +7,7 @@ permalink: authors/Bharath Hegde/
 web: http://lifeiswild.in
 email: 
 bio: "Nature Lover, Aspiring Naturalist, Nature Photographer, Blogger, based in Bangalore, India"
-avatar: Bharath_Hegde.jpg
+avatar: Bharath Hegde.jpg
 twitter: 
 googleplus:
 linkedin:

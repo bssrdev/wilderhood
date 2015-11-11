@@ -2,13 +2,32 @@
 layout: page
 ads:    true
 disable_sharing: true
-header-img: "img/home-bg.jpg"
 ---
 <div itemscope itemtype="http://schema.org/Blog">
 {% for post in paginator.posts %}
 <div class="post-preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<meta itemprop='image' content="{{site.url}}{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+
+	<a href="{{ post.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">
+		<img class="preview-author-image" src="{{  post.author | append: '.jpg' | prepend:'small_' | prepend:'/img/' | prepend: site.baseurl | replace: '//', '/' }}">
+		<div class="preview-author-details">
+			<div class="preview-author-name" itemprop='author'>{{ post.author }}</div>
+			<time class="preview-published-time" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+		</div>
+	</a>
+
     <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">
+		{% if post.header-img %}
+			{% assign imgURLParts = post.header-img | split: '/' %}
+			{% assign imgURL = '' %}
+			{% for item in imgURLParts %}
+				{% if forloop.last %}
+					{% assign imgURL = item | prepend:'/banner_' | prepend:imgURL %}
+				{% else %}
+					{% assign imgURL = imgURL | append:'/' | append:item %}
+				{% endif %}
+			{% endfor %}
+			<img itemprop='image' class="preview-post-image" src="{{ imgURL }}">
+		{% endif %}
         <h2 class="post-title" itemprop="name">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
@@ -17,7 +36,6 @@ header-img: "img/home-bg.jpg"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by <span itemprop='author'><a href="{{ post.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">{{ post.author }}</a></span> on <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 </div>
 <hr>
 {% endfor %}

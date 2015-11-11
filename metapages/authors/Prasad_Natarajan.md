@@ -7,7 +7,7 @@ permalink: authors/Prasad Natarajan/
 web: http://prasadnatarajan.blogspot.in/
 email: 
 bio: "Wildlife Artist, Nature Lover, Aspiring Naturalist, Nature Photographer, Blogger, based in Bangalore, India"
-avatar: Prasad_Natarajan.jpg
+avatar: Prasad Natarajan.jpg
 twitter: 
 googleplus:
 linkedin:

@@ -219,6 +219,8 @@ hr.small {
 }
 .intro-header-none {
   height: 60px;
+  /*border-bottom: 1px solid #e7e7e7;*/
+  margin-bottom: 5px;
 }
 .post-preview > a {
   color: #404040;
@@ -229,33 +231,23 @@ hr.small {
   color: #0085a1;
 }
 .post-preview > a > .post-title {
-  font-size: 30px;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  font-size: 27px;
+  margin-top: 21px;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: rgba(0,0,0,0.8);
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
-}
-.post-preview > .post-meta {
-  color: #808080;
   font-size: 18px;
-  font-style: italic;
-  margin-top: 0;
+   color: rgba(0,0,0,0.8);
 }
-.post-preview > .post-meta > a {
-  text-decoration: none;
-  color: #404040;
-}
-.post-preview > .post-meta > a:hover,
-.post-preview > .post-meta > a:focus {
-  color: #0085a1;
-  text-decoration: underline;
-}
+
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px;
+    font-size: 31px;
   }
 }
 .section-heading {
@@ -597,7 +589,6 @@ a {
 }
 .w-seo-text
 {
-    background: white;
     font-size: 12px;
 	padding-top: 2px;
 	padding-left: 5px;
@@ -722,4 +713,78 @@ a {
 	  height: 100%;
 	  left: 0; top: 0;
 	}
+}
+
+.preview-author-image
+{
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 100%;
+	background: #f0f0f0;
+	width: 36px;
+	height: 36px;
+}
+.preview-author-details
+{
+	display: inline-block;
+	padding-bottom: 10px;
+}
+.preview-post-image
+{
+	max-height: 400px;
+	object-fit: cover;
+	object-position: center;
+	display: block;
+	max-width: 100%;
+}
+.preview-post-image:hover, .preview-author-image:hover, .logo img:hover
+{
+	cursor: pointer;
+}
+.preview-published-time
+{
+	font-size: 12px;
+	color: rgba(0,0,0,0.6);
+}
+.preview-author-name
+{
+	font-size: 14px;
+	height: 11px;
+	color: #00ab6b;
+}
+.preview-author-name:hover
+{
+	color: #1c9963;
+}
+
+
+.post-preview > .post-meta {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}
+.post-preview > .post-meta > a {
+  text-decoration: none;
+  color: #404040;
+}
+.post-preview > .post-meta > a:hover,
+.post-preview > .post-meta > a:focus {
+  color: #0085a1;
+  text-decoration: underline;
+}
+
+.seo-holder-container
+{
+	background: #fefefe;
+}
+.logo>a
+{
+	display:inline-block;
+	padding-top: 10px;
+	text-decoration: none;
+}
+.logo>a:hover
+{
+	color: #404040;
 }

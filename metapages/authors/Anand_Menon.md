@@ -6,7 +6,7 @@ subtitle: Anand Menon
 permalink: authors/Anand Menon/
 email: chanakyanand@gmail.com
 bio: "Nature Lover, Aspiring Naturalist, Nature Photographer, based in Bangalore, India"
-avatar: Anand_Menon.jpg
+avatar: Anand Menon.jpg
 twitter:
 googleplus: 
 linkedin: 

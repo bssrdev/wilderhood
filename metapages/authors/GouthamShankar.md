@@ -7,7 +7,7 @@ permalink: authors/Goutham Shankar/
 web: http://bookmylens.com
 email: goutham@bookmylens.com
 bio: "Hobbyist photographer, Founder at bookmylens.com, based in Bangalore, India"
-avatar: GouthamShankar.jpg
+avatar: Goutham Shankar.jpg
 twitter: 
 googleplus:
 linkedin:

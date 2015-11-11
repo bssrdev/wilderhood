@@ -7,7 +7,7 @@ permalink: authors/Shreeram MV/
 web: http://darter.in
 email: shreeram@darter.in
 bio: "an outdoor photographer (specializing in wildlife and travel photography), photography mentor, traveller and naturalist based in Bangalore, India"
-avatar: Shreerammv.jpg
+avatar: Shreeram MV.jpg
 twitter: 
 googleplus:
 linkedin:
