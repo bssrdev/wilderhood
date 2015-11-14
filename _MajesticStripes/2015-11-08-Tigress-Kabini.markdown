@@ -24,9 +24,7 @@ After 5 safaris during November 2013, finally on my last Safari during my stay a
 <p>
 	<ul>
 		 <li>Title: <em>My First her Majesty in the wild</em></li>
-		 <li><em>Tiger Name</em></li>
-		 <li><em>Kanha National Park, Madhya Pradesh</em></li>
-		 <li><em>Further details.. if any!</em></li>
+		 <li>National Park: <em>Kanha National Park, Madhya Pradesh</em></li>
  	</ul>
 </p>
 
