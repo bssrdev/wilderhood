@@ -7,11 +7,11 @@ header-thumb-img: "img/2015-11-14/AsianKoelFemale_Prasad-Natarajan-thumb.jpg"
 tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-11-14/AsianKoelFemale_Prasad Natarajan.jpg"
+sharing-img: "img/2015-11-14/AsianKoelFemale_Prasad-Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-11-14/AsianKoelFemale_Prasad Natarajan.jpg" alt="Asian Koel Female, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 15">
+<img src="{{ site.baseurl }}/img/2015-11-14/AsianKoelFemale_Prasad-Natarajan.jpg" alt="Asian Koel Female, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 15">
 
 <p>
 Welcome back to another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">birds of Bangalore</a>, hope you all had a joyful and safe Diwali, many festive seasons are stressful times for birds and nature in overall. Everyday morning there are couple of songs from few birds I wake up to, however during few days of this festive season I didn't get to hear them. A vital part of my daily routine was gone missing and I wondered for those days how these birds would communicate with each other without chirping or singing. Could you imagine yourself not able to speak to your family due to a natural calamity, what pain, helpless and hopeless we could feel, isn't it?
