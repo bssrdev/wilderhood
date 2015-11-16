@@ -4,7 +4,7 @@ title:      "Tiger from Kanha - My first sighting!"
 subtitle:   "Tiger from Kanha"
 author:     "Jagadeesh Rampam"
 header-thumb-img: "img/2015-11-08/Tiger-Kanha-thumb.jpg"
-tags:       ["Tiger Destinations", "Tiger Encounters"]
+tags:       ["Tiger Destinations"]
 seo: 		["Tiger Destinations", "Kanha"]
 comments:   true
 sharing-img: "img/2015-11-08/Tiger-Kanha.jpg"
