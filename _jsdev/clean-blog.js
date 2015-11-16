@@ -10,6 +10,7 @@ $(function() {
 
 	//make all images responsive
 	$("article img").addClass("img-responsive");
+	$(".w-entity-images img").removeClass("img-responsive");
 });
 
 // Navigation Scripts to Show Header on Scroll-Up
@@ -70,6 +71,39 @@ $(document).ready(function(){
 			$(this).attr("title", $(this).attr("alt"));
 		}
    });
+
+	if($(".fancybox").length > 0)
+	{
+		$(".fancybox").fancybox({
+			openEffect  : 'elastic',
+			closeEffect : 'elastic',
+			helpers : {
+				title: {
+					type: 'inside'
+				}
+			},
+			beforeShow : function() {
+				var alt = this.element.find('img').attr('alt');
+				this.inner.find('img').attr('alt', alt);
+				this.title = alt;
+			}
+		});
+		$(".open_fancybox").click(function() {
+			var imageListObjectStr = $(this).data("fancybox");
+			$.fancybox.open(whood[imageListObjectStr] , {
+				padding : 15,
+				index: 3,
+				helpers : {
+					title: {
+						type: 'inside'
+					}
+				},
+				openEffect  : 'elastic',
+				closeEffect : 'elastic',
+			});
+		});
+	}
+
 });
 
 function loadjsfile(filename) {

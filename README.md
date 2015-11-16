@@ -47,3 +47,50 @@
 jekyll s -c _config-dev.yml --> To run development mode
 jekyll s --no-watch
 jekyll s --no-watch -c _config-dev.yml
+
+
+------------------------------------------------------------------------------------------
+Adding fancybox images
+
+Add the following in the post body:-
+	<div class="w-entity-images">
+	<a class="fancybox" rel="group1" href="http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography1.jpg">
+	<img class="w-small-image-preview" src="http://az741737.vo.msecnd.net/wilderhood-public/small/Toehold/Trip/Bandipur/Bandipur_photography1.jpg" alt="">
+	</a>
+	<a class="fancybox" rel="group1" href="http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography2.jpg">
+	<img class="w-small-image-preview" src="http://az741737.vo.msecnd.net/wilderhood-public/small/Toehold/Trip/Bandipur/Bandipur_photography2.jpg" alt="">
+	</a>
+	<a class="fancybox" rel="group1" href="http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography3.jpg">
+	<img class="w-small-image-preview" src="http://az741737.vo.msecnd.net/wilderhood-public/small/Toehold/Trip/Bandipur/Bandipur_photography3.jpg" alt="">
+	</a>
+	<a class="fancybox nodisplay" rel="group1" href="http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography4.jpg">
+	<img class="w-small-image-preview" src="http://az741737.vo.msecnd.net/wilderhood-public/small/Toehold/Trip/Bandipur/Bandipur_photography4.jpg" alt="">
+	</a>
+	<a class="fancybox nodisplay" rel="group1" href="http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography5.jpg">
+	<img class="w-small-image-preview" src="http://az741737.vo.msecnd.net/wilderhood-public/small/Toehold/Trip/Bandipur/Bandipur_photography5.jpg" alt="">
+	</a>
+	<a class="fancybox nodisplay" rel="group1" href="http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography6.jpg">
+	<img class="w-small-image-preview" src="http://az741737.vo.msecnd.net/wilderhood-public/small/Toehold/Trip/Bandipur/Bandipur_photography6.jpg" alt="">
+	</a>
+	<div class="w-small-image-preview-extra open_fancybox" data-fancybox="gFancyBoxImageList">
+	<span class="fa-stack">
+	<i class="fa fa-circle fa-stack-2x"></i>
+	<i class="fa fa-plus fa-stack-1x fa-inverse"></i>
+	</span>
+	</div>
+	</div>
+
+	<script>
+	var whood = whood || {};
+	whood.gFancyBoxImageList = [];
+	whood.gFancyBoxImageList.push({href: "http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography1.jpg", title: ""});
+	whood.gFancyBoxImageList.push({href: "http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography2.jpg", title: ""});
+	whood.gFancyBoxImageList.push({href: "http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography3.jpg", title: ""});
+	whood.gFancyBoxImageList.push({href: "http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography4.jpg", title: ""});
+	whood.gFancyBoxImageList.push({href: "http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography5.jpg", title: ""});
+	whood.gFancyBoxImageList.push({href: "http://az741737.vo.msecnd.net/wilderhood-public/large/Toehold/Trip/Bandipur/Bandipur_photography6.jpg", title: ""});
+	</script>
+
+Add the following in the post yaml front part section (variables in a post file):-
+needFancyBox: true
+------------------------------------------------------------------------------------------
