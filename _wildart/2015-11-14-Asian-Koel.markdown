@@ -30,7 +30,7 @@ Her diet is mainly fruits, given opportunity she will feed on insects, eggs of o
 </p>
 
 <p>
-Young ones mimick the call of crows, they also resemble crows, when crows are away female koel feeds her young ones. When they reach 3-4 weeks, young ones are ready to take flight, either they are chased out by the crows or fly away on their own. Young ones resemble the male koel for about 1 and half month and then the white patterns appear on the body for the females. They compete for space with Common Myna, Common House Crow, Southern Coucal, etc. Black kites in urban setup and other birds of prey fancy the koel in their diet. 
+Young ones mimick the call of crows, they also resemble crows, when crows are away female koel feeds her young ones. When they reach 3-4 weeks, young ones are ready to take flight, either they are chased out by the crows or fly away on their own. Young ones resemble the male koel for about 1 and half month and then the white patterns appear on the body for the females. They compete for space with <a href="{{ site.baseurl }}/wildart/2015-10-12-Common-Myna.html" target="_blank">Common Myna</a>, Common House Crow, <a href="{{ site.baseurl }}/wildart/2015-08-31-SouthernCoucal.html" target="_blank">Southern Coucal</a>, etc. <a href="{{ site.baseurl }}/wildart/2015-09-28-Black-Kite.html" target="_blank">Black kites</a> in urban setup and other birds of prey fancy the koel in their diet. 
 </p>
 
 <p>
