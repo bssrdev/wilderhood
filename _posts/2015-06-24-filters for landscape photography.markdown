@@ -6,7 +6,7 @@ author:     "Shivakumar L Narayan"
 tags:       ["Tips and Tricks", "Landscape Destinations"]
 seo:		["Landscape Destinations"]
 comments:   true
-header-img: "img/2015-04-18/Landscape5.jpg"
+header-img: "img/2015-06-24/Landscape5.jpg"
 ---
 
 <p>Ever wondered how all those waterfalls images have those smooth silky flow captured in them? Had trouble in capturing a good dynamic range image during a sunrise or a sunset? Wanted to cut down on the jazzy reflections off water and rocks when shooting seascapes or waterscapes? Always fantasized on rich colors in landscape images?</p>
