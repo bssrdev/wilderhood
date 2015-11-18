@@ -43,6 +43,8 @@ collections:
     output: true
   MajesticStripes:
     output: true
-    
+  laughingdove:
+    output: true
+
 gems:
   - jekyll-sitemap
