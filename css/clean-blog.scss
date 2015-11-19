@@ -728,7 +728,6 @@ a {
 {
 	display: inline-block;
 	padding-bottom: 10px;
-	padding-left: 5px;
 }
 .preview-post-image
 {
@@ -784,48 +783,89 @@ a {
 	display:inline-block;
 	padding-top: 10px;
 	text-decoration: none;
-	font-size: 14px;
 }
 .logo>a:hover
 {
 	color: #404040;
 }
 
-.w-entity-images
+.w-magazine-image
 {
-    margin: 20px 0px;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+  display: block;
 }
-.w-small-image-preview, .w-small-image-preview-extra {
-    width: 72px;
-    height: 72px;
-    cursor: pointer;
-    object-fit: cover;
-    object-position: center;
+
+.module {
+  margin: 10px;
+  width: 170px;
+  height: 225px;
+  margin-top: 50px;
+  margin-left: 10px;
+  float: left; 
+  background-size: cover;
+  position: relative;
+  display: inline;
+  background-position: center;
 }
-@media (min-width: 480px)
-{
-	.w-small-image-preview, .w-small-image-preview-extra {
-		width: 86px;
-		height: 86px;
-	}
+
+text-magazine {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right:10px;
+  margin: 0;
+  font: 14px Sans-Serif;
+  text-align:center;
+  font-weight: lighter;
+  color: white;
+  opacity:0.8;  
+  letter-spacing: 1px;
 }
-.w-small-image-preview-extra {
-    display: inline-block;
+
+.background-image-component .background-image-component-overlay, .background-image-component .background-image-component-gradient{
     position: absolute;
-    cursor: pointer;
-    background: #e4e4e4;
-    color: #6d6d6d;
-    line-height: 86px;
-    font-size: 20px;
-    text-align: center;
-    padding-bottom: inherit;
-    margin-left: 5px;
+    top: -1px;
+    left: -1px;
+    bottom: -1px;
+    right: -1px;
 }
 
-.nodisplay {
-    display: none;
+text-magazines
+{
+  position: absolute;
+  bottom: 8px;
+  left: 20px;
+  right: 2px;
+  margin: 0;
+  font: 14px Sans-Serif;
+  text-align:center;
+  font-weight:lighter;
+  color: white;
+  opacity:0.8; 
+  letter-spacing: 1px;
 }
 
-.fancybox {
-	text-decoration: none;
+.preview-magazine-image
+{
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 100%;
+  background: #f0f0f0;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  bottom: 4px;
+  left: 4px;
+  margin: 0;
+}
+
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
 }
