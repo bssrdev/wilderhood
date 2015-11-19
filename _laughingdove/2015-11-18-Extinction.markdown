@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Extinction"
-subtitle:   "Extinction"
+subtitle:   "Slow cycle race of Extinction"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2015-11-18/Extinction-LaughingDove-DineshBalakrishnan-thumb.jpg"
 tags:       ["Tiger Destinations", "Raptors"]
