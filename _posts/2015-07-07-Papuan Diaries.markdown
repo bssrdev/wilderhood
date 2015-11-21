@@ -66,5 +66,5 @@ comments:   true
 
 <iframe width="690" height="460" src="https://www.youtube.com/embed/rvrAhWKjHuk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p>PS: Thanks <a href="{{ site.baseurl}}/authors/Radha Rangarajan/" style="text-decoration:none">Radha Rangarajan</a> for helping me put my thoughts into words :)</p>
+<p>PS: Thanks Radha Rangarajan for helping me put my thoughts into words :)</p>
 
