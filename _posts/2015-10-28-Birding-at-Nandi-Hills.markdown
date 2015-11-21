@@ -18,7 +18,7 @@ I thoroughly enjoyed the dance of Indian Blue Robin, Asian Paradise Flycather (A
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2015-10-28/Puff_Throated_Babbler_Nandi_Hills.JPG" alt="Puff Throated Babbler preening. Blue Capped Rock thrush waiting to plunge, Nandi Hills, Bangalore">
+<img src="{{ site.baseurl }}/img/2015-10-28/Puff_Throated_Babbler_Nandi_Hills.jpg" alt="Puff Throated Babbler preening. Blue Capped Rock thrush waiting to plunge, Nandi Hills, Bangalore">
 
 <p>Puff Throated Babbler preening. Blue Capped Rock thrush waiting to plunge.</p>
 
