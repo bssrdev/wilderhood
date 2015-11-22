@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
-subtitle:   "Birds of Bangalore-Week 16"
+subtitle:   "Birds of Bangalore - Week 16"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-11-23/Asian-Koel-Male-Wildart-talk-Prasad-Natarajan-thumb.jpg"
 tags:       ["Bangalore Wildlife", "Birding Destinations"]
@@ -14,7 +14,7 @@ sharing-img: "img/2015-11-23/Asian-Koel-Male-Wildart-talk-Prasad-Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-11-23/Asian-Koel-Male-Wildart-talk-Prasad-Natarajan.jpg" alt="Asian Koel Male, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 16">
 
 <p>
-Hearty welcome to another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">birds of Bangalore</a>, its been rather gloomy days whole of this week and the sun paid us few irregular visits. First and foremost I would like to dedicate this article to my mother, coincidentally her name is also the name of a bird, the bird we are going to discuss this week. We lost her last year in the month of November to breast cancer, November is also no-shave month all over the world, this campaign is to raise awareness about this cancer. Both men and women need to be aware about this cancer which is one of the cancer's that is curable if detected in earlier stages.
+Hearty welcome to another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a>, its been rather gloomy days whole of this week and the sun paid us few irregular visits. First and foremost, I would like to dedicate this article to my mother, coincidentally her name is also the name of a bird, the bird we are going to discuss this week. We lost her last year in the month of November due to breast cancer. November is also no-shave month all over the world, this campaign is to raise awareness about this cancer. Both men and women need to be aware about this cancer which is one of the cancers that is curable if detected at earlier stages!
 </p>
 
 <p>
