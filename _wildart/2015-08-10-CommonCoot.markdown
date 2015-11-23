@@ -23,7 +23,7 @@ sharing-img: "img/2015-08-10/CommonCoot.jpg"
 </p>
 
 <p>
-It’s already second week of our WildArt Talk and Monday is here, after a beautiful weekend observing birds of Bangalore i am back with this post. This weekend I spent time on few of the wetlands around my home, which took me back to my childhood days when there where large farmlands, water-wells and lakes.
+It’s already second week of our WildArt Talk and Monday is here, after a beautiful weekend observing <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a> I am back with this post. This weekend I spent time on few of the wetlands around my home, which took me back to my childhood days when there where large farmlands, water-wells and lakes.
 </p>
 
 <p>
