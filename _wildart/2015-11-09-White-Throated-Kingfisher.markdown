@@ -14,7 +14,17 @@ sharing-img: "img/2015-11-09/White-Throated-Kingfisher-Prasad-Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-11-09/White-Throated-Kingfisher-Prasad-Natarajan.jpg" alt="White Throated Kingfisher, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 14">
 
 <p>
-Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">birds of Bangalore</a>,during my visit to <a href="http://www.wilderhood.com/destination/Ranganathittu" target="_blank">Ranganathittu Bird Sanctuary</a> got to watch our bird of this week at close distance. Boat safari is an excellent way to get close to birds and watch their behavior.
+	<ul>
+		 <li>Title: Hidden King!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 12 hours</li>
+		 <li>November-4th-2015</li>
+ 	</ul>
+</p>
+
+
+<p>
+Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a>,during my visit to <a href="http://www.wilderhood.com/destination/Ranganathittu" target="_blank">Ranganathittu Bird Sanctuary</a> got to watch our bird of this week at close distance. Boat safari is an excellent way to get close to birds and watch their behavior.
 </p>
 
 <p>Last week on an early morning walk at Cubbon park, I heard calls of barbets, flowerpeckers,  koels and sunbirds. Near the pond area, I found the oriental magpie robin singing to glory, so did the tickell’s blue, black kite soaring across the pond is such a pleasant sight to the eye. Suddenly at one of the dustbin I heard a call <em>chake-ake-ake</em>, it’s a familiar call however didn’t expect it coming from a dustbin.
@@ -40,13 +50,3 @@ Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" ta
 
 <p>Until next week, keep watching!
 </p>
-
-<p>
-	<ul>
-		 <li>Title: Hidden King!</li>
-		 <li>Medium: Ink and water color on paper</li>
-		 <li>Duration: 12 hours</li>
-		 <li>November-4th-2015</li>
- 	</ul>
-</p>
-

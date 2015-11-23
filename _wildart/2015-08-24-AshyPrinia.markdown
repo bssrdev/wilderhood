@@ -14,6 +14,15 @@ sharing-img: "img/2015-08-24/AshyPrinia.jpg"
 <img src="{{ site.baseurl }}/img/2015-08-24/AshyPrinia.jpg" alt="Ashy Prinia, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
+	<ul>
+		 <li>Title: Oh My Prinia! </li>
+		 <li>Medium: Ink on paper</li>
+		 <li>Duration: 6 hours</li>
+		 <li>August-19-2015</li>
+ 	</ul>
+</p>
+
+<p>
 After enjoying the colorful flowers of Lalbagh last weekend here I am back again with another common bird of Bangalore. Ever since I was introduced to birdwatching in a serious way I’ve been watching this bird day in and day out. Not that I’ve not watched them before, mere watching a bird and watching their behavior, making notes in field books, are two different activities. As a kid have watched cattle egrets and greater egrets however they were all cranes! Blame it on lack of knowledge! 
 </p>
 
@@ -43,16 +52,6 @@ Since they mainly rely on scrubs which are quickly disappearing not sure how lon
 
 <p>
 I don’t wish to sound like an old tape-recorder, however our ancestors had great tradition, seems like they knew simple and ecofriendly ways to cultivate crops. They were much eco tolerant, they knew to co-exist. Rather than spraying the toxins all over the flowering plants in our garden it would be great to let the birds do the job for us. I have many flowering plants outside my home and we don’t spray toxins, agreed this attracts lots of insects, which also attracts many common birds.
-</p>
-
-
-<p>
-	<ul>
-		 <li>Title: Oh My Prinia! </li>
-		 <li>Medium: Ink on paper</li>
-		 <li>Duration: 6 hours</li>
-		 <li>August-19-2015</li>
- 	</ul>
 </p>
 
 <p>

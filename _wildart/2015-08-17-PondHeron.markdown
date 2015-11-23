@@ -14,6 +14,15 @@ sharing-img: "img/2015-08-17/Indian Pond Heron_Prasad Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-08-17/Indian Pond Heron_Prasad Natarajan.jpg" alt="Indian Pond Heron, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
+	<ul>
+		 <li>Title: Crouching Heron! </li>
+		 <li>Medium: Ink on paper</li>
+		 <li>Duration: 12 hours</li>
+		 <li>August-11-2015</li>
+ 	</ul>
+</p>
+
+<p>
 After an awesome weekend at <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> <a href="http://www.wilderhood.com/accommodation/Seethanadi%20Nature%20Camp">Seethanadi Nature Camp</a>, watching gliding frogs, listing to Wynand frogs calling out for their mates, little crawling leeches, Golden Oriole's calls early morning and constant rain drops is no less than a paradise on earth. Not to forget the Grey Hornbills calls at a far distance is such a pleasure to my soul. Such experiences energizes me, among such beauties I wrote about this humble yet great hunter of the pond!
 </p>
 
@@ -39,15 +48,6 @@ Her crouching pose is what I wish to show through this artwork, at one moment sh
 
 <p>
 Since pond heron main diet is fish, constant overfishing, littering, industrial waste been disposed to water, increase in PH levels and decreasing oxygen in water present great treat. Loss of habitat with every other lake being encroached is another reason for their decreasing numbers. Since they build their nests on trees, every tree that's been cut down on the banks of a water-body is a nail we are hitting on their coffin!
-</p>
-
-<p>
-	<ul>
-		 <li>Title: Crouching Heron! </li>
-		 <li>Medium: Ink on paper</li>
-		 <li>Duration: 12 hours</li>
-		 <li>August-11-2015</li>
- 	</ul>
 </p>
 
 <p>

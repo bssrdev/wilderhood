@@ -14,7 +14,16 @@ sharing-img: "img/2015-08-03/RedWhiskeredBulbul.jpg"
 <img src="{{ site.baseurl }}/img/2015-08-03/RedWhiskeredBulbul.jpg" alt="Red Whiskered Bulbul, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
-Its brings me great pleasure to share my artworks and observations on birds of Bangalore with you all.  Through <a href="http://www.wilderhood.com">Wilderhood</a> every Monday I will be sharing an artwork and small write-up on the subject. Hope you too would enjoy them as much I do!
+	<ul>
+		 <li>Title: Percussion! </li>
+		 <li>Medium: Ink on paper</li>
+		 <li>Duration: 10 hours</li>
+		 <li>July-31-2015</li>
+ 	</ul>
+</p>
+
+<p>
+Its brings me great pleasure to share my artworks and observations on <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a> with you all. Through <a href="http://www.wilderhood.com">Wilderhood</a> every Monday I will be sharing an artwork and small write-up on the subject. Hope you too would enjoy them as much I do!
 </p>
 
 <p>
@@ -39,15 +48,6 @@ This bulbul was sighted at Hoskote at about 6:30 pm in the evening, it was getti
 
 <p>
 They try to show themselves bigger to their counter-parts and challengers. Interesting behavior is in it? After heading back home, made many drafts on this observation in my studio. About 4 layers of Indian Ink has been laid in this artwork. Through this artwork I wish to convey the same behavior, hence the title.
-</p>
-
-<p>
-	<ul>
-		 <li>Title: Percussion! </li>
-		 <li>Medium: Ink on paper</li>
-		 <li>Duration: 10 hours</li>
-		 <li>July-31-2015</li>
- 	</ul>
 </p>
 
 <p>

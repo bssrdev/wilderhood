@@ -14,6 +14,15 @@ sharing-img: "img/2015-09-21/Grey-Heron_Prasad-Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-09-21/Grey-Heron_Prasad-Natarajan.jpg" alt="Grey Heron, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
+	<ul>
+		 <li>Title: Stealth Mode!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 20 hours</li>
+		 <li>September-18th, 2015</li>
+ 	</ul>
+</p>
+
+<p>
 Before the new stone benches were installed at Hebbal lake, during summer days we were able to access the tiny islands. Water used to reside and we were able to walk on the shores, sit up in bamboo shades and watch waders at close quarters. However in few years lot of work has gone into this lake and many of those islands stay submerged in summer as well. About 3 years back when I had visited this lake in peak summer, spent the whole day watching these waders. 
 </p>
 
@@ -38,13 +47,3 @@ With polluted lakes, less fishes, disappearing frogs, they are facing great chal
 Through this artwork I wish to convey the stealth mode of the Grey Heron that I have observed and in the background the long grasses which are also equally important, the blank green half of the artwork is what these herons are staring at and they need every city dwellers support and laws which protect these long grasses from being harnessed from vital lake beds. In the name of progress we are destroying many life forms and I feel we are not authorized to do so!</p> 
 
 <p>Until next time. Keep watching!</p>
-
-
-<p>
-	<ul>
-		 <li>Title: Stealth Mode!</li>
-		 <li>Medium: Ink and water color on paper</li>
-		 <li>Duration: 20 hours</li>
-		 <li>September-18th, 2015</li>
- 	</ul>
-</p>

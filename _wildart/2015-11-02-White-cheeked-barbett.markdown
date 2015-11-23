@@ -14,7 +14,16 @@ sharing-img: "img/2015-11-02/WhiteCheekedBarbet_Prasad-Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-11-02/WhiteCheekedBarbet_Prasad-Natarajan.jpg" alt="White Cheeked Barbett, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 13">
 
 <p>
-Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">birds of Bangalore</a>, we are moving smoothly towards thirteenth week and it was both feeling of pleasure and wretched to watch the bird of this week at Rampura Lake.
+	<ul>
+		 <li>Title: Whiskered Queen!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 10 hours</li>
+		 <li>October-30th-2015</li>
+ 	</ul>
+</p>
+
+<p>
+Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a>, we are moving smoothly towards thirteenth week and it was both feeling of pleasure and wretched to watch the bird of this week at Rampura Lake.
 </p>
 
 <p>
@@ -42,13 +51,3 @@ In the beginning of this article I did mention about mixed feelings, one way itâ
 </p>
 
 <p>Until next time, keep watching!</p>
-
-<p>
-	<ul>
-		 <li>Title: Whiskered Queen!</li>
-		 <li>Medium: Ink and water color on paper</li>
-		 <li>Duration: 10 hours</li>
-		 <li>October-30th-2015</li>
- 	</ul>
-</p>
-

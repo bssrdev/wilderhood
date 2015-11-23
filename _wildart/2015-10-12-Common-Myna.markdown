@@ -13,6 +13,15 @@ sharing-img: "img/2015-10-12/Common-Myna_Prasad_Natarajan.jpg"
 
 <img src="{{ site.baseurl }}/img/2015-10-12/Common-Myna_Prasad_Natarajan.jpg" alt="Common Myna , Bangalore, Wildart by Prasad Natarajan">
 
+<p>
+	<ul>
+		 <li>Title: Myna Menace!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 16 hours</li>
+		 <li>October-8th-2015</li>
+ 	</ul>
+</p>
+
 <p>Welcome back everyone to the tenth week of Wildart talk, hope you all had a great Wildlife week, Wilderhood and I celebrated the last week with many interesting wildlife encounters across India. If you have missed out those encounters, do check them out <a href="{{ site.baseurl }}/wildlifeweek">here</a>. After a week of visual safari all over India, it is time to come back to our <a href="{{ site.baseurl }}/wildart">common birds of Bangalore</a>.</p>
 
 <p>Our bird of this week is considered master of adaptation to urbanization, we can spot them almost everywhere in Bangalore. This bird has been introduced to other countries as well, were they are now considered as invasive species. The bird of this week is featured in Buddhist and Indian literary works. They were also kept in captivity during ancient times since they were able to mimick human voices. Take a guess?</p>
@@ -26,13 +35,3 @@ sharing-img: "img/2015-10-12/Common-Myna_Prasad_Natarajan.jpg"
 <p>Previously, Bangalore had a great population of Jungle mynas. However, due to the aggressive breeding of Common myna, their population has been steadily decreasing, this applies to rosy starlings as well. Many other countries have realized the seriousness of this issue and now studying ways to minimize the damage. Hope we wake up to this situation and conduct studies and derive methods to save other birds who also share similar habitats.</p>
 
 <p>Until next time, keep watching!</p>
-
-<p>
-	<ul>
-		 <li>Title: Myna Menace!</li>
-		 <li>Medium: Ink and water color on paper</li>
-		 <li>Duration: 16 hours</li>
-		 <li>October-8th-2015</li>
- 	</ul>
-</p>
-

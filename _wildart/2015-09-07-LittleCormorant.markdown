@@ -13,8 +13,16 @@ sharing-img: "img/2015-09-07/LittleCormorant.jpg"
 
 <img src="{{ site.baseurl }}/img/2015-09-07/LittleCormorant.jpg" alt="Little Cormorant, Bangalore, Wildart by Prasad Natarajan">
 
+<p>
+	<ul>
+		 <li>Title: Drying out!</li>
+		 <li>Medium: Ink on paper</li>
+		 <li>Duration: 12 hours</li>
+		 <li>September 3, 2015</li>
+ 	</ul>
+</p>
 
-<p>Hearty welcome back to another edition of Birds of Bangalore, this week I spent time watching a sea bird at Cubbon park, unbelievable isn't it? Though this little bird is part of the seabird family, it is found all over India, except high up north and is spread to other Asian countries. One can spot them on trees near water bodies in small groups, they are also seen on the banks of water bodies with wide spread wings.</p>
+<p>Hearty welcome back to another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a>, this week I spent time watching a sea bird at Cubbon park, unbelievable isn't it? Though this little bird is part of the seabird family, it is found all over India, except high up north and is spread to other Asian countries. One can spot them on trees near water bodies in small groups, they are also seen on the banks of water bodies with wide spread wings.</p>
 
 <p>There is a small pond at Cubbon park, where beautiful water lilies bloom, this little pond houses numerous birds. Few Little Cormorants (<em>Microcarbo niger</em>) have also made this little pond their home, if we watch them closely we can differentiate them with other cormorants. They are slightly smaller in size than others, with shorter crest on the head, beak is short and lacks the prominent tip. Eyes are black, breeding plumage is glowing black, with few white spots near the beak. Male and female look alike, although males are slightly larger in size.</p>
 
@@ -29,13 +37,3 @@ sharing-img: "img/2015-09-07/LittleCormorant.jpg"
 <p>Saving the existing water bodies is very essential and creating new ponds/lakes is also very important to conserve water birds in Bangalore. Most of the lakes inside the city are overcrowded with migrants during breeding season. Encroached lakes must be identified and rejuvenated, lakes are very essential to Bangalore's ground water table.</p> 
 
 <p>Until next week, keep watching!</p>
-
-<p>
-	<ul>
-		 <li>Title: Drying out!</li>
-		 <li>Medium: Ink on paper</li>
-		 <li>Duration: 12 hours</li>
-		 <li>September 3, 2015</li>
- 	</ul>
-</p>
-

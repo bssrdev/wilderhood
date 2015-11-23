@@ -14,6 +14,15 @@ sharing-img: "img/2015-10-19/Spotted-Dove_Prasad-Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-10-19/Spotted-Dove_Prasad-Natarajan.jpg" alt="Spotted Dove, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 11">
 
 <p>
+	<ul>
+		 <li>Title: Dove In!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 12 hours</li>
+		 <li>October-15th-2015</li>
+ 	</ul>
+</p>
+
+<p>
 <a href="{{ site.baseurl }}/wildart/2015-10-12-Common-Myna.html" target="_blank">Last week</a> we read about the invasive behavior of birds not only in their native country, this behavior is seen even in introduced country as well. Such behavior is actually recorded more in introduced countries, since the native birds are not adapted to defend themselves against a new uninvited guest. Which also brings up a valid and vital question should we introduce new species to a habitat? Mother nature knows best, she know which species can survive in what kind of a habitat. Interfering with nature if not always, most of the times will result in situations which will be beyond our control. 
 </p>
 
@@ -38,13 +47,3 @@ Its a dilemma off sorts, is feeding birds in these parks a good idea? What if on
 </p>
 
 <p>Until next time, keep watching!</p>
-
-<p>
-	<ul>
-		 <li>Title: Dove In!</li>
-		 <li>Medium: Ink and water color on paper</li>
-		 <li>Duration: 12 hours</li>
-		 <li>October-15th-2015</li>
- 	</ul>
-</p>
-

@@ -14,6 +14,15 @@ sharing-img: "img/2015-10-26/WhiteBreastedWaterhen_Prasad-Natarajan.jpg"
 <img src="{{ site.baseurl }}/img/2015-10-26/WhiteBreastedWaterhen_Prasad-Natarajan.jpg" alt="White Breasted Water Hen, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 12">
 
 <p>
+	<ul>
+		 <li>Title: Brewing White!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 8 hours</li>
+		 <li>October-25th-2015</li>
+ 	</ul>
+</p>
+
+<p>
 Last week I had been to <a href="http://www.wilderhood.com/destination/Ranganathittu" target="_blank">Ranganathittu Bird Sanctuary</a>, though its off season the light was great and it is one of the best place to watch Greater Thick Knee in whole of India. Especially for photographers who are obsessed with clean bokeh, its a place to go, one day trip for Bangaloreans as well. Now you might be wondering why I am talking about a bird sanctuary here, there is a link, I also got to watch one the commonly found birds of Bangalore there.
 </p>
 
@@ -38,13 +47,3 @@ Many of these birds also feed on insect larvae, which is natural way of controll
 </p>
 
 <p>Until next time, keep watching!</p>
-
-<p>
-	<ul>
-		 <li>Title: Brewing White!</li>
-		 <li>Medium: Ink and water color on paper</li>
-		 <li>Duration: 8 hours</li>
-		 <li>October-25th-2015</li>
- 	</ul>
-</p>
-

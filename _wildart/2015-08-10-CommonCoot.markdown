@@ -14,6 +14,15 @@ sharing-img: "img/2015-08-10/CommonCoot.jpg"
 <img src="{{ site.baseurl }}/img/2015-08-10/CommonCoot.jpg" alt="Common Coot, Bangalore, Wildart by Prasad Natarajan">
 
 <p>
+	<ul>
+		 <li>Title: Feel the Coot! </li>
+		 <li>Medium: Ink on paper</li>
+		 <li>Duration: 8 hours</li>
+		 <li>August-02-2015</li>
+ 	</ul>
+</p>
+
+<p>
 It’s already second week of our WildArt Talk and Monday is here, after a beautiful weekend observing birds of Bangalore i am back with this post. This weekend I spent time on few of the wetlands around my home, which took me back to my childhood days when there where large farmlands, water-wells and lakes.
 </p>
 
@@ -39,16 +48,6 @@ Though breeding at great pace, they have been hunted in large numbers by fisherm
 
 <p>
 What is happening with these birds today will also happen to common man tomorrow, where common man will be evicted from his land by such land mafia! Hope we wake up before it’s too late!
-</p>
-
-
-<p>
-	<ul>
-		 <li>Title: Feel the Coot! </li>
-		 <li>Medium: Ink on paper</li>
-		 <li>Duration: 8 hours</li>
-		 <li>August-02-2015</li>
- 	</ul>
 </p>
 
 <p>
