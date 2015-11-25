@@ -3,15 +3,15 @@ layout:     post
 title:      "Food app"
 subtitle:   "Food app"
 author:     "Dinesh Balakrishnan"
-header-thumb-img: "img/2015-11-24/food-app-LaughingDove-DineshBalakrishnan-thumb.jpg"
+header-thumb-img: "img/2015-11-25/food-app-LaughingDove-DineshBalakrishnan-thumb.jpg"
 tags:       ["Birding Destinations", "Raptors"]
 seo: 		["Birding Destinations", "Raptors"]
 comments:   true
-sharing-img: "img/2015-11-24/food-app-LaughingDove-DineshBalakrishnan.jpg"
+sharing-img: "img/2015-11-25/food-app-LaughingDove-DineshBalakrishnan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-11-24food-app-LaughingDove-DineshBalakrishnan.jpg" alt="Food app, Recitals Chapter Laughing Dove, Wildlife Cartoons by Dinesh Balakrishnan">
+<img src="{{ site.baseurl }}/img/2015-11-25/food-app-LaughingDove-DineshBalakrishnan.jpg" alt="Food app, Recitals Chapter Laughing Dove, Wildlife Cartoons by Dinesh Balakrishnan">
 
 <p>
 looking at the dependency of internet, it is no wonder if it becomes real.. :)
