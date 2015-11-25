@@ -84,6 +84,11 @@
 	adList.push({link: urlPrefix + "Ranthambhore Wild Wonders - April 2016", image: "Sudhir/Trip/Ranthambore/Ranthambore.jpg", text: "Ranthambhore Wild Wonders - April 2016", keywords: ["Ranthambore", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]});		
 	adList.push({link: urlPrefix + "The land Of The Roar and Trumpet - Corbett", image: "BeyondRoads/Trip/Corbett/Corbett.jpg", text: "The land Of The Roar and Trumpet - Corbett", keywords: ["Corbett", "Tiger Destinations"], months: ["Oct", "Nov", "Dec"]});		
 	adList.push({link: urlPrefix + "Nagarahole Wildlife Tour and Chomkund Trek", image: "MysticWild/Trip/Nagarahole/Nagarahole_photography1.jpg", text: "Nagarahole Wildlife Tour and Chomkund Trek", keywords: ["Nagarahole", "Tiger Destinations"], months: ["Oct", "Nov"]});		
+	adList.push({link: urlPrefix + "Ranganathittu Bird Sanctuary", image: "BirdWing/Trip/Ranganathittu/Ranganathittu_photography1.jpg", text: "Ranganathittu Bird Sanctuary", keywords: ["Ranganathittu", "Birding Destinations"], months: ["Oct", "Nov", "Dec"]});		
+	adList.push({link: urlPrefix + "Kaziranga - Land of the Giants", image: "BirdWing/Trip/Kaziranga/Kaziranga_photography1.jpg", text: "Kaziranga - Land of the Giants", keywords: ["Kaziranga", "Tiger Destinations"], months: ["Oct", "Nov", "Dec",  "Jan","Feb", "Mar"]});		
+	adList.push({link: urlPrefix + "Chikmagalur - Landscape Photography Tour", image: "BirdWing/Trip/Chikmagaluru/Chikmagaluru_photography1.jpg", text: "Chikmagalur - Landscape Photography Tour", keywords: ["Chikmagalur", "Landscape Destinations"], months: ["Oct", "Nov", "Dec",  "Jan"]});		
+	adList.push({link: urlPrefix + "Classic Myanmar - Photography Tour", image: "Darter/Trip/Myanmar/Myanmar_photography1.jpg", text: "Classic Myanmar - Photography Tour", keywords: ["Myanmar", "Landscape Destinations"], months: ["Oct", "Nov", "Dec", "Jan","Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});		
+	adList.push({link: urlPrefix + "Cambodia Photography Tour - Temples of Angkor Wat and Beyond", image: "Darter/Trip/Cambodia/Cambodia_photography1.jpg", text: "Cambodia Photography Tour - Temples of Angkor Wat and Beyond", keywords: ["Cambodia", "Landscape Destinations"], months: ["Oct", "Nov", "Dec", "Jan","Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});		
 	
 	
 	//Accommodation properties
