@@ -6,7 +6,7 @@ author:     "Ashwini Kumar Bhat"
 tags:       ["Landscape Destinations", "Monsoon Destinations", "Sathoddi", "Tips and Tricks"]
 seo:		["Monsoon Destinations", "WesternGhats", "WaterFall"]
 comments:   true
-header-img: "img/2015-09-30/Sathoddi.jpg"
+header-img: "img/2015-10-10/Sathoddi.jpg"
 ---
 
 <p>In my earlier blog about <a href="{{ site.baseurl }}/2015/09/30/Sathoddi-Falls-Why-visit-the-same-place-again.html" target="_blank">Why visit the same place again?</a> I had mentioned my reason of visiting a place over and over. At the end of the blog post I had indicated that I would surely be visiting Sathoddi again in the future and I was sure that it would throw one or the other surprises.</p>
