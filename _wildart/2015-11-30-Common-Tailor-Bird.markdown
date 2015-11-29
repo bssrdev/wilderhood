@@ -7,11 +7,11 @@ header-thumb-img: "img/2015-11-30/CommonTailorBird_Prasad-Natarajan-thumb.jpg"
 tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-11-30/CommonTailorBird_Prasad Natarajan.jpg"
+sharing-img: "img/2015-11-30/CommonTailorBird_Prasad-Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-11-30/CommonTailorBird_Prasad Natarajan.jpg" alt="Common Tailor Bird, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 17">
+<img src="{{ site.baseurl }}/img/2015-11-30/CommonTailorBird_Prasad-Natarajan.jpg" alt="Common Tailor Bird, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 17">
 
 <p>
 	<ul>
