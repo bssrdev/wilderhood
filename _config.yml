@@ -45,6 +45,8 @@ collections:
     output: true
   laughingdove:
     output: true
+  africandiaries:
+    output: true
 
 gems:
   - jekyll-sitemap
