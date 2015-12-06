@@ -3,15 +3,15 @@ layout:     post
 title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore - Week 18"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2015-12-07/Roseringedparakeet_Prasad Natarajan-thumb.jpg"
+header-thumb-img: "img/2015-12-07/Roseringedparakeet_Prasad-Natarajan-thumb.jpg"
 tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2015-12-07/Roseringedparakeet_Prasad Natarajan.jpg"
+sharing-img: "img/2015-12-07/Roseringedparakeet_Prasad-Natarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2015-12-07/Roseringedparakeet_Prasad Natarajan.jpg" alt="Meettu, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 18">
+<img src="{{ site.baseurl }}/img/2015-12-07/Roseringedparakeet_Prasad-Natarajan.jpg" alt="Meettu, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 18">
 
 <p>
 	<ul>
