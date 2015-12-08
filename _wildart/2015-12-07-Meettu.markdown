@@ -27,7 +27,7 @@ Welcome back again for another edition of <a href="{{ site.baseurl }}/wildart" t
 </p>
 
 <p>
-Friday morning I headed towards Cubbon park and I knew the exact spot where one could find our bird of this week. There is a feeding area in the park where people get bags and bags of grains to feed the common pigeons and many other birds. It's a great hunting ground for the <a href="{{ site.baseurl }}/wildart/2015-09-28-Black-Kite.html">Black Kites</a> too. We can find our bird of this week in plenty at this very spot!
+Friday morning I headed towards Cubbon park and I knew the exact spot where one could find our bird of this week. There is a feeding area in the park where people get bags and bags of grains to feed the common pigeons and many other birds. It's a great hunting ground for the <a href="{{ site.baseurl }}/wildart/2015-09-28-Black-Kite.html" target="_blank">Black Kites</a> too. We can find our bird of this week in plenty at this very spot!
 </p>
 
 <p>
