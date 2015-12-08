@@ -4,7 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 9"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-09-28/Black-Kite_Prasad-Natarajan-thumb.jpg"
-tags:       ["Bangalore Wildlife", "Birding Destinations"]
+tags:       ["Bangalore Wildlife", "Birding Destinations", "Raptors"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2015-09-28/Black-Kite_Prasad-Natarajan.jpg"
