@@ -13,7 +13,11 @@ sharing-img: "img/2015-12-05/Satisfying-the-soul-Suresh-Basavaraju.jpg"
 
 <div class="lense-spec">Nikon D4, Nikon 500mm f/4 VR, ISO 800, 1/1250 @f/4, -2.66 EV Exposure Compensation</div>
 
-<p><li>Location: Maasai Mara, Kenya.</li></p>
+<p>
+	<ul>
+		<li>Location: Maasai Mara, Kenya.</li>
+	</ul>
+</p>
 
 <p>Welcome to the African Diaries, and thanks for being part of my journey. A journey that has
 roots from my younger days of exposure to this ancient land though graphic images from the
@@ -56,12 +60,12 @@ when depicted so. It did not take much waiting, the gazelle was wary of the vehi
 turned towards the camera and the image was made that for me symbolises the great african
 plains.</p>
 
-<p>The composition is a classic rule of the thirds with subject placement on the 1/3rd and the
+<blockquote>The composition is a classic rule of the thirds with subject placement on the 1/3rd and the
 horizon not cutting the frame at mid point. Could I have composed it any other way ? Yes, I
 did, vertical, horizontal, different exposure settings, subject in the center. Some to bring out
 a little more detail in the subject, some to create a strong silhouette. Why? this goes back to
 my photo stockist in Mumbai in the 90’s who insisted I take as many angles of the scene as I
 can because you never know how the image might end up in print. A poster would require a
-landscape mode, and a cover page a vertical.</p>
+landscape mode, and a cover page a vertical.</blockquote>
 
 <p>For me right now, this one frame works. A moment that satiates the soul.</p>

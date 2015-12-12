@@ -13,6 +13,12 @@ sharing-img: "img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"
 
 <div class="lense-spec">Nikon D4, Nikon 17-35mm f/2.8, ISO 100, 1/100 @ f/16, -1/3 EV Exposure Compensation</div>
 
+<p>
+	<ul>
+		<li>Location: Maasai Mara, Kenya.</li>
+	</ul>
+</p>
+
 <p>You visit a new place, you don't have an idea about which way to go, where the best sightings
 happen, what is the best time. Let's face it, you need help and here comes a person who most
 of the times would be a local who has spent considerable time in the area, is knowledgeable
@@ -97,13 +103,13 @@ the hunter and the prey. A scene which we could have easily missed had we not go
 with us. A scene witnessed in documentaries many times but the two dimensional screen
 does no justice to being in the midst of the chase and witnessing it with your own eyes.</p>
 
-<p>About the title image, simon standing in a front of a acacia tree in a classical herdsman pose.
+<blockquote>About the title image, simon standing in a front of a acacia tree in a classical herdsman pose.
 It is a cliche but then I wanted the shot to document the Maasai warrior and the acacia tree.
 The exposure was a <em>"sunny f/16 rule"</em> . i.e. 1/ISO at f/16 for a sunlit scene. slight underexposure
 of 1/3 stop to bring out the saturation in the image. I usually dial a compensation, its an old
 habit from the film days when slight underexposure brought out the colours and saturation
-especially in slide films.</p>
+especially in slide films.</blockquote>
 
 <a href="https://www.facebook.com/simon.kararei" target="_blank">Simon's Facebook page</a>
 
-<p>More of the journey in the following week.</p>
+<p>More of the journey in the following week!</p>
