@@ -62,7 +62,7 @@ whom I was travelling could tell the difference between a guide and <em>guide++<
 
 <p>So what goes into making of a <em>guide++</em>, apart from some commonalities like knowing the
 local landscape, the way of the animals, reading the tracks, and in general knowing the way
-around the 1500+ square kms of the <a href="http://www.wilderhood.com/destination/Masai%20Mara" target="_blank">Maasai Mara</a>. I guess it is the same thing that makes one employee's performance better thank others, one sportsman's record better than the rest, one artists work way ahead of others. That, I believe is passion. Treat any task as a chore that needs to be completed and results will not be so spectacular. Start with a passion the burns and wonders happen.</p>
+around the 1500+ square kms of the <a href="http://www.wilderhood.com/destination/Masai%20Mara" target="_blank">Maasai Mara</a>. I guess it is the same thing that makes one employee's performance better than others, one sportsman's record better than the rest, one artists work way ahead of others. That, I believe is passion. Treat any task as a chore that needs to be completed and results will not be so spectacular. Start with a passion the burns and wonders happen.</p>
 
 <img src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"  alt="African Diaries - The guide by Suresh Basavaraju, Masai Mara, Nikon D4, Nikon 17-35mm f/2.8, ISO 100, 1/100 @ f/16, -1/3 EV Exposure Compensation">
 
