@@ -11,7 +11,7 @@ sharing-img: "img/2015-12-05/Satisfying-the-soul-Suresh-Basavaraju.jpg"
 ---
 <img src="{{ site.baseurl }}/img/2015-12-05/Satisfying-the-soul-Suresh-Basavaraju.jpg"  alt="African Diaries - Satisfying the soul by Suresh Basavaraju, Masai Mara, Nikon D4, Nikon 500mm f/4 VR, ISO 800, 1/1250 @f/4, -2.66 EV Exposure Compensation">
 
-<div class="lense-spec">Nikon D4, Nikon 500mm f/4 VR, ISO 800, 1/1250 @f/4, -2.66 EV Exposure Compensation</div>
+<div class="exif">Nikon D4, Nikon 500mm f/4 VR, ISO 800, 1/1250 @f/4, -2.66 EV Exposure Compensation</div>
 
 <p>
 	<ul>

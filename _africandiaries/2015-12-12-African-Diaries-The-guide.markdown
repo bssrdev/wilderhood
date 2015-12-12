@@ -11,7 +11,7 @@ sharing-img: "img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"
 ---
 <img src="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"  alt="Simon and the acacia tree, Nikon D4, Nikon 17-35mm f/2.8, ISO 100, 1/100 @ f/16, -1/3 EV Exposure Compensation">
 
-<div class="lense-spec">Nikon D4, Nikon 17-35mm f/2.8, ISO 100, 1/100 @ f/16, -1/3 EV Exposure Compensation</div>
+<div class="exif">Nikon D4, Nikon 17-35mm f/2.8, ISO 100, 1/100 @ f/16, -1/3 EV Exposure Compensation</div>
 
 <p>
 	<ul>
