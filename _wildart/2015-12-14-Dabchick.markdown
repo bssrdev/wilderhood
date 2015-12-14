@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
+subtitle:   "Birds of Bangalore - Week 19"
+author:     "Prasad Natarajan"
+header-thumb-img: "img/2015-12-14/Little_Grebe_Prasad-Natarajan-thumb.jpg"
+tags:       ["Bangalore Wildlife", "Birding Destinations"]
+seo: 		["Birding Destinations", "Bangalore", "wildart"]
+comments:   true
+sharing-img: "img/2015-12-14/Little_Grebe_Prasad_Natarajan.jpg"
+---
+
+
+<img src="{{ site.baseurl }}/img/2015-12-14/Little_Grebe_Prasad_Natarajan.jpg" alt="Little Grebe, Bangalore, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 19">
+
+<p>
+	<ul>
+		 <li>Title: Dabchick!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 12 hours</li>
+		 <li>December 13th, 2015</li>
+ 	</ul>
+</p>
+
+<p>
+Hearty welcome to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a>, I've been rather ill this week and hence haven't gone out bird watching during the week. However the glorious morning sunshine is such a treat heart to ones soul, Sunday I took some courage and headed out to watch the bird of this week. A rather shy however noisy wader is who I wanted to meet and cover this week. Though I was able to make few images, painting him was a tough task. Painting is not a mechanical work, it is an art form and can be done only when both mind and body are in sink. Also knowing your subject in person is important factor which enables to build that connection, without which there is no life in that artwork. The artwork without connect might be technically right however is lifeless and will fail to connect with the viewer as well.
+</p>
+
+<p>
+Hope my title gave away the suspense already! Our bird of this week is small wader with dark brown crown both in summer and winter, yellow eyes, neck is light coffee brown in non breeding season and is dark coffee brown during breeding season. Beak is black in the adults, distinctive yellow marking at the neck-end of the beak. Young ones are much duller in coloration and most the dark brown or black markings found in the adult are in light grey. Most of the body is also dark brown/black in the adult and grey in the young ones. The name dabchick comes from one of their behavior were they propel their body forward using their webbed feet before taking off!
+</p>
+
+<p>
+Well, its is Little Grebe (<em>Tachybaptus ruficollis</em>) we are talking about this week, they are excellent swimmers and great divers underwater. They stay in pairs during breeding season and in small flocks during non-breeding season. Breeding season is from June to September in India, both parents take care of the young. Young ones are carried on the back of the adults, until they are capable of hunting on their own.</p>
+
+<p>
+Reed-beds are preferred habitat for building nests however not necessary the only place they build nests. They also build nest on the edges of lakes with vegetation growth, also observed to construct nest under trees that grown on the edges of the water-bodies. They mainly feed on tiny fishes and larvae by diving underwater. They co-exists with other waders and compete for food and breeding ground with bigger waterbirds.
+</p>
+
+<p>
+Since commercial fishing has been carried out in almost all the water-bodies it only makes it tough for these waders. The size of the fishing nests are such at they don't leave even the tiny fishes behind, hence the size of the fishing nets needs to be checked and only the bigger fishes needs to be caught. Over exploitation of any resource is not logical act in the long run, after certain extended period of extensive fishing there will be no fish felt for the fisherman nor the waders.</p>
+
+<p>
+Harvesting of reed-beds for cattle feed, on large-scale needs to be checked since most of the waterbirds depended heavily on this habitat for protection, nest building etc. With continuous onslaught on wetlands we could face similar flood type situations in Bangalore as well in case heavy rains are received. Hence wetlands need to be protected for our own good and for the coming generation as well.
+</p>
+
+<p>
+With this I take leave. Until next week, keep watching!
+</p>
