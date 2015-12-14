@@ -8,6 +8,7 @@ tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "T
 seo: 		["African Destinations", "Maasai Maara", "Serengeti", "Kenya"]
 comments:   true
 sharing-img: "img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"
+needFancyBox: true
 ---
 <img src="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"  alt="Simon and the acacia tree, Nikon D4, Nikon 17-35mm f/2.8, ISO 100, 1/100 @ f/16, -1/3 EV Exposure Compensation">
 
@@ -113,3 +114,14 @@ especially in slide films.</blockquote>
 <a href="https://www.facebook.com/simon.kararei" target="_blank">Simon's Facebook page</a>
 
 <p>More of the journey in the following week!</p>
+<h4>Gallery</h4>
+<div class="w-entity-images">
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"></a>
+
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"></a>
+
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-2.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-2.jpg"></a>
+
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-3.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-3.jpg"></a>
+
+</div>
