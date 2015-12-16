@@ -129,10 +129,11 @@
 	adList.push({link: urlPrefix + "Svasvara", image: "Accommodation/Svasvara/Svasvara.jpg", text: "Svasvara", keywords: ["Tadoba", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]});
 	
 
-	var numSponsoredAdsToDisplay = 2;
+	var numSponsoredAdsToDisplay = 3;
 	var sponsoredList = [];
 	sponsoredList.push({link: "http://bit.ly/wolfpackstore", image: "wolfpack.jpeg", text: "Wolfpack T-shirt: Feel Leopard on you", keywords: ["Kabini", "BigCats"]});
 	sponsoredList.push({link: "http://bit.ly/wolfpackstore", image: "croc.jpeg", text: "Wolfpack T-shirt: Welcome to Croc Country", keywords: ["Monsoon Destinations", "Reptiles"]});
+	sponsoredList.push({link: "http://bit.ly/bookmylens", image: "rentals.jpg", text: "Bookmylens: High quality equipment rentals", keywords: [""]});
 	
 
 	function toTitleCase(str)
