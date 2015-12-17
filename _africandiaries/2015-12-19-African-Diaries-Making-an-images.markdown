@@ -45,9 +45,11 @@ This is where the <em>"making an image"</em> comes into play. Why would this be 
 </p>
 
 <p>
-<em>First</em>, this requires you to be inspired, by a scene you have seen earlier or something about how you want to depict a certain subject, or a creative vision. 
+<em>First</em>, this requires you to be inspired, by a scene you have seen earlier or something about how you want to depict a certain subject, or a creative vision. <br>
 
-<em>Second</em>, you have to be on the look out where this inspiration can be put into practice. Not all places, subjects, conditions will be suitable. Some may require rapid adjustments on the photographers side to accommodate the scene into the vision. Third, during the execution, you might have to make compromises. After having gone through this whole process, the outcome no matter how close or far away from the vision yields a sense of achievement.
+<em>Second</em>, you have to be on the look out where this inspiration can be put into practice. Not all places, subjects, conditions will be suitable. Some may require rapid adjustments on the photographers side to accommodate the scene into the vision. <br>
+
+<em>Third</em>, during the execution, you might have to make compromises. After having gone through this whole process, the outcome no matter how close or far away from the vision yields a sense of achievement.
 </p>
 
 <p>
