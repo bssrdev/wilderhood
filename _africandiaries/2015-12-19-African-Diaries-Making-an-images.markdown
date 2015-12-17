@@ -45,7 +45,9 @@ This is where the <em>"making an image"</em> comes into play. Why would this be 
 </p>
 
 <p>
-First this requires you to be inspired, by a scene you have seen earlier or something about how you want to depict a certain subject, or a creative vision. Second, you have to be on the look out where this inspiration can be put into practice. Not all places, subjects, conditions will be suitable. Some may require rapid adjustments on the photographers side to accommodate the scene into the vision. Third, during the execution, you might have to make compromises. After having gone through this whole process, the outcome no matter how close or far away from the vision yields a sense of achievement.
+<em>First</em>, this requires you to be inspired, by a scene you have seen earlier or something about how you want to depict a certain subject, or a creative vision. 
+
+<em>Second</em>, you have to be on the look out where this inspiration can be put into practice. Not all places, subjects, conditions will be suitable. Some may require rapid adjustments on the photographers side to accommodate the scene into the vision. Third, during the execution, you might have to make compromises. After having gone through this whole process, the outcome no matter how close or far away from the vision yields a sense of achievement.
 </p>
 
 <p>
@@ -59,7 +61,7 @@ The image here is one such image from a trip to Africa in 2014. On most days, it
 <ul>
 	<li>
 		<p>
-			<b>Step 1:</b> I had this image in mind that included elephants in the foreground, with vast blue sky behind taken from a low angle with a wide angle lens. I am sure the inspiration for such an image must have come from some images I have seen. Along with the telephoto lenses, I packed a wide angle lens and two Galen Rowell graduated ND filters from Singh-Ray. One in 2 stop soft edge and one in a 3 stop hard edge. This was for a situation where the sky was bright compared to the foreground and which exceeds the dynamic range of the camera.
+			<strong>Step 1:</strong> I had this image in mind that included elephants in the foreground, with vast blue sky behind taken from a low angle with a wide angle lens. I am sure the inspiration for such an image must have come from some images I have seen. Along with the telephoto lenses, I packed a wide angle lens and two Galen Rowell graduated ND filters from Singh-Ray. One in 2 stop soft edge and one in a 3 stop hard edge. This was for a situation where the sky was bright compared to the foreground and which exceeds the dynamic range of the camera.
 
 			
 			As the days progressed I did not get an opportunity to make such an image. One evening as we were returning to camp, massive clouds started building up. We packed our gear with no hope of making any more images.
@@ -70,7 +72,7 @@ The image here is one such image from a trip to Africa in 2014. On most days, it
 
 	<li>
 		<p>
-			<b>Step 2:</b> Now here comes the rapid adjustments I was talking about earlier. The scene is no where close to what I had visualised. The elephants were far away and because of time restriction we had to be in the camp by a certain time. Getting close to the elephant was not an option. The sky was anything but the blue I wanted. Nevertheless it was an interesting sky.
+			<strong>Step 2:</strong> Now here comes the rapid adjustments I was talking about earlier. The scene is no where close to what I had visualised. The elephants were far away and because of time restriction we had to be in the camp by a certain time. Getting close to the elephant was not an option. The sky was anything but the blue I wanted. Nevertheless it was an interesting sky.
 
 
 			I asked our driver to hold at a point where the orange of the setting sun was visible beneath the cloudy sky. I started taking a few pictures from the 70-200mm and wondered if I could try a wide angle here. Looking at the image in the LCD it was evident that it was difficult to get details in both the sky as well as the foreground, I picked up a graduated grey filter and put it on the wide angle. By now others in the vehicle were restless. This was not their scene and they wished to get back to the camp.
@@ -79,7 +81,7 @@ The image here is one such image from a trip to Africa in 2014. On most days, it
 
 	<li>
 		<p>
-			<b>Step 3</b>: I talked about compromises during the execution. In this situation, I would normally use a tripod as the shutter was low. As it was getting late and the occupants were getting restless, I had to use the bean bag and of course we could not go close to the elephants.
+			<strong>Step 3</strong>: I talked about compromises during the execution. In this situation, I would normally use a tripod as the shutter was low. As it was getting late and the occupants were getting restless, I had to use the bean bag and of course we could not go close to the elephants.
 
 
 			In the end, the image I <em>"made"</em> though vastly different to the one I had in my mind was in a sense an achievement. What more to ask from a trip where you could <em>"make"</em> something different from the usual and that is one of the few photographs I could "make" instead of just <em>"take"</em> a snap shot.
