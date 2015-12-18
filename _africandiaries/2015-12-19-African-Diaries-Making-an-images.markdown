@@ -86,7 +86,7 @@ The image here is one such image from a trip to Africa in 2014. On most days, it
 			<strong>Step 3</strong>: I talked about compromises during the execution. In this situation, I would normally use a tripod as the shutter was low. As it was getting late and the occupants were getting restless, I had to use the bean bag and of course we could not go close to the elephants.
 
 
-			In the end, the image I <em>"made"</em> though vastly different to the one I had in my mind was in a sense an achievement. What more to ask from a trip where you could <em>"make"</em> something different from the usual and that is one of the few photographs I could "make" instead of just <em>"take"</em> a snap shot.
+			In the end, the image I <em>"made"</em>, though vastly different to the one I had in my mind was in a sense of an achievement. What more to ask from a trip where you could <em>"make"</em> something different from the usual and that is one of the few photographs I could <em>"make"</em> instead of just <em>"take"</em> a snap shot.
 		</p>
 	</li>
 </ul>
