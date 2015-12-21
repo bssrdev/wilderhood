@@ -24,7 +24,7 @@ In my <a href="{{ site.baseurl }}/africandiaries/2015-12-05-African-Diaries-Sati
 </p>
 
 <p>
-One of my classmates Rahul and I became friends, Rahul was freelancing photographer and had a Minolta X-700 which was a very popular SLR. I had a Yashica Electro-35 with a fixed 45mm f/1.7 lens and aperture priority only range finder. I was limited in what I could with the camera and he always was pushing me to upgrade to a fully manual SLR. Which I did couple of years later
+One of my classmates Rahul and I became friends, Rahul was freelancing photographer and had a <em>Minolta X-700</em> which was a very popular SLR. I had a <em>Yashica Electro-35 with a fixed 45mm f/1.7 lens and aperture priority only range finder</em>. I was limited in what I could with the camera and he always was pushing me to upgrade to a fully manual SLR. Which I did couple of years later!
 </p>
 
 <p>
@@ -45,10 +45,14 @@ This is where the <em>"making an image"</em> comes into play. Why would this be 
 </p>
 
 <p>
-<em>First</em>, this requires you to be inspired, by a scene you have seen earlier or something about how you want to depict a certain subject, or a creative vision. <br>
+<em>First</em>, this requires you to be inspired by a scene you have seen earlier or something about how you want to depict a certain subject or creative a vision. 
+</p>
 
-<em>Second</em>, you have to be on the look out where this inspiration can be put into practice. Not all places, subjects, conditions will be suitable. Some may require rapid adjustments on the photographers side to accommodate the scene into the vision. <br>
+<p>
+<em>Second</em>, you have to be on the look out where this inspiration can be put into practice. Not all places, subjects, conditions will be suitable. Some may require rapid adjustments on the photographers side to accommodate the scene into the vision.
+</p>
 
+<p>
 <em>Third</em>, during the execution, you might have to make compromises. After having gone through this whole process, the outcome no matter how close or far away from the vision yields a sense of achievement.
 </p>
 
@@ -86,8 +90,8 @@ The image here is one such image from a trip to Africa in 2014. On most days, it
 			<strong>Step 3</strong>: I talked about compromises during the execution. In this situation, I would normally use a tripod as the shutter was low. As it was getting late and the occupants were getting restless, I had to use the bean bag and of course we could not go close to the elephants.
 
 
-			In the end, the image I <em>"made"</em>, though vastly different to the one I had in my mind was in a sense of an achievement. What more to ask from a trip where you could <em>"make"</em> something different from the usual and that is one of the few photographs I could <em>"make"</em> instead of just <em>"take"</em> a snap shot.
+			In the end, the image I <em>"made"</em>, though vastly different to the one I had in my mind was in a sense of an achievement. What more to ask from a trip where you could <em>"make"</em> something different from the usual and that is one of the few photographs I could <em>"make"</em> instead of just <em>"take"</em> a snapshot.
 		</p>
 	</li>
 </ul>
-<p>More of the journey in the following week.</p>
+<p>More of the journey in the following week!</p>
