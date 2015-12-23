@@ -7,7 +7,7 @@ header-thumb-img: "img/2015-12-16/RainyDays-LaughingDove-DineshBalakrishnan-thum
 tags:       ["Mammal Destinations"]
 seo: 		["Mammal Destinations", "Kabini", "BigCat Destinations"]
 comments:   true
-sharing-img: "img/2015-12-02/Deforestation-LaughingDove-DineshBalakrishnan.jpg"
+sharing-img: "img/2015-12-16/RainyDays-LaughingDove-DineshBalakrishnan.jpg"
 ---
 
 
