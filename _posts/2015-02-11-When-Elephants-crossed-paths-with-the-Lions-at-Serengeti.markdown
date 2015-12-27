@@ -69,3 +69,7 @@ comments:   true
 <p>The matriarch, noticed this and charged at the lioness with a deafening trumpet and drove her away. The matriarch, finally, seemed to have had enough of this. Since they were all done with the drinking, she decided to move on. Gathering up her family members, she started walking away from the water hole, back on her journey into the Savanna.</p>
 
 <p>All is well that ends well. While some might say, a hunt would have been an awesome moment, I was happy that peace prevailed at last and things settled between the two parties without any bloodshed… </p>
+
+<p>
+Read the part - II of this amazing predator-prey interactions <a href="{{ site.baseurl }}/2015/04/30/TwoLionsnHerd.html" target="_blank">here</a>
+</p>
