@@ -3,7 +3,7 @@ layout:     post
 title:      "Himalayan Birds"
 subtitle:   "Himalayan Birds of Chopta, Deoriya and Makkumath - A Reminiscence"
 author:     "Praveen Purohit"
-tags:       ["Wildlige Destinations", "Birding Destinations", "Landscape Destinations"]
+tags:       ["Wildlife Destinations", "Birding Destinations", "Landscape Destinations"]
 seo:		["Birding Destinations", "Himalayas", "Uttarakhand"]
 comments:   true
 header-img: "img/2015-12-31/Chandrashila-peak-golden.jpg"
