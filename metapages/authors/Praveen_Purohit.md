@@ -3,7 +3,7 @@ layout: blog_by_author
 author_name: Praveen Purohit
 title: Praveen Purohit
 subtitle: Praveen Purohit
-permalink: authors/Praveen Upmanyu Purohit/
+permalink: authors/Praveen Purohit/
 web: http://creativepraveen.com
 email: me@creativepraveen.com
 bio: "Praveen Purohit is a very passionate Nature and Wildlife Photographer specializing in the Himalayan region of Uttarakhand,  India
