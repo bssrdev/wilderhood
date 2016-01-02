@@ -52,8 +52,8 @@ In my trip to Masaai Mara in Oct 2015, I came across a Giraffe at close distance
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe4.JPG"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe4.JPG"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe5.JPG"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe5.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe4.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe4.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe5.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe5.JPG"></a>
 </div>
 
 <p>
@@ -95,9 +95,9 @@ I have included screen shots of the two images from Photoshop so you can have an
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"></a>
 </div>
 
 <p>
