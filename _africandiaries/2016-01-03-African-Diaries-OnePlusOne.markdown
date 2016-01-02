@@ -70,7 +70,7 @@ How does one go about doing this? First when you come across a scene that needs 
 </p>
 
 <p>
-Most important to note is that you need ensure that there are overlapping areas for the software to recognise the points to merge. Otherwise it will not be able to create a composite.
+Most important to note is that you need to ensure that there are overlapping areas for the software to recognise the points to merge. Otherwise it will not be able to create a composite.
 </p>
 
 <p>
