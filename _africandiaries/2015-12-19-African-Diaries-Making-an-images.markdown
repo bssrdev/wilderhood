@@ -63,7 +63,7 @@ It is believed we are more happy when we have this sense of achievement. Achieve
 <p>
 The image here is one such image from a trip to Africa in 2014. On most days, it would rain towards the evening. 
 </p>
-
+<blockquote>
 <ul>
 	<li>
 		<p>
@@ -94,4 +94,5 @@ The image here is one such image from a trip to Africa in 2014. On most days, it
 		</p>
 	</li>
 </ul>
+</blockquote>
 <p>More of the journey in the following week!</p>
