@@ -16,7 +16,7 @@ needFancyBox: true
 
 <p>
 	<ul>
-		<li>Location: Maasai Mara, Kenya.</li>
+		<li>Location: <a href="http://www.wilderhood.com/destination/Masai%20Mara" target="_blank">Maasai Mara</a>, Kenya.</li>
 	</ul>
 </p>
 
