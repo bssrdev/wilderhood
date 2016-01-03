@@ -32,7 +32,7 @@ Something about the equation doesn't seem right?
 </p>
 
 <p>
-We’ll come to that in a moment! First, Wishing you all a happy new year and may the light shine on your images and wishing you have the health, wealth, and the time to visit new places in this new year and create wonderful images that grants you satisfaction and shows the world your perspective of the travel.
+We’ll come to that in a moment! First, <em>Wishing you all a happy new year and may the light shine on your images and wishing you have the health, wealth, and the time to visit new places in this new year and create wonderful images that grants you satisfaction and shows the world your perspective of the travel.</em>
 </p>
 
 <p>
