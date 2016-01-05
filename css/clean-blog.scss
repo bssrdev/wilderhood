@@ -802,20 +802,19 @@ a {
     object-fit: cover;
     object-position: center;
 }
-.w-customised-image-preview {
-    width: 245px;
-    height: 245px;
-    cursor: zoom-in;
-    object-fit: cover;
-    object-position: center;
-  
-}
 @media (min-width: 480px)
 {
 	.w-small-image-preview, .w-small-image-preview-extra {
 		width: 86px;
 		height: 86px;
 	}
+  .w-customised-image-preview {
+    width: 245px;
+    height: 245px;
+    cursor: zoom-in;
+    object-fit: cover;
+    object-position: center;  
+  }
 }
 .w-small-image-preview-extra {
     display: inline-block;
