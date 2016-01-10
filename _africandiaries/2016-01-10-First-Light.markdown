@@ -40,7 +40,7 @@ So in my first trip to Africa, this proverb which was stuck inside my head poppe
 </p>
 
 <p>
-First four days went with no sightings of Cheetah. On the evening of the fourth day, we got to see the famous <em>"Malaika"</em> with six cubs. As the evening was setting, we went back to the camp and Simon our <a href="{{ site.baseurl }}/africandiaries/2015-12-12-African-Diaries-The-guide.html"><em>guide++</em> promised to bring us back next morning. Of all the species in Africa, I was more fascinated with the Cheetah for some reason!
+First four days went with no sightings of Cheetah. On the evening of the fourth day, we got to see the famous <em>"Malaika"</em> with six cubs. As the evening was setting, we went back to the camp and Simon our <a href="{{ site.baseurl }}/africandiaries/2015-12-12-African-Diaries-The-guide.html" target="_blank"><em>guide++</em></a> promised to bring us back next morning. Of all the species in Africa, I was more fascinated with the Cheetah for some reason!
 </p>
 
 <p>
