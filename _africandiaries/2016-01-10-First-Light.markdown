@@ -23,9 +23,9 @@ Nikon D4, Nikon 500mm f/4 VR, ISO 400, 1/250 @ f/16, -2/3 EV Exposure Compensati
 	</ul>
 </p>
 
-<p>
+<blockquote>
 <em>"Every morning in Africa a gazelle awakens knowing it must today run faster than the fastest lion or it will be eaten. Every morning a lion awakens knowing it must outrun the slowest gazelle or it will starve. It matters not whether you are a gazelle or a lion, when the sun rises you had better be running."</em> - African Proverb
-</p>
+</blockquote>
 
 <p>
 I was managing a unit of bright, enthusiastic, and young people for a MNC couple of years ago and as part of my routine, I would walk across the bays chatting up with the teams saying a word of encouragement here and lending an ear to some technical problems the team was trying to resolve! <em>"Management By Walking"</em> was the term someone had used long time ago in one of my jobs abroad. It was the way to connect and the unit in a cohesive manner. I liked it and adopted it. In one such walk,  I paused by the desk of a team member and noticed the above proverb printed along with a background of sunrise and a silhouette of a gazelle and a lion. Searching the web for this proverb attributes this to many sources. I am not sure of the author but seems reasonable to attribute it as an African proverb.
