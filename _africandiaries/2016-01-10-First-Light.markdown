@@ -47,9 +47,9 @@ First four days went with no sightings of Cheetah. On the evening of the fourth 
 True to his word, <a href="https://www.facebook.com/simon.kararei" target="_blank">Simon</a> brought us early morning to the area and since our camp was located in the centre of the mara, reaching the place early was no problem. As we moved in and took a position, I noticed that the area Malaika had chosen was in depression, a small crater, and the sun needed to be a little above for the subject to be lit. The hot air balloons were rising against the eastern sky. In a few moments, the sun rose along the ridge and the  first light hit the subject and from nowhere the proverb popped up and I asked for the vehicle to be placed for a position suitable to capture the scene.
 </p>
 
-<p>
+<blockquote>
 What makes the images with early light so attractive? Perhaps the light itself. soft, golden, from the side illuminating details that are not visible in any other light, or perhaps the deep shadows that are cast which brings in emphasis to the subject. Also, the photographer by choosing the early light showcases scenes that the average viewer does not get to see ordinarily. 
-</p>
+</blockquote>
 
 <p>
 Landscape photographer have done it for years, rising many hours before the sun rises, trekking to the location, setting up and waiting for the greatest show to begin. The moments do not last and a lot of preparation is needed to capture the vision of the photographer. 
