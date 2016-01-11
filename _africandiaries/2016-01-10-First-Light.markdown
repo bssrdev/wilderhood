@@ -67,6 +67,15 @@ So what to do you need to <a href="{{ site.baseurl }}/africandiaries/2015-12-19-
 Coming to Malaika, when we arrived on the scene, all I saw huddled shape that no where resembled a Cheetah. The shape was Malaika and six cubs squeezed around her. As the first light hit her she got up sleepily and one of the active cubs got up too. The mother bonded with her cub licked the cub clean and slowly the other five cubs got up. They were up and running, chasing each other, tumbling down. Never venturing for more than couple of meters away from the mother. To me, it seemed Malaika was enjoying the motherhood watching her cubs play. She stretched, yawned, stood up surveyed the surroundings.
 </p>
 
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing1.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing1.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing2.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing2.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing3.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing4.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing5.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing6.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing6.jpg"></a>
+</div>
+
 <p>
 The proverb while it condenses the entire African day in a sentence is true but for Malaika the hunt would come later in the day. For now, at first light, she was bonding with her family in the glorious rising sun. The cold and dark night filled with uncertainty was over, where predators larger than her were roaming around and danger lurked at every turn.
 </p>
@@ -74,3 +83,4 @@ The proverb while it condenses the entire African day in a sentence is true but 
 <p>
 So when the sun rises what does a Cheetah do? She bonds with her family. Do you?!!
 </p>
+
