@@ -102,7 +102,7 @@ Below is the check list of the birds which I could record during my trip here.
 	<li><span style="color: #3366ff;"><strong>Rock Bunting</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Himalayan Monal</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Jungle Crow</strong></span></li>
-	<li><span style="color: #3366ff;"><strong>Common Myna</strong></span></li>
+	<li><span style="color: #3366ff;"><strong><a href="{{ site.baseurl }}/wildart/2015-10-12-Common-Myna.html" target="_blank">Common Myna</a></strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Grey Treepie</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Blue Capped Redstart</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Himalayan Bulbul</strong></span></li>
@@ -118,7 +118,7 @@ Below is the check list of the birds which I could record during my trip here.
 	<li><span style="color: #3366ff;"><strong>Hodgson’s Stonechat</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Russet Sparrow</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>House Sparrow</strong></span></li>
-	<li><span style="color: #3366ff;"><strong>Spotted Doves</strong></span></li>
+	<li><span style="color: #3366ff;"><strong><a href="{{ site.baseurl }}/wildart/2015-10-19-Spotted-Dove.html" target="_blank">Spotted Dove</a></strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Black-Chinned Babblers</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Himalayan Vulture</strong></span></li>
 	<li><span style="color: #3366ff;"><strong>Bearded Vulture</strong></span></li>
