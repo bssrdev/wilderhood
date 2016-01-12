@@ -35,7 +35,7 @@ Elongated beak, upper mandible colored glossy black, lower mandible is red for t
 </p>
 
 <p>
-With this much description I am sure, you would have guessed already! Well our guest is Common Kingfisher (<em>Alcedo atthis</em>). They prefer streams, rivers, lakes with good green cover on the banks; it could be long growing reeds, shrubs, bushes and also branches that bend down towards the shallow water. Their main diet is fishes, they frequent the branches, sit patiently; shadow blends with the shadow of these branches on the surface of water. Quick dive-in and catches the unaware fish off guard. They are highly territorial, and also their presence at a water-body clearly indicates how healthy that wetland is.
+With this much description I am sure, you would have guessed already! Well our guest is <strong>Common Kingfisher</strong> (<em>Alcedo atthis</em>). They prefer streams, rivers, lakes with good green cover on the banks; it could be long growing reeds, shrubs, bushes and also branches that bend down towards the shallow water. Their main diet is fishes, they frequent the branches, sit patiently; shadow blends with the shadow of these branches on the surface of water. Quick dive-in and catches the unaware fish off guard. They are highly territorial, and also their presence at a water-body clearly indicates how healthy that wetland is.
 </p>
 
 <p>
