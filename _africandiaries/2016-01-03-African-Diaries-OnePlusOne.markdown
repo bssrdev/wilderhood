@@ -95,9 +95,9 @@ I have included screen shots of the two images from Photoshop so you can have an
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe2.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe1.JPG"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-03/AfricanDiaries-Masai-Giraffe3.JPG"></a>
 </div>
 
 <p>

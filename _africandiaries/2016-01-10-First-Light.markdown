@@ -68,12 +68,12 @@ Coming to Malaika, when we arrived on the scene, all I saw huddled shape that no
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing1.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing1.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing2.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing2.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing3.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing3.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing4.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing4.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing5.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing5.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing6.jpg"> <img class="w-customised-image-preview small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing1.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing1.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing2.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing2.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing4.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing5.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-01-10/AfricanDiaries-Masai-Cheetah-Malaika-Cubs-Playing6.jpg"></a>
 </div>
 
 <p>
