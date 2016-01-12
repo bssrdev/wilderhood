@@ -73,7 +73,7 @@ Makku Bend is a very famous birding stop, and I stay here for the next 2 nights,
 
 
 <p>
-We will be capturing a lot of these and many more beautiful birds in our week long Himalayan Birding camp of Chopta, Deoriya and Makkumath in the Month of Jan 2016. You can check the expedition details <a href="http://creativepraveen.com/event/makkumath-a-birders-paradise-jan-2016-batch-ii" target="_blank">here.</a>
+We will be capturing a lot of these and many more beautiful birds in our week long Himalayan Birding camp of Chopta, Deoriya and Makkumath in the Month of Jan 2016. You can check the expedition details <a href="http://www.wilderhood.com/trip/Makkumath-An%20Unexplored%20Birding%20Paradise" target="_blank">here.</a>
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-12-31/MG_4752-1024x683.jpg" alt="Himalayan Birds of Chopta, Deoriya, Makkumath">
