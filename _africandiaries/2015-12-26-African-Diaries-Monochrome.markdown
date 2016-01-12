@@ -53,7 +53,7 @@ In my earlier film days, I used to carry varying colour filters to create dramat
 </p>
 
 <p>
-In the above photograph of a white Rhino in Lake Nakuru, I took the photograph in colour and the B&W conversion happened during the post processing and I must confess, the decision to go B&W happened during the review and not during the time of making the image. The underexposure of <em>-2 EV</em> was to create a dramatic effect of the backlight but a monochromatic scene was not the thought at the moment.
+In the above photograph of a white Rhino in <a href="http://www.wilderhood.com/destination/Lake%20Nakura" target="_blank">Lake Nakuru</a>, I took the photograph in colour and the B&W conversion happened during the post processing and I must confess, the decision to go B&W happened during the review and not during the time of making the image. The underexposure of <em>-2 EV</em> was to create a dramatic effect of the backlight but a monochromatic scene was not the thought at the moment.
 </p>
 
 <p>
