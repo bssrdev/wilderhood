@@ -43,9 +43,13 @@ In nature and wildlife photography one encounters typically two types of scenes.
 		</li>
 
 		<li>
-			<em>In the dynamic scene</em>, there is action which leads to multiple image making opportunities. Examples are the famous wildebeest crossing during the great migration, and predator and prey during hunting. Nature is so dynamic that on occasions a static scene turns into a dynamic one within no time. As you are photographing a peaceful herd of deer, suddenly two males could start a sparring, the presence of a predator could completely change the scene. The slow moving elephant may suddenly decide to charge up. Even in landscape photography, a flock of birds flying into the frame alters the mood dramatically! 
+			<em>In the dynamic scene</em>, there is action which leads to multiple image making opportunities. Examples are the famous wildebeest crossing during the great migration, and predator and prey during hunting. 
 		</li>
 	</ol>
+</p>
+
+<p>
+Nature is so dynamic that on occasions a static scene turns into a dynamic one within no time. As you are photographing a peaceful herd of deer, suddenly two males could start a sparring, the presence of a predator could completely change the scene. The slow moving elephant may suddenly decide to charge up. Even in landscape photography, a flock of birds flying into the frame alters the mood dramatically! 
 </p>
 
 <p>
@@ -65,21 +69,25 @@ At one point few wildebeest got down the slope closer to the lioness and started
 </p>
 
 <p>
-The lioness which I had written off as no threat to the herd was on its way down from the slope and attempting to hunt down the wildebeest. I moved the camera from the crossing to the left hand side where the lioness was in full chase and the herd in total disarray. Without realising the settings I had a few moments ago, I composed, focussed and started clicking. The action lasted 2 seconds and 18 frames, first frame of the lioness charging was at 15:36:59.50 and the eighteenth frame ended at 15:37:01.70. The lioness darted down. The herd was in a stampede. It could not isolate a single target, moved up the slope and the kill happened behind the bushes. 
+The lioness which I had written off as no threat to the herd was on its way down from the slope and attempting to hunt down the wildebeest. I moved the camera from the crossing to the left hand side where the lioness was in full chase and the herd in total disarray. Without realising the settings I had a few moments ago, I composed, focussed and started clicking. 
 </p>
+
+<blockquote>
+The action lasted 2 seconds and 18 frames, first frame of the lioness charging was at 15:36:59.50 and the eighteenth frame ended at 15:37:01.70. The lioness darted down. The herd was in a stampede. It could not isolate a single target, moved up the slope and the kill happened behind the bushes. 
+</blockquote>
 
 <p>
 Once the chase was over and adrenalin rush subsided, I checked the screen and was upset at the settings that I failed to correct for the scene. At 1/50, the shutter was not enough to freeze the action. Two turns of the wheel and I could have raised the shutter to a action freezing <em>1/500 or 1/1000</em>. Getting immersed in the action, I had totally failed to check the shutter speed.
 </p>
 
 <p>
-I was about to delete the images as the subject motion would have rendered a unusable image. I paused and decided to check it out later on a computer screen. 
+I was about to delete the images as the subject motion would have rendered unusable image. I decided to check it out later on a computer screen. 
 </p>
 
 <p>
-It’s been three months since the trip and I revisited those images. Action stopping images they are not. Are they sharp, yes, the rocks, the shrubs, and even hind legs of the lion are sharp but there is subject motion which of course conveys a different mood to the image.
+It’s been three months since the trip and I revisited those images. They aren't sharp enough, but the rocks in the image, the shrubs, and even hind legs of the lion are sharp. The subject is in motion, which is of course conveys a different mood to the image.
 </p>
 
 <p>
-This is the strange and funny part I was referring to, in the beginning of the article. Sometimes you end with an image that you did not intent to make, it creates something more interesting than the original in a photographers mind. A friend of mine had taken a very successful image of a leopard climbing down a tree some years ago. The downward movement of the lens following the leopard coupled with slow shutter speed created a very dramatic image conveying speed. I congratulated the photographer on the thought to use panning in a vertical mode. Usual panning shots are horizontal. I have been told it just happened :)!
+This is the strange and funny part I was referring to, in the beginning of the article. Sometimes you end with an image that you did not intent to make. It creates something more interesting than the original in a photographer's mind. A friend of mine had taken a very successful image of a leopard climbing down a tree some years ago. The downward movement of the lens following the leopard coupled with slow shutter speed created a very dramatic image conveying speed. I congratulated the photographer on the thought to use panning in a vertical mode (Usually panning shots are horizontal). I have been told it just happened :)!
 </p>
