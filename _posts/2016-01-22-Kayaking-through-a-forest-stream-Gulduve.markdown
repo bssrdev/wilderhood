@@ -135,5 +135,5 @@ An afternoon well spent <strong>with nature</strong>.
 </p>
 
 <p>
-For more information on mail to <a href="mailto:bootstraping@gmail.com" target="_top">Gaia Farms</a>,
+For more information mail to <a href="mailto:bootstraping@gmail.com" target="_top">Gaia Farms</a>,
 </p>
