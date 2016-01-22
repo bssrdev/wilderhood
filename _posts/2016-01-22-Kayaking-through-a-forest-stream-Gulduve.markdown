@@ -109,7 +109,7 @@ Once the water got shallow again, <em>plop!!</em> Into the water again, we would
 
 <div class="exif">Photograph by Adithi Muralidhar</div>
 
-<img src="{{ site.baseurl }}/img/2016-01-22/kingfisher-am-mumbai-common-Kingfisher.jpg" alt="Shot somewhere in Mumbai, similar habitat as Gulduve and used for reference here! Kayaking through a forest stream - Gulduve. Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
+<img src="{{ site.baseurl }}/img/2016-01-22/kingfisher-am-mumbai-common-Kingfisher.jpg" alt="Shot somewhere in Mumbai and used for reference here! Kayaking through a forest stream - Gulduve. Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
 
 <div class="exif">Photograph by Adithi Muralidhar</div>
 
