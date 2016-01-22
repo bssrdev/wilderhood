@@ -43,7 +43,7 @@ As a consolation, our friends added: <em>“They tend to stay away, so don’t w
 </p>
 
 <p>
-Well, muggers are not ill-reputed unlike their cousins, the salt water crocodiles. So I took their word for it. Wildlife in general, tends to stay away from us. I soon lost those worrying trails of thought because what lay ahead of me seemed like paradise. 
+Well "muggers" are not ill-reputed like their cousins, the salt water crocodiles. So I took their word for it. Wildlife in general, tends to stay away from us. I soon lost those worrying trails of thought because what lay ahead of me seemed like paradise. 
 </p>
 
 <p>
@@ -51,7 +51,7 @@ The water had a greenish hue and you could occasionally see schools of fishes sw
 </p>
 
 <p>
-We took turns at rowing and I tried to master the art of using the oar as a rudder. Since we had only one oar, Atul’s flip-flops served as the second oar! After what seemed like a blissful ten minutes, we started to come across routes which had more human interfaces. The stream here was wider and you could see that the banks were frequented by people; there were flat stones (on which people can sit) and footprints all over the bank. A middle aged woman who was washing clothes at the bank, watched us in amusement as fumbled with the oar.
+We took turns at rowing and I tried to master the art of using the oar as a rudder. Since we had only one oar, Atul’s flip-flops served as the second oar! After what seemed like a blissful ten minutes, we started to come across routes which had more human interfaces. The stream here was wider and you could see that the banks were frequented by people; there were flat stones (on which people can sit) and footprints all over the bank. A middle aged woman who was washing clothes at the bank, watched us in amusement as we fumbled with the oar.
 </p>
 
 <p>
@@ -67,7 +67,7 @@ As we hit the palm tree, we saw large amounts of orangish-brown froth (probably 
 </p>
 
 
-<img src="{{ site.baseurl }}/img/2016-01-22/kayaking-am3.jpg" alt="Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
+<img src="{{ site.baseurl }}/img/2016-01-22/kayaking-am3.jpg" alt="Shot somewhere in Goa, similar water body as Gulduve and used for reference here! Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
 
 <div class="exif">Photograph by Adithi Muralidhar</div>
 
@@ -105,21 +105,25 @@ On one such particular stretch, I remember, I was pushing the Kayak and Atul was
 Once the water got shallow again, <em>plop!!</em> Into the water again, we would jump! It was quiet now. Since it was past noon, all human activities ceased. The villagers must have headed back to their homes for lunch or an afternoon siesta. It was just us and nature. Thanks to the undisturbed path that lay ahead, we were treated to a kingfisher show. 
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-01-22/kayaking-am5-White-throated-Kingfisher.jpg" alt="Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
+<img src="{{ site.baseurl }}/img/2016-01-22/kayaking-am5-White-throated-Kingfisher.jpg" alt="Shot somewhere in Goa, similar habitat as Gulduve and used for reference here! Kayaking through a forest stream - Gulduve. Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
 
 <div class="exif">Photograph by Adithi Muralidhar</div>
 
-<img src="{{ site.baseurl }}/img/2016-01-22/kingfisher-am-mumbai-common-Kingfisher.jpg" alt="Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
+<img src="{{ site.baseurl }}/img/2016-01-22/kingfisher-am-mumbai-common-Kingfisher.jpg" alt="Shot somewhere in Mumbai, similar habitat as Gulduve and used for reference here! Kayaking through a forest stream - Gulduve. Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
 
 <div class="exif">Photograph by Adithi Muralidhar</div>
 
 
 <p>
-We saw about seven small kingfishers parked on the low-hanging branches eagerly spying on the fish and making their move. The more abundant common kingfishers and the rare blue eared kingfisher looked like sapphire and azure streaks when they criss-crossed our paths. Once in a while, we would encounter the white throated kingfisher too! Birds were chirping and curious grey langurs followed and gave us threatening looks. The larger langurs swung branch to branch keeping up with our kayak, while the smaller ones hid behind the bark and gave us curious looks.  We were so carried away by the beauty and the serenity of the stream and all the wildlife that we saw, that we missed our starting point! We ended up going further upstream till we reached a bridge. We turned our kayak around and this time, let the flow take us down (again!). We paid more attention to the banks this time, since we had to identify our original docking place. Finally we reached our spot and managed to dock. We got out and were about to drag the kayak on to the bank when a beautiful snake slithered her way through the bushes allowing us to pull the kayak on to the bank near the bushes. 
+We saw about seven small kingfishers parked on the low-hanging branches eagerly spying on the fish and making their move. The more abundant common kingfishers and the rare blue eared kingfisher looked like sapphire and azure streaks when they criss-crossed our paths. Once in a while, we would encounter the white throated kingfisher too! Birds were chirping and inquisitive grey langurs followed and gave us threatening looks. The larger langurs swung branch to branch keeping up with our kayak, while the smaller ones hid behind the bark and gave us curious looks.  We were so carried away by the beauty and the serenity of the stream and all the wildlife that we saw, that we missed our starting point! We ended up going further upstream till we reached a bridge. We turned our kayak around and this time, let the flow take us down (again!). We paid more attention to the banks this time, since we had to identify our original docking place. 
 </p>
 
 <p>
-An afternoon well spent <strong>with nature</strong>. 
+Finally we reached our spot and were about to dock, when a beautiful snake calmly slithered her way through the bushes near the bank. We waited for her to pass and then we docked. 
+</p>
+
+<p>
+Indeed, it was afternoon well spent with nature. 
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-01-22/kayaking-am6.jpg" alt="Kayaking through a forest stream - Gulduve, Sindhudurg District, Maharashtra. Wilderhood Recitals by Adithi Muralidhar">
@@ -127,7 +131,7 @@ An afternoon well spent <strong>with nature</strong>.
 <div class="exif">Photograph by Adithi Muralidhar</div>
 
 <p>
-<strong>Additional information on Gaia Farms:</strong> Gaia Farm@Gulduve is one of the pioneering initiatives of GaiaMitra, which is a movement of people committed to evolving a nature-rooted heart centred alternative model for human development based on the notion of regeneration not consumption. Some of the initiatives at Gaia Farm include- regenerating the soil through natural means, permaculture, bio-diversity research, learning from indigenous knowledge of the ecosystem and construction techniques and fusing it with modern knowledge from outside. One of the main aims of the Farm is to create revenue models for the villagers by sustainably using the locally avilable resources in production techniques at the same time respecting the value and worth of the local ecosystem.  (Source: <a href="http://gaiamitra.in" target="_blank">GaiMitra</a>; <em>site under construction</em>).
+<strong>Additional information on Gaia Farms:</strong> Gaia Farm @ Gulduve is one of the pioneering initiatives of GaiaMitra, which is a movement of people committed to evolving a nature-rooted heart centred alternative model for human development based on the notion of regeneration not consumption. Some of the initiatives at Gaia Farm include- regenerating the soil through natural means, permaculture, bio-diversity research, learning from indigenous knowledge of the ecosystem and construction techniques and fusing it with modern knowledge from outside. One of the main aims of the Farm is to create revenue models for the villagers by sustainably using the locally avilable resources in production techniques at the same time respecting the value and worth of the local ecosystem.  (Source: <a href="http://gaiamitra.in" target="_blank">GaiMitra</a>; <em>site under construction</em>).
 </p>
 
 <p>
