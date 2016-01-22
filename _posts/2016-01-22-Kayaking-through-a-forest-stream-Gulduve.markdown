@@ -133,3 +133,7 @@ An afternoon well spent <strong>with nature</strong>.
 <p>
 <strong>How to reach Gaia Farms:</strong>  Maharashtra State transport buses pass through Gulduve main road (near Aronda). You can get off and ask for Joshiwadi. Alternatively you can drive from Maharashtra side or Goa side; the farm is located in <em>'Joshiwadi'</em> hamlet of Gulduve Village Panchayat in Sawantwadi Taluk, Sindhudurg District, Maharashtra.
 </p>
+
+<p>
+For more information on mail to <a href="mailto:bootstraping@gmail.com" target="_top">Gaia Farms</a>,
+</p>
