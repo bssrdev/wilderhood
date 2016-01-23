@@ -14,7 +14,7 @@ comments:   true
 
 <p> Ranthambhore was established as the Sawai Madhopur Game Sanctuary in 1955 by the Government of India and was declared one of the Project Tiger reserves in 1973. Ranthambore became a national park in 1980. In 1984, the adjacent forests were declared the Sawai Man Singh Sanctuary and Keladevi Sanctuary, and in 1991 the tiger reserve was enlarged to include the Sawai Man Singh and Keladevi sanctuaries.</p>
 
-<p><strong>Ranthambore wildlife sanctuary</a></strong> <em> is known for its tigers and is one of the best places in India to see these majestic predators in the jungle.</em></p>
+<blockquote><em>Ranthambore wildlife sanctuary is known for its tigers and is one of the best places in India to see these majestic predators in the jungle.</em></blockquote>
 
 <p> The park lies at the edge of a plateau and is bounded to the north by the Banas River and to the south by the Chambal River. There are several lakes in the park. It is named after the historic Ranthambhore fortress, which is located within the national park. The park covers an area of 392 km². It is known for its tiger population and is one of India's Project Tiger reserves. Ranthambore is the site of one of the largest banyan trees in India.</p>
 
