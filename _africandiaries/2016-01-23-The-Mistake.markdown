@@ -31,7 +31,7 @@ I am talking about the mistakes one does when photographing a dynamic action-ori
 </p>
 
 <p>
-What happens when the dynamic scene is rapidly changing events and have multiple choices for creating an image. When a photographer is not ready for these events and does not change the settings, strange and funny things might happen. 
+What happens in the dynamic scene is that rapidly changing events have multiple choices for creating an image. When a photographer is not ready for these events and does not change the settings, strange and funny things happen.
 </p>
 
 <p>
@@ -39,7 +39,7 @@ In nature and wildlife photography one encounters typically two types of scenes.
 
 	<ol>
 		<li>
-			<em>A static scene or a scene with relatively slow movement of the subject</em>; this type of scene will have a single subject where the photographer focussing one's attention and is the main part of the image. For e.g., A serene landscape, a flower, a deer grazing or an elephant in its slow and graceful walk or a leopard on a tree. In situations like these the photographer can take an image, review the image and change the settings and take one more.
+			<em>A static scene or a scene with relatively slow movement of the subject</em>; this type of scene will have a single subject where the photographer focusses one's attention and this is the main part of the image. For e.g., A serene landscape, a flower, a deer grazing or an elephant in its slow and graceful walk or a leopard on a tree. In situations like these the photographer can take an image, review the image and change the settings and take one more.
 		</li>
 
 		<li>
@@ -90,4 +90,12 @@ It’s been three months since the trip and I revisited those images. They aren'
 
 <p>
 This is the strange and funny part I was referring to, in the beginning of the article. Sometimes you end with an image that you did not intent to make. It creates something more interesting than the original in a photographer's mind. A friend of mine had taken a very successful image of a leopard climbing down a tree some years ago. The downward movement of the lens following the leopard coupled with slow shutter speed created a very dramatic image conveying speed. I congratulated the photographer on the thought to use panning in a vertical mode (Usually panning shots are horizontal). I have been told it just happened :)!
+</p>
+
+<p>
+So is it still an image worth anything at all ? Can it be counted as a photograph taken by the photographer? I don’t have an answer but many discoveries and inventions were by an act of accident. Glass which is a vital component of the tools for a photographer seems to be an accidental discovery by sailors lighting up a fire near a seashore ages ago.
+</p>
+
+<p>
+Does this photograph of the lioness hunting wildebeest with subject motion work? you tell me..!
 </p>
