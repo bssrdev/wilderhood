@@ -59,7 +59,7 @@ After this stretch, it was absolute solitude – there was no trace of any human
 </p>
 
 <p>
-The flow was getting stronger and we were thinking of turning back when we realised that there was anyway no way we could go further. A palm tree had fallen right across the breadth of the stream and blocked our path. We <em>had</em> to turn back. 
+The flow was getting stronger and we were thinking of turning back when we realised that there was no way we could go further. A palm tree had fallen right across the breadth of the stream and blocked our path. We <em>had</em> to turn back. 
 </p>
 
 <p>
