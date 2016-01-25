@@ -1,0 +1,70 @@
+---
+layout:     post
+title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
+subtitle:   "Birds of Bangalore - Week 24"
+author:     "Prasad Natarajan"
+header-thumb-img: "img/2016-01-25/Rock-Dove_Prasad-Natarajan-thumb.jpg"
+tags:       ["Bangalore Wildlife", "Birding Destinations"]
+seo: 		["Birding Destinations", "Bangalore", "wildart"]
+comments:   true
+sharing-img: "img/2016-01-25/Rock-Dove_Prasad Natarajan.jpg"
+---
+
+
+<img src="{{ site.baseurl }}/img/2016-01-25/Rock-Dove_Prasad Natarajan.jpg" alt="Oriental Rock Dove, Urban Rocker, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 24">
+
+<p>
+	<ul>
+		 <li>Title: Urban Rocker!</li>
+		 <li>Medium: Ink and water color on paper</li>
+		 <li>Duration: 16 hours</li>
+		 <li>January 24th, 2016</li>
+ 	</ul>
+</p>
+
+<p>
+Welcome back to everyone, after a super event about Birds of Bangalore at Wolfpack Outdoors organized by Wilderhood, I am all excited and spoke about the twenty three birds and how to retain them inside Bangalore. Looking forward for more of such talks! This week though I didn't venture out, had already made field notes about the bird of this week. They are found everywhere, sitting on watertanks, found flocking empty balconies, had to sit in my balcony and watch them all day. 
+</p>
+
+<p>
+They are about the size of common crow, with pointed bill, colored black, just at the upper end of the upper mandible there is white bulge, crown is bluish gray, followed by glowing green and purple ring like pattern. Eye is colored orange with black iris. Nape is black, breast as spotted black dot patterns, major color is bluish gray. Tarsus is reddish pink colored in both sexes. Both male and female look similar except females don't sport the glowing green and purple ring like pattern. The two black bars on its pale grey wings are found all them. The tail has a black band on the end and the outer web of the tail feathers are margined with white. Young ones are smaller in size and bluish gray is much duller. 
+</p>
+
+<p>
+We are discussing about Rock Dove(<em>Columba livia</em>) this week. They are commonly found all over Bangalore. They mainly feed on grains; hence these pigeons usually raid the farmlands at the outskirts. They feed through the day and their demand is met through the grain feeding people at parks and other public places. Pigeons feed on the ground in flocks or individually. They roost together in buildings or on walls or statues. When drinking, most birds take small sips and tilt their heads backwards to swallow the water whereas Pigeons are able to dip their bills into the water and drink continuously without having to tilt their heads back. 
+</p>
+
+<p>
+They breed throughout the year, also both male and female after mating stay together and raise the younger ones, which helps in successful upbringing. Males don't mate with multiple partners. Both partners build the nest. Nests are built almost on any object in tall buildings, like the Air conditioner ducts in huge apartments. Vertically growing buildings are ideal for these pigeons, since they resemble their natural habitat "the cliffs".   
+</p>
+
+<p>
+<a href="{{ site.baseurl }}/wildart/2015-09-28-Black-Kite.html" target="_blank">Black Kites</a>, Shikras, Eagle Owls and most of the raptors prefer to prey on these pigeons. Garden lizards, Snakes, and Crows attack their nests for eggs as well. Many, mainly used in long flying tournaments, also domesticate these pigeons. Generally they are domesticated as pets as well. 
+</p>
+
+<p>
+They play host to many parasites. Birds poop is usually contain high amount of ammonia and acids since they don't urinate. Most of these pigeons are found resting in and around flyover pillars, the 40 years old  bridge, which crosses the Mississippi river in Minnesota  crashed on 24 August 2007, killing 13 people and injuring hundreds of commuters. Researchers blame the pigeon poop for this accident, it is said that ammonia when mixed with water makes the iron beams rust faster. Since these birds built their nest around human settlements, people are constantly exposed to their poop.  Affects of longer exposure to ammonia are:
+
+	<ol>
+		<li>
+			 <em>Inhalation:</em> Ammonia is irritating and corrosive. Exposure to high concentrations of ammonia in air causes immediate burning of the nose, throat and respiratory tract. This can cause bronchiolar and alveolar edema, and airway destruction resulting in respiratory distress or failure. Inhalation of lower concentrations can cause coughing, and nose and throat irritation. Ammonia's odour provides adequate early warning of its presence, but ammonia also causes olfactory fatigue or adaptation, reducing awareness of one's prolonged exposure at lower concentrations. Children exposed to the same concentrations of ammonia vapor as adults may receive a larger dose because they have greater lung surface area-to-body weight ratios and increased minute volumes-to-weight ratios. In addition, they may be exposed to higher concentrations than adults in the same location because of their shorter height and the higher concentrations of ammonia vapor initially found near the ground. 
+		</li>
+
+		<li>
+			<em>Skin or eye contact:</em> Exposure to low concentrations of ammonia in air or solution may produce rapid skin or eye irritation. Higher concentrations of ammonia may cause severe injury and burns. Contact with concentrated ammonia solutions such as industrial cleaners may cause corrosive injury including skin burns, permanent eye damage or blindness. The full extent of eye injury may not be apparent for up to a week after the exposure. Contact with liquefied ammonia can also cause frostbite injury. 
+		</li>
+
+		<li>
+			<em>Ingestion:</em> Exposure to high concentrations of ammonia from swallowing ammonia solution results in corrosive damage to the mouth, throat and stomach. 
+		</li>
+	</ol>
+
+</p>
+
+<p>
+I have seen many people feeding these pigeons at parks and public places and also have observed them trying to get close to these birds. Feeding any bird for that matter as per me is not a good idea, in the long run these birds will lose their ability to feed on their own and become completely depended on humans. Also when we try to get close to these birds, initially birds would fly off due to fear however if this behavior is constant they might lose fear of humans and more bird attacks are possible. Birds might get aggressive when someone is going to feed them. Hence we need to think before meddling with nature!
+</p>
+
+<p>
+So until next time, keep watching.
+</p>
