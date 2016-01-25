@@ -11,7 +11,7 @@ sharing-img: "img/2016-01-25/Rock-Dove_PrasadNatarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2016-01-25/Rock-Dove_PrasadNatarajan.jpg" alt="Oriental Rock Dove, Urban Rocker, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 24">
+<img src="{{ site.baseurl }}/img/2016-01-25/Rock-Dove_PrasadNatarajan.jpg" alt="Rock Dove, Urban Rocker, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 24">
 
 <p>
 	<ul>
