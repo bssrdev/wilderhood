@@ -23,13 +23,13 @@ Major part of the lake is covered by weeds. Though the lake is maintained by Lak
 
 <img src="{{ site.baseurl }}/img/2015-10-31/Little_Grebe.jpg" alt="Little Grebe, Agara Lake, Bangalore">
 
-<p>Little Grebe</p>
+<p><a href="{{ site.baseurl }}/wildart/2015-12-14-Dabchick.html" target="_blank">Little Grebe</a></p>
 
 <p>I had a quick chat with an on-duty official from LDA.  According to her, last year this lake hosted close to 250 spot billed pelicans and was a perfect place for breeding. However, this year very few pelicans were seen due to lack of rain. Letting sewage into the lake was also one of the reasons.</p>
 
 <img src="{{ site.baseurl }}/img/2015-10-31/Eurasian_Coot.jpg" alt="Eurasian Coot, Agara Lake, Bangalore">
 
-<p>Eurasian Coot</p>
+<p><a href="{{ site.baseurl }}/wildart/2015-08-10-CommonCoot.html" target="_blank">Eurasian Coot</a></p>
 
 <p>
 I was pleased with beautiful sightings of storks, pelicans and coots. Harmony prevailed among them.
@@ -38,7 +38,7 @@ I was pleased with beautiful sightings of storks, pelicans and coots. Harmony pr
 <img src="{{ site.baseurl }}/img/2015-10-31/Spot_Billed_Pelican.jpg" alt="Spot Billed Pelican, Agara Lake, Bangalore">
 
 <p>
-Spot Billed Pelican
+<a href="{{ site.baseurl }}/wildart/2015-12-21-Lake-Punk.html" target="_blank">Spot Billed Pelican</a>
 </p>
 
 <p>Spot billed pelicans were roosting comfortably. They dipped their long-funneled bill into the water to find prey.
