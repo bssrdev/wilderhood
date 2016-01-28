@@ -84,10 +84,10 @@ We had sightings of the vultures in different locations. Highlight was obviously
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg"></a>
 </div>
 
 <h3>
@@ -99,10 +99,10 @@ Other sightings we had was Laggar Falcon, Cream Courser and Tawny Eagle.
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg"></a>
 </div>
 
 <h3>
@@ -114,9 +114,9 @@ After a long tiring day in the safari, in the evening we had traditional Rajasth
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg"></a>
 </div>
 
