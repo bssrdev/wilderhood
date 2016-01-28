@@ -7,6 +7,7 @@ tags:       ["Birding Destinations", "Wildlife Destinations", "Landscape Destina
 seo: 		["Travel", "Birding Destinations"]
 comments:   true
 header-img: "img/2015-05-20/Desert_national_park.jpg"
+needFancyBox: true
 ---
 
 
@@ -57,10 +58,12 @@ REGULAR SPOTTER - DESERT FOX
 One of the regular spotted animal was Desert Fox. We had almost more than 10 encounters with this. It started with the 1st day and was constantly spotted on till the last day. Every fox we stopped, to see if it was Indian fox and it turned out to be Desert fox. I joked to my friend that we might see a fox in the sand dunes close to our tent in the moon light and it turned out that a fox was seen walking, for few minutes we both thought we were hallucinating but when we went to dunes, we could see the pug marks of the fox which confirmed our sighting. Later our guide also confirmed that they have seen fox in the dunes previously.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox5.jpg" alt="Desert Fox, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox6.jpg" alt="Desert Fox, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox7.jpg" alt="Desert Fox, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox8.jpg" alt="Desert Fox, DNP, Rajasthan">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox5.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox7.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox8.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Desert_Fox8.jpg"></a>
+</div>
 
 <h3>
 THE EVER ELUSIVE INDIAN FOX
@@ -80,11 +83,12 @@ VULTURES
 We had sightings of the vultures in different locations. Highlight was obviously the King Vulture both male and female in one frame in the early morning hours.
 </p>
 
-
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg" alt="Vultures, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg" alt="Vultures, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg" alt="Vultures, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg" alt="Vultures, DNP, Rajasthan">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures12.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures10.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures11.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Vultures13.jpg"></a>
+</div>
 
 <h3>
 OTHER SIGHTINGS
@@ -94,10 +98,12 @@ OTHER SIGHTINGS
 Other sightings we had was Laggar Falcon, Cream Courser and Tawny Eagle.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg" alt="Laggar Falcon, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg" alt="Cream Courser, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg" alt="Tawny Eagle, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg" alt="Tawny Eagle, DNP, Rajasthan">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Laggar_Falcon14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Cream_Courser15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Tawny_Eagle17.jpg"></a>
+</div>
 
 <h3>
 NIGHT LIFE
@@ -107,7 +113,10 @@ NIGHT LIFE
 After a long tiring day in the safari, in the evening we had traditional Rajasthani folk and dance performance from the local Manganiar community. We were entertained to some traditional songs and some songs which have been adapted to Bollywood movies along with the traditional dance. Night walk in the sand were also a possibility which we explored. In the end, I would like to say this is one such place people have to visit either you can be a wild-life photographer or a common person who want to take a relaxed trip. Both have something which they can take back from the trip.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg" alt="Night life, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg" alt="Night life, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg" alt="Night life, DNP, Rajasthan">
-<img src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg" alt="Night life, DNP, Rajasthan">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life18.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life19.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life20.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-20/Desert_national_park_Night_life21.jpg"></a>
+</div>
+

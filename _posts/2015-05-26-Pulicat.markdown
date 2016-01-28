@@ -7,6 +7,7 @@ tags:       ["Birding Destinations", "Landscape Destinations", "Wildlife Destina
 seo:		["Birding Destinations", "Pulicat"]
 comments:   true
 header-img: "img/2015-05-26/Pulicat1.jpg"
+needFancyBox: true
 ---
 
 
@@ -29,22 +30,26 @@ SIGHTINGS
 The lake area where sightings are observed are basically in two specific locations. One side is predominantly Flamingo, White Bellied sea eagle (WBSE). We also found Black tailed godwits and Pacific golden plovers in this location. Early morning light and good flock of Flamingos are the best subjects to shoot in mornings. We were lucky to have multiple sightings of the WBSE. Once we are finished shooting Flamingos and WBSE we moved towards Plovers, Sanderlings, Sandpipers, Ruddy Turnstone and Wimbrel.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat3.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat4.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat5.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat6.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat7.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat8.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat4.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat5.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat7.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat8.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat8.jpg"></a>
+</div>
 
 <p>
 Terns and Gulls are sighted in different locations in the lake. It is an amazing sight to watch hundreds of them fly around.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat9.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat10.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat11.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat12.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat13.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat9.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat9.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat10.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat10.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat11.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat11.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat12.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat12.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat13.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat13.jpg"></a>
+</div>
 
 <p>
 As a final conclusion, I would like to add this is a must go place in the birding season because it has always thrown surprises in terms of its sightings.

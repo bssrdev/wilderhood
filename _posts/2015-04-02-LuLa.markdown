@@ -3,10 +3,11 @@ layout:     post
 title:      "Luminous Landscapes (LuLa)"
 subtitle:   "Luminous Landscapes (LuLa)"
 author:     "Sriharsha Ganjam"
-tags:       ["Monsoon Destinations", "Goa Wildlife", "Wildlife Destinations", "Landscape Destinations"]
+tags:       ["Monsoon Destinations", "Goa Wildlife", "Wildlife Destinations", "Landscape Destinations", "Tips and Tricks"]
 seo:		["Monsoon", "Landscape Destinations"]
 comments:   true
 header-img: "img/2015-04-02/goa4.jpg"
+needFancyBox: true
 ---
 
 <p>
@@ -46,11 +47,13 @@ Our First Expedition (Introducing Luminous Landscapes)
 The more collection of Bioluminescence
 </h4>
 
-<img src="{{ site.baseurl }}/img/2015-04-02/goa1.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa4.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa5.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa6.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa7.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa2.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa3.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
-<img src="{{ site.baseurl }}/img/2015-04-02/goa8.jpg" alt="Bioluminescence, Chorla Ghats, Goa">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa1.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa1.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa2.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa2.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa3.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa4.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa5.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa6.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa7.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa7.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-04-02/goa8.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-04-02/goa8.jpg"></a>
+</div>

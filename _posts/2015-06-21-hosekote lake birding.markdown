@@ -7,6 +7,7 @@ header-img: "img/2015-06-21/Hosekote1.jpg"
 tags:       ["Wildlife Destinations", "Birding Destinations", "Bangalore Wildlife"]
 seo:		["Birding Destinations", "Bangalore"]
 comments:   true
+needFancyBox: true
 ---
 
 A day of PLENTIFUL!
@@ -24,11 +25,12 @@ The moment we entered the lake, we saw a tree full of hundreds of Barn Swallows.
 
 After a bit more walking into the lake, we saw a huge flock of Little Stints settling in the water. Later they started flying in a synchronized way, showing their white underside. They flew for a distance and suddenly changed direction, showing their dark upper side. White a minute ago and black a minute later, it was magical. 
 
-<img src="{{ site.baseurl}}/img/2015-06-21/Hosekote4.jpg" alt="Little Stints">
-<img src="{{ site.baseurl}}/img/2015-06-21/Hosekote5.jpg" alt="">
-<img src="{{ site.baseurl}}/img/2015-06-21/Hosekote6.jpg" alt="">
-<img src="{{ site.baseurl}}/img/2015-06-21/Hosekote7.jpg" alt="White">
-<img src="{{ site.baseurl}}/img/2015-06-21/Hosekote8.jpg" alt="Black">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-21/Hosekote4.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-21/Hosekote4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-21/Hosekote5.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-21/Hosekote5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-21/Hosekote6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-21/Hosekote6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-21/Hosekote7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-21/Hosekote7.jpg"></a>	
+</div>
 
 <h4>Fishes</h4>
 

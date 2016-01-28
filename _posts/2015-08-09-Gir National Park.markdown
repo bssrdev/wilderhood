@@ -7,6 +7,7 @@ header-img: "img/2015-08-09/Gir2.jpg"
 tags:		["Gir", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations"]
 seo:        ["BigCats", "Gir", "Lions"]
 comments:   true
+needFancyBox: true
 ---
 
 <h3>INTRODUCTION</h3>
@@ -21,54 +22,66 @@ comments:   true
 
 <p>Our safari started with sighting of a senior male lion, “Raju” bhai. It was early hours of morning and there was not enough light to shoot. We saw Raju sitting under a tree and relaxing. We were told that Raju had fought with 3-male sub-adults and because of this fight, his left eye was badly injured. Even with this injury, Raju had defended his territory and was relaxing after his fight.</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir3.jpg" alt="Raju, Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir4.jpg" alt="Raju, Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir5.jpg" alt="Raju, Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir6.jpg" alt="Raju, Gir National Park, Gujarat">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir4.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir5.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir6.jpg"></a>
+</div>
 
 <h3>FEMALE AND CUBS</h3>
 
 <p>We sighted a small pride consisting of two females and two cubs. They were sighted on two specific occasions. Good part of any lion sighting is that, it gives you time to think, compose and shoot. Lions are in no hurry to move. Most of the lion sightings we had, gave us so much time and allowed us to take good shots of action.</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir7.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir8.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir9.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir10.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir11.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir12.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir13.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir14.jpg" alt="Gir National Park, Gujarat">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir7.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir8.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir8.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir9.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir9.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir10.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir10.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir11.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir11.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir12.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir12.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir13.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir13.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir14.jpg"></a>
+</div>
+
 
 <h3>TEEN BHAI-RULERS OF THE FUTURE</h3>
 
 <p>Three sub-adults are trying to get control of the territory which was once controlled by the great “Raju-Bhai”. They had a fight few days back with him and Raju was left badly wounded in the left eye. Though he was able to retain his control, it is most likely that these three sub-adults may rule this terrotory in the future.</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir15.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir16.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir17.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir18.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir19.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir20.jpg" alt="Gir National Park, Gujarat">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir17.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir18.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir19.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir19.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir20.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir20.jpg"></a>
+</div>
 
 <h3>LIFE OTHER THAN LIONS</h3>
 
 <p>Gir national park is not just about lions, you can spot Leopard, Striped Hyena, Jungle cat, Indian Palm Civet and Desert cat, if you are lucky (which we were not). We had sightings of the following and managed to click a few images</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir21.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir22.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir23.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir25.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir26.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir27.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir28.jpg" alt="Gir National Park, Gujarat">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir21.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir22.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir22.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir23.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir23.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir24.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir24.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir25.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir25.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir26.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir26.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir27.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir27.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir28.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir28.jpg"></a>
+</div>
 
 <h3>MALDHARI OF GIR</h3>
 
 <p>Any trip to Gir national park will not be complete without mentioning the Maldhari community. Maldhari stands for “owner of animal (live) stock”. They are traditional dairymen of the region, and once supplied milk and its products. The speciality of Gir is that, Maldhari community share space in the forest with lions. While lions are generally perceived as aggressive and dangerous, the lions of Gir have rarely attacked Maldhari people. Even though Maldhari lose some of their livestock to lions, they very rarely attack them. This is a unique bond existing in an ever shrinking green space.</p>
 
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir29.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir30.jpg" alt="Gir National Park, Gujarat">
-<img src="{{ site.baseurl}}/img/2015-08-09/Gir31.jpg" alt="Gir National Park, Gujarat">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir29.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir29.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir30.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir30.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-08-09/Gir31.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-08-09/Gir31.jpg"></a>
+</div>
 
 <h3>FINAL POINTS</h3>
 

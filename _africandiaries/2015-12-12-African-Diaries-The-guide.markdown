@@ -116,12 +116,9 @@ especially in slide films.</blockquote>
 <p>More of the journey in the following week!</p>
 <h4>Gallery</h4>
 <div class="w-entity-images">
-<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"></a>
-
-<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"></a>
-
-<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-2.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-2.jpg"></a>
-
-<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-3.jpg"> <img class="w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-African-Diaries-Suresh-Basavaraju.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-1.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-2.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-2.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-12-12/The-guide-AfricanDiaries-3.jpg"></a>
 
 </div>

@@ -7,6 +7,7 @@ tags:       ["Birding Destinations", "Bikaner", "Landscape Destinations", "Wildl
 seo:		["Birding Destinations", "Raptors"]
 comments:   true
 header-img: "img/bikaner.jpg"
+needFancyBox: true
 ---
 
 <p>
@@ -45,26 +46,29 @@ A rough estimate puts the number of migratory vultures at about 1,200 at Jorbeer
 Some of the images I could manage from the “dump-yard” are here:
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner3.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner4.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner5.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner6.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner7.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner8.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner9.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner10.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner11.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner12.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner13.jpg">
-
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner4.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner4.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner5.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner5.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner7.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner8.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner8.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner9.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner9.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner10.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner10.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner11.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner11.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner12.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner12.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner13.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner13.jpg"></a>
+</div>
 
 <p>
 Apart from birds, it is a good place to photograph some of the mammals like Nilghais, Chinkaras (Indian Gazelles), Desert Jirds, etc.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner14.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner15.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner16.jpg">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner16.jpg"></a>
+</div>
 
 <p>
 This dumping ground is one of the reliable place to find some of the rarest of the rare birds like Yellow-eyed Pigeon, Cream coloured Coursers, etc.
@@ -86,10 +90,11 @@ The Cream coloured Courser, is another winter visitor to India, and is not found
 Another highlight of the “dump-yard” is the Sunset! One can make amazing sunset images with the colourful sky of setting sun at the background with raptors’ activity in the front. 
 </p>
 
-
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner19.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner20.jpg">
-<img src="{{ site.baseurl }}/img/2015-03-13/bikaner21.jpg">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner19.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner19.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner20.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner20.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-03-13/bikaner21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-03-13/bikaner21.jpg"></a>
+</div>
 
 <p>
 Apart from the raptors, many other birds here, like babblers, egrets, starlings, shrikes, ibises, etc., find this place a great opportunity for food, which are abundant from the decomposing dead bodies.
