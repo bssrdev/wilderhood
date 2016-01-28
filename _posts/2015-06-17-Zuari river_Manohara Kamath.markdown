@@ -65,18 +65,24 @@ In Zuari boat safari one can see a minimum of five species of kingfishers, they 
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa16.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa17.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa18.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa19.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa19.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_common-kingfisher.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_common-kingfisher.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_pied-kingfisher.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_pied-kingfisher.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_collared-kingfisher.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_collared-kingfisher.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_black-capped-kingfisher.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa_black-capped-kingfisher.jpg"></a>
 </div>
 
 <h4>OTHER SIGHTINGS</h4>
 
 <p>Other sightings in the safari included Redshank, Greenshank, Curlew, Wimbrel, Black Headed Ibis, Lesser Adjunct Stork Striated Heron etc.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-17/Zuari_river_goa20.jpg" alt="Bird life, Zuari river, Goa">
-<img src="{{ site.baseurl}}/img/2015-06-17/Zuari_river_goa21.jpg" alt="Bird life, Zuari river, Goa">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa17.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa18.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa19.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa19.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa20.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa20.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-06-17/Zuari_river_goa21.jpg"></a>
+</div>
 
 <h4>FINAL POINTS</h4>
 
