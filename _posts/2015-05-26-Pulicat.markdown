@@ -55,5 +55,7 @@ Terns and Gulls are sighted in different locations in the lake. It is an amazing
 As a final conclusion, I would like to add this is a must go place in the birding season because it has always thrown surprises in terms of its sightings.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat14.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
-<img src="{{ site.baseurl }}/img/2015-05-26/Pulicat15.jpg" alt="Bird life, Pulicat Lake, Andhra Pradesh and Tamilnadu border">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2015-05-26/Pulicat15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2015-05-26/Pulicat15.jpg"></a>
+</div>
