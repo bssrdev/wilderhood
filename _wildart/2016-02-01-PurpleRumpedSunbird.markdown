@@ -27,10 +27,6 @@ Welcome back one and all to another edition of birds of Bangalore, winter days a
 </p>
 
 <p>
-They are about the size of common crow, with pointed bill, colored black, just at the upper end of the upper mandible there is white bulge, crown is bluish gray, followed by glowing green and purple ring like pattern. Eye is colored orange with black iris. Nape is black, breast as spotted black dot patterns, major color is bluish gray. Tarsus is reddish pink colored in both sexes. Both male and female look similar except females don't sport the glowing green and purple ring like pattern. The two black bars on its pale grey wings are found all them. The tail has a black band on the end and the outer web of the tail feathers are margined with white. Young ones are smaller in size and bluish gray is much duller. 
-</p>
-
-<p>
 They had cattle, goats, poultry, buffaloes, and a stray dog who stayed inside the compound fence only during night and many stray cats. This is exactly what I wanted, grazing cattle everyday gave me great opportunity to go into the nearby forest. My cousin always carried a catapult which was used extensively at any interesting subject. He is a great spotter, any bird, hare, even the occasional monitor lizard would not escape his sharp eyesight. Cattle grazing in the forest meant that we need to be aware of our surroundings, since there were several Sloth bear attacks. 
 </p>
 
