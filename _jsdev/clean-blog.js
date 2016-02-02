@@ -52,6 +52,32 @@ jQuery(document).ready(function($) {
     }
 })(jQuery);
 
+function showAlert(message, type, closeDelay) {
+
+    if ($("#alerts-container").length == 0) {
+        // alerts-container does not exist, create it
+        $("body").append( $('<div id="alerts-container" style="position: fixed; width: 50%; left: 25%; top: 20%;">') );
+    }
+
+    // default to alert-info; other options include success, warning, danger
+    type = type || "info";    
+
+    // create the alert div
+    var alert = $('<div class="alert alert-' + type + ' fade in">')
+        .append(
+            $('<button type="button" class="close" data-dismiss="alert">')
+            .append("&times;")
+        )
+        .append(message);
+
+    // add the alert div to top of alerts-container, use append() to add to bottom
+    $("#alerts-container").prepend(alert);
+
+    // if closeDelay was passed - set a timeout to close the alert
+    if (closeDelay)
+        window.setTimeout(function() { alert.alert("close") }, closeDelay);     
+}
+
 //scroll to first post
 $(document).ready(function(){
 
@@ -104,6 +130,21 @@ $(document).ready(function(){
 		});
 	}
 
+	$("#w-subscribe").submit(function(e){
+		e.preventDefault();
+		var url = "https://www.wilderhood.com/public/api/recitals/subscribe/" + $("#w-subscribe input").val();
+		$.ajax({
+                url: url,
+                type: "POST",
+                success: function(){
+					showAlert("Successfully subscribed to the mailing list", "success", 3000);
+					$('#w-subscribe').hide();
+                },
+				error: function(){
+					showAlert("Looks like you are already subscribed.", "warning", 3000);
+				}
+		});
+	});
 });
 
 function loadjsfile(filename) {
