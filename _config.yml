@@ -50,3 +50,4 @@ collections:
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
