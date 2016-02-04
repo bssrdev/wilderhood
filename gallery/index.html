@@ -12,7 +12,10 @@ var postList = postList || [];
 {% for collection in site.collections %}
 	{% assign collectionName = collection.label %}
 	{% for post in site[collectionName] %}
-postList.push({url:"{{ post.url | prepend: site.baseurl }}", img:"{{ post.header-thumb-img | prepend: '../' | prepend: site.baseurl }}", title:"{{post.title}}", subtitle:"{{post.subtitle}}", collection:"{{post.collection}}", collectionurl:"{{ post.collection | prepend: '/' | prepend: site.baseurl}}"});
+		{% if post.header-thumb-img == blank %}
+			{% continue %}
+		{% endif %}
+	postList.push({url:"{{ post.url | prepend: site.baseurl }}", img:"{{ post.header-thumb-img | prepend: '../' | prepend: site.baseurl }}", title:"{{post.title}}", subtitle:"{{post.subtitle}}", collection:"{{post.collection}}", collectionurl:"{{ post.collection | prepend: '/' | prepend: site.baseurl}}"});
 	{% endfor %}
 {% endfor %}
 </script>
