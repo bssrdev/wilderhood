@@ -6,7 +6,6 @@ author:     "Jagadeesh Rampam"
 header-img: "img/Gir/IMG_1718.jpg"
 tags:		["Wildlife Destinations", "Mammal Destinations", "Gir"]
 seo: 		["Gir", "BigCats"]
-permalink:  2015/07/01/gir.html
 comments:   true
 ---
 
