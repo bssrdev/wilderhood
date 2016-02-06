@@ -1,0 +1,120 @@
+---
+layout:     post
+title:      "Trip to Ladakh"
+subtitle:   "My first tryst with travel photography at Ladakh"
+author:     "Jagadeesh Rampam"
+header-img: "img/Ladakh/DestinyAwaits.JPG"
+tags:		["Travel Destinations", "Landscape Destinations", "Ladakh"]
+seo: 		["Travel Destinations", "Landscape Destinations", "Ladakh"]
+comments:   true
+---
+
+<p>
+(Initially shared with Darter Photography blog!)
+</p>
+
+<p>
+I was always fascinated about going to places after the shutterbug bit me in June 2013. That was when I’d started my photography journey at Agumbe rainforest with Darter Photography (led by Shreeram M V). That led to a series of wildlife photography experiences, like trying out macro photography at Agumbe (also known as the Cherrapunji of South India) and Chorla Ghats in Goa, photographing majestic tigers at Kanha and Kabini, and photographing birds at Galibore, Valparai, Bharatpur and Rollapadu. When I heard of the tour to the most divine and exotic (in my opinion) place called Ladakh, I immediately made up my mind to explore photographing Travel and Landscapes! I grabbed a seat on the tour, after Shreeram confirmed that he’s leading the tour.
+</p>
+
+<p>
+And what a tour that was! Great experiences. Lots of photography. Many new friends. Here are a few glimpses of my Ladakh adventure.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/Julley1.JPG" alt="Julley, means Hi in Ladakhi, Ladakh ">
+
+<p>
+Julley!! <h5>Welcome to Ladakh!</h5> After Day 1 was spent acclimatizing to the high altitude, we started our tour with a trip to Stakna Monastery. I clicked some of my favourite photographs from the tour here.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/IMG_8732.JPG" alt="Budha Statue, Stakna Monastery, Ladakh">
+
+<p>
+<h5>Idol in Stakna Monastery</h5> I photographed this at ISO 6400 as it was inside the monastery with very little light. And flash is not allowed.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/Holywater.JPG" alt="Holy Water, Stakna Monastery, Ladakh. One needs to get hydrated very often in  like Ladakh">
+
+<p>
+<h5>Bactrian Camel in Sand Dunes</h5> Yes, Ladakh has sand dunes in Nubra Valley. We spent an evening there, and this camel modelled for us for a while.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/IMG_8990.JPG" alt="Nubra Valley, Ladakh">
+
+<p>
+Well, we've vivid memories of the bacterian camel in the trip and sure no one forgets after 2 full long years of trip? What do you say, my fellas? ;)
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/TwoMonks.jpg" alt="Two Monks walking on the sand dunes in Nubra Valley, Ladakh">
+
+<p>
+<h5>Monks on Sand Dunes</h5> While we were exploring the sand dunes, a couple of monks came along giving us good photography opportunities.
+</p>
+
+
+<img src="{{ site.baseurl}}/img/Ladakh/MaithreyaBudha.JPG" alt="Maithreya Budha, Thiksey Monastrey, Ladakh">
+
+<p>
+<h5>Maitreya Buddha at Thiksey Monastery.</h5> After Nubra Valley, our next destination was Pangong Tso. We stopped at Thiksey Gompa (or Monastery) – the largest Gompa in Central Ladakh – on the way. I photographed this at ISO 1600 (as it was indoors) and at f/8 so that the Buddha’s features are visible in addition to the flowers.
+</p>
+
+
+<img src="{{ site.baseurl}}/img/Ladakh/ChildMonk.JPG" alt="Child Monk, Thiksey Monastrey, Ladakh">
+
+<p>
+<h5>Child Monk</h5> There was a prayer ceremony at Thiksey and many monks were there, including this young child.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/Kashmir.JPG" alt="Child Monk, Thiksey Monastrey, Ladakh">
+
+<p>
+<h5>Herds of sheep</h5> On the drive from Leh to Pangong Tso, we came across many pastures with sheep grazing peacefully. And this image shows how I perceive Kashmir!
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/IMG_9259.JPG" alt="Post card for Pangong Tso, Leh - Ladakh">
+
+<p>
+<h5>Pangong Tso!</h5> Finally, we got to every traveler’s dream destination.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/SeaGulls.JPG" alt="Sea Gulls in the evening at Pangong Tso, Leh, Ladakh">
+
+<p>
+<h5>Gull in Pangong Tso</h5> Well, I didn’t miss a chance to click wildlife there too :) We saw a lot of birds, like this Brown-headed Gull, despite the lake being a saltwater lake.
+</p>
+
+<p>
+More will be in another post with Wilderhood Recitals on Wildlife at Pangong (very soon!).
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/IMG_9259.JPG" alt="Pangong Tso, Leh, Ladakh">
+
+<p>
+<h5>Lake, Mountains,Sky and Wind</h5> A confluence of the elements at Pangong Tso.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/PostCardforPangongTso.JPG" alt="Post card for Pangong Tso, Leh - Ladakh">
+
+<p>
+<h5>Post-card View of Pangong Tso</h5> With amazing landscapes, I would definitely call this place <strong>Heaven on Earth.</strong>
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/MonkBaselFort.JPG" alt="Monk at Basel Fort, Leh - Ladakh">
+
+<p>
+<h5>Monk at Basgo Fort</h5> On our last day in Ladakh, we visited the historic Basgo Fort. We met a very friendly monk there who answered all our questions with a smile.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/Confluence.JPG" alt="Confluence, Zanskar, Leh - Ladakh">
+
+<p>
+<h5>Confluence.</h5> Our last stop was the Indus-Zanskar confluence. It is a beautiful sight to see two rivers merging with the mountains all around.
+</p>
+
+<img src="{{ site.baseurl}}/img/Ladakh/Twilight.JPG" alt="Confluence, Zanskar, Leh - Ladakh">
+
+<p>
+<h5>Twilight</h5> All good things come to an end, they say. Our Ladakh trip ended after a week of traveling to beautiful places. But a new journey began – with great friends made on the tour.
+</p>
+
+
