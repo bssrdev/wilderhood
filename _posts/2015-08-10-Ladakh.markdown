@@ -36,10 +36,14 @@ Julley!! <h5>Welcome to Ladakh!</h5> After Day 1 was spent acclimatizing to the 
 <img src="{{ site.baseurl}}/img/Ladakh/Holywater.JPG" alt="Holy Water, Stakna Monastery, Ladakh. One needs to get hydrated very often in  like Ladakh">
 
 <p>
-<h5>Bactrian Camel in Sand Dunes</h5> Yes, Ladakh has sand dunes in Nubra Valley. We spent an evening there, and this camel modelled for us for a while.
+<h5>Holy Water</h5> In Stakna Monastery.
 </p>
 
 <img src="{{ site.baseurl}}/img/Ladakh/IMG_8990.JPG" alt="Nubra Valley, Ladakh">
+
+<p>
+<h5>Bactrian Camel in Sand Dunes</h5> Yes, Ladakh has sand dunes in Nubra Valley. We spent an evening there, and this camel modelled for us for a while.
+</p>
 
 <p>
 Well, we've vivid memories of the bacterian camel in the trip and sure no one forgets after 2 full long years of trip? What do you say, my fellas? ;)
