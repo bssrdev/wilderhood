@@ -33,7 +33,8 @@ layout: default
 
 	{% assign showGallery = false %}
 	{% for collection in site.collections %}
-		{% assign collectionName = collection[0] %}
+		{% assign collectionName = collection.label %}
+		{% if collectionName == 'posts' %} {% continue %} {% endif %}
 		{% for post in site[collectionName] reversed %}
 			{% for post_tag in post.tags %}
 				{% if post_tag == page.tag %}
@@ -49,8 +50,8 @@ layout: default
 		<h3>Gallery</h3>
 		<hr>
 		{% for collection in site.collections %}
-			{% assign collectionName = collection[0] %}
-
+			{% assign collectionName = collection.label %}
+			{% if collectionName == 'posts' %} {% continue %} {% endif %}
 			{% assign showGallery = false %}
 			{% for post in site[collectionName] reversed %}
 				{% for post_tag in post.tags %}
