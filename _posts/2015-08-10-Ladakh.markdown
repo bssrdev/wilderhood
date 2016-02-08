@@ -5,29 +5,29 @@ subtitle:   "My first tryst with travel photography at Ladakh"
 author:     "Jagadeesh Rampam"
 header-img: "img/Ladakh/DestinyAwaits.JPG"
 tags:		["Travel Destinations", "Landscape Destinations", "Ladakh"]
-seo: 		["Travel Destinations", "Landscape Destinations", "Ladakh"]
+seo: 		["Travel Destinations", "Landscape Destinations", "Ladakh", "Tiger Destinations", "Kabini"]
 comments:   true
 ---
 
-<p>
+<em>
 (Initially shared with Darter Photography blog!)
+</em>
+
+<p>
+I was always fascinated about going to places after the shutterbug bit me in June 2013. That was when I’d started my photography journey at Agumbe rainforest with <a href="http://www.wilderhood.com/organizer/Darter%20Photography" target="_blank">Darter Photography</a> (led by Shreeram M V). That led to a series of wildlife photography experiences, like trying out macro photography at <a href="http://www.wilderhood.com/destination/Agumbe" target="_blank">Agumbe</a> (also known as the Cherrapunji of South India) and <a href="http://www.wilderhood.com/destination/Goa" target="_blank">Chorla Ghats</a> in Goa, photographing majestic tigers at <a href="http://www.wilderhood.com/destination/Kanha" target="_blank">Kanha</a> and <a href="http://www.wilderhood.com/destination/Kabini" target="_blank">Kabini</a>, and photographing birds at <a href="http://www.wilderhood.com/destination/Galibore" target="_blank">Galibore</a>, <a href="http://www.wilderhood.com/destination/Valparai" target="_blank">Valparai</a>, <a href="http://www.wilderhood.com/destination/Bharatpur" target="_blank">Bharatpur</a> and Rollapadu. When I heard of the tour to the most divine and exotic (in my opinion) place called <a href="http://www.wilderhood.com/destination/Ladakh" target="_blank">Ladakh</a>, I immediately made up my mind to explore photographing Travel and Landscapes! I grabbed a seat on the tour, after <a href="{{ site.baseurl }}/authors/Shreeram%20MV/">Shreeram</a> confirmed that he’s leading the tour.
 </p>
 
 <p>
-I was always fascinated about going to places after the shutterbug bit me in June 2013. That was when I’d started my photography journey at Agumbe rainforest with Darter Photography (led by Shreeram M V). That led to a series of wildlife photography experiences, like trying out macro photography at Agumbe (also known as the Cherrapunji of South India) and Chorla Ghats in Goa, photographing majestic tigers at Kanha and Kabini, and photographing birds at Galibore, Valparai, Bharatpur and Rollapadu. When I heard of the tour to the most divine and exotic (in my opinion) place called Ladakh, I immediately made up my mind to explore photographing Travel and Landscapes! I grabbed a seat on the tour, after Shreeram confirmed that he’s leading the tour.
+And what a tour that was! Great experiences. Lots of photography. Many new friends. Here are a few glimpses of my Ladakh adventure...
 </p>
 
-<p>
-And what a tour that was! Great experiences. Lots of photography. Many new friends. Here are a few glimpses of my Ladakh adventure.
-</p>
-
-<img src="{{ site.baseurl}}/img/Ladakh/Julley1.JPG" alt="Julley, means Hi in Ladakhi, Ladakh ">
+<img src="{{ site.baseurl}}/img/Ladakh/Julley1.JPG" alt="Julley, means Hiii! in Ladakhi, Ladakh">
 
 <p>
 Julley!! <h5>Welcome to Ladakh!</h5> After Day 1 was spent acclimatizing to the high altitude, we started our tour with a trip to Stakna Monastery. I clicked some of my favourite photographs from the tour here.
 </p>
 
-<img src="{{ site.baseurl}}/img/Ladakh/IMG_8732.JPG" alt="Budha Statue, Stakna Monastery, Ladakh">
+<img src="{{ site.baseurl}}/img/Ladakh/IMG_8732.JPG" alt="framed, Budha Statue, Stakna Monastery, Ladakh">
 
 <p>
 <h5>Idol in Stakna Monastery</h5> I photographed this at ISO 6400 as it was inside the monastery with very little light. And flash is not allowed.
@@ -69,13 +69,13 @@ Well, we've vivid memories of the bacterian camel in the trip and sure no one fo
 <h5>Child Monk</h5> There was a prayer ceremony at Thiksey and many monks were there, including this young child.
 </p>
 
-<img src="{{ site.baseurl}}/img/Ladakh/Kashmir.JPG" alt="Child Monk, Thiksey Monastrey, Ladakh">
+<img src="{{ site.baseurl}}/img/Ladakh/Kashmir.JPG" alt="Kashmir with herds of Sheep, Thiksey Monastrey, Ladakh">
 
 <p>
 <h5>Herds of sheep</h5> On the drive from Leh to Pangong Tso, we came across many pastures with sheep grazing peacefully. And this image shows how I perceive Kashmir!
 </p>
 
-<img src="{{ site.baseurl}}/img/Ladakh/IMG_9259.JPG" alt="Post card for Pangong Tso, Leh - Ladakh">
+<img src="{{ site.baseurl}}/img/Ladakh/IMG_9259.JPG" alt="Post card view for Pangong Tso, Leh - Ladakh">
 
 <p>
 <h5>Pangong Tso!</h5> Finally, we got to every traveler’s dream destination.
