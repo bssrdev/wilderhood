@@ -31,7 +31,6 @@ domain-home: "wilderhood.com"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 # permalink: pretty
 relative_permalinks: false
 paginate: 10
