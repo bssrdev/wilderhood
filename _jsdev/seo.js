@@ -161,9 +161,6 @@
 
 	var numSponsoredAdsToDisplay = 3;
 	var sponsoredList = [];
-	sponsoredList.push({link: "http://bit.ly/wolfpackstore", image: "wolfpack.jpeg", text: "Wolfpack T-shirt: Feel Leopard on you", keywords: ["Kabini", "BigCats"]});
-	sponsoredList.push({link: "http://bit.ly/wolfpackstore", image: "croc.jpeg", text: "Wolfpack T-shirt: Welcome to Croc Country", keywords: ["Monsoon Destinations", "Reptiles"]});
-	sponsoredList.push({link: "http://bit.ly/bookmylens", image: "rentals.jpg", text: "Bookmylens: High quality equipment rentals", keywords: [""]});
 	
 
 	function toTitleCase(str)
