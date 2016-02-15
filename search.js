@@ -17,7 +17,7 @@
 {% endfor %}
 
 {% for collection in site.collections %}
-	{% if collection.label != 'post' %}
+	{% if collection.label != 'posts' %}
 		{% assign gallery = collection.label | append: '"' | prepend: '"' %}
 		{% assign galleries = galleries | append: gallery | append: '|' %}
 	{% endif %}
