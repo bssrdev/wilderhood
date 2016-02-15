@@ -171,6 +171,7 @@ function searchInit(localRawData) {
 				recitalsData.push(data);
 			}			
 		}
+		populateLocalDataType(localRawData.galleries, 'Gallery', '/');
 		populateLocalDataType(localRawData.tags, 'Tag', '/tags/');
 		populateLocalDataType(localRawData.authors, 'Author', '/authors/');
 	}

@@ -2,6 +2,7 @@
 ---
 {% assign tags = '' %}
 {% assign authors = '' %}
+{% assign galleries = '' %}
 {% for collection in site.collections %}
 	{% for post in site[collection.label] %}
 		{% for post_tag in post.tags %}
@@ -14,7 +15,16 @@
 		{% endif %}
 	{% endfor %}
 {% endfor %}
+
+{% for collection in site.collections %}
+	{% if collection.label != 'post' %}
+		{% assign gallery = collection.label | append: '"' | prepend: '"' %}
+		{% assign galleries = galleries | append: gallery | append: '|' %}
+	{% endif %}
+{% endfor %}
+
 var localSearchData = {
+  galleries : [{{  galleries | split: '|' | uniq | join: ',' }}],
   tags : [{{  tags | split: '|' | uniq | join: ',' }}],
   authors: [{{  authors | split: '|' | uniq | join: ',' }}]
 }
