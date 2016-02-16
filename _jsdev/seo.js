@@ -106,7 +106,8 @@
 	adList.push({link: urlPrefix + "FELINE FORTUNE", image: "Toehold/Trip/Tadoba/Tadoba-1.jpg", text: "FELINE FORTUNE", keywords: ["Toehold","Tadoba", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr", "May","june"]});
 	adList.push({link: urlPrefix + "THE LEOPARDS LAIR", image: "Toehold/Trip/Kabini/Kabini-1.jpg", text: "THE LEOPARDS LAIR", keywords: ["Toehold","Kabini", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr"]});
 	adList.push({link: urlPrefix + "Exploring the Divine Landscapes of Panar and Rudranath", image: "CreativePraveen/Trip/Rudranath/Rudranath-1.jpg", text: "Exploring the Divine Landscapes of Panar and Rudranath", keywords: ["CreativePraveen", "Uttarakhand", "Rudranath", "Landscape Destinations", "Birding Destinations"], months: ["Feb", "Mar", "Apr"]});		
-	adList.push({link: urlPrefix + "Deoria Taal and Tungnath-Landscape Expedition", image: "CreativePraveen/Trip/Tungnath/Tungnath-1.jpg", text: "Deoria Taal and Tungnath-Landscape Expedition", keywords: ["CreativePraveen", "Uttarakhand", "Tungnath","Landscape Destinations", "Birding Destinations"], months: ["Feb", "Mar", "Apr"]});		
+	adList.push({link: urlPrefix + "Deoria Taal and Tungnath-Landscape Expedition", image: "CreativePraveen/Trip/Tungnath/Tungnath-1.jpg", text: "Deoria Taal and Tungnath-Landscape Expedition", keywords: ["CreativePraveen", "Uttarakhand", "Tungnath", "Landscape Destinations", "Birding Destinations"], months: ["Feb", "Mar", "Apr"]});		
+	adList.push({link: urlPrefix + "Mussoorie-Landscape Photography Expedition", image: "CreativePraveen/Trip/Mussoorie/Mussoorie-1.jpg", text: "Mussoorie-Landscape Photography Expedition", keywords: ["CreativePraveen", "Uttarakhand", "Mussoorie", "Landscape Destinations", "Birding Destinations"], months: ["Feb", "Mar"]});		
 
 	
 	
