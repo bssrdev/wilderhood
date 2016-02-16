@@ -29,7 +29,7 @@
 		<link rel="stylesheet" type="text/css" href="/_cssdev/jquery.fancybox.min.css">
 	{% endif %}
 {% endif %}
-	<link rel="stylesheet" href="{{ '/css/clean-blog.css' | prepend: site.baseurl }}"/>
+	<link rel="stylesheet" href="{{site.baseurl}}/css/clean-blog.css?bust={{ site.time | date: '%s' }}"/>
 
 <script type="text/javascript">
 	function loadcssfile(filename) {
