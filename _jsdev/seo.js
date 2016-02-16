@@ -103,7 +103,9 @@
 	adList.push({link: urlPrefix + "Photography Tour in Tadoba - Andhari Tiger Reserve", image: "consciouspace/Trip/Tadoba/Tadoba_photography1.jpg", text: "Photography Tour in Tadoba - Andhari Tiger Reserve", keywords: ["Tadoba", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan","Feb", "Mar", "Apr", "May"]});		
 	adList.push({link: urlPrefix + "DELTA FORCE", image: "Toehold/Trip/Botswana/Botswana-1.jpg", text: "DELTA FORCE", keywords: ["Botswana", "Exotic Destinations"], months: ["Feb", "Mar", "Apr", "May"]});		
 	adList.push({link: urlPrefix + "TIGER FORTRESS", image: "Toehold/Trip/Ranthambhore/Ranthambhore-1.jpg", text: "TIGER FORTRESS", keywords: ["Toehold","Ranthambore", "Mammal Destinations","Tiger Destinations"], months: ["Feb", "Mar", "Apr", "May","june"]});
-	
+	adList.push({link: urlPrefix + "FELINE FORTUNE", image: "Toehold/Trip/Tadoba/Tadoba-1.jpg", text: "FELINE FORTUNE", keywords: ["Toehold","Tadoba", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr", "May","june"]});
+	adList.push({link: urlPrefix + "THE LEOPARDS LAIR", image: "Toehold/Trip/Kabini/Kabini-1.jpg", text: "THE LEOPARDS LAIR", keywords: ["Toehold","Kabini", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr"]});
+
 	
 	
 
