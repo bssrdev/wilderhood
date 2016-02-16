@@ -110,6 +110,11 @@
 	adList.push({link: urlPrefix + "Mussoorie-Landscape Photography Expedition", image: "CreativePraveen/Trip/Mussoorie/Mussoorie-1.jpg", text: "Mussoorie-Landscape Photography Expedition", keywords: ["CreativePraveen", "Uttarakhand", "Mussoorie", "Landscape Destinations", "Birding Destinations"], months: ["Feb", "Mar"]});		
 	adList.push({link: urlPrefix + "BANDHAVGARH WILDLIFE PHOTOGRAPHY TOUR", image: "Mysticwild/Trip/Bandhavgarh/Bandhavgarh-1.jpg", text: "BANDHAVGARH WILDLIFE PHOTOGRAPHY TOUR", keywords: ["Mysticwild", "Bandhavgarh", "Tiger Destinations", "Mammal Destinations"], months: ["Feb", "Mar", "Apr"]});		
 	adList.push({link: urlPrefix + "THE GREAT MIGRATION", image: "Toehold/Trip/Masai-Mara1/Masai-Mara-1.jpg", text: "THE GREAT MIGRATION", keywords: ["Toehold", "Masai Mara", "Landscape Destinations", "African Destinations"], months: ["Feb", "Mar", "Apr", "May", "June", "Jul", "Aug"]});		
+	adList.push({link: urlPrefix + "HIGH ON THE HIMALAYAS", image: "Toehold/Trip/Ladakh/Ladakh-1.jpg", text: "HIGH ON THE HIMALAYAS", keywords: ["Toehold", "Ladakh", "Travel Destinations", "Landscape Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun", "Jul"]});	
+	adList.push({link: urlPrefix + "BIG CAT WEEK", image: "Toehold/Trip/Masai-Mara/Masai-Mara-1.jpg", text: "BIG CAT WEEK", keywords: ["Toehold", "Masai Mara", "Landscape Destinations", "African Destinations"], months: ["Feb", "Mar", "Apr", "May"]});	
+	adList.push({link: urlPrefix + "FELINE FORTUNE", image: "Toehold/Trip/Tadoba/Tadoba-1.jpg", text: "FELINE FORTUNE", keywords: ["Toehold","Tadoba", "Mammal Destinations","Tiger Destinations"], months: ["Feb", "Mar", "Apr", "May"]});
+	
+	
 
 	
 	
