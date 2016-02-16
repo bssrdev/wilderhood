@@ -101,8 +101,10 @@
 	adList.push({link: urlPrefix + "Birding Tour to Arunachal Pradesh", image: "consciouspace/Trip/Arunachal-Pradesh/Arunachal-Pradesh_photography1.jpg", text: "Birding Tour to Arunachal Pradesh", keywords: ["Arunachal Pradesh", "Landscape Destinations", "Birding Destinations"], months: ["Oct", "Nov", "Dec", "Jan","Feb", "Mar"]});		
 	adList.push({link: urlPrefix + "Makkumath-An Unexplored Birding Paradise", image: "CreativePraveen/Trip/Makkumath/Makkumath_photography.jpg", text: "Makkumath-An Unexplored Birding Paradise", keywords: ["Uttarakhand", "Landscape Destinations", "Birding Destinations"], months: ["Oct", "Nov", "Dec", "Jan"]});		
 	adList.push({link: urlPrefix + "Photography Tour in Tadoba - Andhari Tiger Reserve", image: "consciouspace/Trip/Tadoba/Tadoba_photography1.jpg", text: "Photography Tour in Tadoba - Andhari Tiger Reserve", keywords: ["Tadoba", "Tiger Destinations"], months: ["Oct", "Nov", "Dec", "Jan","Feb", "Mar", "Apr", "May"]});		
+	adList.push({link: urlPrefix + "DELTA FORCE", image: "Toehold/Trip/Botswana/Botswana-1.jpg", text: "DELTA FORCE", keywords: ["Botswana", "Exotic Destinations"], months: ["Feb", "Mar", "Apr", "May"]});		
 	
 	
+
 	//Accommodation properties
 	urlPrefix = "http://www.wilderhood.com/accommodation/";
 
