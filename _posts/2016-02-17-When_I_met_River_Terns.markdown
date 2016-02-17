@@ -6,7 +6,7 @@ author:     "Kiran Kashyap"
 tags:       ["Birding Destinations", "Bangalore Wildlife"]
 seo:		["Birding Destinations", "Bangalore"]
 comments:   true
-header-img: "img/2016-02-17/Hill_Myna.JPG"
+header-img: "img/2016-02-17/River_Terns--orange_beaks_everywhere.JPG"
 ---
 
 <p>
