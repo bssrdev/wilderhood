@@ -36,7 +36,7 @@ With the description I am sure you would have guess the bird of this week alread
 </p>
 
 <p>
-Tiny fishes get swallowed by the time they reach their favorite perch, yes, like all the other kingfishers, they also keep coming back to their favorite perch. This behavior helps them adapt well in large water-bodies. Their breeding season is from February to April, like the <a href="{{ site.baseurl }}/wildart/2016-01-11-KingFisher.html" target="_blank">Common kingfisher</a> they to dig holes on mud bank, many kingfishers build nest in the same area which gives them protection from predators. Both male and female take care of the young ones, they take turns in feeding the young ones as well. Male takes the responsibility to dig up the hole on the banks and he mates with single partner only. 
+Tiny fishes get swallowed by the time they reach their favorite perch, yes, like all the other kingfishers, they also keep coming back to their favorite perch. This behavior helps them adapt well in large water-bodies. Their breeding season is from February to April, like the <a href="{{ site.baseurl }}/wildart/2016-01-11-KingFisher.html" target="_blank">Common kingfisher</a> they too dig holes on mud bank, many kingfishers build nest in the same area which gives them protection from predators. Both male and female take care of the young ones, they take turns in feeding the young ones as well. Male takes the responsibility to dig up the hole on the banks and he mates with single partner only. 
 </p>
 
 <p>
