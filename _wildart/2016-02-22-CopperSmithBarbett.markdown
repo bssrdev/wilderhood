@@ -24,7 +24,11 @@ sharing-img: "img/2016-02-22/CopperSmithBarbet_PrasadNatarajan.jpg"
 </p>
 
 <p>
-Welcome back one and all to one more edition of Birds of Bangalore. It's been a great weekend birding at Hoskote lake with group of friends. Usually, I go on my own for bird watching however occasionally group of like-minded people I would like to join with. We watched about <strong>seventy five</strong> species of birds in a matter of four and half hours and a covering about total three acres of scrubland, open grassland and wetland. While we were watching the Egrets and  Grey herons on the wetland, we came across two young men, who were up to some mischievous act. One was on the bike constantly honking and raising the accelerator, the other was ready to take picture of the Egrets in flight. Upon noticing us, that person on the bike stopped it. However the other young man continued harassing the birds by throwing stones into the water. When questioned, he didn't fear, his answer was to the point "I want these birds in flight, I want flight shots".
+Welcome back one and all to one more edition of Birds of Bangalore. It's been a great weekend birding at Hoskote lake with group of friends. Usually, I go on my own for bird watching however occasionally group of like-minded people I would like to join with. We watched about <strong>seventy five</strong> species of birds in a matter of four and half hours and a covering about total three acres of scrubland, open grassland and wetland (Please check the ebird list <a href="http://ebird.org/ebird/view/checklist?subID=S27723134" target="_blank">here</a>!). 
+</p>
+
+<p>
+While we were watching the Egrets and  Grey herons on the wetland, we came across two young men, who were up to some mischievous act. One was on the bike constantly honking and raising the accelerator, the other was ready to take picture of the Egrets in flight. Upon noticing us, that person on the bike stopped it. However the other young man continued harassing the birds by throwing stones into the water. When questioned, he didn't fear, his answer was to the point "I want these birds in flight, I want flight shots".
 .</p>
 
 <p>
