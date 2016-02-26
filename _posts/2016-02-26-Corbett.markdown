@@ -1,0 +1,97 @@
+---
+layout:     post
+title:      "FROM THE LAND OF JIM CORBETT"
+subtitle:   "Dhikala and Bijrani zone of Corbett National Park"
+author:     "Manohara Kamath"
+tags:       ["Corbett", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations", "Landscape Destinations"]
+seo:				["BigCats", "Corbett", "Tiger"]
+comments:   true
+header-img: "img/2016-02-26/Corbett.JPG"
+needFancyBox: true
+---
+
+
+<h3>PREAMBLE-BACK TO WRITING</h3>
+
+<p>For last few months a sudden laziness had developed in me for writing, I don’t know why. Lot of things running in the mind did not allow to write. This story was supposed to be written in month of may 2015 but due to my laziness, it is getting written now in the End of year 2015. I hope, will be able to continue and improve in my writing in 2016 and don’t fallback again into a bout of laziness.</p>
+
+<h3>LANDSCAPES OF DHIKALA</h3>
+
+<p>Every story of <a href="http://www.wilderhood.com/destination/Corbett" target="_blank"> Corbett</a> talks about the beauty of its landscapes and how it is different from any other forest in India. When I happened to join the trip to Corbett conducted by Birdwing Travel and Photography (http://www.birdwing.in/), the first stop point for us was the picture perfect landscape of Dhikala and the legendary Dhikala Forest Rest House. This region of the forest landscape is filled with Large Sal trees, white stone bed and River Ramaganga flowing on this, which reminds of a picture perfect setting of a landscape painting. I was imagining that if we could have a foreground with an Elephant or Tiger, cloud doing the drama and golden sunset or misty sunrise, we would end up with something called magical paintings. What transpired in the coming days is something close to this, followed by many close encounters with the elephants.</p>
+
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-1.jpg" alt="Corbett, Uttarakhand">
+
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-2.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-2.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-3.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-4.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-4.jpg"></a>
+</div>
+
+<h3>ELEPHANTS..ELEPHANTS AND MORE ELEPHANTS...</h3>
+
+<p>One thing if I remember instantly of this trip, then it will always be elephants. I saw more number of elephants than all of my previous trips put together. We saw lone tuskers, we saw small groups, we saw big groups and we saw very big groups. In the land of elephant when you have so many encounters it reminds you of movies, you see action, emotion, comedy, naughtiness, lethargy, play fight, mock charge, real charge and many more. In short for a photographer any action with elephant ends up filling his cards. You wont realize when you have filled the cards if you are not watchful. If you forget action for few minutes and just concentrate on their lazy walk in Dhikala landscape, it is no less of a picture painting.</p>
+
+<h3>ELEPHANTS ON LANDSCAPES</h3>
+
+<p>Golden sunlight, tall grass filled grassland, sal tree in background and river Ramaganga flowing gives a feeling of a movie set prepared by nature. In this natural studio setup when elephants walk down it is a ecstasy feeling taking one to different world. This was my first ever experience in this landscape, so missed some key moments to photograph due to confusions, but whatever I captured should give what potential this landscape has for photographers making it a must visit place.</p>
+
+
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-5.jpg" alt="Corbett, Uttarakhand">
+
+
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-6.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-7.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-8.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-8.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-9.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-9.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-10.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-10.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-11.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-11.jpg"></a>
+	</div>
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-12.jpg" alt="Corbett, Uttarakhand">
+
+<h3>ELEPHANT DIL KI BONDING</h3>
+
+<p>Family Bonding are one of the key behavior seen in animals. More so in Elephants which do stay in big herds. So my saying “The family that stays together will play together” is always valid with Elephants. The play of elephants and their naughtiness is one which is worth watching. The youngest members of the herd are the most naughtiest and is always fun to watch and shoot. There is no moment of dullness when you are around an elephant herd.</p>
+
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-13.jpg" alt="Corbett, Uttarakhand">
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"></a>
+	</div>
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-19.jpg" alt="Corbett, Uttarakhand">
+
+<h3>BHAG..BHAG..BHAGATHA..ELEPHANT</h3>
+
+<p>Elephant charge can be mock or real, sometimes the difference between the two is like a thin redline which is difficult to identify. That is why we have experienced people who go with us. Irrespective of all this photographers would always like to click a mock charging shot of the elephants. The wide perspective one gets is out of the world by itself. We had few such instances which gave us opportunity to have some different perspective of the elephant.</p>
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-20.jpg" alt="Corbett, Uttarakhand">
+
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-21.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-22.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-22.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-23.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-23.jpg"></a>
+	</div>
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-24.jpg" alt="Corbett, Uttarakhand">
+
+
+<h3>MOODS OF SHARMILI, THE QUEEN OF BIJRANI</h3>
+
+<p>Tiger is one of the most sought after animal for photographing, there are people who only photograph tiger and nothing else. Though a weird statement it is true in many instances that a trip to tiger park is unlucky and unsatisfactory if you don’t see a tiger. This I realized when my regular trip to a tiger park in south had not yielded any tiger sightings in about 16 safari. But in Bijrani this was not the case, we had one of the best guide with us who had specialized in every movement of Sharmili the hunting queen of the Bijrani Range. We saw her in different moods like sleeping, yawning, staring, growling, walking head on, in the landscape etc. Each of her sighting always put more action in place and more images in our cards. What we missed in our tiger sighting is cubs of Sharmili, which were in process of separation. Many a instance we were pretty close to the sightings of cubs and we missed by a few minutes. May be in future tiger trips, I may have that luck to see the tiger cubs, till then the images of moods which Sharmili showed will stay in mind.</p>
+
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-25.jpg" alt="Corbett, Uttarakhand">
+
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-26.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-26.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-27.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-27.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-28.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-28.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-29.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-29.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-30.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-30.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-31.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-31.jpg"></a>
+	</div>
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-32.jpg" alt="Corbett, Uttarakhand">
+
+<h3>EPILOGUE</h3>
+
+<p>To end the beautiful journey into Landscape of Corbett is really a painful one, but city concrete dwellers like us get only a few precious days to spend in such a pristine wilderness. What we end up at every trip is to promise ourselves some day we will come back again to fall in love with this landscape again, hope we will see more elephants, we will see more tigers, we will see more birds, till then we live in the nostalgia of this trip.</p>
