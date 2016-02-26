@@ -6,7 +6,7 @@ author:     "Manohara Kamath"
 tags:       ["Corbett", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations", "Landscape Destinations"]
 seo:				["BigCats", "Corbett", "Tiger"]
 comments:   true
-header-img: "img/2016-02-26/Corbett.JPG"
+header-img: "img/2016-02-26/Corbett.jpg"
 needFancyBox: true
 ---
 
