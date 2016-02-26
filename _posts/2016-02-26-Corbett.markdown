@@ -4,7 +4,7 @@ title:      "FROM THE LAND OF JIM CORBETT"
 subtitle:   "Dhikala and Bijrani zone of Corbett National Park"
 author:     "Manohara Kamath"
 tags:       ["Corbett", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations", "Landscape Destinations"]
-seo:				["BigCats", "Corbett", "Tiger"]
+seo:		["BigCats", "Corbett", "Tiger"]
 comments:   true
 header-img: "img/2016-02-26/Corbett.jpg"
 needFancyBox: true
@@ -17,10 +17,9 @@ needFancyBox: true
 
 <h3>LANDSCAPES OF DHIKALA</h3>
 
-<p>Every story of <a href="http://www.wilderhood.com/destination/Corbett" target="_blank"> Corbett</a> talks about the beauty of its landscapes and how it is different from any other forest in India. When I happened to join the trip to Corbett conducted by Birdwing Travel and Photography (http://www.birdwing.in/), the first stop point for us was the picture perfect landscape of Dhikala and the legendary Dhikala Forest Rest House. This region of the forest landscape is filled with Large Sal trees, white stone bed and River Ramaganga flowing on this, which reminds of a picture perfect setting of a landscape painting. I was imagining that if we could have a foreground with an Elephant or Tiger, cloud doing the drama and golden sunset or misty sunrise, we would end up with something called magical paintings. What transpired in the coming days is something close to this, followed by many close encounters with the elephants.</p>
+<p>Every story of <a href="http://www.wilderhood.com/destination/Corbett" target="_blank">Corbett</a> talks about the beauty of its landscapes and how it is different from any other forest in India. When I happened to join the <a href="http://www.wilderhood.com/trip/Cobett,%20Pangot%20and%20Sattal%20-%20Treasures%20of%20Kumaon">trip to Corbett by Birdwing Travel and Photography</a>, the first stop point for us was the picture perfect landscape of Dhikala and the legendary Dhikala Forest Rest House. This region of the forest landscape is filled with Large Sal trees, white stone bed and River Ramaganga flowing on this, which reminds of a picture perfect setting of a landscape painting. I was imagining that if we could have a foreground with an Elephant or Tiger, cloud doing the drama and golden sunset or misty sunrise, we would end up with something called magical paintings. What transpired in the coming days is something close to this, followed by many close encounters with the elephants.</p>
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-1.jpg" alt="Corbett, Uttarakhand">
-
 <div class="w-entity-images">
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-2.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-2.jpg"></a>
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-3.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-3.jpg"></a>
@@ -37,8 +36,6 @@ needFancyBox: true
 
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-5.jpg" alt="Corbett, Uttarakhand">
-
-
 <div class="w-entity-images">
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-6.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-6.jpg"></a>
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-7.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-7.jpg"></a>
@@ -66,8 +63,8 @@ needFancyBox: true
 <h3>BHAG..BHAG..BHAGATHA..ELEPHANT</h3>
 
 <p>Elephant charge can be mock or real, sometimes the difference between the two is like a thin redline which is difficult to identify. That is why we have experienced people who go with us. Irrespective of all this photographers would always like to click a mock charging shot of the elephants. The wide perspective one gets is out of the world by itself. We had few such instances which gave us opportunity to have some different perspective of the elephant.</p>
-<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-20.jpg" alt="Corbett, Uttarakhand">
 
+<img src="{{ site.baseurl}}/img/2016-02-26/Corbett-20.jpg" alt="Corbett, Uttarakhand">
 <div class="w-entity-images">
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-21.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-21.jpg"></a>
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-22.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-22.jpg"></a>
@@ -81,7 +78,6 @@ needFancyBox: true
 <p>Tiger is one of the most sought after animal for photographing, there are people who only photograph tiger and nothing else. Though a weird statement it is true in many instances that a trip to tiger park is unlucky and unsatisfactory if you don’t see a tiger. This I realized when my regular trip to a tiger park in south had not yielded any tiger sightings in about 16 safari. But in Bijrani this was not the case, we had one of the best guide with us who had specialized in every movement of Sharmili the hunting queen of the Bijrani Range. We saw her in different moods like sleeping, yawning, staring, growling, walking head on, in the landscape etc. Each of her sighting always put more action in place and more images in our cards. What we missed in our tiger sighting is cubs of Sharmili, which were in process of separation. Many a instance we were pretty close to the sightings of cubs and we missed by a few minutes. May be in future tiger trips, I may have that luck to see the tiger cubs, till then the images of moods which Sharmili showed will stay in mind.</p>
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-25.jpg" alt="Corbett, Uttarakhand">
-
 <div class="w-entity-images">
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-26.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-26.jpg"></a>
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-27.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-27.jpg"></a>
