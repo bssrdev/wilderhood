@@ -13,11 +13,11 @@ needFancyBox: true
 
 <h3>PREAMBLE-BACK TO WRITING</h3>
 
-<p>For last few months a sudden laziness had developed in me for writing, I don’t know why. Lot of things running in the mind did not allow to write. This story was supposed to be written in month of may 2015 but due to my laziness, it is getting written now in the End of year 2015. I hope, will be able to continue and improve in my writing in 2016 and don’t fallback again into a bout of laziness.</p>
+<p>For last few months a sudden laziness had developed in me for writing. I don’t know why, lots of things running in the mind did not let me focusing on writing! This story was supposed to be written in month of May 2015 but due to my laziness, it is getting written now in the End of year 2015. I hope, will be able to continue and improve in my writing in 2016 and don’t fallback again into a bout of laziness.</p>
 
 <h3>LANDSCAPES OF DHIKALA</h3>
 
-<p>Every story of <a href="http://www.wilderhood.com/destination/Corbett" target="_blank">Corbett</a> talks about the beauty of its landscapes and how it is different from any other forest in India. When I happened to join the <a href="http://www.wilderhood.com/trip/Cobett,%20Pangot%20and%20Sattal%20-%20Treasures%20of%20Kumaon">trip to Corbett by Birdwing Travel and Photography</a>, the first stop point for us was the picture perfect landscape of Dhikala and the legendary Dhikala Forest Rest House. This region of the forest landscape is filled with Large Sal trees, white stone bed and River Ramaganga flowing on this, which reminds of a picture perfect setting of a landscape painting. I was imagining that if we could have a foreground with an Elephant or Tiger, cloud doing the drama and golden sunset or misty sunrise, we would end up with something called magical paintings. What transpired in the coming days is something close to this, followed by many close encounters with the elephants.</p>
+<p>Every story of <a href="http://www.wilderhood.com/destination/Corbett" target="_blank">Corbett</a> talks about the beauty of its landscapes and how it is different from any other forest in India. When I happened to join the <a href="http://www.wilderhood.com/trip/Cobett,%20Pangot%20and%20Sattal%20-%20Treasures%20of%20Kumaon">trip to Corbett by Birdwing Travel and Photography</a>, the first pit-stop for us was the picture perfect landscape of Dhikala and the legendary Dhikala Forest Rest House. This region of the forest landscape is filled with Large Sal trees, white stone bed and River Ramaganga flowing on this, which reminds of a picture perfect setting of a landscape painting. I was imagining that if we could have a foreground with an Elephant or Tiger, cloud doing the drama and golden sunset or misty sunrise, we would end up with something called magical paintings. What transpired in the coming days is something close to this, followed by many close encounters with the elephants.</p>
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-1.jpg" alt="Corbett, Uttarakhand">
 <div class="w-entity-images">
@@ -28,11 +28,11 @@ needFancyBox: true
 
 <h3>ELEPHANTS..ELEPHANTS AND MORE ELEPHANTS...</h3>
 
-<p>One thing if I remember instantly of this trip, then it will always be elephants. I saw more number of elephants than all of my previous trips put together. We saw lone tuskers, we saw small groups, we saw big groups and we saw very big groups. In the land of elephant when you have so many encounters it reminds you of movies, you see action, emotion, comedy, naughtiness, lethargy, play fight, mock charge, real charge and many more. In short for a photographer any action with elephant ends up filling his cards. You wont realize when you have filled the cards if you are not watchful. If you forget action for few minutes and just concentrate on their lazy walk in Dhikala landscape, it is no less of a picture painting.</p>
+<p>One thing if I recollect instantly about this trip, then it will always be elephants. I saw more number of elephants than all of my previous trips put together. We saw lone tuskers, we saw small groups, we saw big groups and very big groups. In the land of elephants when you have so many encounters it reminds one of movies, see action, emotion, comedy, naughtiness, lethargy, play fight, mock charge, real charge and many more! In short, for a photographer any action with elephant ends up filling his memory cards. You wont realize when you have filled the cards if you are not watchful. If you forget action for few minutes and just concentrate on their lazy walk in Dhikala landscape, it is no less than picture perfect painting.</p>
 
 <h3>ELEPHANTS ON LANDSCAPES</h3>
 
-<p>Golden sunlight, tall grass filled grassland, sal tree in background and river Ramaganga flowing gives a feeling of a movie set prepared by nature. In this natural studio setup when elephants walk down it is a ecstasy feeling taking one to different world. This was my first ever experience in this landscape, so missed some key moments to photograph due to confusions, but whatever I captured should give what potential this landscape has for photographers making it a must visit place.</p>
+<p><strong>Golden sunlight</strong>, tall grass filled grassland, Sal tree in background and river Ramaganga flowing gives me a feeling of a movie set prepared by nature. In this natural studio setup, when elephants walk down it is a ecstasy feeling taking one to different world. This was my first ever experience in this landscape, so missed some key moments to photograph due to confusions, but whatever I captured should give what potential this landscape has for photographers making it a must visit place.</p>
 
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-5.jpg" alt="Corbett, Uttarakhand">
@@ -48,15 +48,15 @@ needFancyBox: true
 
 <h3>ELEPHANT DIL KI BONDING</h3>
 
-<p>Family Bonding are one of the key behavior seen in animals. More so in Elephants which do stay in big herds. So my saying “The family that stays together will play together” is always valid with Elephants. The play of elephants and their naughtiness is one which is worth watching. The youngest members of the herd are the most naughtiest and is always fun to watch and shoot. There is no moment of dullness when you are around an elephant herd.</p>
+<p>Family Bonding are one of the key behavior seen in animals. More so in Elephants which do stay in big herds. So my saying <em>“The family that stays together will play together”</em> is always valid with Elephants. The play of elephants and their naughtiness is one which is worth watching. The youngest members of the herd are the most naughtiest and is always fun to watch and shoot. There is no moment of dullness when you are around a elephant herd.</p>
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-13.jpg" alt="Corbett, Uttarakhand">
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"></a>
 	</div>
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-19.jpg" alt="Corbett, Uttarakhand">
 
@@ -75,7 +75,7 @@ needFancyBox: true
 
 <h3>MOODS OF SHARMILI, THE QUEEN OF BIJRANI</h3>
 
-<p>Tiger is one of the most sought after animal for photographing, there are people who only photograph tiger and nothing else. Though a weird statement it is true in many instances that a trip to tiger park is unlucky and unsatisfactory if you don’t see a tiger. This I realized when my regular trip to a tiger park in south had not yielded any tiger sightings in about 16 safari. But in Bijrani this was not the case, we had one of the best guide with us who had specialized in every movement of Sharmili the hunting queen of the Bijrani Range. We saw her in different moods like sleeping, yawning, staring, growling, walking head on, in the landscape etc. Each of her sighting always put more action in place and more images in our cards. What we missed in our tiger sighting is cubs of Sharmili, which were in process of separation. Many a instance we were pretty close to the sightings of cubs and we missed by a few minutes. May be in future tiger trips, I may have that luck to see the tiger cubs, till then the images of moods which Sharmili showed will stay in mind.</p>
+<p>Tiger is one of the most sought after animal for photographing, there are people who only photograph Tiger and nothing else. Though a weird statement it is true in many instances that a trip to Tiger Park is unlucky and unsatisfactory if you don’t see a Tiger. I realized this when my regular trip to a Tiger Park in south had not yielded any Tiger sightings after 16 safaris. But in Bijrani this was not the case, we had one of the best guide with us who had specialized in every movement of Sharmili the hunting queen of the Bijrani Range. We saw her in different moods like sleeping, yawning, staring, growling, walking head-on, with the landscape and more. Each of her sighting always put more action in place and more images in our cards. What we missed in our Tiger sighting is cubs of Sharmili, which were in process of separation. Many a instance we were pretty close to the sightings of cubs and we missed by a few minutes. May be in future Tiger trips, I may have that luck to see the Tiger cubs, till then the images of moods which Sharmili showed will stay in mind.</p>
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-25.jpg" alt="Corbett, Uttarakhand">
 <div class="w-entity-images">
@@ -90,4 +90,4 @@ needFancyBox: true
 
 <h3>EPILOGUE</h3>
 
-<p>To end the beautiful journey into Landscape of Corbett is really a painful one, but city concrete dwellers like us get only a few precious days to spend in such a pristine wilderness. What we end up at every trip is to promise ourselves some day we will come back again to fall in love with this landscape again, hope we will see more elephants, we will see more tigers, we will see more birds, till then we live in the nostalgia of this trip.</p>
+<p>To end the beautiful journey into Landscape of Corbett is really a painful one, but city concrete dwellers like us get only a few precious days to spend in such a pristine wilderness. What we end up at every trip is to promise ourselves some day we will come back again to fall in love with this landscape again, hope we will see more elephants, we will see more Tigers, we will see more birds, till then we live in the nostalgia of this trip.</p>
