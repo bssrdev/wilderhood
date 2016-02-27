@@ -52,12 +52,12 @@ needFancyBox: true
 
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-13.jpg" alt="Corbett, Uttarakhand">
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"> <img class="w-customised-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"></a>
-	</div>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"> <img class="w-customised-image-preview w-small-image-preview " src="{{ site.baseurl }}/img/2016-02-26/Corbett-14.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-15.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-16.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-17.jpg"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-02-26/Corbett-18.jpg"></a>
+</div>
 <img src="{{ site.baseurl}}/img/2016-02-26/Corbett-19.jpg" alt="Corbett, Uttarakhand">
 
 <h3>BHAG..BHAG..BHAGATHA..ELEPHANT</h3>
