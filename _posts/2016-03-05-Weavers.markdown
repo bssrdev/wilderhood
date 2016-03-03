@@ -6,7 +6,7 @@ author:     "Kiran Kashyap"
 tags:       ["Birding Destinations", "Bangalore Wildlife"]
 seo:		["Birding Destinations", "Bangalore"]
 comments:   true
-header-img: "img/2016-03-05/Indian_Silverbill-Dons_a_pose.JPG"
+header-img: "img/2016-03-05/Baya_Weaver--Male.jpg"
 ---
 
 <p>It was early winter when I paid a visit to Hesarghatta Grasslands, hoping to see Euraisan Roller. Water level was good. The show started with Indian Silverbill and a White Throated Kingfisher. 
