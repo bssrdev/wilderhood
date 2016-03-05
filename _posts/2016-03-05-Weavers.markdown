@@ -61,7 +61,7 @@ Javan Munia.
 After spending sometime near the lake, I went to the grasslands in search of Eurasian Roller. I was unlucky to find it. But, there were plenty of Weaver action. Each tree had least of 10 abandoned nests, and the munias were trying to conquer them.!
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Baya_Weaver-Male.JPG" alt="Baya Weaver--Male, Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Baya_Weaver-Male.jpg" alt="Baya Weaver Male, Hesarghatta Grasslands">
 
 <p>
 Baya Weaver--Male.
