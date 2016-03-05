@@ -6,7 +6,7 @@ author:     "Kiran Kashyap"
 tags:       ["Birding Destinations", "Bangalore Wildlife"]
 seo:		["Birding Destinations", "Bangalore"]
 comments:   true
-header-img: "img/2016-03-05/Baya_Weaver--Male.jpg"
+header-img: "img/2016-03-05/Baya_Weaver-Male.jpg"
 ---
 
 <p>It was early winter when I paid a visit to Hesarghatta Grasslands, hoping to see Euraisan Roller. Water level was good. The show started with Indian Silverbill and a White Throated Kingfisher. 
@@ -33,7 +33,7 @@ White Throated Kingfisher.
 Mist started clearing as the sunshine got brighter. Bird activity got brighter too. Brahminy kites and black kites soared on top of the lake looking for food.
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Purple_Rumped_Sunbird--Eclipse_plumage.JPG" alt="Purple Rumped Sunbird--Eclipse plumage, Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Purple_Rumped_Sunbird-Eclipse_plumage.JPG" alt="Purple Rumped Sunbird--Eclipse plumage, Hesarghatta Grasslands">
 
 <p>
 Purple Rumped Sunbird--Eclipse plumage.
@@ -61,7 +61,7 @@ Javan Munia.
 After spending sometime near the lake, I went to the grasslands in search of Eurasian Roller. I was unlucky to find it. But, there were plenty of Weaver action. Each tree had least of 10 abandoned nests, and the munias were trying to conquer them.!
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Baya_Weaver--Male.JPG" alt="Baya Weaver--Male, Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Baya_Weaver-Male.JPG" alt="Baya Weaver--Male, Hesarghatta Grasslands">
 
 <p>
 Baya Weaver--Male.
@@ -88,7 +88,7 @@ Ziting cisticola.
 White Browed Bulbul.
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Black_Headed_Cuckoo_Shrike---A_lifer.JPG" alt="Black Headed Cuckoo Shrike---A lifer !, Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Black_Headed_Cuckoo_Shrike-A_lifer.JPG" alt="Black Headed Cuckoo Shrike, A lifer !, Hesarghatta Grasslands">
 
 <p>
 Black Headed Cuckoo Shrike---A lifer !
@@ -98,7 +98,7 @@ Black Headed Cuckoo Shrike---A lifer !
 A beauty just flew in, a black headed cuckoo shrike..probably a record shot.! Without any calls or sounds it went inside the thick bush. This bird led me to duo--silent killers.
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Spotted_Owlets--Duo.JPG" alt="Spotted Owlets--Duo, Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Spotted_Owlets-Duo.JPG" alt="Spotted Owlets--Duo, Hesarghatta Grasslands">
 
 <p>
 Spotted Owlets--Duo
