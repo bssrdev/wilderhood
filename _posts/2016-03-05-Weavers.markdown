@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Weavers of Hesarghatta Grasslands"
-subtitle:   "Weavers of Hesarghatta Grasslands1"
+subtitle:   "Weavers of Hesarghatta Grasslands"
 author:     "Kiran Kashyap"
 tags:       ["Birding Destinations", "Bangalore Wildlife"]
 seo:		["Birding Destinations", "Bangalore"]
@@ -12,13 +12,13 @@ header-img: "img/2016-03-05/Baya_Weaver-Male.jpg"
 <p>It was early winter when I paid a visit to Hesarghatta Grasslands, hoping to see Euraisan Roller. Water level was good. The show started with Indian Silverbill and a White Throated Kingfisher. 
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Indian_Silverbill-Dons_a_pose.JPG" alt="Indian Silverbill---Dons a pose., Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Indian_Silverbill-Dons_a_pose.JPG" alt="Indian Silverbill - dons a pose, Hesarghatta Grasslands">
 
 <p>
-Indian Silverbill---Dons a pose.
+Indian Silverbill - dons a pose.
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-05/Indian_Silverbill-Dons_a_pose1.JPG" alt="Indian Silverbill---Dons a pose., Hesarghatta Grasslands">
+<img src="{{ site.baseurl }}/img/2016-03-05/Indian_Silverbill-Dons_a_pose1.JPG" alt="Indian Silverbill - dons a pose, Hesarghatta Grasslands">
 
 <p>
 Another one.
@@ -27,7 +27,7 @@ Another one.
 <img src="{{ site.baseurl }}/img/2016-03-05/White_Throated_Kingfisher.JPG" alt="White Throated Kingfisher, Hesarghatta Grasslands">
 
 <p>
-White Throated Kingfisher.
+<a href="{{ site.baseurl }}/wildart/2015-11-09-White-Throated-Kingfisher.html" target="_blank">White Throated Kingfisher</a>.
 </p>
 <p>
 Mist started clearing as the sunshine got brighter. Bird activity got brighter too. Brahminy kites and black kites soared on top of the lake looking for food.
@@ -36,7 +36,7 @@ Mist started clearing as the sunshine got brighter. Bird activity got brighter t
 <img src="{{ site.baseurl }}/img/2016-03-05/Purple_Rumped_Sunbird-Eclipse_plumage.JPG" alt="Purple Rumped Sunbird--Eclipse plumage, Hesarghatta Grasslands">
 
 <p>
-Purple Rumped Sunbird--Eclipse plumage.
+<a href="{{ site.baseurl }}/wildart/2016-02-01-PurpleRumpedSunbird.html" target="_blank">Purple Rumped Sunbird</a> - Eclipse plumage.
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-03-05/Green_bee_Eater_with_a_Drangonfly_catch.JPG" alt="Green bee Eater with a Drangonfly catch, Hesarghatta Grasslands">
@@ -91,18 +91,19 @@ White Browed Bulbul.
 <img src="{{ site.baseurl }}/img/2016-03-05/Black_Headed_Cuckoo_Shrike-A_lifer.JPG" alt="Black Headed Cuckoo Shrike, A lifer !, Hesarghatta Grasslands">
 
 <p>
-Black Headed Cuckoo Shrike---A lifer !
+Black Headed Cuckoo Shrike - A lifer!
 </p>
 
 <p>
-A beauty just flew in, a black headed cuckoo shrike..probably a record shot.! Without any calls or sounds it went inside the thick bush. This bird led me to duo--silent killers.
+A beauty just flew in, a black headed cuckoo shrike..probably a record shot.! Without any calls or sounds it went inside the thick bush. This bird led me to duo - silent killers.
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-03-05/Spotted_Owlets-Duo.JPG" alt="Spotted Owlets--Duo, Hesarghatta Grasslands">
 
 <p>
-Spotted Owlets--Duo
+<a href="{{ site.baseurl }}/wildart/2016-02-08-Spotted-Owlet.html" target="_blank">Spotted Owlets</a> - Duo
 </p>
+
 <p>
 I was fascinated about these nocturnal birds. They were watching me quietly from a distance, camouflaged perfectly.! Big eyes attracted me.
 </p>
@@ -124,4 +125,3 @@ Spotted Owlet.
 <p>
 Common Hoopoe.
 </p>
-
