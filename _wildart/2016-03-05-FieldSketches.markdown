@@ -4,7 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 30"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2016-03-07/KaikondrahalliLake1_PrasadNatarajan-thumb.jpg"
-tags:       ["Bangalore Wildlife", "Birding Destinations"]
+tags:       ["Bangalore Wildlife", "Birding Destinations", "Hoskote"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2016-03-07/KaikondrahalliLake1_PrasadNatarajan.jpg"
@@ -36,7 +36,7 @@ In this sketch I have showed how the lake land has been filled and converted int
 </p>
 
 <p>
-Hoskote lake is a birders paradise, if time is not much of a issue, almost all Saturdays I spend my time watching birds at this lake. We get varied species of birds at this lake, the waders during morning session and in the evening session, the afternoon session for the shrub and grassland birds, at some point I have recorded nearly close to hundred species of birds at this lake and its surroundings. Here the situation is not too rosy, excess amount of fishing, long line fishing, reed harvesting, land encroachment, bird trapping, bird hunting and most of all stray dog menace is some of the major concerns which need immediate attention, before we lose all these birds to greed.
+<a href="{{ site.baseurl }}/tags/Hoskote" target="_blank">Hoskote lake</a> is a birders paradise, if time is not much of a issue, almost all Saturdays I spend my time watching birds at this lake. We get varied species of birds at this lake, the waders during morning session and in the evening session, the afternoon session for the shrub and grassland birds, at some point I have recorded nearly close to hundred species of birds at this lake and its surroundings. Here the situation is not too rosy, excess amount of fishing, long line fishing, reed harvesting, land encroachment, bird trapping, bird hunting and most of all stray dog menace is some of the major concerns which need immediate attention, before we lose all these birds to greed.
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-03-07/HoskoteLake_PrasadNatarajan.jpg" alt="Hoskote Lake, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 30">
