@@ -22,7 +22,7 @@ sharing-img: "img/2016-03-07/KaikondrahalliLake1_PrasadNatarajan.jpg"
 </p>
 
 <p>
-Welcome back one and all to yet another edition of birds of Bangalore, we are halfway through this journey and this week I thought of sharing my field sketches and study sketches with you all. It's great to go outdoors and make field sketches and also regular studies in the studio on composition, feathers, bill and more helps in honing my skill. 
+Welcome back one and all to yet another edition of <a href="{{ site.baseurl }}/wildart" target="_blank">Birds of Bangalore</a>, we are halfway through this journey and this week I thought of sharing my field sketches and study sketches with you all. It's great to go outdoors and make field sketches and also regular studies in the studio on composition, feathers, bill and more helps in honing my skill. 
 </p>
 
 <p>
