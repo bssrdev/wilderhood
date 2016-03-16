@@ -148,9 +148,9 @@ Hymns of the Atharva Veda, BOOK XII, A hymn of prayer and praise to Prithivī (E
 		</blockquote>
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-03-15/Man_PrasadNatarajan_15.jpg" alt="Title: Man, Bhagavathi Nature Camp, Kudremukh">
+<img src="{{ site.baseurl }}/img/2016-03-15/Man_PrasadNatarajan_15.jpg" alt="Title: Human, Bhagavathi Nature Camp, Kudremukh">
 
-<div class="exif"> Title: Man.</div>
+<div class="exif"> Title: Human.</div>
 
 <p>
 Picture of Ravi Koushik at Ganpathy Katthe. The End of the little Journey, the end is just a new beginning. We headed back home with fond memories and bag full of knowledge and end number of friends who have the same interest, that is nature!
