@@ -14,7 +14,7 @@ sharing-img: "img/2016-03-23/no-horn-LaughingDove-DineshBalakrishnan.jpg"
 <img src="{{ site.baseurl }}/img/2016-03-23/no-horn-LaughingDove-DineshBalakrishnan.jpg" alt="No Horn Please, Wilderhood Recitals Chapter Laughing Dove, Wildlife Cartoons by Dinesh Balakrishnan">
 
 <p>
-Apart from hunting, tigers must also have the skills of solving mazes these days.. :(
+What would be the reaction of animals in the wild after seeing some of sign boards... Check out!!!
 </p>
 
 <p>
