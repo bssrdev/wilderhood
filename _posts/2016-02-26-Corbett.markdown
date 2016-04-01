@@ -3,8 +3,8 @@ layout:     post
 title:      "FROM THE LAND OF JIM CORBETT"
 subtitle:   "Dhikala and Bijrani zone of Corbett National Park"
 author:     "Manohara Kamath"
-tags:       ["Corbett", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations", "Landscape Destinations"]
-seo:		["BigCats", "Corbett", "Tiger"]
+tags:       ["Corbett", "Wildlife Destinations", "Birding Destinations", "Mammal Destinations", "Landscape Destinations", "Tiger Destinations"]
+seo:		["BigCats", "Corbett", "Tiger", "Tiger Destinations"]
 comments:   true
 header-img: "img/2016-02-26/Corbett.jpg"
 needFancyBox: true
