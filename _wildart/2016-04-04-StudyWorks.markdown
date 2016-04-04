@@ -4,7 +4,7 @@ title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 32"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2016-04-04/LittleCormorant_PrasadNatarajan-thumb.jpg"
-tags:       ["Bangalore Wildlife", "Birding Destinations", "Hoskote"]
+tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
 sharing-img: "img/2016-04-04/LittleCormorant_PrasadNatarajan.jpg"
