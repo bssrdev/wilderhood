@@ -150,11 +150,13 @@
 	adList.push({link: urlPrefix + "Kabini Wildlife Photography Workshop", image: "Sudhir/Trip/Kabini/Kabini-1.jpg", text: "Kabini Wildlife Photography Workshop", keywords: ["Sudhir Shivaram Photography", "Kabini", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr"]});
 	adList.push({link: urlPrefix + "Bandhavgarh Tiger Reserve", image: "Sudhir/Trip/Bandhavgarh/Bandhavgarh-1.jpg", text: "Bandhavgarh Tiger Reserve", keywords: ["Sudhir Shivaram Photography", "Bandhavgarh", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr"]});
 	adList.push({link: urlPrefix + "Bandhavgarh Tiger Reserve - Sunrise to Sunset", image: "Sudhir/Trip/Bandhavgarh1/Bandhavgarh-1.jpg", text: "Bandhavgarh Tiger Reserve - Sunrise to Sunset", keywords: ["Sudhir Shivaram Photography", "Bandhavgarh", "Mammal Destinations", "Tiger Destinations"], months: ["Feb", "Mar", "Apr", "May"]});
+	//New additions on 25th May
 
-
-
-
-
+	adList.push({link: urlPrefix + "LADAKH JOURNEYS", image: "Yourjourneys/Trip/Ladakh/23.JPG", text: "LADAKH JOURNEYS", keywords: ["Ladakh", "Travel", "Travel Destinations"], months: ["Feb", "Mar", "Apr", ç]});
+	adList.push({link: urlPrefix + "DESERT NATIONAL PARK REPTILE JOURNEYS ", image: "Yourjourneys/Trip/DNP/IMG_5357.jpg", text: "DESERT NATIONAL PARK REPTILE JOURNEYS", keywords: ["DNP", "Monsoon Destinations", "Wildlife Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"]});
+	adList.push({link: urlPrefix + "4 ALTITUDE HIMALAYAN BIRDING JOURNEYS ", image: "Yourjourneys/Trip/Sattal/IMG_8119.jpg", text: "4 ALTITUDE HIMALAYAN BIRDING JOURNEYS", keywords: ["Sattal", "Birding Destinations", "Travel Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]});
+	adList.push({link: urlPrefix + "JIM CORBETT NATIONAL PARK", image: "consciouspace/Trip/Corbett/3P3A6112.jpg", text: "JIM CORBETT NATIONAL PARK", keywords: ["Corbett", "Birding Destinations", "Tiger Destinations", "Landscape Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun"]});
+	
 
 	//Accommodation properties
 	urlPrefix = "http://www.wilderhood.com/accommodation/";
