@@ -5,7 +5,7 @@ title: Ravi Prakash SS
 subtitle: Ravi Prakash SS
 permalink: authors/Ravi Prakash SS/
 web: http://alleyes.in/
-email: adarsh@wanderingcanvas.net
+email: raviprakash.ss@gmail.com
 bio: "As we say in photography, the background details are equally important as the foreground. So I think, I should at least share a little bit about how I embarked upon this most fulfilling marriage with lens and light.
 
 Well, I am from the beautiful hilly terrains of Karnataka (a major state in South of India) which is called Male Nad (Male means hill and Nad means land). My village Hosahalli is nestled between western Ghats and has been blessed with beautiful streams, coffee estates, never ending rain, moist green fields, fresh fragrances, always chirping crickets, myriad flowers, birds, beetles, butterflies and … oops, I just can’t stop raving about my tiny, cozy village !!
