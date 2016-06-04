@@ -46,6 +46,8 @@ collections:
     output: true
   africandiaries:
     output: true
+  backyardbytes:
+    output: true
 
 gems:
   - jekyll-sitemap
