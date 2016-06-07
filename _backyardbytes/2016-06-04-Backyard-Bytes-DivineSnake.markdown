@@ -12,6 +12,10 @@ sharing-img: "img/BackyardBytes/DivineSnake/DivineSnake-BackyardBytes-RaviPrakas
 <img src="{{ site.baseurl }}/img/BackyardBytes/DivineSnake/DivineSnake-BackyardBytes-RaviPrakashSS-Wilderhood-Recitals.jpg"  alt="Divine Snake by Ravi Prakash SS, BBC award winning photographer. Photographer of the year 2014, Backyard Bytes with Wilderhood Recitals">
 
 
+<em>
+Wilderhood offers you the best monsoon getaways. <a href="http://www.wilderhood.com/category/Monsoon%20Destinations" target="_blank">Check out!>></a>
+</em>
+
 <p>Welcome to the <a href="{{ site.baseurl }}/backyardbytes" target="_blank">Backyard Bytes</a>, Can there be a better picture to start 'Backyard bytes'? I would say a big 'NO'!!!!
 </p>
 
