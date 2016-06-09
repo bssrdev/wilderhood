@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Phantom of the forest"
-subtitle:   "Bhageeratha from Kabini"
+subtitle:   "Bhageera from Kabini"
 author:     "Goutham Shankar"
 tags:       ["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Kabini"]
 seo:		["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Kabini"]
@@ -9,7 +9,7 @@ comments:   true
 disable-header-img: true
 ---
 
-<img src="{{ site.baseurl }}/img/2016-03-21/BlackPanther-Kabini-GouthamShankar.jpg" alt="Bhageeratha from Kabini by Goutham Shankar, bookmylens.com">
+<img src="{{ site.baseurl }}/img/2016-03-21/BlackPanther-Kabini-GouthamShankar.jpg" alt="Bhageera from Kabini by Goutham Shankar, bookmylens.com">
 
 <div class="exif">Canon 200-400 | @560mm | Canon EOS 1DX | Kabini </div>
 
