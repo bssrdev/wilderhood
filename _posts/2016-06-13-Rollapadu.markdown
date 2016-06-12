@@ -3,8 +3,8 @@ layout:     post
 title:      "UNEXPLORED GRASSLANDS"
 subtitle:   "Rollapadu Wildlife Sanctuary in Andhra Pradesh"
 author:     "Manohara Kamath"
-tags:       ["Wildlife Destinations", "Mammal Destinations"]
-seo:		["Wildlife Destinations", "Mammal Destinations"]
+tags:       ["Wildlife Destinations", "Mammal Destinations", "Birding Destinations"]
+seo:		["Wildlife Destinations", "Mammal Destinations", "Birding Destinations"]
 comments:   true
 header-img: "img/2016-06-13/cover-1460620707.jpg"
 needFancyBox: true
