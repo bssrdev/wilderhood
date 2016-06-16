@@ -69,19 +69,19 @@ Red-whiskered bulbul
 Painted Stork Family
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0211.JPG" alt="Juvenile Painted Stork., Kaikondrahalli Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0211.jpg" alt="Juvenile Painted Stork., Kaikondrahalli Lake, Bangalore">
 
 <p>
 Juvenile Painted Stork.
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0242.JPG" alt="Grey Heron, Kaikondrahalli Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0242.jpg" alt="Grey Heron, Kaikondrahalli Lake, Bangalore">
 
 <p>
 Grey Heron
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0360.JPG" alt="Bronze winged Jacana, Kaikondrahalli Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0360.jpg" alt="Bronze winged Jacana, Kaikondrahalli Lake, Bangalore">
 
 <p>
 Bronze winged Jacana
@@ -119,7 +119,7 @@ I had to end the session as it become sunny and hot. Most of the birds flew towa
 I began searching for white throated kingfishers and guess what I found..?
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0469.JPG" alt="Pair of White Throated Kingfisher, Kaikondrahalli Lake, Bangalore">
+<img src="{{ site.baseurl }}/img/2016-06-16/DSC_0469.jpg" alt="Pair of White Throated Kingfisher, Kaikondrahalli Lake, Bangalore">
 
 <p>
 Pair of White Throated Kingfisher.
