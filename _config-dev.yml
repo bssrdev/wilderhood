@@ -46,6 +46,8 @@ collections:
     output: true
   backyardbytes:
     output: true
+  aquacanvas:
+    output: true
 
 gems:
   - jekyll-sitemap
