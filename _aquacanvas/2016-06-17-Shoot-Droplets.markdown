@@ -49,5 +49,5 @@ You can practise freezing droplets of water either indoors at home, or outdoors 
 </p>
 
 <p>
-You can find more of my work <a href="http://pixelshooter.net/" target="_blank">here>></a>
+You can find more of my more work <a href="http://pixelshooter.net/" target="_blank">here>></a>
 </p>
