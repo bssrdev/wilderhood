@@ -10,7 +10,7 @@
 
 **Adding a tag to a post**
 
- - In a post file, add *tags* section at the top.
+ - In a post file, add *tags* section at the top .
  - For every tag added, make sure there is a file in /metapages/tags/{tag name}.md
 
 **Adding an author to a post**
