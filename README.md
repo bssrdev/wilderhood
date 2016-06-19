@@ -47,7 +47,10 @@
 jekyll s -c _config-dev.yml --> To run development mode
 jekyll s --no-watch
 jekyll s --no-watch -c _config-dev.yml
+jekyll s --verbose --trace --> To see all files getting generated
 
+How to debug:-
+https://github.com/octopress/debugger
 
 ------------------------------------------------------------------------------------------
 Adding fancybox images
