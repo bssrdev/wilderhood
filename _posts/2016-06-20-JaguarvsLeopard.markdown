@@ -3,8 +3,8 @@ layout:     post
 title:      "Jaguar vs Leopard"
 subtitle:   "Often tend to confuse between these two charismatic species of big cats and here are the differences between both"
 author:     "Praveen Siddannavar"
-tags:       ["Wildlife Destinations", "Tiger Destinations", "Kabini", "Birding Destinations"]
-seo:		["Wildlife Destinations", "Tiger Destinations", "Kabini", "Birding Destinations"]
+tags:       ["Wildlife Destinations", "Tiger Destinations", "Kabini", "Birding Destinations", "Mammal Destinations"]
+seo:		["Wildlife Destinations", "Tiger Destinations", "Kabini", "Birding Destinations", "Mammal Destinations"]
 comments:   true
 header-img: "img/2016-06-20/JaguarvsLeopard-by-PraveenSiddannavar.jpg"
 needFancyBox: true
@@ -12,14 +12,17 @@ needFancyBox: true
 
 
 <p>
-<strong>Jaguar vs Leopard</strong> – Many of us mistake and often get confused between Jaguar and a Leopard, I have been fortunate to capture and spend time with both these cats in the wild. I am putting together my notes and some info from my research that will help us distinguish between these two amazing cats – Jaguar and Leopard.  I will take this comparison beyond the looks, diving more deeply into the design, make up and behaviour of these magnificent predators!
+<strong>Jaguar vs Leopard</strong> – Many of us mistake and often get confused between Jaguar and a Leopard, I have been fortunate to capture and spend time with both these cats in the wild. I am putting together my notes and some info from my research that will help us distinguish between these two amazing cats – <strong>Jaguar and Leopard.</strong>
+</p>
+
+<p>
+I will take this comparison beyond the looks, diving more deeply into the design, make up and behaviour of these magnificent predators!
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-06-20/JaguarvsLeopard-by-PraveenSiddannavar.jpg" alt="Jaguar captured in Pantanal, Brazil by Praveen Siddannavar">
 
-
 <p>
-Jaguar is found in the Americas. Historically they distributed as far north as California; however the United States population is largely extinct. It extends south through Central America and into Argentina. I captured Jaguar in the Pantanal in Brazil, by far the highest density of these cats. 
+Jaguar is found in the Americas. Historically they distributed as far north as California; however the United States population is largely extinct! It extends south through Central America and into Argentina. I captured Jaguar in the Pantanal in Brazil, by far the highest density of these cats. 
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-06-20/Jaguar-Pantanal-by-PraveenSiddannavar.jpg" alt="Jaguar captured in Pantanal, Brazil by Praveen Siddannavar">
@@ -27,7 +30,7 @@ Jaguar is found in the Americas. Historically they distributed as far north as C
 <div class="exif">Jaguar @Pantal, Brazil</div>
 
 <p>
-Leopards are found from China and India to the Middle East and down into Africa.
+Leopards are found from China and India to the Middle East and down towards Africa.
 </p>
 
 <div class="w-entity-images">
@@ -42,11 +45,11 @@ The Leopards are smaller in size and weigh lesser as compared to Jaguar and Jagu
 
 <p>
 Female Leopard weighs around 20–60 kg whereas Female Jaguar would weigh about 85–90 kg.<br>
-Similarly, Male Leopard weigh about 40–80kg and Male Jaguar is 110-120 kg.
+Similarly, Male Leopard weigh about 40–80 kg and Male Jaguar is 110-120 kg.
 </p>
 
 <p>
-Jaguar is the 3rd largest cat in the world whereas our National Animal Tiger tops the list followed by Lion, Jaguar and finally Leopard. 
+Jaguar is the third largest cat in the world whereas our National Animal Tiger tops the list followed by Lion, Jaguar and finally Leopard!
 </p>
 
 <p>
@@ -56,7 +59,7 @@ The rosettes are the key differentiator in these two species - Jaguars tend to h
 <img src="{{ site.baseurl }}/img/2016-06-20/Jaguar-Pantanal-by-PraveenSiddannavar.jpg" alt="Jaguar captured in Pantanal, Brazil by Praveen Siddannavar">
 
 <p>
-Strength is another key factor. Jaguar steals the show here! Pound for pound this cat is phenomenally strong infact the strongest amongst all cats that includes tigers and lions. The Jaguar has the ability to deliver up to 2000lbs of force, this makes Jaguars the most powerful amongst the cats. The shape and size of the head is very different between the two cats. Due to the different styles of killing the Jaguar has a much broader forehead and wider jaw.
+Strength is another key factor. Jaguar steals the show here! Pound for pound, this cat is phenomenally strong infact the strongest among all cats that includes Tigers and Lions. The Jaguar has the ability to deliver up to 2000lbs of force, this makes Jaguars the most powerful amongst the cats. The shape and size of the head is very different between these two cats. Due to the different styles of killing the Jaguar has a much broader forehead and wider jaw.
 </p>
 
 <p>
@@ -64,11 +67,11 @@ Jaguars have a large barrel like abdomen. It almost always looks as if they are 
 </p>
 
 <p>
-Leopards are the best tree climbers in the cat family, while Jaguars do climb trees but they aren't as agile as the Leopards. Leopard is very arboreal and has a long tail and this helps them to balance while climbing. Jaguars on the hand have a shorter tail. Tree climbing is less important in Jaguar life and nor do these cats hide their kill on top of trees due to lack of predators. The Jaguars are apex predators of the Americas that means they are on top of the food chain in the forest ecosystem.. Leopards spend most of the time on trees and even carry their kill high up on trees due to threat from other predators like Tigers, Lions, Wild Dogs and Hyenas.
+Leopards are the best tree climbers in the cat family, while Jaguars do climb trees but they aren't as agile as the Leopards. Leopard is very arboreal and has a long tail and this helps them to balance while climbing. Jaguars on the hand have a shorter tail. Tree climbing is less important in Jaguar life and nor do these cats have to hide their kill on top of trees since lack of predators. The Jaguars are apex predators of the Americas and they are on top of the food chain in the forest ecosystem. Leopards spend most of the time on trees and even carry their kill high up on trees due to threat from other predators like <em>Tigers, Lions, Wild Dogs and Hyenas.</em>
 </p>
 
 <p>
-Leopards do not like water infact I have observed them only come to a water body to quench their thirst. They will do everything in their power to avoid having to go through in water. While the Jaguar like the Tiger, seems to be content with spending longer periods of time in water. Jaguars in the Pantanal do not have a choice; they live in the world with largest wetlands.
+Leopards do not like water and I have observed them only come to a water body to quench their thirst. They will do everything in their power to avoid having to go through in water. While the Jaguar like the Tiger, seems to be content with spending longer periods of time in water. Jaguars in the Pantanal do not have a choice; they live in the world with largest wetlands.
 </p>
 
 <p>
