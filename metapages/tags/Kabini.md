@@ -4,5 +4,5 @@ tag: Kabini
 title: Kabini
 subtitle: Kabini
 permalink: tags/Kabini/
-header-img: "img/2015-02-07/kabini_elephants.jpg"
+header-img: "img/2015-03-21/BlackPanther-Kabini-GouthamShankar.jpg"
 ---
