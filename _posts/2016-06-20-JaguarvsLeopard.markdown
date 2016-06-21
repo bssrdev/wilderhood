@@ -92,7 +92,7 @@ Both these species prefer to hunt by stalking and ambush rather than lengthy cha
 </p>
 
 <p>
-<em>'Black Panther'</em> seen in Kabini is <a href="{{ site.baseurl }}/2016/03/21/Phantom-of-the-Forest.html" target="_blank">not a separate species</a> but the <strong>melanistic species of Leopard</strong> seen in India whereas Black Panther from Americas would be <strong>melanistic Jaguar</strong>.
+<em>'Black Panther'</em> seen in Kabini is <a href="{{ site.baseurl }}/2016/03/21/Phantom-of-the-Forest.html" target="_blank">not a separate species</a> but the <strong>melanistic species of Leopard</strong> seen in India whereas <em>Black Panther</em> from Americas would be <strong>melanistic Jaguar</strong>.
 </p>
 
 <p>
