@@ -37,6 +37,10 @@ The way these Bioluminescent fungi lit up the forest floor is really amazing!!!
 These twigs and stems look perfectly normal in the day light and by looking at them during the day one cannot make out which ones glow in the dark and which ones are not! So the only way to figure that out is to actually go out at night time and marking it! :)
 </p>
 
+<p>
+Here I captured a few life from the forest!!
+</p>
+
 <img src="{{ site.baseurl }}/img/2016-06-23/Snail-WesternGhats-Chorla.jpg" alt="Snail with sunlight captured in Chorla Ghats, Goa by Ashwini Kumar Bhat">
 
 <img src="{{ site.baseurl }}/img/2016-06-23/MalabarGlidingFrog-WesternGhats.jpg" alt="Malabar Gliding Frog captured in Chorla Ghats, Goa by Ashwini Kumar Bhat">
@@ -44,7 +48,7 @@ These twigs and stems look perfectly normal in the day light and by looking at t
 <img src="{{ site.baseurl }}/img/2016-06-23/Mushroom-ChorlaGhats.jpg" alt="Mushroom captured in Chorla Ghats, Goa by Ashwini Kumar Bhat">
 
 <p>
-The forest of the region where I visited last time was teeming with various life forms. The color of the jungle was vibrant and so are the creatures!   
+The forest of the region when I visited last time was teeming with various life forms. The color of the jungle was vibrant and so are the creatures!   
 </p>
 
 <img src="{{ site.baseurl }}/img/2016-06-23/Twigs-ChorlaGhats.jpg" alt="Twigs captured in Chorla Ghats, Goa by Ashwini Kumar Bhat">
@@ -54,6 +58,6 @@ The forest of the region where I visited last time was teeming with various life
 <img src="{{ site.baseurl }}/img/2016-06-23/caterpillar-ChorlaGhats.jpg" alt="Caterpillar captured in Chorla Ghats, Goa by Ashwini Kumar Bhat">
 
 <p>
-Check out for the detailed experience <a href="{{ site.baseurl }}/2015/04/02/LuLa.html" target="_blank">here >></a>
+Check out for the detailed experience from <a href="{{ site.baseurl }}/2015/04/02/LuLa.html" target="_blank">here >></a>
 </p>
 
