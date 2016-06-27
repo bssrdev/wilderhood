@@ -31,10 +31,10 @@ Drive from Somwarpet to Mallalli itself was fascinating. Green all-around, I cou
 </p>
 
 <p>
-Heavy rains with chill winds enhanced the excitement. I observed many took jeeps, instead of trekking to falls. The landlord of homestay suggested me to trek and enjoy the beauty. I valued his suggestion.
+Heavy rains with chill winds enhanced the excitement. I observed many took jeeps, instead of trekking to falls. The landlord of homestay suggested me to trek and enjoy the beauty. I valued his suggestion!
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-06-26/DSC_0102.JPG" alt="Purple Rumped Sunbird Female, Mallali Falls, Kumara Parvatha">
+<img src="{{ site.baseurl }}/img/2016-06-26/DSC_0102.JPG" alt="Mallali Falls, Kumara Parvatha">
 
 <div class="exif">Mallali Falls, Kumara Parvatha</div>
 
@@ -46,7 +46,7 @@ The trek was not challenging, although it was 9kms from the starting point. Coff
 
 <div class="exif">Malabar Parakeet, Mallali Falls, Kumara Parvatha</div>
 
-<img src="{{ site.baseurl }}/img/2016-06-26/DSC_0087.JPG" alt="Little Grebe, Mallali Falls, Kumara Parvatha">
+<img src="{{ site.baseurl }}/img/2016-06-26/DSC_0087.JPG" alt="Malabar Parakeet, Mallali Falls, Kumara Parvatha">
 
 <div class="exif">Malabar Parakeet, Mallali Falls, Kumara Parvatha</div>
 
