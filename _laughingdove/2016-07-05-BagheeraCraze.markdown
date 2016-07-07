@@ -4,7 +4,7 @@ title:      "Laughing Dove - Bagheera Craze"
 subtitle:   "Bagheera Craze"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2016-07-05/Bagheera-Kabini-LaughingDove-Wilderhood-Recitals-by-DineshBalakrishnan-thumb.jpg"
-tags:       ["Tiger Destinations", "Mammal Destinations", "Kabini"]
+tags:       ["Tiger Destinations", "Mammal Destinations", "Kabini", "Bagheera"]
 seo: 		["Tiger Destinations", "Mammal Destinations", "Kabini"]
 comments:   true
 sharing-img: "img/2016-07-05/Bagheera-Kabini-LaughingDove-Wilderhood-Recitals-by-DineshBalakrishnan.jpg"

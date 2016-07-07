@@ -3,7 +3,7 @@ layout:     post
 title:      "Jaguar vs Leopard"
 subtitle:   "Often tend to confuse between these two charismatic species of big cats and here are the differences between both"
 author:     "Praveen Siddannavar"
-tags:       ["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Mammal Destinations", "Kabini"]
+tags:       ["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Mammal Destinations", "Kabini", "Bagheera"]
 seo:		["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Mammal Destinations", "Kabini"]
 comments:   true
 header-img: "img/2016-06-20/JaguarvsLeopard-by-PraveenSiddannavar.jpg"

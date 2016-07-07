@@ -6,7 +6,7 @@ Any avid birder would be thrilled to hear the sighting of Great Hornbills!
 Any adventure lover would be thrilled to hear about amazing experience of white water rafting in river Kali!"
 author:     "Ashwini Kumar Bhat"
 header-img: "img/2016-06-28/DSC5588.jpg"
-tags:       ["Wildlife Destinations", "Monsoon Destinations", "Landscape Destinations", "Birding Destinations"]
+tags:       ["Wildlife Destinations", "Monsoon Destinations", "Landscape Destinations", "Birding Destinations", "Bagheera"]
 seo: 		["Wildlife Destinations", "Monsoon Destinations", "Landscape Destinations", "Birding Destinations"]
 comments:   true
 ---

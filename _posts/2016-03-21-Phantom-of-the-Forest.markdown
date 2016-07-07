@@ -3,7 +3,7 @@ layout:     post
 title:      "Phantom of the forest"
 subtitle:   "Bhageera from Kabini"
 author:     "Goutham Shankar"
-tags:       ["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Kabini"]
+tags:       ["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Kabini", "Bagheera"]
 seo:		["Wildlife Destinations", "Tiger Destinations", "Birding Destinations", "Kabini"]
 comments:   true
 disable-header-img: true
