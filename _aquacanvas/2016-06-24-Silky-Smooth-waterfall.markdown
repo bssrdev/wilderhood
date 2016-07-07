@@ -36,6 +36,12 @@ The ND filter attaches to the front of your lens. It is a piece of dark glass. T
 Please feel free to post your queries and I encourage you to try out this weekend and post your queries or observations here! Happy clicking!
 </p>
 
+<div class="w-entity-images">
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/SiklySmoothFalls-AquaCanvas-by-PratapJRao.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/SiklySmoothFalls-AquaCanvas-by-PratapJRao.jpg" alt="Silky Smooth waterfalls technique"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/Silkyfalls-AquaCanvas-by-PratapJRao-1.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/Silkyfalls-AquaCanvas-by-PratapJRao-1.jpg" alt="Silky Smooth waterfalls technique"></a>
+	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/Silkyfalls-AquaCanvas-by-PratapJRao.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/Silkyfalls-AquaCanvas-by-PratapJRao.jpg" alt="Silky Smooth waterfalls technique"></a>
+</div>
+
 <p>
-You can find more of my more work <a href="http://pixelshooter.net/" target="_blank">here>></a>
+You can find more of my more work <a href="http://pixelshooter.net/" target="_blank">here >></a>
 </p>
