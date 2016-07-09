@@ -42,15 +42,15 @@ Fox Puppies are very curious of its surroundings. Typical fox family consist of 
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/6_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/6_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/7_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/7_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/8_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/8_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/9_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/9_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/10_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/10_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/11_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/11_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/12_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/12_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/13_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/13_original.jpg"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/14_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/14_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/6_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/6_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/7_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/7_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/8_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/8_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/9_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/9_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/10_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/10_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/11_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/11_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/12_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/12_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/13_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/13_original.jpg"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-13/14_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/14_original.jpg"></a>
 </div>
 
 <h3>SOME BIRDS OF ROLLAPADU</h3>
@@ -73,15 +73,15 @@ Overall we had amazing sightings for birding even though it was the end season f
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/15_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/15_original.jpg" alt="Indian Nightjar, Rollapadu, AndhraPradesh"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/16_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/16_original.jpg" alt="Montagu's Harrier-Male"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/17_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/17_original.jpg" alt="Short-Toed Snake Eagle"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/18_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/18_original.jpg" alt="Pallid Harrier-Male"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/19_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/19_original.jpg" alt="Indian Courser"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/20_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/20_original.jpg" alt="Ashy-Crowned Sparrow Lark"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/21_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/21_original.jpg" alt="Chestnut-Bellied Sandgrouse (Female)"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/22_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/22_original.jpg" alt="Grey Francolin"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-13/23_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/23_original.jpg" alt="White-eyed Buzzard"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/15_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/15_original.jpg" alt="Indian Nightjar, Rollapadu, AndhraPradesh"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/16_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/16_original.jpg" alt="Montagu's Harrier-Male"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/17_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/17_original.jpg" alt="Short-Toed Snake Eagle"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/18_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/18_original.jpg" alt="Pallid Harrier-Male"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/19_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/19_original.jpg" alt="Indian Courser"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/20_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/20_original.jpg" alt="Ashy-Crowned Sparrow Lark"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/21_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/21_original.jpg" alt="Chestnut-Bellied Sandgrouse (Female)"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/22_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/22_original.jpg" alt="Grey Francolin"></a>
+	<a class="fancybox" rel="group2" href="{{ site.baseurl }}/img/2016-06-13/23_original.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-13/23_original.jpg" alt="White-eyed Buzzard"></a>
 </div>
 
 <h3>BLACKBUCK</h3>
