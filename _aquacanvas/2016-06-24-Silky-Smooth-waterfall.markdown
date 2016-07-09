@@ -8,6 +8,7 @@ tags:       ["Monsoon Destinations", "Landscape Destinations", "Agumbe", "Tips a
 seo: 		["Monsoon Destinations", "Landscape Destinations", "Agumbe", "Tips and Tricks"]
 comments:   true
 sharing-img: "img/AquaCanvas/SilkyWaterfalls/SiklySmoothFalls-AquaCanvas-by-PratapJRao.jpg"
+needFancyBox: true
 ---
 
 <img src="{{ site.baseurl }}/img/AquaCanvas/SilkyWaterfalls/SiklySmoothFalls-AquaCanvas-by-PratapJRao.jpg"  alt="Silky Smooth waterfalls technique with 'Aqua Canvas', Wilderhood recitals by Pratap J Rao">
