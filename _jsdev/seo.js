@@ -156,7 +156,8 @@
 	adList.push({link: urlPrefix + "DESERT NATIONAL PARK REPTILE JOURNEYS ", image: "Yourjourneys/Trip/DNP/IMG_5357.jpg", text: "DESERT NATIONAL PARK REPTILE JOURNEYS", keywords: ["DNP", "Monsoon Destinations", "Wildlife Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"]});
 	adList.push({link: urlPrefix + "4 ALTITUDE HIMALAYAN BIRDING JOURNEYS ", image: "Yourjourneys/Trip/Sattal/IMG_8119.jpg", text: "4 ALTITUDE HIMALAYAN BIRDING JOURNEYS", keywords: ["Sattal", "Birding Destinations", "Travel Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]});
 	adList.push({link: urlPrefix + "JIM CORBETT NATIONAL PARK", image: "consciouspace/Trip/Corbett/3P3A6112.jpg", text: "JIM CORBETT NATIONAL PARK", keywords: ["Corbett", "Birding Destinations", "Tiger Destinations", "Landscape Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun"]});
-	
+	adList.push({link: urlPrefix + "AGUMBE RAINFORESTS - LIFE AMIDST THE GREENS", image: "consciouspace/Trip/Agumbe/Green-vine-snake-consciouspace.jpg", text: "AGUMBE RAINFORESTS - LIFE AMIDST THE GREENS", keywords: ["Agumbe", "Monsoon Destinations", "Landscape Destinations", "Tiger Destinations"], months: ["Jul", "Aug"]});
+
 
 	//Accommodation properties
 	urlPrefix = "http://www.wilderhood.com/accommodation/";
