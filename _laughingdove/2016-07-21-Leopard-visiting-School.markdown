@@ -3,8 +3,8 @@ layout:     post
 title:      "Laughing Dove - Leopards visiting Schools"
 subtitle:   "Recently leopards been attacked at Schools"
 author:     "Dinesh Balakrishnan"
-header-thumb-img: "img/2016-07-21/Bagheera-Kabini-LaughingDove-Wilderhood-Recitals-by-DineshBalakrishnan-thumb.jpg"
-tags:       ["Tiger Destinations", "Mammal Destinations", "Kabini", "Bagheera"]
+header-thumb-img: "img/2016-07-21/Leopard-going-to-School-LaughingDove-by-DineshBalakrishnan-thumb.jpg"
+tags:       ["Tiger Destinations", "Mammal Destinations", "Kabini"]
 seo: 		["Tiger Destinations", "Mammal Destinations", "Kabini", "Bangalore"]
 comments:   true
 sharing-img: "img/2016-07-21/Leopard-going-to-School-LaughingDove-by-DineshBalakrishnan.jpg"
