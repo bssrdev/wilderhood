@@ -50,6 +50,9 @@ collections:
     output: true
   aquacanvas:
     output: true
+  intimatelandscapes:
+    output: true
+
 
 gems:
   - jekyll-sitemap
