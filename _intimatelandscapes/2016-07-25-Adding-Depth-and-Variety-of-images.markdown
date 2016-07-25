@@ -20,7 +20,7 @@ Welcome to first edition of <a href="{{ site.baseurl }}/intimatelandscapes" targ
 </p>
 
 <p>
-Landscape photography often revolves around evoking emotions and portraying the depth in the scene. We always try to bring in concepts of leading lines and elements to show the depth of an image. 
+Landscape photography often revolves around evoking emotions and portraying the depth in the scene. We always try to bring in <em>concepts of leading lines and elements to show the depth of an image.</em>
 </p>
 
 <p>
