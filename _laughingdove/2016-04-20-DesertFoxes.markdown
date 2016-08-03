@@ -3,15 +3,15 @@ layout:     post
 title:      "Desert Foxes"
 subtitle:   "Desert Foxes"
 author:     "Dinesh Balakrishnan"
-header-thumb-img: "img/2016-04-20/Foxes-LaughingDove-Recitals-DineshBalakrishnan.jpeg"
+header-thumb-img: "img/2016-04-20/Foxes-LaughingDove-Recitals-DineshBalakrishnan-thumb.jpg"
 tags:       ["Wildlife Destinations", "Mammal Destinations", "LRK"]
 seo: 		["Wildlife Destinations", "Mammal Destinations", "LRK"]
 comments:   true
-sharing-img: "img/2016-04-20/Foxes-LaughingDove-Recitals-DineshBalakrishnan.jpeg"
+sharing-img: "img/2016-04-20/Foxes-LaughingDove-Recitals-DineshBalakrishnan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2016-04-20/Foxes-LaughingDove-Recitals-DineshBalakrishnan.jpeg" alt="Desert Foxes, Wilderhood Recitals Chapter Laughing Dove, Wildlife Cartoons by Dinesh Balakrishnan">
+<img src="{{ site.baseurl }}/img/2016-04-20/Foxes-LaughingDove-Recitals-DineshBalakrishnan.jpg" alt="Desert Foxes, Wilderhood Recitals Chapter Laughing Dove, Wildlife Cartoons by Dinesh Balakrishnan">
 
 <p>
 Something from <a href="http://www.wilderhood.com/destination/Kutch" target="_blank">Little Rann of Kutch</a> this time..
