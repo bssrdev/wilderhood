@@ -3,15 +3,15 @@ layout:     post
 title:      "WildArt talk with Prasad Natarajan-Wildlife Artist"
 subtitle:   "Birds of Bangalore-Week 33"
 author:     "Prasad Natarajan"
-header-thumb-img: "img/2016-08-01/img1.jpg"
+header-thumb-img: "img/2016-08-01/Crouching-heron-Wildarttalk-by-PrasadNatarajan-thumb.jpg"
 tags:       ["Bangalore Wildlife", "Birding Destinations"]
 seo: 		["Birding Destinations", "Bangalore", "wildart"]
 comments:   true
-sharing-img: "img/2016-08-01/img1.jpg"
+sharing-img: "img/2016-08-01/Crouching-heron-Wildarttalk-by-PrasadNatarajan.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/2016-08-01/img1.jpg" alt="Crouching Heron, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 33">
+<img src="{{ site.baseurl }}/img/2016-08-01/Crouching-heron-Wildarttalk-by-PrasadNatarajan.jpg" alt="Crouching Heron, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 33">
 
 
 <p>
@@ -136,7 +136,7 @@ How to reconnect to nature and bring in more Wildlife artists?
 	This image was made for Birds of Bangalore project at lake, which later transformed into an artwork.
 </p>
 
-<img src="{{ site.baseurl }}/img/2016-08-01/img2.jpg" alt="White throated Kingfisher, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 33">
+<img src="{{ site.baseurl }}/img/2016-08-01/White-throated-Kingfisher-by-Prasad-Natarajan.jpg" alt="White throated Kingfisher, Wildart talk with Prasad Natarajan - Wildlife Artist, Birds of Bangalore - Week 33">
 
 <p>
 	So nature and wildlife is all around us, we just need to keep our eyes and ears open!
