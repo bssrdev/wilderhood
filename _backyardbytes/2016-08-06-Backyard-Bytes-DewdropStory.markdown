@@ -27,7 +27,7 @@ When well knit webs are adorned with dew drops overnight, web will be holding we
 There are few species of spiders who lay the trap only during the night, dismantle the web and make it a bundle to take it on a leaf. Dew drops becomes hindrance when the web has to be collapsed as per spider's plan! So spider collates smaller drops and 'DROPS' bigger ones using its hind legs.
 </p>
 
-<img src="{{ site.baseurl }}/img/BackyardBytes/DewDropStory/Dewdropstory1.jpg"  alt="Expect the unexpected by Ravi Prakash SS, BBC award winning photographer. Photographer of the year 2014, Backyard Bytes with Wilderhood Recitals">
+<img src="{{ site.baseurl }}/img/BackyardBytes/DewDropStory/Dewdropstory1.jpg"  alt="Dew 'drop' story by Ravi Prakash SS, BBC award winning photographer. Photographer of the year 2014, Backyard Bytes with Wilderhood Recitals">
 
 <p>
 Scene becomes more interesting after dew drops are cleared and spider starts to collapse the web by pulling down the pillars. Within minutes there will be no proof of web as it will be neatly bundled and taken away to a safer place like leaf. I believe the spider will eat the bundled silk and reuse it to build the next web.
