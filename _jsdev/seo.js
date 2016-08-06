@@ -157,7 +157,7 @@
 	adList.push({link: urlPrefix + "4 ALTITUDE HIMALAYAN BIRDING JOURNEYS ", image: "Yourjourneys/Trip/Sattal/IMG_8119.jpg", text: "4 ALTITUDE HIMALAYAN BIRDING JOURNEYS", keywords: ["Sattal", "Birding Destinations", "Travel Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]});
 	adList.push({link: urlPrefix + "JIM CORBETT NATIONAL PARK", image: "consciouspace/Trip/Corbett/3P3A6112.jpg", text: "JIM CORBETT NATIONAL PARK", keywords: ["Corbett", "Birding Destinations", "Tiger Destinations", "Landscape Destinations"], months: ["Feb", "Mar", "Apr", "May", "Jun"]});
 	adList.push({link: urlPrefix + "AGUMBE RAINFORESTS - LIFE AMIDST THE GREENS", image: "consciouspace/Trip/Agumbe/Green-vine-snake-consciouspace.jpg", text: "AGUMBE RAINFORESTS - LIFE AMIDST THE GREENS", keywords: ["Agumbe", "Monsoon Destinations", "Landscape Destinations", "Tiger Destinations"], months: ["Jul", "Aug"]});
-	adList.push({link: urlPrefix + "TRIP TO UNEXPLORED WONDER OF WESTERN GHATS - A HOMESTAY NEAR KALASA", image: "RaviPrakashSS/Trip/Trip/Kalasa-Aug-15_32111.jpg", text: "TRIP TO UNEXPLORED WONDER OF WESTERN GHATS - A HOMESTAY NEAR KALASA", keywords: ["Monsoon Destinations", "Agumbe", "Macro Life", "Landscape Destinations"], months: ["Feb", "Mar", "Apr", "May"]});
+	adList.push({link: urlPrefix + "TRIP TO UNEXPLORED WONDER OF WESTERN GHATS - A HOMESTAY NEAR KALASA", image: "RaviPrakashSS/Trip/Trip/Kalasa-Aug-15_32111.jpg", text: "TRIP TO UNEXPLORED WONDER OF WESTERN GHATS - A HOMESTAY NEAR KALASA", keywords: ["Wildlife Destinations", "Monsoon Destinations", "Agumbe"], months: ["Aug", "Sep"]});
 
 
 	//Accommodation properties
