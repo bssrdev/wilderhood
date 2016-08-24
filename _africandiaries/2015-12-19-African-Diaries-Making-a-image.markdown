@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "African Diaries - Making an images"
-subtitle:   "African Diaries - Making an images"
+title:      "African Diaries - Making a image"
+subtitle:   "African Diaries - Making a image"
 author:     "Suresh Basavaraju"
 header-thumb-img: "img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju-thumb.jpg"
 tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
@@ -9,7 +9,7 @@ seo: 		["African Destinations", "Maasai Maara", "Serengeti", "Kenya"]
 comments:   true
 sharing-img: "img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju.jpg"
 ---
-<img src="{{ site.baseurl }}/img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju.jpg"  alt="African Diaries - Making an images by Suresh Basavaraju, Masai Mara, Nikon D4, Nikon 17-35mm f/2.8 at 25mm, ISO 1600, 1/25 @ f/11, -1.33 EV Exposure Compensation. Galen Rowell 2 stop soft edge ND filter from Singh-Ray">
+<img src="{{ site.baseurl }}/img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju.jpg"  alt="African Diaries - Making a image by Suresh Basavaraju, Masai Mara, Nikon D4, Nikon 17-35mm f/2.8 at 25mm, ISO 1600, 1/25 @ f/11, -1.33 EV Exposure Compensation. Galen Rowell 2 stop soft edge ND filter from Singh-Ray">
 
 <div class="exif">Nikon D4, Nikon 17-35mm f/2.8 at 25mm, ISO 1600, 1/25 @ f/11, -1.33 EV Exposure Compensation. Galen Rowell 2 stop soft edge ND filter from Singh-Ray</div>
 
@@ -20,7 +20,7 @@ sharing-img: "img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju.j
 </p>
 
 <p>
-In my <a href="{{ site.baseurl }}/africandiaries/2015-12-05-African-Diaries-Satisfying-the-soul.html">previous note</a>, I had mentioned a term, <em>"making an image"</em> and <em>"taking an image"</em>. I promised to bring out the difference and here it is. The story goes back a quarter century when I had enrolled in The Photographic Society of India (PSI) in Mumbai for a formal course in photography. I was dabbling with a camera since high school and somehow felt a need to have a formal education on complete aspects of photography from clicking, to developing my own films,to printing. I wanted complete control over the image workflow. More on this in another article.
+In my <a href="{{ site.baseurl }}/africandiaries/2015-12-05-African-Diaries-Satisfying-the-soul.html">previous note</a>, I had mentioned a term, <em>"making a image"</em> and <em>"taking a image"</em>. I promised to bring out the difference and here it is. The story goes back a quarter century when I had enrolled in The Photographic Society of India (PSI) in Mumbai for a formal course in photography. I was dabbling with a camera since high school and somehow felt a need to have a formal education on complete aspects of photography from clicking, to developing my own films,to printing. I wanted complete control over the image workflow. More on this in another article.
 </p>
 
 <p>
@@ -41,7 +41,7 @@ During all this time, I never paid attention to the phrase and a few years ago, 
 </p>
 
 <p>
-This is where the <em>"making an image"</em> comes into play. Why would this be more exciting over <em>"taking"</em> an image?
+This is where the <em>"making a image"</em> comes into play. Why would this be more exciting over <em>"taking"</em> a image?
 </p>
 
 <p>
