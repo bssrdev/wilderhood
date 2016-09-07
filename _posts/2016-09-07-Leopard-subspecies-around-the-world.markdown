@@ -30,8 +30,7 @@ The nine subspecies recognised by IUCN are:
 <ol>
 
 	<li>
-		<b>African leopard (<em>P. p. pardus</em>): </b> <br><br>
-		The African leopard (Panthera pardus pardus) is a leopard subspecies native to Africa. It is widely distributed in most of sub-Saharan Africa, but the historical range has been fragmented in the course of habitat conversion.
+		<b>African leopard (<em>P. p. pardus</em>): </b> The African leopard (Panthera pardus pardus) is a leopard subspecies native to Africa. It is widely distributed in most of sub-Saharan Africa, but the historical range has been fragmented in the course of habitat conversion.
 	</li>
 
 	<li>
