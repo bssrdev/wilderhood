@@ -20,14 +20,10 @@
 
 {% if site.production %}
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/css/bootstrap.min.css"/>
-	{% if page.needFancyBox %}
-		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
-	{% endif %}
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
 {% else %}
 	<link rel="stylesheet" href="{{ '/_cssdev/bootstrap.min.css' | prepend: site.baseurl }}"/>
-	{% if page.needFancyBox %}
-		<link rel="stylesheet" type="text/css" href="/_cssdev/jquery.fancybox.min.css">
-	{% endif %}
+	<link rel="stylesheet" type="text/css" href="/_cssdev/jquery.fancybox.min.css">
 {% endif %}
 	<link rel="stylesheet" href="{{site.baseurl}}/css/clean-blog.css?bust={{ site.time | date: '%s' }}"/>
 
