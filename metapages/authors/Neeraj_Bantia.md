@@ -10,7 +10,7 @@ My discovery of the woods started as a teenager and I soon realized that I was n
 
 Every click evolves you as a photographer and hones your skills. So, I believe it is very important for a photographer to create that image in the head before clicking it. I respect professional full time photographers for it is no cake walk. You are in that mode all the time. I, being a part of a close-knitted family, would like to keep photography as a passion and a hobby.
 "
-avatar: Praveen_Siddannavar.jpg
+avatar: Neeraj_Bantia.jpg
 twitter:
 googleplus: 
 linkedin: 
