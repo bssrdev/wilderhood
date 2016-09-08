@@ -4,8 +4,8 @@ title:      "Wildlife Safaris"
 subtitle:   "Wildlife Safaris"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2016-01-06/WildlifeSafaris-LaughingDove-DineshBalakrishnan-thumb.jpg"
-tags:       ["Wildlife Destinations", "Tiger Destinations"]
-seo: 		["Wildlife Destinations", "Tiger Destinations"]
+tags:       ["Wildlife Destinations", "Leopard Destinations", "Tiger Destinations"]
+seo: 		["Wildlife Destinations", "Leopard Destinations", "Tiger Destinations"]
 comments:   true
 sharing-img: "img/2016-01-06/WildlifeSafaris-LaughingDove-DineshBalakrishnan.jpg"
 ---

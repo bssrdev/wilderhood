@@ -4,8 +4,8 @@ title:      "Deforestation"
 subtitle:   "Deforestation"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2015-12-09/Deforestation-LaughingDove-DineshBalakrishnan-thumb.jpg"
-tags:       ["Mammal Destinations"]
-seo: 		["Mammal Destinations", "Kabini", "BigCat Destinations"]
+tags:       ["Mammal Destinations",  "Leopard Destinations",]
+seo: 		["Mammal Destinations", "Leopard Destinations", "Kabini", "BigCat Destinations"]
 comments:   true
 sharing-img: "img/2015-12-02/Deforestation-LaughingDove-DineshBalakrishnan.jpg"
 ---

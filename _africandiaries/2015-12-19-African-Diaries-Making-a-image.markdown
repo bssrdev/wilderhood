@@ -4,8 +4,8 @@ title:      "African Diaries - Making a image"
 subtitle:   "African Diaries - Making a image"
 author:     "Suresh Basavaraju"
 header-thumb-img: "img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju-thumb.jpg"
-tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
-seo: 		["African Destinations", "Maasai Maara", "Serengeti", "Kenya"]
+tags:       ["Wildlife Destinations", "African Destinations", "Leopard Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
+seo: 		["African Destinations", "Leopard Destinations", "Maasai Maara", "Serengeti", "Kenya"]
 comments:   true
 sharing-img: "img/2015-12-19/Making-An-Image-African-Diaries-Suresh-Basavaraju.jpg"
 ---

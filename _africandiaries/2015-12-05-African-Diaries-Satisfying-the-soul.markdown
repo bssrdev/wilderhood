@@ -4,8 +4,8 @@ title:      "African Diaries - Satisfying the soul"
 subtitle:   "African Diaries - Satisfying the soul"
 author:     "Suresh Basavaraju"
 header-thumb-img: "img/2015-12-05/Satisfying-the-soul-Suresh-Basavaraju-thumb.jpg"
-tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
-seo: 		["African Destinations", "Maasai Maara", "Serengeti", "Kenya"]
+tags:       ["Wildlife Destinations", "Leopard Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
+seo: 		["African Destinations", "Leopard Destinations", "Maasai Maara", "Serengeti", "Kenya"]
 comments:   true
 sharing-img: "img/2015-12-05/Satisfying-the-soul-Suresh-Basavaraju.jpg"
 ---

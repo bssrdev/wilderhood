@@ -4,8 +4,8 @@ title:      "African Diaries - Monochrome"
 subtitle:   "African Diaries - Monochrome"
 author:     "Suresh Basavaraju"
 header-thumb-img: "img/2015-12-26/Monochrome-African-Diaries-Suresh-Basavaraju-thumb.jpg"
-tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations", "Black and Whites"]
-seo: 		["African Destinations", "Maasai Maara", "Serengeti", "Kenya"]
+tags:       ["Wildlife Destinations", "African Destinations", "Leopard Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations", "Black and Whites"]
+seo: 		["African Destinations", "Leopard Destinations", "Maasai Maara", "Serengeti", "Kenya"]
 comments:   true
 sharing-img: "img/2015-12-26/Monochrome-African-Diaries-Suresh-Basavaraju.jpg"
 ---

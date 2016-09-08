@@ -4,8 +4,8 @@ title:      "Extinction"
 subtitle:   "Slow cycle race of Extinction"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2015-11-18/Extinction-LaughingDove-DineshBalakrishnan-thumb.jpg"
-tags:       ["Tiger Destinations", "Raptors"]
-seo: 		["Tiger Destinations", "Snow Leopard", "Raptors", "Kaziranga"]
+tags:       ["Tiger Destinations", "Leopard Destinations", "Raptors"]
+seo: 		["Tiger Destinations", "Leopard Destinations", "Snow Leopard", "Raptors", "Kaziranga"]
 comments:   true
 sharing-img: "img/2015-11-18/Extinction-LaughingDove-DineshBalakrishnan.jpg"
 ---

@@ -4,8 +4,8 @@ title:      "Bagheera"
 subtitle:   "Bagheera"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2016-06-08/BP-LaughingDove-RecitalsbyDineshBalakrishnan-thumb.jpg"
-tags:       ["Tiger Destinations", "Mammal Destinations", "Kabini", "Bagheera"]
-seo: 		["Tiger Destinations", "Mammal Destinations", "Kabini"]
+tags:       ["Tiger Destinations", "Leopard Destinations", "Mammal Destinations", "Kabini", "Bagheera"]
+seo: 		["Tiger Destinations", "Leopard Destinations", "Mammal Destinations", "Kabini"]
 comments:   true
 sharing-img: "img/2016-06-08/BP-LaughingDove-RecitalsbyDineshBalakrishnan.jpg"
 ---

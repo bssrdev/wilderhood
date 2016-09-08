@@ -4,8 +4,8 @@ title:      "Laughing Dove - Big Lens Advantages"
 subtitle:   "Bangalore, Biglens capital in Asia"
 author:     "Dinesh Balakrishnan"
 header-thumb-img: "img/2016-08-31/BigLens-LaughingDove-DineshBalakrishnan-thumb.jpg"
-tags:       ["Tiger Destinations", "Mammal Destinations", "Kabini"]
-seo: 		["Tiger Destinations", "Mammal Destinations", "Kabini", "Bangalore"]
+tags:       ["Tiger Destinations", "Leopard Destinations", "Mammal Destinations", "Kabini"]
+seo: 		["Tiger Destinations", "Leopard Destinations", "Mammal Destinations", "Kabini", "Bangalore"]
 comments:   true
 sharing-img: "img/2016-08-31/BigLens-LaughingDove-DineshBalakrishnan-thumb.jpg"
 ---

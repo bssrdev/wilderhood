@@ -4,8 +4,8 @@ title:      "Wildlife week"
 subtitle:   "Day 7: Jungle Cat"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-08/Jungle_Cat_Prasad_Natarajan_thumb.jpg"
-tags:       ["Bangalore Wildlife"]
-seo: 		["Mammal Destinations", "Bangalore", "wildlifeweek"]
+tags:       ["Bangalore Wildlife",  "Leopard Destinations"]
+seo: 		["Mammal Destinations", "Leopard Destinations", "Bangalore", "wildlifeweek"]
 comments:   true
 sharing-img: "img/2015-10-08/Jungle_Cat_Prasad_Natarajan.jpg"
 ---

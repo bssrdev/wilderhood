@@ -4,8 +4,8 @@ title:      "Wildlife week"
 subtitle:   "Day 3: Spotted Deer"
 author:     "Prasad Natarajan"
 header-thumb-img: "img/2015-10-04/Spotted_Deers_Prasad_Natarajan_thumb.jpg"
-tags:       ["Tiger Destinations", "Bandipur"]
-seo: 		["Bandipur", "Tiger Destinations", "Mammal Destinations", "wildlifeweek"]
+tags:       ["Tiger Destinations", "Bandipur",  "Leopard Destinations"]
+seo: 		["Bandipur", "Tiger Destinations", "Leopard Destinations", "Mammal Destinations", "wildlifeweek"]
 comments:   true
 sharing-img: "img/2015-10-04/Spotted_Deers_Prasad_Natarajan.jpg"
 ---

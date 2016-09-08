@@ -4,8 +4,8 @@ title:      "African Diaries - The Mistake"
 subtitle:   "African Diaries - The Mistake"
 author:     "Suresh Basavaraju"
 header-thumb-img: "img/2016-01-23/Lioness-on-a-hunt-African-Diaries-Suresh-Basavaraju-thumb.jpg"
-tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
-seo: 		["African Destinations", "Maasai Maara", "Serengeti", "Kenya"]
+tags:       ["Wildlife Destinations", "Leopard Destinations", "African Destinations", "Maasai Maara", "Tips and Tricks", "Landscape Destinations"]
+seo: 		["African Destinations", "Leopard Destinations", "Maasai Maara", "Serengeti", "Kenya"]
 comments:   true
 sharing-img: "img/2016-01-23/Lioness-on-a-hunt-African-Diaries-Suresh-Basavaraju.jpg"
 ---

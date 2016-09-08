@@ -4,8 +4,8 @@ title:      "Two Lions and herd"
 subtitle:   "This is the Episode-II, of the amazing predator-prey interactions that I witnessed during my trip to the wonderful and seemingly endless grassy plains of the Serengeti."
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-04-30/Serengeti2.jpg"
-tags:       ["African Destinations", "Wildlife Destinations"]
-seo:		["Africa", "Exotic"]
+tags:       ["African Destinations", "Wildlife Destinations",  "Leopard Destinations"]
+seo:		["Africa", "Exotic",  "Leopard Destinations"]
 comments:   true
 ---
 
