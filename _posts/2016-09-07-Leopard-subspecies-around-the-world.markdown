@@ -84,7 +84,7 @@ The nine subspecies recognised by IUCN are:
 
 <p>
 	<p>
-	From the Land of Tadoba Andhari Tiger Reserve, the famous collared Leopard, named "Rama"
+	From the Land of <a href="http://www.wilderhood.com/destination/Tadoba" target="_blank">Tadoba Andhari Tiger Reserve</a>, the famous collared Leopard, named "Rama"
 	</p>
 
 	<div class="w-entity-images">
@@ -95,7 +95,7 @@ The nine subspecies recognised by IUCN are:
 	</div>
 
 	<p>
-	From the Land of Bandipur Tiger Reserve,
+	From the Land of <a href="http://www.wilderhood.com/destination/Bandipur" target="_blank">Bandipur Tiger Reserve</a>,
 	</p>
 
 	<div class="w-entity-images">
