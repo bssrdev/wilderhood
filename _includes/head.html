@@ -5,14 +5,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{% if page.subtitle %}{{ page.subtitle }} {% else %}{{ site.description }}{% endif %}">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" /> 
-	<meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }} {% else %}{{ site.description }}{% endif %}" />  
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }} {% else %}{{ site.description }}{% endif %}" />
+	<meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle }} {% else %}{{ site.description }}{% endif %}">
 	<meta name="p:domain_verify" content="7bbe71dc16492732c3fcc66c2ad77087"/>
+	<meta name="twitter:site" content="@wilderhood">
+	<meta name="twitter:card" content="summary_large_image">
 {% assign ogImage = page.sharing-img %}
 {% if ogImage == null %}
 	{% assign ogImage = page.header-img %}
 {% endif %}
 {% if ogImage %}
 	<meta property="og:image" content="{{ ogImage | prepend: '/' | prepend: site.baseurl | prepend: site.url }}" /> 
+	<meta name="twitter:image" content="{{ ogImage | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
 	<link rel="icon" type="image/png" href="{{'/favicon.png' | prepend: site.baseurl | prepend: site.url }}" />
 
