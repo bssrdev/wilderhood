@@ -4,7 +4,7 @@ title:      "Kenya in it's Moody Monotones"
 subtitle:   "Kenya in it's Moody Monotones"
 author:     "Kesava Murthy"
 header-img: "img/2015-02-26/masai_mara1.jpg"
-tags:       ["Wildlife Destinations", "African Destinations", "Landscape Destinations", "Leopard Destinations",  "Maasai Maara", "Black and Whites", "Tips and Tricks", "Leopard Destinations"]
+tags:       ["Wildlife Destinations", "African Destinations", "Landscape Destinations", "Leopard Destinations",  "Maasai Maara", "Black and Whites", "Tips and Tricks"]
 seo:		["Africa", "Exotic"]
 comments:   true
 ---
