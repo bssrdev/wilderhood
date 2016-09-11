@@ -4,7 +4,7 @@ title:      "Expect the Unexpected"
 subtitle:   "Backyard Bytes - Expect the Unexpected"
 author:     "Ravi Prakash SS"
 header-thumb-img: "img/BackyardBytes/Unexpected/ExpecttheUnexpected-BackyardBytes-RaviPrakashSS-Wilderhood-Recitals-1-thumb.jpg"
-tags:       ["Wildlife Destinations", "Monsoon Destinations", "Tips and Tricks", "Macro Life"]
+tags:       ["Wildlife Destinations", "Monsoon Destinations", "Tips and Tricks", "Macro Life", "Creative Macro"]
 seo: 		["Wildlife Destinations", "Monsoon Destinations", "Agumbe", "Tips and Tricks"]
 comments:   true
 sharing-img: "img/BackyardBytes/Unexpected/DivineSnake-BackyardBytes-RaviPrakashSS-Wilderhood-Recitals.jpg"

@@ -4,7 +4,7 @@ title:      "Backyard Bytes - Divine Snake"
 subtitle:   "Backyard Bytes - Divine Snake"
 author:     "Ravi Prakash SS"
 header-thumb-img: "img/BackyardBytes/DivineSnake/DivineSnake-BackyardBytes-RaviPrakashSS-Wilderhood-Recitals-thumb.jpg"
-tags:       ["Wildlife Destinations", "Monsoon Destinations", "Agumbe", "Tips and Tricks"]
+tags:       ["Wildlife Destinations", "Monsoon Destinations", "Agumbe", "Tips and Tricks", "Creative Macro"]
 seo: 		["Wildlife Destinations", "Monsoon Destinations", "Agumbe", "Tips and Tricks"]
 comments:   true
 sharing-img: "img/BackyardBytes/DivineSnake/DivineSnake-BackyardBytes-RaviPrakashSS-Wilderhood-Recitals.jpg"

@@ -4,7 +4,7 @@ title:      "Dew 'drop' story"
 subtitle:   "Backyard Bytes - Dew 'drop' story"
 author:     "Ravi Prakash SS"
 header-thumb-img: "img/BackyardBytes/DewDropStory/Dewdropstory1-thumb.jpg"
-tags:       ["Wildlife Destinations", "Monsoon Destinations", "Tips and Tricks", "Macro Life"]
+tags:       ["Wildlife Destinations", "Monsoon Destinations", "Tips and Tricks", "Macro Life", "Creative Macro"]
 seo: 		["Wildlife Destinations", "Monsoon Destinations", "Agumbe", "Tips and Tricks"]
 comments:   true
 sharing-img: "img/BackyardBytes/DewDropStory/Dewdropstory.jpg"
