@@ -12,7 +12,7 @@ sharing-img: "img/BackyardBytes/ArtofDisguise/ArtofDisguise-BackyardBytes-by-Rav
 
 
 <p>
-Beauty of Backyard Macro photography is that you tend to discover new things in a place which we consider to know very well. Holding the camera with intention to shoot Macros can throw many surprises, Just like the one in this picture.
+Beauty of <a href="{{ site.baseurl }}/backyardbytes" target="_blank">Backyard</a> <em>Macro photography</em> is that you tend to discover new things in a place which we consider to know very well. Holding the camera with intention to shoot Macros can throw many surprises, Just like the one in this picture.
 </p>
 
 <img src="{{ site.baseurl }}/img/BackyardBytes/ArtofDisguise/ArtofDisguise-BackyardBytes-by-RaviPrakashSS.jpg"  alt="Art of Disguise by Ravi Prakash SS, BBC award winning photographer. Photographer of the year 2014 with Backyard Bytes on Wilderhood Recitals">
