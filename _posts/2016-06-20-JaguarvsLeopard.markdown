@@ -100,8 +100,8 @@ Few pictures of Black Panther from <a href="http://www.wilderhood.com/destinatio
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Kabini-by-PraveenSiddannavar.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Kabini-by-PraveenSiddannavar.jpg" alt="Black Panther from Kabini, Karnataka captured by Praveen Siddannavar"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Nagarhole-by-PraveenSiddannavar.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Nagarhole-by-PraveenSiddannavar.jpg" alt="Black Panther from Kabini, Karnataka captured by Praveen Siddannavar"></a>
-	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/2016-06-20/Black-Panther-1-Nagarhole-by-PraveenSiddannavar.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-20/Black-Panther-1-Nagarhole-by-PraveenSiddannavar.jpg" alt="Black Panther from Nagarhole, Kabini, Karnataka captured by Praveen Siddannavar"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Kabini-by-PraveenSiddannavar.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Kabini-by-PraveenSiddannavar.jpg" alt="Black Panther from Kabini, Karnataka captured by Praveen Siddannavar"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Nagarhole-by-PraveenSiddannavar.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-20/Black-Panther-Nagarhole-by-PraveenSiddannavar.jpg" alt="Black Panther from Kabini, Karnataka captured by Praveen Siddannavar"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/2016-06-20/Black-Panther-1-Nagarhole-by-PraveenSiddannavar.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/2016-06-20/Black-Panther-1-Nagarhole-by-PraveenSiddannavar.jpg" alt="Black Panther from Nagarhole, Kabini, Karnataka captured by Praveen Siddannavar"></a>
 </div>
 
