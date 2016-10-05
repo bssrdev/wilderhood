@@ -7,6 +7,16 @@
 	var imgURLPrefix = "https://az741737.vo.msecnd.net/wilderhood-public/medium/";
 	//Add another key for restricting the ad to be displayed only in those months --> months:["Jan", "Feb"]
 	
+	// Ads updated on 5th October'16
+	adList.push({link: urlPrefix + "BIRDING AND PHOTOGRAPHY TOUR AT TAL CHHAPAR", image: "BikeNHike/Trip/TalChhapar/1 (8).jpg", text: "BIRDING AND PHOTOGRAPHY TOUR AT TAL CHHAPAR", keywords: ["Birding Destinations", "Wildlife Destinations", "BikeNHike"], months: ["Oct", "Nov"]});
+	adList.push({link: urlPrefix + "WILDLIFE PHOTOGRAPHY TOUR AT GIR", image: "BikeNHike/Trip/GIR/1 (7).jpg", text: "WILDLIFE PHOTOGRAPHY TOUR AT Gir", keywords: ["Gir", "Wildlife Destinations", "Birding Destinations", "BikeNHike"], months: ["Oct", "Nov"]});
+	adList.push({link: urlPrefix + "BIRDING AND PHOTOGRAPHY TOUR AT BIKANER AND KHEECHAN", image: "BikeNHike/Trip/Bikaner_Kheechan/1 (2).jpg", text: "BIRDING AND PHOTOGRAPHY TOUR AT BIKANER AND KHEECHAN", keywords: ["BIKANER", "Birding Destinations", "BikeNHike"], months: ["Oct", "Nov", "Dec"]});
+	adList.push({link: urlPrefix + "BIRDING AND PHOTOGRAPHY TOUR AT LITTLE RANN OF KUTCH", image: "BikeNHike/Trip/Kutch/1 (3).jpg", text: "BIRDING AND PHOTOGRAPHY TOUR AT LITTLE RANN OF KUTCH", keywords: ["LRK", "Birding Destinations", "Wildlife Destinations", "Landscape Destinations", "Kutch"], months: ["Oct", "Nov", "Dec"]});
+	adList.push({link: urlPrefix + "BIRDING AND PHOTOGRAPHY TOURS AT LITTLE RANN OF KUTCH ", image: "BikeNHike/Trip/Kutch/1 (3).jpg", text: "BIRDING AND PHOTOGRAPHY TOURS AT LITTLE RANN OF KUTCH", keywords: ["LRK", "Birding Destinations", "Wildlife Destinations", "Landscape Destinations", "Kutch"], months: ["Oct", "Nov", "Dec", "Jan"]});
+	adList.push({link: urlPrefix + "BIRDING AND PHOTOGRAPHY TOUR AT DESERT NATIONAL PARK", image: "BikeNHike/Trip/DesertNationalPark/1 (3).jpg", text: "BIRDING AND PHOTOGRAPHY TOUR AT DESERT NATIONAL PARK ", keywords: ["Wildlife Destinations", "Birding Destinations", "DNP"], months: ["Oct", "Nov", "Dec", "Jan"]});
+	adList.push({link: urlPrefix + "COUPLE'S RETREAT IN THE WILD - CENTRAL INDIA TIGER PARKS", image: "Wilderhood/Package/Tadoba-Bandhavgarh/Praveen-Bandhavgarh2.jpg", text: "COUPLE'S RETREAT IN THE WILD - CENTRAL INDIA TIGER PARKS", keywords: ["Wildlife Destinations", "Birding Destinations", "DNP"], months: ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May"]});
+
+	//Previous ones!
 	
 	adList.push({link: urlPrefix + "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", image: "Darter/Trip/Andaman/Andaman.jpg", text: "EMERALD ISLES - WILDLIFE PHOTOGRAPHY TOUR OF ANDAMAN", keywords: ["Andaman", "Birding Destinations", "Port Blair", "Travel", "Exotic"], months: ["Jul", "Aug", "Sep", "Oct"]});
 	adList.push({link: urlPrefix + "WALK ON THE HILLY SIDE IN BHUTAN", image: "BeyondRoads/Trip/Bhutan/Bhutan.jpg", text: "WALK ON THE HILLY SIDE IN BHUTAN", keywords: ["Bhutan", "Travel", "Landscape Destinations", "Exotic"], months: ["Jul", "Aug", "Sep"]});
@@ -159,7 +169,7 @@
 	adList.push({link: urlPrefix + "AGUMBE RAINFORESTS - LIFE AMIDST THE GREENS", image: "consciouspace/Trip/Agumbe/Green-vine-snake-consciouspace.jpg", text: "AGUMBE RAINFORESTS - LIFE AMIDST THE GREENS", keywords: ["Agumbe", "Monsoon Destinations", "Landscape Destinations", "Tiger Destinations"], months: ["Jul", "Aug"]});
 	adList.push({link: urlPrefix + "TRIP TO UNEXPLORED WONDER OF WESTERN GHATS - A HOMESTAY NEAR KALASA", image: "RaviPrakashSS/Trip/Trip/Kalasa-Aug-15_32111.jpg", text: "TRIP TO UNEXPLORED WONDER OF WESTERN GHATS - A HOMESTAY NEAR KALASA", keywords: ["Wildlife Destinations", "Monsoon Destinations", "Agumbe"], months: ["Aug", "Sep"]});
 
-
+	
 	//Accommodation properties
 	urlPrefix = "http://www.wilderhood.com/accommodation/";
 
