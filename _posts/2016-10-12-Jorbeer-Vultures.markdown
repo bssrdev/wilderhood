@@ -23,7 +23,7 @@ JORBEER-IMPORTANT VULTURE AREA
 </h3>
 
 <p>
-Jorbeer is a outskirts area in Bikaner town known for its livestock carcass dump. Around this area is seen huge congregation of Vultures. I had heard about this place from my friend <a href="http://recitals.wilderhood.com/authors/Vinodh%20Ve/" target="_blank">Vinodh</a> but never got a chance to visit in last two years. This year during long weekend of Republic day, I got an opportunity to visit the place. Our trip was planned for Tal-Chappar and Jorbeer, but as was my luck this season, Tal-Chappar went for a toss due to fog in Northern Part of India. Even at Jorbeer, we had constant morning fog and could go to dump area only after 12 Noon. Since being my first trip, the area was very new to me, but my trip leader said this year sightings and congregation have reduced and it is not what it used to be earlier. I am looking forward for doing this entire trip again in a nesxt season (hoping that this time fog won't be of a much issue!), and now here I am trying to put together what we sighted during the trip.
+Jorbeer is a outskirts area in Bikaner town known for its livestock carcass dump. Around this area is seen huge congregation of Vultures. I had heard about this place from my friend <a href="http://recitals.wilderhood.com/authors/Vinodh%20Ve/" target="_blank">Vinodh</a> but never got a chance to visit in last two years. This year during long weekend of Republic day, I got an opportunity to visit the place. Our trip was planned for Tal-Chappar and Jorbeer, but as was my luck this season, Tal-Chappar went for a toss due to fog in Northern Part of India. Even at Jorbeer, we had constant morning fog and could go to dump area only after 12 Noon. Since being my first trip, the area was very new to me, but my trip leader said this year sightings and congregation have reduced and it is not what it used to be earlier. I am looking forward for doing this entire trip again in a next season (hoping that this time fog won't be of a much issue!), and now here I am trying to put together what we sighted during the trip.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Once a open area with no control, currently, this area has been provided 'protec
 </p>
 
 <p>
-Jorbeer in itself is not just Vulture alone. It supports different grassland and shrub land habitat birds (check ebird <a href="http://ebird.org/ebird/hotspot/L2615818)" target="_blank">list</a>. The Surprise for me this time is Shaker Falcon and a lifer!(<em>Falco cherrug cherrug</em>).
+Jorbeer in itself is not just Vulture alone. It supports different grassland and shrub land habitat birds (check ebird <a href="http://ebird.org/ebird/hotspot/L2615818)" target="_blank">list</a>). The Surprise for me this time is Shaker Falcon(<em>Falco cherrug cherrug</em>) and a lifer for me!
 </p>
 
 <h3>
