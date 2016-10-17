@@ -48,6 +48,8 @@ collections:
     output: true
   aquacanvas:
     output: true
+  edenatlas:
+    output: true
 
 
 gems:
