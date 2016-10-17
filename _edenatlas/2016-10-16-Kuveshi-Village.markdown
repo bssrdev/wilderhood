@@ -10,6 +10,7 @@ comments:   true
 sharing-img: "img/EdenAtlas/Kuveshi/Kuveshi-hypnale-researchcentre.jpg"
 ---
 
+<img src="{{ site.baseurl }}/img/EdenAtlas/Kuveshi/Kuveshi-hypnale-researchcentre.jpg"  alt="Hypnale research station, Kuveshi, Kali Tiger reserve, Dandeli">
 
 <p>
 Welcome everyone to a new series <a href="{{ site.baseurl }}/edenatlas" target="_blank">#EdenAtlas</a> with <a href="{{ site.baseurl }}" target="_blank">Wilderhood:Recitals</a>, an attempt to share my experiences from the wonderful places I visited during my voyage with nature and wildlife travel, and photography. 
@@ -26,8 +27,6 @@ Ever since shutter big bit me, I started visiting places and these are *THE* pla
 <blockquote>
 The important thing as nature enthusiast and a owner of the company, <a href="http://wilderhood.com" target="_blank">Wilderhood.com</a>, which is into experience travel, I would like to share you that as beautiful as this nature is and in India, we been blessed with lots of bio-diversity, every place offers something which is true but the most ignored fact is, every place has something different to offer during different seasons throughout the year!
 </blockquote>
-
-<img src="{{ site.baseurl }}/img/EdenAtlas/Kuveshi/Kuveshi-hypnale-researchcentre.jpg"  alt="Hypnale research station, Kuveshi, Kali Tiger reserve, Dandeli">
 
 <p>
 With the first edition of <a href="{{ site.baseurl }}/edenatlas" target="_blank">#EdenAtlas</a>, I would like to introduce the beautiful place on the earth, in my opinion, Kuveshi, a village near castlerock located around 12kms from Castlerock and 64 kms from Dudhsagar waterfalls, infact the place known to be the feed for DudhSagar Waterfalls and is surrounded by Dandeli-Anshi Tiger reserve, now known as <a href="http://www.wilderhood.com/destination/Dandeli" target="_blank">Kali Tiger Reserve</a>.
