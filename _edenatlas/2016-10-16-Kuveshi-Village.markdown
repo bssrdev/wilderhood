@@ -13,23 +13,23 @@ sharing-img: "img/EdenAtlas/Kuveshi/Kuveshi-hypnale-researchcentre.jpg"
 <img src="{{ site.baseurl }}/img/EdenAtlas/Kuveshi/Kuveshi-hypnale-researchcentre.jpg"  alt="Hypnale research station, Kuveshi, Kali Tiger reserve, Dandeli">
 
 <p>
-Welcome everyone to a new series <a href="{{ site.baseurl }}/edenatlas" target="_blank">#EdenAtlas</a> with <a href="{{ site.baseurl }}" target="_blank">Wilderhood:Recitals</a>, an attempt to share my experiences from the wonderful places I visited during my voyage with nature and wildlife travel, and photography. 
+Welcome everyone to a new series <a href="{{ site.baseurl }}/edenatlas" target="_blank">#EdenAtlas</a> with <a href="{{ site.baseurl }}" target="_blank">Wilderhood:Recitals</a>, an attempt to share my experiences from the wonderful places I visited during my voyage with Nature,  Wildlife travel, and Photography. 
 </p>
 
 <em>
-(Disclaimer: I am planning to share a post every week and share my experiences and clicks from those places and strictly they are not any ranking or chronological order)
+(Disclaimer: I am planning to share a post every week and share my experiences and clicks from those places and strictly they are not any ranking or chronological order!)
 </em>
 
 <p>
-Ever since shutter big bit me, I started visiting places and these are *THE* places in my opinion and for the same reason I keep visiting  these places again and again to get more from the place. As India is rich interms of lots of bio-diversity hotspots, every place will offer something new and traveling to these places during different seasons would reveal whole lots of new experience about these places and great opportunity to photography the same! 
+Ever since shutter big bit me, I started visiting places and these are *THE* places in my opinion and for the same reason I keep visiting  these places again and again to get more from the place. As a result I had wonderful opportunity to explore these places and opportunity to photograph. As India is rich interms of lots of bio-diversity hotspots, every place will offer something new and traveling to these places during different seasons would reveal whole lots of new experience about these places and great opportunity to photograph the same! 
 </p>
 
 <blockquote>
-The important thing as nature enthusiast and a owner of the company, <a href="http://wilderhood.com" target="_blank">Wilderhood.com</a>, which is into experience travel, I would like to share you that as beautiful as this nature is and in India, we been blessed with lots of bio-diversity, every place offers something which is true but the most ignored fact is, every place has something different to offer during different seasons throughout the year!
+The important thing as Nature Enthusiast and a owner of the company, <a href="http://wilderhood.com" target="_blank">Wilderhood.com</a>, which is an experience travel portal, I would like to share you that as beautiful as this nature is and in India, we been blessed with lots of bio-diversity, every place offers something new which is true *but the most ignored fact* is, every place has something different to offer during different seasons throughout the year!
 </blockquote>
 
 <p>
-With the first edition of <a href="{{ site.baseurl }}/edenatlas" target="_blank">#EdenAtlas</a>, I would like to introduce the beautiful place on the earth, in my opinion, Kuveshi, a village near castlerock located around 12kms from Castlerock and 64 kms from Dudhsagar waterfalls, infact the place known to be the feed for DudhSagar Waterfalls and is surrounded by Dandeli-Anshi Tiger reserve, now known as <a href="http://www.wilderhood.com/destination/Dandeli" target="_blank">Kali Tiger Reserve</a>.
+With the first edition of <a href="{{ site.baseurl }}/edenatlas" target="_blank">#EdenAtlas</a>, I would like to introduce the beautiful place on the earth, in my opinion, and very close to my heart, Kuveshi, a village near castlerock located around 12kms from Castlerock and 64 kms from Dudhsagar waterfalls, infact the place known to be the feed for DudhSagar Waterfalls and is surrounded by Dandeli-Anshi Tiger reserve, now known as <a href="http://www.wilderhood.com/destination/Dandeli" target="_blank">Kali Tiger Reserve</a>.
 </p>
 
 <p>
@@ -94,4 +94,12 @@ An interesting story (but very common for the villagers live there) I heard duri
 
 <p>
 A domestic dog called 'Tiger', who used to visit us at research station has been picked by Leopard last year and this year when I visited to our surprise been told this guy was back and could see him escaped with only a little scratch on his neck. They call him 'Tiger' for no reason!! :)
+</p>
+
+<p>
+Apart from the famous Hump-nosed pit viper, Malabar Pit Viper, Cat Snake, Green Vine Snake and sightings of King Cobra(haven't been lucky yet! :(), we have sighted Mouse deer (very uncommon), Civet cat and Gaurs. Leopards keep visiting the village for preying on the cattle and domestic dogs from the houses.
+</p>
+
+<p>
+In the next edition of <a href="{{ site.baseurl }}/edenatlas" target="_blank">EdenAtlas</a>, I will introduce you to one more place. Keep Watching this space for more!
 </p>
