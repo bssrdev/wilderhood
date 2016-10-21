@@ -20,7 +20,7 @@ I am indebted to my parents, extremely supportive wife, friends, colleagues in T
 
 As Frost says ‘miles to go before I sleep and loads to share before I stop’. Enjoy…"
 avatar: raviprakashss.jpg
-twitter:
+twitter: raviprakashss
 googleplus: 
 linkedin: 
 instagram:

@@ -11,7 +11,7 @@ bio: "Over the years, I have made my interest in photography as wholesome as pos
 I am also a print maker, having started archival printing in Bangalore at a time when not many photogs were even aware of the term. Completely self-taught, I print with a Canon Pixma Pro9500, and I’ll be glad to show you my portfolio in prints. I also conduct photography workshops and tours. Keep visiting this site to see announcements about my future workshops.
 "
 avatar: pratapjrao.jpg
-twitter:
+twitter: pixelshooter
 googleplus: 
 linkedin: 
 instagram:
