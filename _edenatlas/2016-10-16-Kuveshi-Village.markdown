@@ -21,7 +21,7 @@ Welcome everyone to a new series <a href="{{ site.baseurl }}/edenatlas" target="
 </em>
 
 <p>
-Ever since shutter big bit me, I started visiting places and these are *THE* places in my opinion and for the same reason I keep visiting  these places again and again to get more from the place. As a result I had wonderful opportunity to explore these places and opportunity to photograph. As India is rich interms of lots of bio-diversity hotspots, every place will offer something new and traveling to these places during different seasons would reveal whole lots of new experience about these places and great opportunity to photograph the same! 
+Ever since shutter bug bit me, I started visiting places and these are *THE* places in my opinion and for the same reason I keep visiting  these places again and again to get more from the place. As a result I had wonderful opportunity to explore these places and opportunity to photograph. As India is rich interms of lots of bio-diversity hotspots, every place will offer something new and traveling to these places during different seasons would reveal whole lots of new experience about these places and great opportunity to photograph the same! 
 </p>
 
 <blockquote>
