@@ -97,6 +97,19 @@ var seoKeywords = [];
 							<div class="addthis_sharing_toolbox pull-right"></div>
 						</div>
 					{% endunless %}
+
+					{% if page.header-img == null %}
+						{% if page.author %}
+							<a href="{{ page.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">
+								<img class="preview-author-image" src="{{  page.author | append: '.jpg' | prepend:'small_' | prepend:'/img/' | prepend: site.baseurl | replace: '//', '/' }}">
+								<div class="preview-author-details">
+									<div class="preview-author-name" itemprop='author'>{{ page.author }}</div>
+									<time class="preview-published-time" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+								</div>
+							</a>
+						{% endif %}
+					{% endif %}
+
 					<div class="w-content">
 						{{ content }}
 					</div>
