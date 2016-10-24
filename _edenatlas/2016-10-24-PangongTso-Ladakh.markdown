@@ -81,9 +81,9 @@ The lake is salt-vegetation and you'll not see of much life there except few avi
 </p>
 
 <div class="w-entity-images">
-	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/BirdsatPangongTso.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/BirdsatPangongTso.jpg" alt="Avifauna of beautiful lake PangongTso, Ladakh"></a>
-	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake.jpg" alt="Avifauna of beautiful lake PangongTso, Ladakh"></a>
-	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake1.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake1.jpg" alt="Avifauna of beautiful lake PangongTso, Ladakh"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/BirdsatPangongTso.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/BirdsatPangongTso.jpg" alt="Sea gull in the flight at beautiful lake PangongTso, Ladakh"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake.jpg" alt="Lesser Sand Plover in flight, PangongTso, Ladakh"></a>
+	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake1.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake1.jpg" alt="Sea gulls, PangongTso, Ladakh"></a>
 	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/camerasetupatBeautifulPangongTso.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/camerasetupatBeautifulPangongTso.jpg" alt="Setting up our gear for taking landscape images, Pangong Tso, Ladakh"></a>
 	<a class="fancybox" rel="group1" href="{{ site.baseurl }}/img/EdenAtlas/PangongTso/BeautifulPangongTso.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/BeautifulPangongTso.jpg" alt="Couple in the beautiful sunset at Pangong Tso, Ladakh"></a>
 
