@@ -12,11 +12,11 @@ sharing-img: "img/EdenAtlas/PangongTso/PostcardviewforPangongTso.jpg"
 
 
 <blockquote>
-vivid memories of Pangong Tso visit during my Ladakh trip, (first ever travel photography trip) haunting me for sometime and pushing me to travel to this place again and finally made up my mind to Travel with my dear friend <a href="https://www.facebook.com/priya.eidnani" target="_blank">Cap. Priya Eidnani</a> to Zanskar in June next year to click amazing pictures of winter Ladakh!
+vivid memories of Pangong Tso visit during my Ladakh trip, (first ever travel photography trip) haunting me for sometime and pushing me to travel to this place again and finally made up my mind to Travel with my dear friend <a href="https://www.facebook.com/priya.eidnani" target="_blank">Cap. Priya Eidnani</a> in June next year for Glaciers and Starry Nights at Zanskar!
 </blockquote>
 
 <em>
-Unlike my ventures out in the wild, the experience here in Ladakh and Pangong Tso are totally different and for past 3 years it has been fresh in my mind. Also, making plans to visit more places in Leh-Ladakh and Lahaul-spiti region. My plan for bike ride to Khardungla and Chang La is still pending (uff.. my bucket list is overflowing!! :p )
+Unlike my ventures out in the wild, a tiger safari or out in the rainforest or a birding trip the experience here in Ladakh and Pangong Tso are totally different and for past 3 years it has been fresh in my mind! Also I am already making plans to visit more places in Leh-Ladakh and Lahaul-spiti region. My plan for bike ride to Khardungla and Chang La is still pending (uff.. my bucket list is overflowing!! :p )
 </em>
 
 <img src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/Kashmir.JPG"  alt="enroute to PangongTso, Ladakh">
@@ -26,7 +26,7 @@ Chang La pass is en route to Pangong Tso and also Chang La is famous for second 
 </p>
 
 <p>
-After reaching Chang la pass was overwhelmed to see frozen snowy mountains and amazing hot Thuppa made me feel so relaxing. Since we were in a group and two vehicles and lotsa crowd at the pit stop to get your Thuppa served we got delayed despite our vehicle drivers and our tour leader <a href="{{ site.baseurl }}/authors/Shreeram MV" target="_blank">Shreeram MV</a> warning us to leave early!
+After reaching Chang la pass was overwhelmed to see frozen snowy mountains and amazing hot Thuppa was soothing. Since we were in a group and two vehicles and lotsa crowd at the pit stop to get your Thuppa served we got delayed despite our vehicle drivers and our tour leader <a href="{{ site.baseurl }}/authors/Shreeram MV" target="_blank">Shreeram MV</a> warning us to leave early!
 </p>
 
 <p>
