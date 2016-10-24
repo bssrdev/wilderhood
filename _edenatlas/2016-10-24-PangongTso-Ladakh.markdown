@@ -76,8 +76,6 @@ In the morning we went near the lake and here I have tried to show different per
 <strong>Confluence</strong>. Lake, Mountains, Sky and Clouds, a confluence of elements
 </p>
 
-<img src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/LifeintheLake1.jpg"  alt="Life in the Lake, PangongTso, Ladakh">
-
 <p>
 The lake is salt-vegetation and you'll not see of much life there except few avifauna like Lesser Sand Plover, sea gulls. And not missed any opportunity to click them!
 </p>
