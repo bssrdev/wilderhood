@@ -90,15 +90,19 @@ The lake is salt-vegetation and you'll not see of much life there except few avi
 </div>
 
 <p>
-And to my surprise, all the vehicles I have seen yesterday are all leaving and the place is totally empty by post lunch and again in the evening it got crowded. Being high altitude place and not many people could stay longer in these places without proper acclimitasation. As per our itinerary we have decided to stay for two nights and had more opportunity to photograph the beauty of this place and enjoyed it totally!
+And to my surprise, all the vehicles have left post-lunch and again in the evening the place gets crowded. Being high altitude place and not many people could stay longer in these places without proper acclimitasation. As per our itinerary we have decided to stay for two nights and had more opportunity to photograph the beauty of this place! It was quite amazing the time two days we spent there and had ample of time clicking the scenic places.
 </p>
 
 <p>
-And here is one favourite image I have clicked during the sunset to bid adieu to one of my favorite places!
+And here is one of my favourite image I have clicked during the sunset at Pangong and to bid adieu to one of my favorite places!
 </p>
 
 <img src="{{ site.baseurl }}/img/EdenAtlas/PangongTso/Twilight-at-PangongTso.jpg"  alt="Twilight at PangongTso, Ladakh">
 
 <p>
 All good things come to an end, they say. Our Ladakh trip ended after a week of traveling to beautiful places. But a new journey began - with great friends made on the tour!
+</p>
+
+<p>
+I will see you guys next time with one more beautiful places in my voyage with <a href="{{ site.baseurl }}/edenatlas" target="_blank">#edenatlas</a>
 </p>
