@@ -40,6 +40,10 @@ Here is the Tigress patrolling her territory in the mornings!
 There is beautiful backwaters which is equally famous for birding, and you'll sight lotsa raptors and osprey was a lifer for me!, though our naturalist in the boat didn't feel very excited like I do when we spotted!! :) 
 </p>
 
+<p>
+Smooth Coated Otters are special attraction at the Kabini backwaters and have sighted pack of 11 during the boat safari. It is very difficult to sight them and take a picture from a moving boat, as they would be keep moving and while hunting/fishing they would keep wandering and suddenly pop out from water nowhere!!
+</p>
+
 <div class="w-entity-images">
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/EdenAtlas/Kabini/SmoothCoatedOtter-Kabini.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/Kabini/SmoothCoatedOtter-Kabini.jpg" alt="Smooth Coated Otters in Kabini Backwaters"></a>
 	<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/EdenAtlas/Kabini/Backwaters.jpg"> <img class="w-customised-image-preview w-small-image-preview" src="{{ site.baseurl }}/img/EdenAtlas/Kabini/Backwaters.jpg" alt="Playful egrets with Croc in foreground, Kabini Backwaters"></a>
