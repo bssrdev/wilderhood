@@ -19,6 +19,8 @@ Kabini and Nagarhole Park (from Veeranahosakalli gate operated by JLR Dubare) ar
 Welcome to third edition of <a href="{{ site.baseurl }}/edenatlas" target="_blank">#edenatlas</a> and today's edition is about <a href="http://www.wilderhood.com/destination/Kabini" target="_blank">Kabini</a>, Nagarhole National Park which is very popular and known as 'Land of Leopards' among wildlife enthusiasts and photographers.
 </p>
 
+<img src="{{ site.baseurl }}/img/EdenAtlas/Kabini/LeopardonCanopyinKabini.jpg"  alt="Leopard on Canopy, in the late evening in Kabini, Nagarhole National Park">
+
 <p>
 It's been 3 visits so far to Kabini and Nagarhole National Park in the last season and once I have seen two tigers in one safari and could document the behaviour of Tigress patrolling the territory by sniffing the trees and Leopard on a tree canopy, every cat lover's dream shot and the third time a pack of wild dogs (4 of them) with lush green background post the rains. So, that would sum up what I am talking about (<em>'Kabini - Never Disappoints!'</em>)
 </p>
